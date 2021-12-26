@@ -1,21 +1,21 @@
 [![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
 
-# MIUI 13 Daily XML changes by xiaomi.eu / miui.com
+# MIUI 13-XML-SLOVENIAN
 
-[![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+SLOVENIAN Translation For Xiaomi MIUI V 13 Android Based OS
 
-MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
-Strings are under a 
-- [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+ MIUI Translation: **BOŠTJAN**
 
-Based on a work at http://miui.com
+ Based on a work at http://miui.com
 
-For more info visit:
+
+ For more info visit:
+ 
+   http://xiaomi.eu
+
+ 
+ For more info visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Xiaomi.eu Translation Guide http://miui.connortumbleson.com/dev_guide
-
-##### Credits:
-- Boštjan 
 
