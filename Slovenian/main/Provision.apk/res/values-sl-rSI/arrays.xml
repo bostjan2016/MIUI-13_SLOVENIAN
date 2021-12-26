@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+     <string-array name="other_settings_auto_update_entries">
+        <item>WiFi in mobilni podatki</item>
+        <item>samo WiFi</item>
+        <item>Izključi</item>
+     </string-array>
+</resources>
