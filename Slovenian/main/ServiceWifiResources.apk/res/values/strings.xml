@@ -2,7 +2,7 @@
 <resources>
     <string name="accept">Dovoli</string>
     <string name="decline">Zavrni</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">V redu</string>
     <string name="notification_channel_network_alerts">Opozorila omrežja</string>
     <string name="notification_channel_network_available">Omrežja na voljo</string>
     <string name="notification_channel_network_status">Omrežja status</string>
@@ -21,7 +21,7 @@
     <string name="wifi_connect_alert_title">Dovolim povezavo?</string>
     <string name="wifi_connect_default_application">Aplikacija</string>
     <string name="wifi_disable_mac_randomization_dialog_confirm_text">Spremeni nastavitve</string>
-    <string name="wifi_disable_mac_randomization_dialog_failure">"Ni mogoče spremeniti nastavitve zasebnosti"</string>
+    <string name="wifi_disable_mac_randomization_dialog_failure">"Ne morem spremeniti nastavitve zasebnosti"</string>
     <string name="wifi_disable_mac_randomization_dialog_message">"Za povezavo mora %1$s uporabiti naslov MAC vaše naprave, edinstven identifikator. Trenutno vaša nastavitev zasebnosti za to omrežje uporablja naključni identifikator. 
 
 Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji vaše naprave."</string>
@@ -52,7 +52,7 @@ Ta sprememba bo morda omogočila, da bodo naprave v bližini sledile lokaciji va
     <string name="wifi_suggestion_action_disallow_app">Ne, hvala</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_carrier">"Ne poveži"</string>
     <string name="wifi_suggestion_action_disallow_imsi_privacy_exemption_confirmation">"Ne poveži"</string>
-    <string name="wifi_suggestion_content">%s suggested networks. Device may connect automatically.</string>
+    <string name="wifi_suggestion_content">%s predlaganih omrežij. Naprava se lahko samodejno poveže.</string>
     <string name="wifi_suggestion_imsi_privacy_content">Ta omrežja prejmejo ID SIM, ki se lahko uporablja za sledenje lokaciji naprave</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_content">"Če se povežete, lahko %s omrežij WiFi dostopa do edinstvenega ID-ja, povezanega z vašo kartico SIM, ali ga delijo z drugimi. To lahko omogoči sledenje lokaciji vaše naprave."</string>
     <string name="wifi_suggestion_imsi_privacy_exemption_confirmation_title">Potrdim povezavo?</string>
