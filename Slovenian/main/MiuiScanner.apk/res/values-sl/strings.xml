@@ -76,6 +76,7 @@
      <string name="calories_logo_text">AI podporo ponuja Health Hope</string>
      <string name="calories_request_interface_text">AI podpora</string>
      <string name="camera_error_title">Napaka kamere</string>
+     <string name="camera_permissions_text">Dovolite Skenerju dostop do kamere, da boste lahko uporabljali to storitev.</string>
      <string name="camera_stealth_mode_message">Povezave s kamero ni mogoče vzpostaviti. Če potrebujete kamero, izklopite prikrit način.</string>
      <string name="camera_stealth_mode_title">Prikrit način je omogočen</string>
      <string name="can_only_be_English_Chinese">Jezik omrežnega prevajanja je lahko samo angleščina in poenostavljena kitajščina</string>
@@ -297,6 +298,7 @@
      <string name="food_module_thumbs_up">Všeč mi je</string>
      <string name="food_module_tip">Postavite hrano znotraj okvirja</string>
      <string name="food_module_title_food">Kalorije</string>
+     <string name="format_error">Neveljavno geslo</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -350,6 +352,8 @@
      <string name="kuaidi100_data">Ponuja Kuaidi 100</string>
      <string name="label_choose_picture">Izberi sliko</string>
      <string name="label_flash_light">Svetilka</string>
+     <string name="label_flash_light_off">Svetilka je izključena</string>
+     <string name="label_flash_light_on">Svetilka je vključena</string>
      <string name="language_entry_chinese_cn">Poenostavljena kitajščina</string>
      <string name="language_entry_chinese_tw">Tradicionalna kitajščina</string>
      <string name="language_entry_danish">Danščina</string>
@@ -417,6 +421,7 @@
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -697,6 +702,7 @@
      <string name="shopping_vendor_info">Ponuja Taobao</string>
      <string name="smart_scan_code">Pametni skener</string>
      <string name="spaceIsLow_content">Ni dovolj prostora. Osvobodite nekaj prostora.</string>
+     <string name="storage_permissions_text">Dovolite Skenerju dostop do pomnilnika naprave, da boste lahko uporabljali to storitev.</string>
      <string name="store_feedback_prompt">Najprej vnesite povratne informacije</string>
      <string name="store_location_dialog">Storitev ponuja Dianping. Vse fotografije uporabljene v tej storitvi kot tudi z njimi povezane informacije o lokaciji, bodo deljene Dianpingu da dobite informacije o trgovinah.</string>
      <string name="store_location_fail">"Ne morem dobiti informacije o lokaciji"</string>

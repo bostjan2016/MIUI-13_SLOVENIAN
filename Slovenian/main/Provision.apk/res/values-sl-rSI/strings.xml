@@ -314,6 +314,7 @@
      <string name="other_settings">Osnovne nastavitve</string>
      <string name="other_settings_ad_dialog_agree">Vklop</string>
      <string name="other_settings_ad_dialog_content">"Ko so priporočila za oglase po meri izklopljena, boste še vedno videli enako količino oglasov kot ob vklopu storitve. Oglasi pa ne bodo več ustrezni, ker ne bodo temeljili na vaših osebnih željah."</string>
+     <string name="other_settings_ad_dialog_content_for_global">"Ko so priporočila za prilagojene oglase izklopljena, boste v sistemskih aplikacijah MIUI še vedno videli enako količino oglasov kot ko je storitev vklopljena. Oglasi Xiaomi in platform tretjih oseb pa ne bodo več relevantni, saj ne bodo temeljili na vaših osebnih željah.."</string>
      <string name="other_settings_ad_dialog_disagree">Izklopi</string>
      <string name="other_settings_ad_disable_summary">Vključi prilagojene oglase</string>
      <string name="other_settings_ad_enable">Osebno priporočilo oglasov</string>
@@ -550,6 +551,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="skip_gesture_guide_dialog_title">Gibi celega zaslona</string>
      <string name="skip_underline">Preskoči ta korak</string>
      <string name="start_up_slogan">Obiščite MIUI Adria</string>
+     <string name="start_up_slogan_thirteen_china">Kjer se vse stvari povezujejo</string>
      <string name="summary_not_set">Ni nastavljeno</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>

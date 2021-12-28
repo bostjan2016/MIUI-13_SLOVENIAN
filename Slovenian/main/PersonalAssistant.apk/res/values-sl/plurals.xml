@@ -141,6 +141,78 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
+        <item quantity="other">Trgovina s pripomočki. Seznam aplikacij. %d stvari na seznamu aplikacij.</item>
+        <item quantity="one">Trgovina s pripomočki. Seznam aplikacij. %d stvar na seznamu aplikacij.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_3">
+        <item quantity="other">Število %d na seznamu.</item>
+        <item quantity="one">Število %d na seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
+        <item quantity="other">Stvar vsebuje %d pripomočkov. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+        <item quantity="one">Stvar vsebuje %d pripomoček. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
+        <item quantity="other">Trgovina s pripomočki. Seznam aplikacij. %d stvari na seznamu.</item>
+        <item quantity="one">Trgovina s pripomočki. Seznam aplikacij. %d stvar na seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_3">
+        <item quantity="other">Število %d na seznamu.</item>
+        <item quantity="one">Število %d na seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
+        <item quantity="other">Stvar vsebuje %d pripomočkov. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+        <item quantity="one">Stvar vsebuje %d pripomoček. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
+        <item quantity="other">Trgovina s pripomočki. Seznam aplikacij. %d stvari na seznamu.</item>
+        <item quantity="one">Trgovina s pripomočki. Seznam aplikacij. %d stvar na seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_3">
+        <item quantity="other">Število %d na seznamu.</item>
+        <item quantity="one">Število %d na seznamu.</item>
+     </plurals>
+     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
+        <item quantity="other">Stvar vsebuje %d pripomočkov. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+        <item quantity="one">Stvar vsebuje %d pripomoček. Dvakrat se dotaknite, da odprete opis pripomočka.</item>
+     </plurals>
+     <plurals name="pa_base_time_hour_ago">
+        <item quantity="other">pred %d ur</item>
+        <item quantity="one">pred %d uro</item>
+     </plurals>
+     <plurals name="pa_base_time_minute_ago">
+        <item quantity="other">pred %d minut</item>
+        <item quantity="one">pred %d minut</item>
+     </plurals>
+     <plurals name="pa_edit_text_min_length">
+        <item quantity="other">Najmanj %1$d znakov</item>
+        <item quantity="one">Najmanj %1$d znak</item>
+     </plurals>
+     <plurals name="pa_express_content_title_1">
+        <item quantity="other">%d paketov na poti</item>
+        <item quantity="one">%d paket na poti</item>
+     </plurals>
+     <plurals name="pa_express_history_dialog_delete_message">
+        <item quantity="other">Izbrišem %s stvari?</item>
+        <item quantity="one">Izbrišem %s stvar?</item>
+     </plurals>
+     <plurals name="pa_express_history_menu_select_num">
+        <item quantity="other">Izbrano %s stvari</item>
+        <item quantity="one">Izbrana %s stvar</item>
+     </plurals>
+     <plurals name="pa_express_settings_title_2">
+        <item quantity="other">"Dodali ste %d tel. številk"</item>
+        <item quantity="one">"Dodali ste %d tel. številko"</item>
+     </plurals>
+     <plurals name="pa_picker_app_list_widget_count">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="pa_stock_display_list_label">
+        <item quantity="other">%1$d podjetij v pripomočku</item>
+        <item quantity="one">%1$d podjetje v pripomočku</item>
+     </plurals>
      <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Izbrišem %s stvari iz plačil?</item>
         <item quantity="one">Izbrišem %s stvar iz plačil?</item>

@@ -477,6 +477,8 @@
      <string name="menu_launcher_setting">Nastavitve vmesnika</string>
      <string name="menu_lock">Zakleni razporeditev začet. zaslona</string>
      <string name="menu_more">Več</string>
+     <string name="menu_no_word">"Ne kaži besedila"</string>
+     <string name="menu_no_word_setting_tip" formatted="false">Uporabi %d×%d postavitev brez besedila</string>
      <string name="menu_picktheme">Izberi temo</string>
      <string name="menu_reset_scene">Ponastavi na prevzeto nastavitev</string>
      <string name="menu_search">Išči</string>

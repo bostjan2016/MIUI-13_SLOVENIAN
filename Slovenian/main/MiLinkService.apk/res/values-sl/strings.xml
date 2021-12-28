@@ -46,6 +46,7 @@
      <string name="console_guide_subtitle_private">"Ne predvajaj lebdečih obvestil, obvestil o dohodnih klicih in druge stvari ki lahko vsebujejo osebne podatke"</string>
      <string name="console_guide_subtitle_small_window">Zmanjšaj predvajalno okno da boste lahko uporabljali druge storitve telefona med predvajanjem</string>
      <string name="copy">Kopiraj</string>
+     <string name="current_wifi_tv">Trnutno omrežje</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="device_desc_trust">Zaupanja vredne naprave</string>
@@ -324,6 +325,9 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="notification_rc_title">XiaoMi TV pomočnik</string>
      <string name="notification_show_more">Pokaži dodatne storitve</string>
      <string name="notify">Casting deluje v ozadju</string>
+     <string name="notify_wifiap_dialog_msg">Če želite skenirati kodo in konfigurirati omrežje, najprej izklopite prenosno dostopno točko.</string>
+     <string name="notify_wifiap_dialog_negative">Razumem</string>
+     <string name="notify_wifiap_dialog_title">Konfiguriraj omrežje</string>
      <string name="open_game_accelerate">Vključi Game Turbo</string>
      <string name="p2p_location_des">Za povezavo mobilne naprave z zunanjimi monitorji</string>
      <string name="paipai_connect_btn_text">Končano</string>

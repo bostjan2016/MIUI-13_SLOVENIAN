@@ -27,6 +27,10 @@
      <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="accept_all_permission_content">Najdi napravo morda ne bo delovala pravilno brez dovoljenj. Izberite vsa navedena dovoljenja, da boste lahko uporabljali vse storitve Najdi napravo.</string>
+     <string name="accept_all_permission_title">Zahtevana so dovoljenja</string>
+     <string name="accept_all_positive">Izberi</string>
+     <string name="accept_use_permissions">Dovoli</string>
      <string name="access_denied">Dostop zavrnjen</string>
      <string name="account">Račun</string>
      <string name="account_related">Vaša naprava je povezana z obstoječim Mi Računom (%s). Povežite se na omrežje da potrdite napravo.</string>
@@ -219,6 +223,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
   Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
      <string name="find_device_operation_failure_rpc">"Zaradi RPC napake opravila ni mogoče izvesti ."</string>
+     <string name="find_device_permissions_footer">"Tapnite \"Dovoli\" da boste dali izbrana dovoljenja."</string>
+     <string name="find_device_permissions_header">"Dobrodošli v Najdi napravo! S to aplikacijo lahko poiščete, sledite in zaklenete svojo napravo, ko je izgubljena. Potrebna so naslednja dovoljenja:"</string>
      <string name="find_device_pref_alert_content">"Najdi napravo je povezana z vašim Mi Računom. Nastaviti morate geslo ali vnesti geslo, ki ste ga nastavili. Pazite da si zapomnite svoj ID Mi Računa in geslo. Za aktiviranje te storitve bo mogoče potrebno SMS sporočilo. Vaš ponudnik storitve vam bo to zaračunal. Če zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje te storitve."</string>
      <string name="find_device_pref_alert_negtive">Ne hvala</string>
      <string name="find_device_pref_alert_positive">V redu</string>
@@ -964,6 +970,8 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="retain_data_high_quality_photo_waring_message">Ko se odjavite, bodo kakovostne kopije vaših fotografij in videoposnetkov izbrisane iz Galerije. Ustrezne izvirne datoteke bodo še vedno shranjene v oblaku. Pred odjavo lahko prenesete tudi izvirne datoteke.</string>
      <string name="retain_data_high_quality_photo_waring_title">"Visokokakovostne slike ne bodo na voljo"</string>
      <string name="revoke_block_by_find_device">"Če prekličete soglasje, bo tudi izklopljeno Najdi napravo. Po nadaljevanju boste morali potrditi geslo."</string>
+     <string name="revoke_permission_content">"Če umaknete dovoljenja, ne boste mogli še naprej uporabljati Najdi napravo. Izklopljeno bo tudi iskanje naprave. Pred umikom boste morali preveriti svoje geslo."</string>
+     <string name="revoke_permission_title">Pozor</string>
      <string name="revoke_privacy_agreement_msg">"Če nadaljujete, boste preklicali privolitev v Pravila o zasebnosti Xiaomi Cloud. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Xiaomi Cloud ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš preklic privolitve obravnavan kot zavrnitev sprejema storitev Xiaomi Cloud. Umaknem soglasje zdaj?"</string>
      <string name="revoke_privacy_confirm">Umakni</string>
      <string name="revoke_privacy_content">"Če nadaljujete, boste umaknili privolitev v &lt;a href=app://com.miui.cloudservice.gdpr.license>Pravila o zasebnosti&lt;/a> Najdi napravo. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Najdi napravo ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, se vaš umik privolitve šteje kot zavrnitev sprejema storitev Najdi napravo. Umaknem soglasje zdaj?"</string>

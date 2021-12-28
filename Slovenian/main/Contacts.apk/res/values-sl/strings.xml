@@ -923,6 +923,7 @@ Razlog: \"%s\""</string>
      <string name="hybrid_webpage_not_available">Spletna stran ni na voljo</string>
      <string name="ic_menu_back">Nazaj</string>
      <string name="ic_menu_done">Končano</string>
+     <string name="identify_numbers_text">Vklopite ID klicatelja, da prepoznate neželene klice</string>
      <string name="imLabelsGroup">IM</string>
      <string name="imei">"IMEI: "</string>
      <string name="imei_invalid">Nepravilen IMEI</string>

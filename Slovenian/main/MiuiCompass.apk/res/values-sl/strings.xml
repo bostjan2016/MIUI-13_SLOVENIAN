@@ -51,6 +51,7 @@
      <string name="calibrate_success">Kalibrirano</string>
      <string name="calibrate_tip">Nagibajte napravo da s piko narišete krog</string>
      <string name="calibrate_title">Kalibriranje kompasa</string>
+     <string name="calibrating">Umerjanje</string>
      <string name="cancel">Prekliči</string>
      <string name="cannot_get_location">--</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
@@ -230,6 +231,7 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="new_cta_app_purpose">Prikaz smeri in koordinat</string>
      <string name="new_cta_v2_app_purpose">Prikaz smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine</string>
      <string name="new_permission_camera_desc">Za umerjanje</string>
      <string name="new_permission_location_desc">Za prikaz koordinat</string>

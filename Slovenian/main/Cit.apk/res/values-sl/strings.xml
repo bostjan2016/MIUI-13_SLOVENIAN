@@ -892,6 +892,10 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_torch_off">Izključi svetilko</string>
      <string name="cit_torch_on">Vključi svetilko</string>
      <string name="cit_torch_second">Druga svetilka</string>
+     <string name="cit_touch_auto_main_tips">Samotestiranje domačega zaslona je v teku, ne dotikajte se zaslona</string>
+     <string name="cit_touch_auto_operate_expand_screen_tips">Najprej razširite zaslon in nato izvedite samopreverjanje glavnega zaslona</string>
+     <string name="cit_touch_auto_operate_fold_screen_tips">Najprej zložite zaslon in nato izvedite samopreverjanje glavnega zaslona</string>
+     <string name="cit_touch_auto_vice_tips">Samotestiranje podzaslona je v teku, ne dotikajte se zaslona</string>
      <string name="cit_touch_calib_fail">Kalibriranje dotika ni uspelo, poskusi ponovno</string>
      <string name="cit_touch_calib_instruction">Zaženi kalibriranje</string>
      <string name="cit_touch_calib_pass">Kalibriranje je uspešno končano</string>

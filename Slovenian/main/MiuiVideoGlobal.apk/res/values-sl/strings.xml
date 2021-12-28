@@ -635,6 +635,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_v_dialog_hint_too_long">Ime datoteke je predolgo</string>
      <string name="galleryplus_v_network_failed">Povezava z omrežjem ni uspela</string>
      <string name="galleryplus_v_ok">V redu</string>
+     <string name="galleryplus_video_circulate_quit">Tapnite za izhod</string>
      <string name="galleryplus_video_edit_save_video">Ustvarjanje videa s podnapisi…</string>
      <string name="galleryplus_vp_hardware_unsported">Tega videa ni mogoče predvajati na vaši napravi.</string>
      <string name="galleryplus_vp_videoview_error_button">Razumem</string>
@@ -973,6 +974,8 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="network_timeout_info">Povezave z omrežjem ni bilo mogoče vzpostaviti. Poskusite ponovno."</string>
      <string name="neverthink_player_loading">Nalaganje Neverthink videoposnetkov…</string>
      <string name="new_channel_tip">Poglejte nove kanale!</string>
+     <string name="newyearfestival_go_to_draw_prizes">Pojdite na žrebanje</string>
+     <string name="newyearfestival_watch_the_video_to_draw_prizes">Oglejte si videoposnetke za sodelovanje v žrebanju</string>
      <string name="next">Naprej</string>
      <string name="next_step">Naprej</string>
      <string name="nick_name">Ime</string>
@@ -1008,6 +1011,13 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="notify_apk_installed">Uspešno preneseno</string>
      <string name="off">[izklj.]</string>
      <string name="off_tip_firework_recommend">Od Fireworka ne boste prejeli prilagojena priporočila vsebine</string>
+     <string name="offline_notification_text">Tapnite za oglase</string>
+     <string name="offline_notification_title">Oglejte si oglas, ki ste ga shranili, ko ste bili brez povezave</string>
+     <string name="offline_opt_in_confirm">V redu</string>
+     <string name="offline_opt_in_confirmation">"Ko boste spet na spletu, boste prejeli obvestilo s povezavo"</string>
+     <string name="offline_opt_in_decline">Ne, hvala</string>
+     <string name="offline_opt_in_message">"Poslali vam bomo obvestilo s povezavo do spletnega mesta oglaševalca."</string>
+     <string name="offline_opt_in_title">"Odprite oglas, ko boste spet na spletu."</string>
      <string name="ok">V redu</string>
      <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
      <string name="open_settings">Nastavitve</string>
@@ -1243,6 +1253,7 @@ Izboljša varnost vašega računa."</string>
      <string name="plus_deleting_wait">Brisanje</string>
      <string name="plus_fallback">Povratne informacije</string>
      <string name="plus_gallery_allvideos">Vsi videoposnetki</string>
+     <string name="plus_gallery_files">Datoteke</string>
      <string name="plus_gallery_folder_switch_guid">Tapnite za menjavo na pogled seznama</string>
      <string name="plus_gallery_mediatype_aimusic">Glasbene podlage</string>
      <string name="plus_gallery_mediatype_changtu">Dolge slike</string>
@@ -1471,6 +1482,9 @@ Izboljša varnost vašega računa."</string>
      <string name="share_ugc_waitting">Ustvarjanje povezave…</string>
      <string name="show_the_location">Vrste obvestil</string>
      <string name="sign_in">Prijava</string>
+     <string name="sign_in_google_account">Vpis z Google</string>
+     <string name="sign_in_google_account_hint">"Prijavite se v svoj Google Račun, če si želite ogledati več videoposnetkov, ki so vam všeč"</string>
+     <string name="sign_in_mi_account">Vpis z Mi račun</string>
      <string name="sign_in_progress">Prijava…</string>
      <string name="sign_in_title">Prijavite se z vašim Mi Računom</string>
      <string name="slid_fail_message">Ne morem shraniti videoposnetka</string>
@@ -1550,6 +1564,7 @@ Izboljša varnost vašega računa."</string>
      <string name="tab_name_video">Videoposnetki</string>
      <string name="talkback_ad_clicked">Oglasi</string>
      <string name="talkback_background_playback">Predvajanje v ozadju</string>
+     <string name="talkback_voice_search">Glasovno iskanje</string>
      <string name="target_sdk_version_30_upgrade_tips">Nekaterih videoposnetkov si tukaj morda ne boste mogli ogledati zaradi omejitev Android 11. Tapnite \"Datoteke\", da poiščete druge videoposnetke.</string>
      <string name="temporary_not_available">Ta storitev še ni na voljo</string>
      <string name="the_item_choosed_tint">%s izbrano</string>

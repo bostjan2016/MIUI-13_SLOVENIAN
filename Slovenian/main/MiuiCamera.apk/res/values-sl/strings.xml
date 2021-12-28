@@ -1661,7 +1661,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_dual_enable_title">Vključi dvojno kamero</string>
      <string name="pref_camera_dual_sat_enable_title">Vključi dvojno SAT kamero</string>
      <string name="pref_camera_dynamic_frame_rate_summary">Število sličic se bo samodejno znižalo v pogojih slabe svetlobe ali visokih temperatur, da se izboljša kakovost videa</string>
+     <string name="pref_camera_dynamic_frame_rate_summary_new">Samodejno zmanjšanje hitrosti sličic za videoposnetke v okoljih s šibko svetlobo ali visokimi temperaturami</string>
      <string name="pref_camera_dynamic_frame_rate_title">Nastavi hitrost slikanja pri slabi svetlobi</string>
+     <string name="pref_camera_dynamic_frame_rate_title_new">Samodejna hitrost sličic</string>
      <string name="pref_camera_eis_entry_normal">EIS je vključen</string>
      <string name="pref_camera_eis_entry_off">Izključeno</string>
      <string name="pref_camera_eis_entry_pro">EIS Pro EIS je vključen</string>
@@ -1994,6 +1996,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_touchafaec_entry_off">Izključeno</string>
      <string name="pref_camera_touchafaec_entry_on">Vključeno</string>
      <string name="pref_camera_touchafaec_title">Pritisni AF/AEC</string>
+     <string name="pref_camera_track_focus_intro_description">Ko fotografirate ali snemate videoposnetke s premikajočimi se predmeti, ta funkcija zazna ljudi, mačke in pse ter jih samodejno ohrani izostrene. Poleg tega lahko tudi dvakrat tapnete kateri koli predmet, da sledite gibanju.</string>
+     <string name="pref_camera_track_focus_intro_goto">Vklopi</string>
      <string name="pref_camera_track_focus_preferred_description">"Vklopite, da se samodejno osredotočite na ljudi in živali. Predmete za sledenje boste lahko izbrali tudi ročno."</string>
      <string name="pref_camera_track_focus_preferred_title">Sledenje žarišču</string>
      <string name="pref_camera_ubifocus_title">Refokus</string>
