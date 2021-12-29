@@ -413,6 +413,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="no_share_file_content">Izbrana datoteka je že izbrisana</string>
      <string name="no_share_files">"Nemorem deliti datotek ki so bile izbrisane"</string>
      <string name="no_share_files_content">"Nekatere datoteke ki jih želite deliti so izbrisane. Ostale datoteke so uspešno podeljene."</string>
+     <string name="no_support_modify_path">"Zaradi varnostnih razlogov ni mogoče spremeniti lokacije za prenesene stvari"</string>
      <string name="no_vip_info">Nabavite Xunlei članstvo da pohitrite prenose</string>
      <string name="no_vip_show_info">"Pohitrite prenose na vseh vaših napravah z Xunlei"</string>
      <string name="noon">Poldne</string>

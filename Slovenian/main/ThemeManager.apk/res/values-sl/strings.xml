@@ -1350,6 +1350,8 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="show_mamual_hide_theme">Pokaži brezplačne teme</string>
      <string name="show_mamual_hide_wallpaper">Pokaži brezplačna ozadja</string>
      <string name="show_phone_wallpaper">Pokaži ozadja telefona</string>
+     <string name="show_theme_community">Bližnjica skupnosti</string>
+     <string name="show_theme_community_desc">Pokaži ali skrij bližnjico skupnosti Teme</string>
      <string name="still_apply">Uporabi</string>
      <string name="storage_migration_exit_msg">Da bi bile teme združljive s prihajajočimi različicami Androida, smo prenesene elemente premaknili na novo lokacijo. Znova zaženite aplikacijo, da uporabite spremembe in si ogledate preneseno vsebino.</string>
      <string name="storage_permission_denied_desc">Dovolite Temam dostop do shrambe za ogled stvari</string>
@@ -1365,6 +1367,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="super_wallpaper_setting_choose_position_btn_text">Izberi lokacijo</string>
      <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
      <string name="super_wallpaper_setting_view_height_title">Nadmorska višina</string>
+     <string name="supersave_mode_toast_message">"Ta storitev ni na voljo pri uporabi Ultra varčevanja baterije. Izklopite Ultra varčevanje baterije."</string>
      <string name="support_theme_store_des">Dobre teme vedno ustvarijo nadarjeni oblikovalci. Naša aplikacija vsebuje majhno količino oglasov, kar nam omogoča, da podpremo njihovo delo.</string>
      <string name="support_theme_store_supported">Hvala za podporo!</string>
      <string name="support_theme_store_title">Podprite naše dizajnerje</string>

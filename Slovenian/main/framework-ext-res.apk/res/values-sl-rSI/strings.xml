@@ -540,9 +540,12 @@
      <string name="voice_button_action_up">Pritisni za pogovor</string>
      <string name="voice_input_error_network">"Ne morem se povezati na omrežje. Preverite mrežne nastavitve in poskusite ponovno."</string>
      <string name="voice_input_error_other">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
+     <string name="wallpaper_group_black_gobi_title">Puščava Gobi</string>
      <string name="wallpaper_group_black_white_title">Črno in belo</string>
      <string name="wallpaper_group_color_move_title">Tekoče barve</string>
      <string name="wallpaper_group_concerto_title">Koncert</string>
+     <string name="wallpaper_group_crystallization_subtitle">Lepota znanosti</string>
+     <string name="wallpaper_group_crystallization_title">Kristalizacija</string>
      <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
      <string name="wallpaper_group_dynamic_nebula_title">Dinamična meglica</string>
      <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>

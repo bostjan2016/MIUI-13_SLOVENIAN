@@ -372,6 +372,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="get_phone_verifycode_exceed_limit">Na ta e-poštni naslov je poslanih preveč potrditvenih kod. Počakajte 24 ur in poskusite znova.</string>
      <string name="goon_feedback_main">Nadaljuj</string>
      <string name="goto_sign_up">Napravi račun</string>
+     <string name="header_help">Pomoč</string>
      <string name="hint_feedback_main">Opišite težavo</string>
      <string name="i_get_it">Razumem</string>
      <string name="i_know">V redu</string>

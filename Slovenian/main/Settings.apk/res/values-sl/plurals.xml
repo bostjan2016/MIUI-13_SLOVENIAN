@@ -161,6 +161,10 @@
         <item quantity="other">Naprave na voljo: %d</item>
         <item quantity="one">%d naprava na voljo</item>
      </plurals>
+     <plurals name="clean_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+     </plurals>
      <plurals name="color_game_led_freq_entries">
         <item quantity="other">Vsakih %d sekund</item>
         <item quantity="one">Vsako %d sekundo</item>

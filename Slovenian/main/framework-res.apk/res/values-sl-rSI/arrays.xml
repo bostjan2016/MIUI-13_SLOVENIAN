@@ -52,6 +52,11 @@
         <item>Lokacija</item>
         <item>Zaženi kodo zagona</item>
      </string-array>
+     <string-array name="config_autoTimeSourcesPriority">
+        <item>omrežje</item>
+        <item>telefonija</item>
+     </string-array>
+
      <string-array name="emailAddressTypes">
         <item>Začetna</item>
         <item>Delo</item>
