@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="disable_package_replacement">
+        <item>onemogoči ime paketa</item>
+     </string-array>
      <string-array name="wallpaper_settings_precust_cover_name">
         <item>Zabava</item>
         <item>Pokrajina</item>

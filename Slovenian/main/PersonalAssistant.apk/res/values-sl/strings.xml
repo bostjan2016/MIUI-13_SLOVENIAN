@@ -1252,6 +1252,9 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="wx_photo">fotografija</string>
      <string name="wx_scan">Skener</string>
      <string name="wx_timeline">Trenutki</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
      <string name="xiaomi_search_label">Išči</string>
      <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
      <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
