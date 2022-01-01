@@ -1266,7 +1266,7 @@ Vseeno uporabim mobilne podatke?"</string>
      <string name="fire_type_description">Gasilci</string>
      <string name="fiveg_available_status1">NR na voljo :</string>
      <string name="fiveg_bearer_status1">5G status nosilca :</string>
-     <string name="fiveg_carrier_aggregation_title">5Združevanje nosilcev 5G</string>
+     <string name="fiveg_carrier_aggregation_title">Združevanje nosilcev 5G</string>
      <string name="fiveg_endc_available1">NR ENDC na voljo :</string>
      <string name="fiveg_endc_status1">Endc Status :</string>
      <string name="fiveg_hosted_mode_summary">Samodejno izberi najboljše omrežje, da prihranite baterijo</string>

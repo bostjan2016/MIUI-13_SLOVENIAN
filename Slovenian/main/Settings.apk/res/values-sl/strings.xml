@@ -1129,7 +1129,7 @@ Nazadnje zagnano: %2$s"</string>
      <string name="ba_security_summary_pin_unavailable">Ni na voljo</string>
      <string name="back">Nazaj</string>
      <string name="back_button">Nazaj</string>
-     <string name="back_double_tap">Dvakrat tapnite nazaj</string>
+     <string name="back_double_tap">Dvakrat tapnite zadaj</string>
      <string name="back_key">Nazaj</string>
      <string name="back_sensitivity_dialog_message">Višja občutljivost bo morda ovirala izvajanje potez ob robovih zaslona v aplikaciji.</string>
      <string name="back_sensitivity_dialog_title">Občutljivost hrbtnega dela</string>
@@ -3157,8 +3157,8 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="deselect_all">Prekliči izbrano</string>
      <string name="detail_app_button">Informacije o aplikaciji</string>
      <string name="detail_question">Podrobnosti</string>
-     <string name="detailed_wifi_logging_disabled">Podrobno beleženje Wi-Fi je izklopljeno</string>
-     <string name="detailed_wifi_logging_enabled">Podrobno beleženje Wi-Fi je vklopljeno</string>
+     <string name="detailed_wifi_logging_disabled">Podrobno beleženje WiFi je izklopljeno</string>
+     <string name="detailed_wifi_logging_enabled">Podrobno beleženje WiFi je vklopljeno</string>
      <string name="details_subtitle">Podrobnosti uporabe</string>
      <string name="details_title">Podrobnosti uporabe</string>
      <string name="dev_logpersist_clear_warning_message">Ko prenehamo spremljanje s trajnim dnevniškim orodjem, moramo podatke tega orodja, shranjene v napravi, izbrisati.</string>

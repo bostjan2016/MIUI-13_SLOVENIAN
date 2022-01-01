@@ -22,6 +22,7 @@
      <string name="default_filedownloader_notification_title">Prevzem datotek</string>
      <string name="dialog_3g_desc">Prenos nove MIUI verzije preko mobilnih podatkov lahko povzroči stroške. Priporočamo prenos preko WiFi.</string>
      <string name="dialog_3g_title">Opozorilo!</string>
+     <string name="dialog_ab">Your device supports \"Brezhibne posodobitve sistema\", izberite \"Slot A\" ko vas vpraša v TWRP!</string>
      <string name="dialog_btn_3g">Vseeno nadaljuj</string>
      <string name="dialog_btn_wifi">Zamenjaj na WiFi</string>
      <string name="dialog_stop_desc">Ali ste prepričani da želite zaustaviti prenos? Ves prenos bo izgubljen, brez možnosti nadaljevanja. Naslednji poskus prenosa se bo začel od začetka.</string>

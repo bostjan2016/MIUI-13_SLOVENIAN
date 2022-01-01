@@ -177,7 +177,8 @@
      <string name="open">Odpri Način vzdrževanja</string>
      <string name="open_maintenance_mode">Odpri Način vzdrževanja</string>
      <string name="open_maintenance_mode_msg">Da bi se izognili izgubi podatkov, je priporočljivo, da ga potem pošljete v popravilo </string>
-     <string name="open_maintenance_mode_msg_sub">varnostno kopiranje vaših podatkov</string>
+     <string name="open_maintenance_mode_msg_sub">Varnostno kopiranje vaših podatkov</string>
+     <string name="open_maintenance_mode_tips">Pravkar ste izklopili način vzdrževanja in brišete povezane podatke, poskusite znova pozneje</string>
      <string name="pm">pop.</string>
      <string name="reached_max_user">Doseženo največje število uporabnikov</string>
      <string name="reboot_maintenance_mode">izbriši način vzdrževanja končan, za zmogljivost naprave ga znova zaženite</string>
