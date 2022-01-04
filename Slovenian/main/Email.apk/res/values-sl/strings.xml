@@ -142,7 +142,7 @@
      <string name="account_setup_basics_password_label_authcode">Vnesite geslo ali kontrolno kodo</string>
      <string name="account_setup_basics_title">Dodaj račun</string>
      <string name="account_setup_check_settings_check_incoming_msg">Preverjam nastavitve strežnika ...</string>
-     <string name="account_setup_check_settings_check_outgoing_msg">Preverjanje nastavitve SMPT…</string>
+     <string name="account_setup_check_settings_check_outgoing_msg">Preverjanje nastavitve SMTP…</string>
      <string name="account_setup_check_settings_retr_info_msg">Pridobivanje podatkov računa...</string>
      <string name="account_setup_correct_address_tips">Vnesite naslov e-pošte</string>
      <string name="account_setup_creating_account_msg">Ustvarjam račun…</string>
@@ -156,8 +156,8 @@
      <string name="account_setup_failed_check_credentials_message">Strežnik je odgovoril z napako. Preverite vaše uporabniško ime in geslo, nato poskusite znova.</string>
      <string name="account_setup_failed_dlg_auth_message">"Uporabniško ime ali geslo je napačno. Vnesite ponovno."</string>
      <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
-     <string name="account_setup_failed_dlg_certificate_message">Ne moremvzpostaviti varne povezave s strežnikom.</string>
-     <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne moremvzpostaviti varne povezave s strežnikom.
+     <string name="account_setup_failed_dlg_certificate_message">Ne morem vzpostaviti varne povezave s strežnikom.</string>
+     <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne morem vzpostaviti varne povezave s strežnikom.
 (%s)"</string>
      <string name="account_setup_failed_dlg_device_locked">"Vaš račun je zaklenjen. Potrdite napravo s pomočjo programa QQ Security ali odstranite zaščito"</string>
      <string name="account_setup_failed_dlg_edit_details_action">Uredi podrobnosti</string>

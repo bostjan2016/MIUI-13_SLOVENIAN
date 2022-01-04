@@ -1515,7 +1515,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_title_stop_paysafety_scan">Stop</string>
      <string name="dialog_title_stop_virus_scan">Ustavi varnostno preverjanje</string>
      <string name="disable_air_mode">Najprej izključite način Letalo</string>
-     <string name="disable_sensitive_permissions">Omejena občutljiva dovoljenjad</string>
+     <string name="disable_sensitive_permissions">Omejena občutljiva dovoljenja</string>
      <string name="disable_sensitive_permissions_detail">"Tipkovnica ne bo mogla uporabljati dovoljenj, povezanih z zasebnostjo (npr. dostop do stikov ali informacij o lokaciji)."</string>
      <string name="dlg_add_blacklist">Blokiram to številko?</string>
      <string name="dlg_add_blacklist_title">Dodaj na seznam blokiranih</string>

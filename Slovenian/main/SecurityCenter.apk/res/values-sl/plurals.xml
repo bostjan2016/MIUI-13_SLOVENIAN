@@ -839,11 +839,11 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">%s krat</item>
      </plurals>
      <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">"%d ikon aplikacij so skrite"</item>
+        <item quantity="other">"%d ikon aplikacij je skrito"</item>
         <item quantity="one">"%d ikona aplikacije je skrita"</item>
      </plurals>
      <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d ikon aplikacij niso skrite</item>
+        <item quantity="other">%d ikon aplikacij ni skrito</item>
         <item quantity="one">%d ikona aplikacije ni skrita</item>
      </plurals>
      <plurals name="privacy_permission_summary">
