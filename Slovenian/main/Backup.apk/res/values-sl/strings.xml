@@ -34,6 +34,8 @@
      <string name="account_summary">Varnostno kopiraj Google račun, Mi račun in ostale podatke</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
+     <string name="agree_button">Strinjam se</string>
+     <string name="agree_revoke_permission_title">Preklic dovoljenj</string>
      <string name="alert_button_agree_and_continue">Dovoli</string>
      <string name="alert_button_deny">Zavrni</string>
      <string name="alert_message_backup_to_miasist">Mi PC Suite zahteva dovoljenje za izdelavo Var. kopije na računalniku. Dovolim?</string>
@@ -45,6 +47,7 @@
      <string name="alert_title_backup_to_miasist">Izdelam Var. kopijo z uporabo Mi PC Suite?</string>
      <string name="alert_title_restore_from_miasist">Vrnem podatke na vaš telefon?</string>
      <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
+     <string name="alternative_ui_content">Ta storitev vam omogoča varnostno kopiranje in obnavljanje elementov z mobilno napravo in računalnikom. Ta storitev se mora povezati na splet in zahteva naslednja obvezna dovoljenja, da lahko normalno deluje:</string>
      <string name="am">dop.</string>
      <string name="app_name">Varnostna kopija</string>
      <string name="apps_and_data_item_desc">Aplikacije in podatki</string>
@@ -290,6 +293,8 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="gallery_summary">Nastavitve galerije (ne vključuje fotografij)</string>
+     <string name="grant_all_permission_content">Dajte vsa obvezna dovoljenja za varnostno kopiranje in obnovitev elementov.</string>
+     <string name="grant_all_permission_title">Potrebna so dovoljenja</string>
      <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
      <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu dela Gost."</string>
@@ -579,6 +584,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="permission_content_title">Potrebna so dovoljenja</string>
      <string name="permission_dialog_positive_btn">Nastavitve</string>
      <string name="permission_intro">Podrobnosti o dovoljenjih</string>
+     <string name="permission_management_entrance">Urejajte dovoljenja</string>
      <string name="permission_not_admit">Ni odobreno</string>
      <string name="permission_purpose">Ta storitev vam omogoča varnostno kopiranje in obnavljanje elementov z uporabo mobilne naprave, računalnikov in pogonov USB.</string>
      <string name="permission_read_apps">Dostop do seznama aplikacij, nameščenih v tej napravi</string>
@@ -587,6 +593,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="permission_read_contacts">Dostop do stikov</string>
      <string name="permission_read_sms">Dostop do sporočil</string>
      <string name="permission_read_storage">Dostop do stvari in shranjevanje v shrambo</string>
+     <string name="permission_read_storage_global">Dostop do shrambe</string>
      <string name="permission_read_write_storage">Če želite ustvariti varnostno kopijo stvari, najprej omogočite tej storitvi dostop do pomnilnika.</string>
      <string name="permission_read_write_sys_app">Če želite ustvariti varnostno kopijo in obnoviti sporočila, stike in zgodovino klicev, dovolite tej storitvi, da najprej dostopa do teh stvari.</string>
      <string name="permission_related">Dovoljenja</string>
@@ -600,6 +607,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="permission_show_all_apps_desc">Če si želite ogledati aplikacije, ki jih je mogoče varnostno kopirati, dovolite tej aplikaciji, da najprej dostopa do seznama aplikacij, nameščenih v tej napravi.</string>
      <string name="permission_write_calllog">Urejanje zgodovine klicev</string>
      <string name="permission_write_contacts">Urejanje stikov</string>
+     <string name="permission_write_storage">Shranite stvari v shrambo</string>
      <string name="phone_title">Nastavitve telefona</string>
      <string name="platform_chooser_item_android">Uvozi iz naprave Android</string>
      <string name="platform_chooser_item_android_mi">Mi Telefon</string>
@@ -608,8 +616,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="platform_chooser_title">Izberite staro napravo</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
+     <string name="privacy_policy_link"><Data>"Če želite izvedeti več o naših praksah obdelave podatkov in vaših pravicah kot uporabnika, preberite in se strinjate z &lt;a href='%1s'>Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="privacy_settings_title">Pravila o zasebnosti</string>
+     <string name="private_policy_text">Pravila o zasebnosti</string>
      <string name="progress_backup_hint">Izdelava var. kopije…</string>
      <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
      <string name="prompt_reading">Berem…</string>
@@ -628,6 +638,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="restore_counts">Obnovi:</string>
      <string name="restore_data">Izberi datoteke za obnovitev:</string>
      <string name="restore_failed">Obnovitev ni mogoča</string>
+     <string name="restore_files">Za vračanje stvari</string>
      <string name="restore_finished">Uspešno obnovljeno</string>
      <string name="restore_is_running">Vračanje naprave</string>
      <string name="restore_launcher_layout_hit">Obnavljam nastavitve zaganjalnika</string>
@@ -636,6 +647,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="restore_telephony_hit">Obnovitev ponovno zažene aplikacijo Telefon</string>
      <string name="retry">Poskusite znova</string>
      <string name="reverse_all">Prekliči izbrano</string>
+     <string name="revoke_permission_dialog_content">"Brez vseh obveznih dovoljenj ne boste mogli varnostno kopirati ali obnoviti stvari. Vseeno umaknem dovoljenja?"</string>
      <string name="router_backup_hint">Ne ugasnite naprave</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
@@ -962,6 +974,7 @@ Osvobodite prostor ali napravite več manjših prenosov."</string>
      <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>
      <string name="user_feedback">Povratne inf.</string>
+     <string name="user_know_button_text">Razumem</string>
      <string name="user_name">Apple ID ali E-pošta</string>
      <string name="user_name_null">Uporabniško ime ne sme biti prazno</string>
      <string name="user_notice_declaration_ignore">"Ne kaži več"</string>

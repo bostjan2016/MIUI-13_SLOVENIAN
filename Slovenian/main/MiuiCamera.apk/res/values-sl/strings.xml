@@ -1156,6 +1156,9 @@ Natisnite kopijo brezžično na papir A4."</string>
      <string name="live_sticker_updating">Posodabljanje…</string>
      <string name="live_workspace_title">Osnutki</string>
      <string name="live_workspace_title_edit">Izberite stvari za brisanje</string>
+     <string name="live_workspace_title_pause">Ustavi</string>
+     <string name="live_workspace_title_play">Predvajaj</string>
+     <string name="live_workspace_title_pre_edit">Izberite stvari za brisanje</string>
      <string name="loading">Nalaganje…</string>
      <string name="loading_video">Nalaganje videoposnetka…</string>
      <string name="location">Lokacija</string>
@@ -1363,10 +1366,10 @@ zgledali večji na fotografijah"</string>
      <string name="module_name_multi_camera">Sprednja &amp; zadnja</string>
      <string name="module_name_new_slow_motion">Počasno snemanje</string>
      <string name="module_name_panorama">Panorama</string>
-     <string name="module_name_pixel_108m">108M</string>
-     <string name="module_name_pixel_48m">48M</string>
-     <string name="module_name_pixel_50m">50M</string>
-     <string name="module_name_pixel_64m">64M</string>
+     <string name="module_name_pixel_108m">108MP</string>
+     <string name="module_name_pixel_48m">48MP</string>
+     <string name="module_name_pixel_50m">50MP</string>
+     <string name="module_name_pixel_64m">64MP</string>
      <string name="module_name_portrait">Portret</string>
      <string name="module_name_professional">Pro</string>
      <string name="module_name_scanner">Skener</string>

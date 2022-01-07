@@ -1379,6 +1379,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_pin_code">Vnesite PIN</string>
      <string name="input_pin_hint_text_v11">Vnesite PIN</string>
      <string name="input_puk_code">Vnesite PUK</string>
+     <string name="input_second_pattern_after_restart_msg">Za nadaljevanje potrdite geslo za drugi prostor</string>
      <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
      <string name="installer_cd_button_title">Namesti program Android – Prenos datotek za Mac</string>
      <string name="instant_apps">Nenamestljive aplikacije</string>

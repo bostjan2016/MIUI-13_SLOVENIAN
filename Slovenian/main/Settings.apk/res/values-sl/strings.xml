@@ -199,9 +199,13 @@ Gumb za storitve za ljudi s posebnimi potrebami lebdi na zaslonu nad drugimi apl
      <string name="accessibility_menu_description">"Meni dostopnosti ponuja bližnjice ki vam omogočajo urejanje naprave.
 
 Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli meni."</string>
+     <string name="accessibility_menu_description_pad">"Meni dostopnosti ponuja bližnjice ki vam omogočajo urejanje naprave.
+
+Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli meni."</string>
      <string name="accessibility_menu_item_settings">Nastavitve</string>
      <string name="accessibility_menu_service_name">Meni dostopnosti</string>
      <string name="accessibility_menu_summary">Urejajte svoje naprave s pomočjo bližnjic</string>
+     <string name="accessibility_menu_summary_pad">Urejajte svoje naprave s pomočjo bližnjic</string>
      <string name="accessibility_more_settings">Dodatne nastavitve</string>
      <string name="accessibility_no_calling">Klicanje ni mogoče.</string>
      <string name="accessibility_no_data">Ni podatkov.</string>
@@ -1004,8 +1008,11 @@ Spremenim nastavitve?"</string>
      <string name="auto_caps">Samodejna uporaba velikih začetnic</string>
      <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
      <string name="auto_clean_description">"O tej storitvi
-1. Zaženite to funkcijo enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-2. Če je zvočnik močneje blokiran, zaženite to funkcijo 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+1. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
+2. Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+     <string name="auto_clean_description_pad">"O tej storitvi
+- Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
+- Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_summary">30 sekund predvajajte zvok, da očistite zvočnik</string>
      <string name="auto_clean_summary_new">Predvaj %d-sekund zvok, da očistite zvočnik. To funkcijo uporabite večkrat zapored za znatne količine umazanije.</string>
      <string name="auto_clean_title">Očisti zvočnik</string>
@@ -2389,6 +2396,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="clear_all_data">Izbriši vse podatke</string>
      <string name="clear_cache_btn_text">Počisti predpomnilnik</string>
      <string name="clear_data_alert_info">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvari v računalnik in Mi Cloud.</string>
+     <string name="clear_data_alert_info_pad">Vse var. kopije, shranjene v tej napravi, bodo trajno izbrisane. Pred nadaljevanjem kopirajte pomembne stvari v računalnik in Mi Cloud.</string>
      <string name="clear_data_dlg_text">Vsi podatki te aplikacije bodo trajno izbrisani. To med drugim vključuje vse datoteke, nastavitve, račune in podatkovne zbirke.</string>
      <string name="clear_data_dlg_title">Želite izbrisati podatke aplikacije?</string>
      <string name="clear_data_failed">Podatkov aplikacije ni bilo mogoče izbrisati.</string>
@@ -4086,6 +4094,7 @@ Odklepanje z obrazom je manj varno kot koda PIN, geslo ali vzorec. Vašo napravo
      <string name="feedback">Povratna inf.</string>
      <string name="feedback_btn_text">Pošlji povratno inf.</string>
      <string name="feedback_settings">Povratna inf.</string>
+     <string name="feedback_settings_new">Povratne informacije</string>
      <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
      <string name="file_uploading">Osveževanje…</string>
      <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
@@ -4430,6 +4439,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
      <string name="freeform_guide_slide_to_small_freeform_summary">"Pritisnite in pridržite spodnji del okna ter ga povlecite v zgornji desni kot.
 Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</string>
      <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povlecite vogal, da zmanjšate aplikacijo</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
      <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
      <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
@@ -6509,6 +6519,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="model_info">Model</string>
      <string name="model_name">Ime</string>
      <string name="model_number">Naprava</string>
+     <string name="model_number_pad">Naprava</string>
      <string name="model_summary">Model: %1$s</string>
      <string name="modem_tool_log">Zabeleži zapise modema</string>
      <string name="modem_tool_log_start">Začni</string>
@@ -6691,6 +6702,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Več-uporabniški način za nadaljevanje."</string>
      <string name="multi_user_mode_dialog_title">"Vi ste v načinu dela Več uporabnikov"</string>
      <string name="multi_window_cvw_summary">Povlecite vogal, da preklopite na plavajoče okno in prilagodite njegovo velikost</string>
+     <string name="multi_window_cvw_summary_global">Povlecite vogal, da preklopite na plavajoče okno in prilagodite njegovo velikost</string>
      <string name="multi_window_cvw_title">Plavajoče okno</string>
      <string name="multifunction_keyboard">Večnamensko</string>
      <string name="multiple_users_main_switch_title">Uporabi več uporabnikov</string>
@@ -7933,8 +7945,8 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="power_mgr">Optimizacija baterije</string>
      <string name="power_mode">Nastavitve porabe</string>
      <string name="power_mode_balanced_title">Omogoči uravnoteženo polnjenje</string>
-     <string name="power_monitor_summary">Orodja ki se uporabljajo za spremljanje polnjenja.</string>
-     <string name="power_monitor_title">Spremljanje polnjenja</string>
+     <string name="power_monitor_summary">Orodja za spremljanje porabe energije.</string>
+     <string name="power_monitor_title">Poraba energije</string>
      <string name="power_optimize">Prihranek baterije</string>
      <string name="power_overcounted">Preveč šteto</string>
      <string name="power_phone">Glasovni klici</string>
@@ -8488,6 +8500,7 @@ Vmesnik UT: %5$s"</string>
  Podatkov iz aplikacij ne boste izgubili."</string>
      <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
      <string name="reset_confirm_directory">"Opomba: Preden vrnete stvari se prepričajte ali v vaši mobilni napravi obstaja mapa \ MIUI-Backup-AllBackup \. Če ne, jo napravite."</string>
+     <string name="reset_confirm_directory_pad">"Opomba: Preden vrnete stvari se prepričajte ali v vaši mobilni napravi obstaja mapa \ MIUI-Backup-AllBackup \. Če ne, jo napravite."</string>
      <string name="reset_dashboard_summary">Ponastavite lahko omrežje, aplikacije ali napravo</string>
      <string name="reset_dashboard_summary_onlyApps">Aplikacije je mogoče ponastaviti</string>
      <string name="reset_dashboard_title">Možnosti ponastavitve</string>
@@ -10433,6 +10446,12 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="storageuse_settings_title">Uporaba pomnilnika</string>
      <string name="strict_mode">Strogi način</string>
      <string name="strict_mode_summary">Osveži zaslon pri dolgih postopkih v glavni niti</string>
+     <string name="string_KB">%d KB</string>
+     <string name="string_KB_per_log_buffer">%d KB na medpomnilnik dnevnika</string>
+     <string name="string_MB">%d MB</string>
+     <string name="string_MB_per_log_buffer">%d MB na medpomnilnik dnevnika</string>
+     <string name="string_off">Izklj.</string>
+     <string name="string_offed">Izklj.</string>
      <string name="strong_suppression_summary">"Vaša naprava ne bo reagirala na slučajni dotik, nekateri gibi morda ne bodo delali blizu robov"</string>
      <string name="strong_suppression_title">Veliko področje</string>
      <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>

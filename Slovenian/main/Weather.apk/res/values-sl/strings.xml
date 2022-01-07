@@ -550,6 +550,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="save_to_gallery_success_message">Shranjeno v Galerijo</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_weather">Vreme</string>
+     <string name="select_show_city">Izberite lokacijo</string>
      <string name="send">Pošlji</string>
      <string name="set">Nastavitve</string>
      <string name="set_degree_centigrade">°C</string>

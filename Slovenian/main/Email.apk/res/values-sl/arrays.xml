@@ -27,6 +27,31 @@
         <item>Odgovori vsem</item>
         <item>Naprej</item>
      </string-array>
+     <string-array name="error_message_respond">
+        <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
+        <item>LOGIN Napaka pri prijavi Napaka gesla</item>
+        <item>Za prijavo uporabite pooblaščeno kodo. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
+        <item>LOGIN errno:1423, napaka uporabniškega gesla(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Neveljavne poverilnice</item>
+        <item>Prijava ni uspela. Geslo je napačno ali storitev ni odprta</item>
+        <item>LOGIN imap4 ni podprto</item>
+        <item>LOGIN errno:1328, imap po meri izklopljen</item>
+        <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
+        <item>LOGIN uporabnik na črnem seznamu</item>
+        <item>LOGIN ni uspelo. Račun je blokiran. Prijavite se v svoj račun prek spletnega brskalnika, da preverite svojo identiteto.</item>
+        <item>LOGIN uporabnik na črnem seznamu</item>
+        <item>LOGIN errno:1412 status=51 Geslo se dolgo ni spremenilo. Prosimo, spremenite geslo. http://mail.10086.cn</item>
+        <item>LOGIN imap4 ni podprto</item>
+        <item>LOGIN ni uspelo. Račun je blokiran. Prijavite se v svoj račun prek spletnega brskalnika, da preverite svojo identiteto.</item>
+        <item>ERR Neveljaven uporabnik za prijavo ali geslo</item>
+        <item>Prijava ni uspela. Za prijavo uporabite geslo aplikacije. Več informacij na http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR pop3 po meri izklopljeno</item>
+        <item>LOGIN Napaka pri prijavi - napaka uporabniškega imena ali gesla</item>
+        <item>Neveljavna prijava ali geslo</item>
+        <item>ip XXXXXXX je na črnem seznamu, preklopite svoje omrežje ali se prijavite na https://mail.sohu.com za nastavitev bele liste ip odjemalca</item>
+        <item>java.net.UnknownHostException: Gostitelja XXXX ni mogoče razrešiti: z imenom gostitelja ni povezan noben naslov</item>
+     </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčkeno</item>
         <item>Majhno</item>

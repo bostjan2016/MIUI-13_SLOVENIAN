@@ -50,8 +50,8 @@
      <string name="calibrate_rotate_again">Poskusi ponovno</string>
      <string name="calibrate_success">Kalibrirano</string>
      <string name="calibrate_tip">Nagibajte napravo da s piko narišete krog</string>
-     <string name="calibrate_title">Kalibriranje kompasa</string>
-     <string name="calibrating">Umerjanje</string>
+     <string name="calibrate_title">Umerjanje kompasa</string>
+     <string name="calibrating">Umerjanje kompasa</string>
      <string name="cancel">Prekliči</string>
      <string name="cannot_get_location">--</string>
      <string name="clearable_edittext_clear_description">Očisti</string>

@@ -1332,6 +1332,7 @@ za fotografije"</string>
      <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
      <string name="input_relation_name">Vnesi ime skupine</string>
      <string name="install_fail">"Ne morem prebrati dodatka zaradi napake."</string>
+     <string name="install_media_editor_function_message">Za uporabo prenesite najnovejšo različico urejevalnika galerij \"%1$s\".</string>
      <string name="install_media_editor_latest_message">Če želite urejati stvari, najprej prenesite vtičnik.</string>
      <string name="install_media_editor_message">Če želite urejati stvari, najprej prenesite vtičnik. Prenesem zdaj?</string>
      <string name="install_media_editor_title">Prenesi vtičnik</string>

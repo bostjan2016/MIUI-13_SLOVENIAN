@@ -687,6 +687,10 @@
      <string name="recents_title_market">Najdi aplikacije</string>
      <string name="recents_title_security_scan">Varnostni pregled</string>
      <string name="recents_tv_small_window_text">Plavajoča okna</string>
+     <string name="recents_worldcirculate_text">Spustite, da izberete</string>
+     <string name="recnets_worldcirculate_display_computer_info">Aplikacija deluje na %s.</string>
+     <string name="recnets_worldcirculate_display_default_info">Dotaknite se, da vrnete sem.</string>
+     <string name="recnets_worldcirculate_display_pad_info">Aplikacija deluje na %s.</string>
      <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
      <string name="recommend_app">Predlogi aplikacij</string>
      <string name="recommend_apps_default_title">Prazno</string>
