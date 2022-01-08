@@ -344,7 +344,7 @@
      <string name="broker_helper_title">MSAL Preusmeritveni URI Info</string>
      <string name="broker_processing">Broker predeluje</string>
      <string name="bytes">%s B</string>
-     <string name="calendar_remind_dialog_title">Dosaj v koledar</string>
+     <string name="calendar_remind_dialog_title">Dodaj v koledar</string>
      <string name="calendar_remind_gridview_pick_date">Izberi datum</string>
      <string name="calendar_skip_no_account_alert">Ta račun ni najden</string>
      <string name="cancel">Prekliči</string>
