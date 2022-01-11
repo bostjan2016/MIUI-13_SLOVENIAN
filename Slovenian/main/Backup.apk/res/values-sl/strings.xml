@@ -86,6 +86,7 @@ nastavitev in aplikacij"</string>
      <string name="backup_items_app_tailer">" x podatki aplikacij"</string>
      <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
      <string name="backup_new">Novo:</string>
+     <string name="backup_notification_title">\"Var. kopiranje\" poteka…</string>
      <string name="backup_progress">Izdelava var. kopije…</string>
      <string name="backup_report">Poglej podrobnosti</string>
      <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali povrnjene.</string>

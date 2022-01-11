@@ -141,7 +141,15 @@
      <string name="guide_window_operation">Povlecite s strani na sredino zaslona</string>
      <string name="guide_window_title">Pojdi nazaj</string>
      <string name="http_buffer_size">HTTP velikost predpomnilnika</string>
+     <string name="invisible_mode_dialog_cancel">Prekliči</string>
+     <string name="invisible_mode_dialog_message">"Kombinacije zaslona MIUI+ ni mogoče uporabiti, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
+     <string name="invisible_mode_dialog_positive">Izključi</string>
+     <string name="invisible_mode_dialog_title">"Ste brez beleženja zgodovine"</string>
+     <string name="invisible_mode_toast">Najprej izklopite način brez beleženja zgodovine</string>
      <string name="loading">Delam…</string>
+     <string name="loading_view_abort_close_text">Zapri</string>
+     <string name="loading_view_abort_text">"Povezava je potekla.
+Zaprite to stran in poskusite znova."</string>
      <string name="log_warning">"Vključitev spremembe dnevnika lahko poveča varnostna tveganja in vpliva na zmogljivost. Te spremembe uporabite le, kadar je to potrebno."</string>
      <string name="low_version_dialog_message">Posodobite MIUI+ v računalniku ali prenesite najnovejšo različico iz plus.miui.com.</string>
      <string name="low_version_dialog_title">Posodobite MIUI+</string>

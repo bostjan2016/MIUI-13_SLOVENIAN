@@ -47,6 +47,10 @@
      <string name="app_update_64_dialog_title">Posodobi na 64-bitno arhitekturo</string>
      <string name="app_update_64_notfication_body">Posodobi za povečanje učinkovitosti aplikacije</string>
      <string name="app_update_title">Posodobi vse aplikacije</string>
+     <string name="apple_calendar">Dogodki koledarja</string>
+     <string name="apple_contacts">Stiki</string>
+     <string name="apple_image">Slike</string>
+     <string name="apple_video">Videoposnetki</string>
      <string name="appname_app_data_suffix">%1$s podatki aplikacije</string>
      <string name="audio">Avdio</string>
      <string name="audio_video_document">Avdio, video in dokumenti</string>
@@ -87,6 +91,7 @@
      <string name="calendar_permission_desc">Za prenos dogodkov v druge naprave</string>
      <string name="calllog">Zgodovina klicev</string>
      <string name="cancel">Prekliči</string>
+     <string name="cancel_btn">Prekliči</string>
      <string name="cancel_description">Prekliči</string>
      <string name="cancel_moving_dialog_message">Želite ustaviti uvoz?</string>
      <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
@@ -604,6 +609,8 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="perm_storage">Branje in pisanje v zunanji pomnilnik</string>
      <string name="perm_write_settings">Zamenjati nastavitve sistema</string>
      <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS sporočila, ne da bi vas vprašala za dovoljenje. To lahko pri ponudniku storitev povzroči nepričakovane stroške.</string>
+     <string name="permission_about_contacts">Za urejanje stikov in zgodovine klicev je potrebno dovoljenje</string>
+     <string name="permission_about_storage">Za dostop do pomnilnika naprave je potrebno dovoljenje</string>
      <string name="permission_alert_message_usage_access">Mi Mover potrebuje dostop do podatkov o uporabi aplikacij. Dodelite aplikaciji zahtevana dovoljenja v Nastavitvah.</string>
      <string name="permission_alert_title">Potrebno je dovoljenje</string>
      <string name="permission_bluetooth_summary">Iskanje razpoložljivih naprave v bližini</string>
@@ -617,6 +624,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="permission_grant_request">Če želite prenesti to stvar, potrebuje Mi Mover \"%1$s\" dovoljenje.</string>
      <string name="permission_locale_summary">Za povezovanje bližnjih naprav</string>
      <string name="permission_locale_title">Dostop do lokacije</string>
+     <string name="permission_location_content">"Dovolite Mi Moverju dostop do vaše lokacije, da se lahko povežete s svojo staro napravo. Če ne dovolite dostopa do lokacije, ne boste mogli prenesti stvari."</string>
      <string name="permission_message_summary">Za prenos sporočil v vašo novo napravo</string>
      <string name="permission_message_title">Dostop do SMS vsebine</string>
      <string name="permission_request_title">\"%1$s\" dovoljenje je potrebno</string>
@@ -640,9 +648,12 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="prompt_before_transmission_message4_title">Ostanite povezani ves čas prenosa</string>
      <string name="prompt_before_transmission_message5_summary">"Brezžični prenos velikih količin podatkov lahko povzroči rahlo pregrevanje, kar ni redkost. Vaša naprava se bo kmalu po prenosu ohladila."</string>
      <string name="prompt_before_transmission_message5_title">Vaša naprava se med prenosom lahko segreje.</string>
+     <string name="provisiion_set_old_phone">Uvoz iz stare naprave</string>
+     <string name="provisiion_set_old_phone_summary">Uporabite Mi Mover za uvoz podatkov iz stare naprave brez povezave na splet</string>
      <string name="provision_cta_title">Prenos iz stare naprave</string>
      <string name="provision_receiver_finish_button">Naprej</string>
      <string name="provision_select_data_null">Izberite stvari za prenos</string>
+     <string name="provision_set_new_phone">Uporabi kot novo napravo</string>
      <string name="qq_app">QQ</string>
      <string name="qq_app_receive_fail">"Ne morem sprejeti QQ"</string>
      <string name="qq_app_send_fail">"Ne morem poslati QQ"</string>
@@ -655,6 +666,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="receiver_finish_title">"Vse je nastavljeno!"</string>
      <string name="receiver_video_summary">Odklenite staro napravo, tapnite \"Prenesi\" in optično preberite to sliko</string>
      <string name="receiver_video_title">Prenos iz stare naprave</string>
+     <string name="recommend_hint">Priporočeno</string>
      <string name="reconnect">Povežite se ponovno</string>
      <string name="recovery_progress">Vračanje stvari (%1$d/%2$d)…</string>
      <string name="recreate_soft_ap_tips">Tapnite gumb spodaj za ponovni poskus.</string>
@@ -733,6 +745,12 @@ Sprostite najmanj %s."</string>
      <string name="sender_finish_title">Uspešno preneseno</string>
      <string name="sender_scanning_code">Sliko postavite v okvir</string>
      <string name="sender_scanning_connecting">Povezovanje z novo napravo…</string>
+     <string name="set_new_device_account">Sinhronizirajte z Mi računom</string>
+     <string name="set_new_device_lock">Nastavite zaklepanje zaslona</string>
+     <string name="set_new_device_more">Več sistemskih nastavitev…</string>
+     <string name="set_new_device_navigationbar">Nastavite sistemsko navigacijo</string>
+     <string name="set_new_device_title">Nastavitev nove naprave…</string>
+     <string name="set_new_device_wlan">Nastavite WiFi</string>
      <string name="settings_phone">Nastavitve telefona</string>
      <string name="settings_powerkeeper">Podatki števca korakov</string>
      <string name="settings_sms">Nastavitve sporočanja</string>
@@ -755,6 +773,7 @@ Sprostite najmanj %s."</string>
      <string name="skip_underline">Preskoči ta korak</string>
      <string name="sms">SMS</string>
      <string name="soft_ap_create_failed">Dostopne točke ni mogoče ustvariti. Poskusite ponovno. </string>
+     <string name="soft_ap_create_failed_apple">"Kode QR ni bilo mogoče ustvariti"</string>
      <string name="soft_ap_creating">Ustvarjanje dostopne točke…</string>
      <string name="succ_description">Končano</string>
      <string name="summary_open_wlan">Mi Mover to dovoljenje potrebuje za zagotovitev stabilnosti postopka prenosa.</string>
@@ -794,6 +813,19 @@ Sprostite najmanj %s."</string>
      <string name="title_request_write_settings_perm">Za spreminjanje sistemskih nastavitev je potrebno dovoljenje</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="trans_apple">Povežite svoj iPhone</string>
+     <string name="trans_apple_button_cancel">Prekliči prenos</string>
+     <string name="trans_apple_button_cancel_hint">Prekličem prenos?</string>
+     <string name="trans_apple_button_cancel_negative">"Ne prekliči"</string>
+     <string name="trans_apple_button_cancel_positive">Prekliči</string>
+     <string name="trans_apple_button_reconnect">Povežite se znova</string>
+     <string name="trans_apple_hint">"Ne zapustite te strani in ne uporabljajte WiFi-ja, dokler prenos ni končan."</string>
+     <string name="trans_apple_hint_1_content">"Prenesite Mi Mover iz App Store ali skenirajte to kodo QR z aplikacijo Kamera na vašem iPhonu."</string>
+     <string name="trans_apple_hint_1_title">%d. Namestite Mi Mover</string>
+     <string name="trans_apple_hint_2_content">Odprite Mi Mover na vašem iPhoneu, tapnite \"Dotaknite se za pošiljanje stvari\", in skenirajte QR kodo.</string>
+     <string name="trans_apple_hint_2_title">%d. Povežite naprave</string>
+     <string name="trans_apple_interrupt_sub">Tapnite spodaj za ponovno povezavo.</string>
+     <string name="trans_apple_interrupt_title">Prenos je bil prekinjen</string>
      <string name="trans_detail_item_app_data_skip_data">Ne morem prenesti podatkov aplikacije</string>
      <string name="trans_detail_item_app_skip_data">Ne morem premakniti te aplikacije</string>
      <string name="trans_detail_qq_data">QQ podatki (vključno z zgodovino pogovorov)</string>
@@ -811,6 +843,8 @@ Prenesite in namestite Mi Mover."</string>
      <string name="trans_show_qr_code_label">Odprite Mi Mover na stari napravi</string>
      <string name="trans_show_qr_code_label_for_pad">Odprite Mi Mover na stari napravi</string>
      <string name="trans_sync_transfer_data_list">Izberite stvari, ki jih želite prenesti na staro napravo</string>
+     <string name="trans_sync_transfer_data_list_apple">"Izberite stvari, ki jih želite prenesti
+na vaš iPhone"</string>
      <string name="trans_sync_transfer_data_list_hint">Delam…</string>
      <string name="trans_sync_transfer_data_list_summary_for_pad">Izberite stvari v stari napravi in se dotaknite \"Pošlji\".</string>
      <string name="trans_time_format_second">Manj od 1 minute</string>

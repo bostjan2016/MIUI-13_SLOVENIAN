@@ -300,6 +300,8 @@ in polnilec obrnite nazaj"</string>
      <string name="cit_diag_signal_title">Pokaži zapisovalnik stabilnosti signala</string>
      <string name="cit_diag_wait">Počakajte ... Kopiranje datotek</string>
      <string name="cit_dial_emergencycall">Kliči 112</string>
+     <string name="cit_digital_hall_sensor_check_summary">Vrednost kota je prikazana spodaj</string>
+     <string name="cit_digital_hall_sensor_check_title">Digitalni Hall test</string>
      <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
      <string name="cit_display_check_title">Zaslon</string>
      <string name="cit_display_continue">Dotaknite se zaslona za začetek testiranja</string>

@@ -724,6 +724,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
      <string name="aod_style_description">Pokaži uro, datum, čas, obvestila in druge stvari ko je zaslon izključen</string>
      <string name="aod_style_title">Stil</string>
      <string name="aod_to_close">Izključi</string>
+     <string name="ap_connect_failed">povezava ni uspela</string>
+     <string name="ap_connected_battery_level">" | baterija%1$s"</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Vrsta preverjanja pristnosti</string>
      <string name="apn_auth_type_chap">CHAP</string>
@@ -2670,6 +2672,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
      <string name="connected_wifi">Povezan</string>
      <string name="connecting_to_vpn">Povezovanje na VPN</string>
      <string name="connection_and_sharing">Povezovanje &amp; deljenje</string>
+     <string name="connection_control">Upravljajte povezave</string>
      <string name="contact_data">Stiki</string>
      <string name="contact_discovery_opt_in_dialog_message">"Telefonske številke stikov se bodo redno pošiljale operaterju %1$s.
 
@@ -5012,6 +5015,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="interact_across_profiles_switch_enabled">Povezano</string>
      <string name="interact_across_profiles_title">Povezane poslovne in osebne aplikacije</string>
      <string name="interaction_control_category_title">Kontrolniki za interakcije</string>
+     <string name="interconnection">Medsebojna povezljivost</string>
      <string name="interesting_text">Realistični otipni občutki naredijo vašo interakcijo z zaslonom jasnejšo.</string>
      <string name="interesting_title">Realistični dotik</string>
      <string name="internal_format">Izbriši notranji pomnilnik</string>

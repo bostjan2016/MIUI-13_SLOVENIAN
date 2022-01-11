@@ -104,7 +104,7 @@
      <string name="am">dop.</string>
      <string name="animator_duration_scale_title">Merilo trajanja animacije</string>
      <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
-     <string name="app_name">Miui Bluetooth</string>
+    <string name="app_name">MIUI Bluetooth</string>
      <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
      <string name="audio_relay_default_device_name">Mi AI zvočniki</string>
      <string name="auto_connect_disable">Samodejno povezovanje je izklopljeno</string>
@@ -139,13 +139,14 @@
      <string name="bluetooth_battery_level_untethered">L: baterija na %1$s, D: baterija na %2$s</string>
      <string name="bluetooth_bc_profile_summary_connected">Povezano s strežnikom BA</string>
      <string name="bluetooth_bc_profile_summary_use_for">Uporabi za BA</string>
-     <string name="bluetooth_connected">Seznanjeno</string>
-     <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
-     <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
+     <string name="bluetooth_connected">Povezano</string>
+     <string name="bluetooth_connected_active">Povezano%1$s</string>
+     <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s%2$s</string>
+     <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti)%1$s</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti) | Baterija %1$s%2$s</string>
      <string name="bluetooth_connected_no_headset">Povezano (brez telefona)%1$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona) | Baterija %1$s%2$s</string>
-     <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti) %1$s</string>
+     <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti)%1$s</string>
      <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona ali predstavnosti) | Baterija %1$s%2$s</string>
      <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
      <string name="bluetooth_connecting">Vzpostavljanje povezave…</string>
@@ -244,7 +245,7 @@ Avdio"</string>
      <string name="bluetooth_talkback_headphone">Slušalka</string>
      <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
      <string name="bluetooth_talkback_imaging">Naprava za zajem slik</string>
-     <string name="bluetooth_talkback_input_peripheral">Zunanja dodatna oprema</string>
+     <string name="bluetooth_talkback_input_peripheral">Vhodna periferna naprava</string>
      <string name="bluetooth_talkback_phone">Telefon</string>
      <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
      <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>

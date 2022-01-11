@@ -491,6 +491,7 @@
      <string name="video_conference_caller_info_name">"Video konferenčni klic od %1$s"</string>
      <string name="video_crbt_title">"Predvaja se zvok videoposnetka drugega partnerja"</string>
      <string name="video_switch_to_voice_call_prompt">Preklopi na glasovni klic</string>
+     <string name="voice_control_deny_permission_msg">"Ne morem uporabljati glasovnega upravljanja. Najprej dovolite tej aplikaciji da snema zvok."</string>
      <string name="voicemail">Govorna pošta</string>
      <string name="voicemail_abbreviated">VM:</string>
      <string name="volte_call">VoLTE klic</string>

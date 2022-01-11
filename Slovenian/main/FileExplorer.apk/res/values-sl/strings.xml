@@ -614,6 +614,8 @@
      <string name="midrive_space_full">Ni dovolj prostora na Mi Cloudu.</string>
      <string name="midrive_welcome_message">Vaši Kuaipan podatki uspešno premeščeni. Vi pa ste dobili tri mesece članstva Mi Cloud kot darilo. Mi Cloud in cloud storitve bodo delili prostor za shranjevanje. Do svijega Mi Cloud prostora za shranjevanje dostopite  na i.mi.com.</string>
      <string name="midrive_welcome_title">Dobrodošli na Mi Cloud</string>
+     <string name="midriver_install_button_text">Namesti</string>
+     <string name="midriver_not_install_title">Mi Drive odstranjen</string>
      <string name="midrop_msg_1">Vključite Mi Drop na drugi napravi</string>
      <string name="midrop_msg_2">Kadar je Mi Drop vključen lahko iščete naprave v bližini in pošiljate datoteke</string>
      <string name="midrop_send_files">Izberite datoteke za pošiljanje</string>
@@ -1069,6 +1071,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="recommend_topic">Priporočene teme</string>
      <string name="recommend_user">Priporočeni profili</string>
      <string name="refresh_success">Osveževanje končano</string>
+     <string name="reinstall_midriver_message">Ponovno namestim?</string>
      <string name="release_enter_private">Spustite za odpiranje zasebne mape</string>
      <string name="release_to_signin">Spustite za prijavo</string>
      <string name="remainder_size">Ostalo: %s</string>
@@ -1093,7 +1096,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="report_advertisement">Oglasi</string>
      <string name="report_other">Ostalo</string>
      <string name="report_politics">Politika</string>
-     <string name="report_porn">Porn</string>
+     <string name="report_porn">Porno</string>
      <string name="report_violence">Nasilje</string>
      <string name="request_document_permission">Da boste urejali datoteke na SD kartici dajte aplikaciji Raziskovalec potrebna dovoljenja.</string>
      <string name="request_document_permission_title">Potrebno je dovoljenje</string>
