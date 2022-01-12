@@ -120,6 +120,8 @@
      <string name="box_title_gallery">Video orodjarna</string>
      <string name="box_title_mivideo">Dodatne lastnosti</string>
      <string name="brvah_app_name">Knjižnica</string>
+     <string name="btn_clear_history">Počisti zgodovino</string>
+     <string name="btn_empty_go_to_download">Prenos</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_choose">Prekliči izbrano</string>
      <string name="cancel_subscribe_tips">Želite prenehati slediti?</string>
@@ -275,6 +277,8 @@
      <string name="content">Vsebina</string>
      <string name="content_can_not_null">Ne morem oddati povratne informacije brez opisa.</string>
      <string name="continue_play">Nadaljuj</string>
+     <string name="controller_bar_edit">Uredi</string>
+     <string name="current_service_key">storitev</string>
      <string name="data_empty">Ni stvari</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavite datum in uro</string>
@@ -298,17 +302,29 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_app_comment_select_feedback">Nam lahko posredujete tudi povratne informacije?</string>
      <string name="dialog_app_comment_select_praise">Lepo! Boste ocenili Mi Video tudi v Trgovini Play?</string>
      <string name="dialog_app_comment_title">Ocenite našo aplikacijo</string>
-     <string name="dialog_bookmark_add">Prekliči</string>
-     <string name="dialog_bookmark_cancel">Cancel</string>
+     <string name="dialog_bookmark_add">Dodaj</string>
+     <string name="dialog_bookmark_cancel">Prekliči</string>
+     <string name="dialog_cancel">Prekliči</string>
+     <string name="dialog_clearn_content">Izbrišem zgodovino?</string>
+     <string name="dialog_clearn_title">Izbriši zgodovino</string>
+     <string name="dialog_confirm">V redu</string>
+     <string name="dialog_delete_bookmarks_content">Delete bookmark now?</string>
      <string name="dialog_disagree_privacychange_info">"Če se ne strinjate z našo politiko zasebnosti, ne boste mogli uporabljati spletnih storitev pretakanja Mi Video. Dotaknite se \ "Prekliči \", če se želite vrniti, ali \ "Ne strinjam se \", če želite nadaljevati, in uporabite Mi Video samo kot lokalni predvajalnik."</string>
      <string name="dialog_disagree_privacychange_title">"Se ne strinjate?"</string>
+     <string name="dialog_edit_bookmarks">Uredi zaznamke</string>
      <string name="dialog_edit_hint_bookmarks_name">Ime zaznamka</string>
      <string name="dialog_edit_hint_bookmarks_url">URL</string>
+     <string name="dialog_edit_hint_name">Ime</string>
+     <string name="dialog_edit_hint_url">URL</string>
      <string name="dialog_jumpto_choose">"Ne kaži več"</string>
      <string name="dialog_jumpto_content">Za dostop do dodatnih storitev predvajanja preklopim na Mi Video?</string>
      <string name="dialog_jumpto_title">Mi Video</string>
+     <string name="dialog_no_video_confirm">Razumem</string>
+     <string name="dialog_no_video_tip">Najprej poskusite odpreti podrobnosti videoposnetka. Gumb za prenos bo na voljo, ko bo videoposnetek najden.</string>
+     <string name="dialog_no_video_title">"Nič ne najdem"</string>
      <string name="dialog_privacy_change_info">"Zaradi prilagoditev storitev, ki jih ponujamo, smo posodobili Pravilnik o zasebnosti Mi Video. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</string>
      <string name="dialog_privacy_change_title">Posodobitev Pravil o zasebnosti</string>
+     <string name="dialog_privacy_experience_plan">Pridružite se našemu programu uporabniških izkušnj, da z nami delite uporabniške podatke, da bi nam pomagali izboljšati naše izdelke in storitve.</string>
      <string name="dialog_privacy_info_new2">Za uporabo storitev se morate strinjati s tem, da bo aplikacija %1$s zbirala, obdelovala in uporabljala vaše osebne informacije. Potrjujete, da ste prebrali in razumete &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> s pritiskom na spodnji gumb \"Strinjam se\".</string>
      <string name="dialog_privacy_info_new3">Če želite uporabljati to storitev morate dovoliti aplikaciji %1$s zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. S pritiskom na gumb Strinjam se spodaj, se strinjajte s &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe&lt;/a>. &lt;br/>&lt;br/>Pritisk na \"Strinjam se\" bo tudi omogočil aplikaciji Mi Video dostop do seznama aplikacij, ki so nameščene na vaši napravi. S tem dovoljenjem bo aplikacija Mi Video tudi lahko delila predmete, razumela, ali je aplikacija nameščena na vaši napravi, katera različica aplikacije je nameščena ter ali je aplikacija varna ali ne.</string>
      <string name="dialog_privacy_info_new4">"Dobrodošli v Mi Video! Ta aplikacija ponuja naslednje storitve:&lt;br>&lt;/br> - Spletne storitve pretakanja&lt;br>&lt;/br>- Lokalni video predvajalnik&lt;br>&lt;/br>Mi Video mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Kako ravnamo s podatki, ki jih zbiramo, lahko izveste v našem pravilniku o zasebnosti. Povezane nastavitve boste lahko spremenili v Nastavitve> Gesla &amp;amp; Varnost.&lt;br>&lt;/br>Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo Mi Video."</string>
@@ -323,9 +339,17 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_privacy_title">Pogoji in pravila</string>
      <string name="dialog_revoke_privacy_info_new2">Ko prekličete dovoljenje bo aplikacija prenehala zbirati podatke, vsi povezani podatki pa bodo izbrisani iz naših strežnikov. Zaradi tega je lahko aplikacija tako rekoč neuporabna. Želite vseeno preklicati dovoljenje?</string>
      <string name="dialog_revoke_privacy_title">Preklic dovoljenja</string>
+     <string name="dialog_select_folder_content">Shranim vse prihodnje prenose v to mapo?</string>
+     <string name="dialog_select_folder_title">Izberi mapo</string>
      <string name="dialog_set_default_later">Ne, hvala</string>
      <string name="dialog_set_default_set">Nastavi</string>
      <string name="dialog_set_default_text">Nastavim Mi Video za privzeti video predvajalnik?</string>
+     <string name="dialog_video_change">Zamenjaj</string>
+     <string name="dialog_video_download_tip">Dodano v čakalno vrsto</string>
+     <string name="dialog_video_download_view">Pokaži</string>
+     <string name="dialog_video_high">Visoko</string>
+     <string name="dialog_video_low">Nizko</string>
+     <string name="dialog_video_medium">Srednje</string>
      <string name="disagree">"Ne strinjam se"</string>
      <string name="diy_channels_tips">Zdaj si lahko prilagodite seznam kanalov.</string>
      <string name="do_not_show_again">Ne kaži več</string>
@@ -566,6 +590,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_network_connect_confirm">Povežite se na WiFi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
      <string name="galleryplus_network_error">Povezava z omrežjem ni uspela</string>
      <string name="galleryplus_network_not_wifi">Uporaba mobilnih podatkov za predvajanje videoposnetkov lahko ustvari dodatne stroške</string>
+     <string name="galleryplus_next_step">Naprej</string>
      <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Urejaj datoteke %$s Dodaj podnapise %$s Predvajaj videoposnetke %$s</string>
      <string name="galleryplus_notification_linkvideo_subtitle2">Zaščitite svoje zasebne videoposnetke z geslom %$s</string>
      <string name="galleryplus_notification_linkvideo_subtitle3">Prenesite videoposnetke iz TikTok-a, Instagram-a in Twitter-ja %$s</string>
@@ -581,6 +606,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_orientation_unlock">Postavitev zaslona je odklenjena</string>
      <string name="galleryplus_permission_content">Dodelite aplikaciji Mi Video zahtevana dovoljenja, za uporabo te storitve.</string>
      <string name="galleryplus_permission_content_opt">Mi Video potrebuje dovoljenja za normalno delovanje. Počistite vse podatke aplikacije v nastavitvah in znova odprite aplikacijo.</string>
+     <string name="galleryplus_permission_content_opt2">"Mi Video potrebuje dovoljenja za normalno delovanje. Počistite vse podatke aplikacije v nastavitvah in znova odprite aplikacijo.
+Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="galleryplus_permission_content_xms">Mi Video potrebuje dovoljenja za normalno delovanje. Pojdite v Nastavitve in dajte Mi Video zahtevana dovoljenja.</string>
      <string name="galleryplus_permission_open_settings">Nastavitve</string>
      <string name="galleryplus_permission_refuse">Prekliči</string>
@@ -616,7 +643,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_talkback_btn_send">Pošlji</string>
      <string name="galleryplus_talkback_btn_unfold_speed_view">Hitrost predvajanja</string>
      <string name="galleryplus_talkback_btn_unmute">Vklopi zvok</string>
+     <string name="galleryplus_talkback_btn_volume_adjust">Glasnost</string>
      <string name="galleryplus_talkback_focused_speed">Izbrano, %sX</string>
+     <string name="galleryplus_talkback_miplay_volume_change">Zamenjaj glasnost na %d</string>
      <string name="galleryplus_talkback_sound_track_item_ai_music">Samodejni zvočni posnetek</string>
      <string name="galleryplus_talkback_sound_track_item_local_music">Lokalni zvočni posnetek</string>
      <string name="galleryplus_talkback_sound_track_item_no_music">Tu ni ničesar</string>
@@ -673,6 +702,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="item_card_more_trailers">Več napovednikov</string>
      <string name="item_card_open_in">"Odpri v "</string>
      <string name="item_card_related">Povezano</string>
+     <string name="item_download_only_wify">Prenesi samo preko WiFi</string>
+     <string name="item_download_path">Lokacija prenosov</string>
+     <string name="item_download_path_setting">Nastavitve lokacije prenosov</string>
      <string name="item_setting_go_back">Preklic soglasja</string>
      <string name="just_a_second">Samo trenutek…</string>
      <string name="language_later_setting_tips">Nastavitve jezika lahko spremenite v Profil &gt; Jezik.</string>
@@ -702,6 +734,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
+     <string name="local_push_video_title">Poišči nove lokalne videoposnetke</string>
      <string name="local_video_create_a_new_playlist">Nov seznam predvajanja</string>
      <string name="local_video_date">Datum</string>
      <string name="local_video_dialog_default">Privzeto</string>
@@ -1020,6 +1053,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="offline_opt_in_title">"Odprite oglas, ko boste spet na spletu."</string>
      <string name="ok">V redu</string>
      <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
+     <string name="online_play_title">Vnesite URL</string>
      <string name="open_settings">Nastavitve</string>
      <string name="order_recently_subscribe">Nedavne naročnine</string>
      <string name="order_recently_updated">Nedavno posodobljeno</string>
@@ -1375,6 +1409,8 @@ Izboljša varnost vašega računa."</string>
      <string name="popup_pip_not_activated">Najprej dovolite Mi Video, da uporabi sliko v sliki.</string>
      <string name="privacy_agree_subtitle">Soglasje s politiko zasebnosti vam omogoča uporabo vseh storitev Mi Video</string>
      <string name="privacy_agree_title">Soglasje</string>
+     <string name="privacy_experience_plan">Pridružite se našemu Programu uporabniških izkušnj, da boste z nami delili uporabniške podatke, da bi nam pomagali izboljšati naše izdelke in storitve</string>
+     <string name="privacy_experience_title">Program uporabniših izkušnj</string>
      <string name="privacy_revoke_setting">Z izklopom stikala umaknete soglasje k Pravila o zasebnosti Mi Video.</string>
      <string name="privacy_revoke_subtitle">Preklic soglasja k Pravila o zasebnosti Mi Video</string>
      <string name="privacy_revoke_title">Preklic soglasja</string>
@@ -1579,14 +1615,26 @@ Izboljša varnost vašega računa."</string>
      <string name="time_picker_label_minute">M</string>
      <string name="tip_auth_again">Ker se predhodno niste strinjali s pogoji ustreznega Pravilnika o zasebnosti tretjega ponudnika vsebine, trenutno ne moremo prikazati video vsebin. Dotaknite se spodnjega gumba, da se strinjate s Pravili o zasebnosti in dostopate do te storitve.</string>
      <string name="tip_author_click">Tapnite za ogled več videoposnetkov iz tega računa</string>
+     <string name="tip_download_video_to_save_here">%d. Videoposnetek bo shranjen v vaše prenose</string>
+     <string name="tip_enter_the_website">%d. Odprite spletno mesto ali aplikacijo</string>
+     <string name="tip_play_a_video">%d. Predvajajte video</string>
      <string name="tip_pop"><Data>Vsebino storitve Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
+     <string name="tip_storage_used_space" formatted="false">Uporabljeno %.2f GB/%.2f GB</string>
+     <string name="tip_tap_download_button">%d. Tapnite \"Prenos\"</string>
      <string name="tip_topic_click">Tapnite, da boste našli več videoposnetkov iste teme</string>
+     <string name="title_bookmarks">Zaznamki</string>
+     <string name="title_continue_to_borwser">Odpri v brskalniku</string>
+     <string name="title_download_setting">Nastavitve prenosov</string>
      <string name="title_fingerprint">Nastavite zaklepanje zaslona</string>
      <string name="title_firework_recommend">Firework priporočila</string>
+     <string name="title_history">Zgodovina</string>
      <string name="title_publisher">Ustvarjalci</string>
+     <string name="title_select_directory">Izberite mapo</string>
+     <string name="title_selected">Izbrano</string>
      <string name="title_subscribe">Naročnine</string>
      <string name="toast_bookmark_add_success">Dodan zaznamek</string>
      <string name="toast_bookmark_already_created">Ta zaznamek že obstaja</string>
+     <string name="toast_bookmark_edit_success">Zaznamki urejeni</string>
      <string name="toast_bookmark_input_name">Vnesite ime zaznamka</string>
      <string name="toast_bookmark_input_url">Vnesite URL</string>
      <string name="toast_bookmark_success_to_add">Dodan zaznamek</string>
@@ -1645,10 +1693,11 @@ Izboljša varnost vašega računa."</string>
      <string name="v_network_failed">Prišlo je do napake omrežja.</string>
      <string name="v_next">Naprej</string>
      <string name="v_ok">V redu</string>
-     <string name="v_pw_need_update_app">Posodobite Mi Video za uporabo vseh njegovih funkcij</string>
+     <string name="v_online_play">Pretakaj na spletu</string>
+     <string name="v_pw_need_update_app">Posodobite Mi Video za uporabo vseh njegovih storitev</string>
      <string name="v_save">Shrani</string>
      <string name="v_search">Iskanje</string>
-     <string name="v_selectall">Izberite vse</string>
+     <string name="v_selectall">Izberi vse</string>
      <string name="v_selectnull">Prekliči izbiro</string>
      <string name="v_set_password">Nastavite geslo</string>
      <string name="v_symbol_rmb">¥</string>
