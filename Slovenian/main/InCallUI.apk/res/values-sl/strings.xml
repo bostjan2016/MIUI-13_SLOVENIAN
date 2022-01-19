@@ -102,6 +102,7 @@
      <string name="call_recording_notification_title">Klic posnet</string>
      <string name="call_recording_notification_title_error">"Ne morem posneti klica."</string>
      <string name="call_title_redialing_with_times_miui">%d krat ponovno klicano</string>
+     <string name="caller_info_name_delimiter">" ali "</string>
      <string name="caller_manage_header">Konferenčni klic %s</string>
      <string name="calling_via_template">Klicanje preko %s</string>
      <string name="can_not_call_oneself">"Ne morem poklicati te številke"</string>

@@ -30,6 +30,7 @@
      <string-array name="error_message_respond">
         <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
         <item>LOGIN Napaka pri prijavi Napaka gesla</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Za prijavo uporabite pooblaščeno kodo. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
         <item>LOGIN errno:1423, napaka uporabniškega gesla(sp return:2200019)</item>

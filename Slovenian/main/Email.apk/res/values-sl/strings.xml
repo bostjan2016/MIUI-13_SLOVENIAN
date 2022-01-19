@@ -147,6 +147,7 @@
      <string name="account_setup_correct_address_tips">Vnesite naslov e-pošte</string>
      <string name="account_setup_creating_account_msg">Ustvarjam račun…</string>
      <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
+     <string name="account_setup_domain_invalid_toast">E-poštno ime domene, ki ste ga vnesli je napačno, preverite</string>
      <string name="account_setup_exchange_certificate_title">Potrdilo odjemalca</string>
      <string name="account_setup_exchange_device_id_label">ID mobilne naprave</string>
      <string name="account_setup_exchange_no_certificate">Brez</string>

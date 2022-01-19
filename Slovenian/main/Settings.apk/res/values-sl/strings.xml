@@ -724,8 +724,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
      <string name="aod_style_description">Pokaži uro, datum, čas, obvestila in druge stvari ko je zaslon izključen</string>
      <string name="aod_style_title">Stil</string>
      <string name="aod_to_close">Izključi</string>
-     <string name="ap_connect_failed">povezava ni uspela</string>
-     <string name="ap_connected_battery_level">" | baterija%1$s"</string>
+     <string name="ap_connect_failed">"Ne morem se povezati"</string>
+     <string name="ap_connected_battery_level">" | Baterija %1$s"</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Vrsta preverjanja pristnosti</string>
      <string name="apn_auth_type_chap">CHAP</string>
@@ -2041,6 +2041,7 @@ Dokler bo povezava vzpostavljena, bo naprava %2$s prejemala vse klice na števil
      <string name="brightness">Raven svetlosti</string>
      <string name="brightness_auto_adjust_off">Svetlost zaslona bo ostala nespremenjena</string>
      <string name="brightness_auto_adjust_on">Svetlost zaslona bo optimizirana glede na okoljsko svetlobo.</string>
+     <string name="brightness_auto_summary">Prilagodite svetlost svetlobi okolice, da prihranite baterijo</string>
      <string name="brightness_summary">Prilagoditev svetlosti zaslona</string>
      <string name="brightness_title">Svetlost</string>
      <string name="bssid_label">BSSID:</string>
@@ -3751,8 +3752,8 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
      <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
      <string name="enable_service_title">Storitev bo izvršila ta opravila:</string>
-     <string name="enable_sizecompat_freeform">Omog. proste obl. apl., ki nimajo možn. spr. vel.</string>
-     <string name="enable_sizecompat_freeform_summary">Omogočanje proste oblike aplikacij, ki nimajo možnosti spremembe velikosti</string>
+     <string name="enable_sizecompat_freeform">Vsili spreminjanje velikosti okna</string>
+     <string name="enable_sizecompat_freeform_summary">Dovoli aplikacijam z omejitvami združljivosti, da se izvajajo v oknih s spreminjanjem velikosti</string>
      <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
      <string name="enable_tcp_rtt_support">TCP RTT prikaz</string>
      <string name="enable_tcp_rtt_support_summary">Ocenite izvedbo kvalitete omrežne komunikacije</string>
@@ -4712,6 +4713,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headphone_assisted_summary">"Prenesite mikrofon telefona na povezane Bluetooth slušalke"</string>
      <string name="headphone_assisted_title">Monitor v ušesu v živo</string>
      <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
+     <string name="headset_ambient_sound">Ambientalni zvoki</string>
      <string name="headset_calibrate">Nastavljanje tipk</string>
      <string name="headset_connectiong">Povezovanje...</string>
      <string name="headset_find_both">Obe</string>
@@ -4737,6 +4739,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
      <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
      <string name="headset_settings_title">Zvočni efekti</string>
+     <string name="headset_silent_upgrade_switch_summary">Slušalke se samodejno nadgradijo pod določenimi pogoji</string>
+     <string name="headset_silent_upgrade_switch_title">Samodejna nadgradnja</string>
      <string name="headset_spatial_audio">Prostorski zvok</string>
      <string name="headset_toast_tip_disconnect_others">Kaže da so vaše slušalke zdaj povezane z drugo napravo</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
@@ -4755,6 +4759,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="hide_silent_icons_summary">Ikone diskretnih obvestil niso prikazane v vrstici stanja</string>
      <string name="hide_silent_icons_title">Skrivanje ikon diskretnih obvestil</string>
      <string name="hide_system_app">Skrij aplikacije sistema</string>
+     <string name="high_brightness_hint_summary">Ko je svetloba v okolju močna, se na vrhu zaslona prikaže majhna ikona sonca</string>
      <string name="high_label">Visoko</string>
      <string name="high_performance_notif_summary">"Naprava se lahko močneje ogreje pri daljši uporabi."</string>
      <string name="high_performance_notif_title">Način Zmogljivost je vključen</string>
@@ -8716,6 +8721,7 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="sccret_code_error">Vnešena koda ni točna.</string>
      <string name="scheduled_style">Načrtovano</string>
      <string name="screen">Zaslon</string>
+     <string name="screen_brightness">Svetlost zaslona</string>
      <string name="screen_button">Tipke zaslona</string>
      <string name="screen_button_tips">Podrsajte navzdol za skrivanje tipk zaslona</string>
      <string name="screen_cancel">Prekliči</string>
@@ -10575,7 +10581,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="sunlight_mode">Način sončne svetlobe</string>
-     <string name="sunlight_mode_summary">Prilagodite svetlost močni ambientalni svetlobi ko je samodejna svetlost izključena</string>
+     <string name="sunlight_mode_summary">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal pretemen</string>
      <string name="sunlight_mode_summary_new">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal preveč temen. Ko je močna zunanja svetloba, se na vrhu zaslona prikaže majhna ikona sonca.</string>
      <string name="super_resolution_access_title">Aplikacije na voljo</string>
      <string name="super_resolution_desc">Naredite slike ostrejše s pomočjo AI algoritma</string>

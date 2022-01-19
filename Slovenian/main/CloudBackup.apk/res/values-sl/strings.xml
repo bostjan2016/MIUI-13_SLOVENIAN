@@ -52,6 +52,7 @@
      <string name="backup_action_retry_now">Poskusi ponovno</string>
      <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
      <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>
+     <string name="backup_failed_reason_app_data_error">"Podatkov WeChat ni bilo mogoče varnostno kopirati"</string>
      <string name="backup_failed_reason_app_usage_denied">Dodelite potrebna dovoljenja za varnostno kopiranje stvari</string>
      <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
      <string name="backup_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
@@ -428,6 +429,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="restore_detail_category_settings">Nastavitve</string>
      <string name="restore_detail_more">Več</string>
      <string name="restore_detail_title">Izberite stvari za povrnitev</string>
+     <string name="restore_failed_reason_app_data_error">"Podatkov WeChat ni bilo mogoče obnoviti"</string>
      <string name="restore_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Najprej osvobodite prostor za shranjevanje.</string>
      <string name="restore_failed_reason_network_error">Napaka omrežja. Počakajte malo in poskusite znova.</string>
      <string name="restore_finish_description">Obnova je končana</string>

@@ -1321,7 +1321,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cpu_usage_view_action_btn_text">Tapni za prikaz</string>
      <string name="create_gamebooster_destop">Bližnjica začetnega zaslona uspešno napravljena</string>
      <string name="create_shortcut">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
-     <string name="cta_HIPS_Perm_Location_Desc">dobiti točno lokacijo (GPS in omrežje)</string>
+     <string name="cta_HIPS_Perm_Location_Desc">Za uporabo podatkov o vaši lokaciji v centru za opozorila MIUI, SOS v sili, varčevanju z baterijo v aplikacijah in skenerju varnosti plačil ter omogočanje približne lokacije</string>
      <string name="cta_agree_desc">Če želite uporabljati naše storitve, dovolite, da se ta aplikacija poveže s spletom in ji dodelite zgoraj navedena dovoljenja.</string>
      <string name="cta_button_text_agree">V redu</string>
      <string name="cta_button_text_cancel">Prekliči</string>
@@ -1333,7 +1333,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cta_dialog_negative">Izhod</string>
      <string name="cta_dialog_positive">Strinjam se se</string>
      <string name="cta_dialog_title">Pravila in pogoji</string>
-     <string name="cta_main_purpose">Dobrodošli v varnost! Z njo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost za igre, prihranite baterijo, urejate aplikacije in še veliko več.</string>
+     <string name="cta_main_purpose">Dobrodošli v varnost! Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) lahko uporabite za sprostitev prostora za shranjevanje, skeniranje naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu in drugo.</string>
      <string name="cta_settings">Dovoli spletno povezavo in dostop do lokacije</string>
      <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
      <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za uporabo seznama blokiranih in klicanje stikov v sili, ko so izdana opozorila o potresu</string>
@@ -1342,7 +1342,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="custom_define_permission_desc_android.permission.READ_SMS">Za uporabo seznama blokiranih in prepoznavanje sporočil vašega operaterja</string>
      <string name="custom_define_permission_desc_android.permission.SEND_SMS">Za uporabo seznama blokiranih in pošiljanje kalibracijskih sporočil vašemu operaterju</string>
      <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Za brisanje sporočil s seznama blokiranih</string>
-     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za posredovanje podatkov o vaši lokaciji opozorilnemu centru MIUI in službi za nujno pomoč</string>
+     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za zagotavljanje storitev, ki so pomembne za vašo lokacijo v centru za opozorila MIUI, SOS v sili, varčevanju z baterijo v aplikacijah, skenerju za varnost plačil in storitvi približne lokacije</string>
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za brisanje smeti in izvajanje protivirusnih pregledov</string>
      <string name="customize_limit_pkg">%s (prilagojeno)</string>
      <string name="customizer_mode_user_define_name">Moja pravila</string>
@@ -3013,6 +3013,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="not_limited_brand">Neomejeno</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_settled">Ni nastavljeno</string>
+     <string name="not_support_root_summary">Omogočanje root dostopa za aplikacije tretjih oseb lahko predstavlja varnostno tveganje in poškoduje vašo napravo. Zaradi tega ne ponujamo več možnosti za upravljanje pravic root dostopa.</string>
+     <string name="not_support_root_title">Root dostop</string>
      <string name="note">Opomba</string>
      <string name="note_call_none">Ni klicev</string>
      <string name="note_keyword_none">Ni ključnih besed</string>
@@ -4625,6 +4627,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="select_province_and_city">Izberite lokacijo</string>
      <string name="send">Pošlji</string>
      <string name="send_msg_to_query">Pošljite SMS za preverbo</string>
+     <string name="send_sms_title">Dovolim %s pošiljanje sporočil?</string>
      <string name="set_applock_password">Nastavite geslo</string>
      <string name="set_complete">Uspešno nastavljeno</string>
      <string name="set_immediately">Nastavi</string>
@@ -4638,6 +4641,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="set_traffic_tips">Nastavite svoj podatkovni paket za upravljanje uporabe mobilnih podatkov in se izognite dodatnim stroškom mobilnega operaterja</string>
      <string name="seton_immediately">Vključi</string>
      <string name="setting">Nastavitve</string>
+     <string name="setting_back_sound_loading_msg">Delam…</string>
      <string name="setting_online_service">Online storitve</string>
      <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
      <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
@@ -4806,6 +4810,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="sms_blacklist">Seznam blokiranih SMS-ov</string>
      <string name="sms_cloud_block">Cloud Seznam blokiranih</string>
      <string name="sms_contact_block">Blokiraj SMS od stika</string>
+     <string name="sms_content">"Sporočilo: "</string>
      <string name="sms_delete_all_hint">Izbrišem vsa sporočila?</string>
      <string name="sms_delete_hint">Izbrišem vsa blokirana sporočila s te številke?</string>
      <string name="sms_delete_title">Izbriši sporočila</string>
@@ -4816,6 +4821,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="sms_keywords">Seznam blokiranih ključnih besed</string>
      <string name="sms_malicious_url">Blokiraj SMS je z zlonamernimi povezavami</string>
      <string name="sms_prefix">Seznam blokiranih predštevilk</string>
+     <string name="sms_sender">"Za: "</string>
      <string name="sms_service">Blokiraj SMS storitve</string>
      <string name="sms_smart_engine_update">Samodejno posodobi SMS filter</string>
      <string name="sms_smart_engine_update_now">Posodobi</string>
@@ -6008,6 +6014,8 @@ Ta storitev ne deluje pri glajenju gibov.
 Poskusite povečati ločljivost!"</string>
      <string name="verify_shut_down_password_content">Zahtevajte potrditev zaklepanja zaslona, če je naprava izključena, medtem ko je zaklenjena</string>
      <string name="verify_shut_down_password_title">Shutdown confirmation</string>
+     <string name="verify_sms_ensure_allow">Pošlji</string>
+     <string name="verify_sms_title">%1$s poskuša poslati sporočilo…</string>
      <string name="video_repeat">Predvajaj ponovno</string>
      <string name="videobox_hangup_tips_content">Ta storitev omogoča aplikaciji zagon v ozadju ko je zaslon izključen. Vključim?</string>
      <string name="videobox_hangup_tips_title">Pozor</string>
