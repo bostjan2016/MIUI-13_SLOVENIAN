@@ -88,6 +88,18 @@
         <item quantity="other">%d videoposnetkov</item>
         <item quantity="one">%d videoposnetek</item>
      </plurals>
+     <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">Na voljo je %1$1d od %2$2d epizod</item>
+        <item quantity="one">Na voljo je %1$1d od %2$2d epizoda</item>
+     </plurals>
+     <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">Na voljo je %1$1d od %2$2d epizod</item>
+        <item quantity="one">Na voljo je %1$1d od %2$2d epizoda</item>
+     </plurals>
+     <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d epizod skupaj</item>
+        <item quantity="one">%d epizoda skupaj</item>
+     </plurals>
      <plurals name="mediation_animate_close_after">
         <item quantity="other">ostane %s sek</item>
         <item quantity="one">ostane %s sek</item>

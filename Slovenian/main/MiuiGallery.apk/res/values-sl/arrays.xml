@@ -19,6 +19,19 @@
         <item>Dan za zapomnit</item>
         <item>Živahni trenutki</item>
      </string-array>
+     <string-array name="annual_foods_title">
+        <item>Slastno leto</item>
+        <item>Trije tečaji. Štiri sezone.</item>
+     </string-array>
+     <string-array name="annual_travel_title">
+        <item>Pozdravljen svet!</item>
+        <item>Na cesti</item>
+        <item>Kaleidoskop krajev</item>
+     </string-array>
+     <string-array name="autumn_season_title">
+        <item>Jesenski sijaj</item>
+        <item>Sijajni padec</item>
+     </string-array>
      <string-array name="baby_sexy">
         <item>Deček</item>
         <item>Deklica</item>
@@ -47,6 +60,19 @@
         <item>Okt</item>
         <item>Nov</item>
         <item>Dec</item>
+     <string-array name="flowers_title">
+        <item>Nežni cvetni listi</item>
+        <item>V polnem razcvetu</item>
+     </string-array>
+     <string-array name="forest_title">
+        <item>V divjino</item>
+        <item>Divje in svobodno</item>
+     </string-array>
+     <string-array name="group_people_title">
+        <item>Naša druženja</item>
+        <item>V družbi prijateljev</item>
+        <item>Dolgo časa se nismo videli</item>
+     </string-array>
      </string-array>
      <string-array name="holiday_last_year">
         <item>"Zadnje Novo leto"</item>
@@ -64,6 +90,11 @@
         <item>Dan državnosti skozi leta</item>
         <item>Božič skozi leta</item>
      </string-array>
+     <string-array name="important_people_title">
+        <item>Vaši najljubši predmeti</item>
+        <item>Sorodne duše</item>
+        <item>"Življenjski svetli trenutki"</item>
+     </string-array>
      <string-array name="last_month">
         <item>Januar</item>
         <item>Februar</item>
@@ -77,6 +108,36 @@
         <item>Oktober</item>
         <item>November</item>
         <item>December</item>
+     </string-array>
+     <string-array name="last_some_day_babies_title">
+        <item>Zaposlen v odraščanju</item>
+        <item>Lepše in bolj luštno</item>
+        <item>Mali raziskovalec</item>
+     </string-array>
+     <string-array name="last_some_day_fit_title">
+        <item>Dnevnik fitnesa</item>
+        <item>Močnejše in močnejše</item>
+     </string-array>
+     <string-array name="last_some_day_foods_title">
+        <item>Dober tek!</item>
+        <item>Še en zalogaj?</item>
+        <item>Uživajte v obroku!</item>
+     </string-array>
+     <string-array name="last_some_day_playground_title">
+        <item>Nasmehnite se in pomahajte!</item>
+        <item>Čas predvajanja</item>
+     </string-array>
+     <string-array name="last_some_day_ski_title">
+        <item>Odlično na prostem</item>
+        <item>Sledi v snegu</item>
+     </string-array>
+     <string-array name="last_some_day_sports_title">
+        <item>Neustavljivo</item>
+        <item>Ostati v formi</item>
+     </string-array>
+     <string-array name="last_some_day_wedding_title">
+        <item>Velik dan</item>
+        <item>Po prehodu!</item>
      </string-array>
      <string-array name="last_week_baby_title">
         <item>Čas za igro</item>
@@ -250,6 +311,19 @@
         <item>Zadnji November</item>
         <item>Zadnji December</item>
      </string-array>
+     <string-array name="monthly_babies_title">
+        <item>"Zrasel si!"</item>
+        <item>"Spet si zrasel!"</item>
+     </string-array>
+     <string-array name="monthly_foods_title">
+        <item>Moj osebni meni</item>
+        <item>Okusni spomini</item>
+        <item>Drugo pomoč, prosim!</item>
+     </string-array>
+     <string-array name="mountain_title">
+        <item>"Najboljši razgledi na svetu"</item>
+        <item>Nadaljujte s plezanjem</item>
+     </string-array>
      <string-array name="owner_relation">
         <item>Oče</item>
         <item>Mama</item>
@@ -262,6 +336,21 @@
         <item>Skupaj</item>
         <item>Dobri časi</item>
         <item>Skladno</item>
+     <string-array name="people_travel_title">
+        <item>Kamor nas pripelje cesta</item>
+        <item>Potovanja so dobro deljena</item>
+     </string-array>
+     <string-array name="quarterly_babies_title">
+        <item>Vesela pomlad</item>
+        <item>Veselo poletje</item>
+        <item>Vesela jesen</item>
+        <item>Vesela zima</item>
+     </string-array>
+     <string-array name="quarterly_foods_title">
+        <item>Spomladanski obroki</item>
+        <item>Poletne dobrote</item>
+        <item>Jesenski prazniki</item>
+        <item>Zimski umik</item>
      </string-array>
      <string-array name="recent_group_people">
         <item>Skupaj</item>
@@ -307,6 +396,19 @@
         <item>Samo naprej</item>
         <item>Polno energije</item>
      </string-array>
+     <string-array name="spring_season_title">
+        <item>Cvetovi spomladi</item>
+        <item>Pomlad je v zraku</item>
+        <item>Hojla pomlad!</item>
+     </string-array>
+     <string-array name="summer_season_title">
+        <item>Delček poletja</item>
+        <item>Kjer se poletje ne konča</item>
+     </string-array>
+     <string-array name="sunrise_sunset_title">
+        <item>Zlate ure</item>
+        <item>Zlati žarki</item>
+     </string-array>
      <string-array name="three_month_baby_title">
         <item>Tako hitro rastejo</item>
         <item>"Otroške fotografije"</item>
@@ -316,5 +418,9 @@
         <item>Dnevi za pomnjenje</item>
         <item>Dnevni dogodki</item>
         <item>Navadno &amp; nenavadno</item>
+     </string-array>
+     <string-array name="winter_season_title">
+        <item>Zimski dnevi</item>
+        <item>Zimska pravljica</item>
      </string-array>
 </resources>

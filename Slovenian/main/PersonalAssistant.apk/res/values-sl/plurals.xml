@@ -49,6 +49,26 @@
         <item quantity="other">Začetek čez %1$d min</item>
         <item quantity="one">Začetek čez %1$d minuto</item>
      </plurals>
+     <plurals name="app_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d bronastih medalj</item>
+        <item quantity="one">%d bronasta medalja</item>
+     </plurals>
+     <plurals name="app_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d zlatih medalj</item>
+        <item quantity="one">%d zlata medalja</item>
+     </plurals>
+     <plurals name="app_accessibility_olympic_medal_count">
+        <item quantity="other">%d medalj skupaj</item>
+        <item quantity="one">%d medalja skupaj</item>
+     </plurals>
+     <plurals name="app_accessibility_olympic_rank">
+        <item quantity="other">Mesto %d</item>
+        <item quantity="one">Mesto %d</item>
+     </plurals>
+     <plurals name="app_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d srebrnih medalj</item>
+        <item quantity="one">%d srebrna medalja</item>
+     </plurals>
      <plurals name="app_course_to_start">
         <item quantity="other">Začetek čez %1$d min</item>
         <item quantity="one">Začetek čez %1$d min</item>

@@ -165,9 +165,10 @@
      <string name="album_rubbish_page_title">Smeti</string>
      <string name="album_rubbish_tip_title">Možni odvečni albumi</string>
      <string name="album_scanner">Skener</string>
-     <string name="album_screen_recorder">Posnetek zaslona</string>
+     <string name="album_screen_record">Posnetki zaslona</string>
+     <string name="album_screen_recorder">Posnetki zaslona</string>
      <string name="album_screenshot_and_screen_recorder_name">Posnetki zaslona in videoposnetki zaslona</string>
-     <string name="album_screenshot_name">Posnetek zaslona</string>
+     <string name="album_screenshot_name">Posnetki zaslona</string>
      <string name="album_share_cant_move_to_rubbish_tip">"Ne morem deljene albume premestiti v smeti"</string>
      <string name="album_share_exit_confirm">Izhod iz albuma?</string>
      <string name="album_share_kicked">Odstranjeni ste iz %1$s</string>
@@ -212,6 +213,11 @@
      <string name="already_share">Skupna raba</string>
      <string name="am">dop.</string>
      <string name="and"> in </string>
+     <string name="annual_babies_title">Tako hitro rastejo</string>
+     <string name="annual_group_people_title">Skupaj</string>
+     <string name="annual_pets_title">Taca v šapo</string>
+     <string name="annual_year_title">To leto</string>
+     <string name="annula_sports_title">Premikanje naprej</string>
      <string name="app_is_launching">%s se zaganja…</string>
      <string name="app_is_launching_common">Zagon aplikacije…</string>
      <string name="app_name">Galerija</string>
@@ -269,6 +275,7 @@
      <string name="baby_album_sharer_recommand_face">Dodati obstoječo fotografijo od %1$s?</string>
      <string name="baby_album_sharers_page_title">Delite z družino</string>
      <string name="baby_birthday">Rojstni dan</string>
+     <string name="baby_birthday_title">Vse najboljše!</string>
      <string name="baby_face_desc">Otroški album</string>
      <string name="baby_lock_wallpaper">Slika zakl. zaslona</string>
      <string name="baby_lock_wallpaper_cancelled">Vrnjeno na privzeto ozadje zakl. zaslona</string>
@@ -1206,6 +1213,11 @@ za fotografije"</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="focal_length">Goriščna razdalja</string>
+     <string name="foods_people_title">"Raj za brbončice"</string>
+     <string name="foods_people_travel_title">Prehranjujemo se skozi %2$s z %1$s</string>
+     <string name="foods_travel_title_one">Okus %1$s</string>
+     <string name="foods_travel_title_three">"Hrana %1$s"</string>
+     <string name="foods_travel_title_two">%1$s hrana</string>
      <string name="frame_black">Črna</string>
      <string name="frame_button">Okvir</string>
      <string name="frame_classic">Klasično</string>
@@ -1260,6 +1272,8 @@ za fotografije"</string>
      <string name="highlight">Poudarki</string>
      <string name="hisense">Hisense</string>
      <string name="hisense_phone">Hisense</string>
+     <string name="holiday_travel_title_one">%1$s dopust</string>
+     <string name="holiday_travel_title_two">Nazaj na delo</string>
      <string name="home_menu_all_photos">Pokaži vse</string>
      <string name="home_menu_art_still">Umetnost</string>
      <string name="home_menu_camera">Pokaži samo od Kamere</string>
@@ -1364,6 +1378,14 @@ za fotografije"</string>
      <string name="kick_sharer_failed">"Uporabnika ni bilo možno odstraniti"</string>
      <string name="kick_sharer_successfully">Uporabnik odstranjen</string>
      <string name="kilobyteShort">KB</string>
+     <string name="labour_day">Dan dela</string>
+     <string name="last_some_day_pets_title">Tace in brki</string>
+     <string name="last_some_day_show_title">Čas za predstavo</string>
+     <string name="last_some_day_surfing_title">Močan veter</string>
+     <string name="last_some_day_travel_title_four">Zdravo %1$s!</string>
+     <string name="last_some_day_travel_title_one">V %1$s</string>
+     <string name="last_some_day_travel_title_three">Raziskovanje %1$s</string>
+     <string name="last_some_day_travel_title_two">Spomini na %1$s</string>
      <string name="limit_height">Višina mora biti &gt; 0</string>
      <string name="limit_width">Širina mora biti &gt; 0</string>
      <string name="live_photo">Dinamičen posnetek</string>
@@ -1664,6 +1686,9 @@ za fotografije"</string>
      <string name="month_view_tip_button_text">Razumem</string>
      <string name="month_view_tip_sub_title">Uščipnite zaslon da se boste premaknili na mesečni prikaz</string>
      <string name="month_view_tip_title">Mesečni prikaz</string>
+     <string name="monthly_pets_title">Kosmati prijatelji</string>
+     <string name="monthly_sports_title">Polno energije</string>
+     <string name="monthly_travel_title">Izleti v %1$s</string>
      <string name="more">Več</string>
      <string name="more_album_hint">,itd</string>
      <string name="more_album_tip">Več albumov</string>
@@ -1758,6 +1783,7 @@ za fotografije"</string>
      <string name="multi_view_tip_title">Povečevanje in zmanjševanje</string>
      <string name="must_pick_file">Izberi sliko</string>
      <string name="name_split">, </string>
+     <string name="national_day">Dan državnosti</string>
      <string name="nearby_share">Skupna raba v bližini</string>
      <string name="need_to_turn_on_network">"Naprava ni povezana s spletom."</string>
      <string name="need_to_turn_on_sync">Vključite sinhr. z Mi Cloudom</string>
@@ -2223,6 +2249,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="publish_succeeded">Objavljen album</string>
      <string name="publishing">Objavljam…</string>
      <string name="purge_or_recovery_processing">Obdelava…</string>
+     <string name="quarterly_pets_title">Puhasti spremljevalci</string>
      <string name="quotation">\"%s\"</string>
      <string name="realme">realme</string>
      <string name="realme_phone">realme</string>
@@ -2410,6 +2437,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="screen_talkback_shape">Oblika</string>
      <string name="screen_talkback_small">Zelo majhno</string>
      <string name="screen_talkback_text">Besedilo</string>
+     <string name="sea_title">Valovi</string>
      <string name="search_album_jump_failed">Počakajte da se albumi sinhronizirajo s Mi Cloudom in poskusite ponovno</string>
      <string name="search_backup_full_screen">Vključite sinhr. z Mi Cloudom da najdete več objektov in oseb</string>
      <string name="search_backup_full_screen_new">Vključite sinhr. z Mi Cloudom da boste iskali bolj učinkovito</string>
@@ -2646,6 +2674,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="solar_term_white_dews">Bela rosa</string>
      <string name="solar_term_winter_begins">Začetek zime</string>
      <string name="solar_term_winter_solstice">Zimski solsticij</string>
+     <string name="solar_valentines_day_title">"Valentinovo"</string>
      <string name="sort">Razvrsti</string>
      <string name="special_type_8k">AI 8K</string>
      <string name="special_type_ai_audio">AI Audio</string>

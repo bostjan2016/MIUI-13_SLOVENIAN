@@ -679,6 +679,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="goto_sign_up">Ustvarite račun</string>
      <string name="grant_write_settings_permission">Odobrite dovoljenje za kontrolo osvetlitve predvajalnika</string>
      <string name="have_learned">Razumem</string>
+     <string name="hello_blank_fragment">Pozdravljen prazen fragment</string>
      <string name="hidden_channels">Spodnji kanali ne bodo prikazani na Začetni strani.</string>
      <string name="hide">Skrij</string>
      <string name="hint_icon_ad_title">Priporočeno</string>
@@ -893,6 +894,10 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="lv_video_null">Ni videoposnetkov</string>
      <string name="lv_volume">Glasnost</string>
      <string name="manage">Urejanje</string>
+     <string name="mangotv_feature_list_title3">Dodana epizoda %s</string>
+     <string name="mangotv_feature_more">Več</string>
+     <string name="mangotv_feature_title1">Epizode</string>
+     <string name="mangotv_feature_title2">Epizode</string>
      <string name="mediation_ad">REKLAME</string>
      <string name="mediation_ad_can_not_share">"Tega videa ni mogoče deliti"</string>
      <string name="mi_video">Mi Video</string>
@@ -1407,6 +1412,7 @@ Izboljša varnost vašega računa."</string>
      <string name="popup_click_for_download_video">Prenesi video</string>
      <string name="popup_pip_activate_button">Nastavitve</string>
      <string name="popup_pip_not_activated">Najprej dovolite Mi Video, da uporabi sliko v sliki.</string>
+     <string name="popup_window_home_tip">Prenesi spletne videoposnetke</string>
      <string name="privacy_agree_subtitle">Soglasje s politiko zasebnosti vam omogoča uporabo vseh storitev Mi Video</string>
      <string name="privacy_agree_title">Soglasje</string>
      <string name="privacy_experience_plan">Pridružite se našemu Programu uporabniških izkušnj, da boste z nami delili uporabniške podatke, da bi nam pomagali izboljšati naše izdelke in storitve</string>
@@ -1513,6 +1519,7 @@ Izboljša varnost vašega računa."</string>
      <string name="share">Podeli</string>
      <string name="share_fail">Ne morem deliti. Preverite vaše omrežne nastavitve in poskusite ponovno.</string>
      <string name="share_success">Uspešno deljeno</string>
+     <string name="share_text_before_link">Brezplačno si oglejte in prenesite odlične videoposnetke na Mi Video</string>
      <string name="share_ugc_content">Poglejte v %1$s! #%2$s (%3$s)</string>
      <string name="share_ugc_join">Pridruži se</string>
      <string name="share_ugc_waitting">Ustvarjanje povezave…</string>
@@ -1617,6 +1624,8 @@ Izboljša varnost vašega računa."</string>
      <string name="tip_author_click">Tapnite za ogled več videoposnetkov iz tega računa</string>
      <string name="tip_download_video_to_save_here">%d. Videoposnetek bo shranjen v vaše prenose</string>
      <string name="tip_enter_the_website">%d. Odprite spletno mesto ali aplikacijo</string>
+     <string name="tip_local_long_press_for_manager">Pritisnite in držite za upravljanje videoposnetkov</string>
+     <string name="tip_local_manager_here">Urejajte svoje datoteke tukaj</string>
      <string name="tip_play_a_video">%d. Predvajajte video</string>
      <string name="tip_pop"><Data>Vsebino storitve Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
      <string name="tip_storage_used_space" formatted="false">Uporabljeno %.2f GB/%.2f GB</string>
@@ -1640,6 +1649,7 @@ Izboljša varnost vašega računa."</string>
      <string name="toast_bookmark_success_to_add">Dodan zaznamek</string>
      <string name="toast_bookmark_success_to_delete">Zaznamek je izbrisan</string>
      <string name="toast_bookmark_url_error">Vnesite veljaven URL</string>
+     <string name="toast_m3u8_download_path_tip">"Ni mogoče spremeniti poti za prenos vsebine v formatu m3u8"</string>
      <string name="toast_no_data">"Stvar ni več na voljo. Poskusite ponovno kasneje."</string>
      <string name="toast_request_too_frequently">Ne tako hitro!</string>
      <string name="toast_share_failed">Deljenje ni bilo mogoče. Počakajte minuto ali dve in poskusite ponovno.</string>
@@ -1742,6 +1752,12 @@ Izboljša varnost vašega računa."</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="welcome_tip_content1">Zmogljiv lokalni video predvajalnik</string>
+     <string name="welcome_tip_content2">Milijoni videoposnetkov za ogled na spletu ali prenos</string>
+     <string name="welcome_tip_explore_more">Odkrij</string>
+     <string name="welcome_tip_into_mivideo">Začnite</string>
+     <string name="welcome_tip_skip">Preskoči</string>
+     <string name="welcome_tip_title">Dobrodošli v Mi Video</string>
      <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
      <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
 Velikost: %2$s"</string>
