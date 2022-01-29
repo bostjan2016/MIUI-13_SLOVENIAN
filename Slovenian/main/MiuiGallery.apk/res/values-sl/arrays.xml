@@ -336,6 +336,7 @@
         <item>Skupaj</item>
         <item>Dobri časi</item>
         <item>Skladno</item>
+     </string-array>          
      <string-array name="people_travel_title">
         <item>Kamor nas pripelje cesta</item>
         <item>Potovanja so dobro deljena</item>
