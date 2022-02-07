@@ -47,6 +47,33 @@
         <item>Zadnji četrtek</item>
         <item>Zadnji petek</item>
      </string-array>
+     <string-array name="chinese_new_year_eve_title">
+        <item>Noč za zapomnit</item>
+        <item>Nova stran</item>
+        <item>Ognjemeti</item>
+     </string-array>
+     <string-array name="chinese_new_year_title">
+        <item>Srečno novo leto!</item>
+        <item>Zora novega leta</item>
+     </string-array>
+     <string-array name="chinese_zodiac_year">
+        <item>Leto Opice</item>
+        <item>Leto Petelina</item>
+        <item>Leto Psa</item>
+        <item>Leto Pujsa</item>
+        <item>Leto Podgane</item>
+        <item>Leto Vola</item>
+        <item>Leto Tigra</item>
+        <item>Leto Tigra</item>
+        <item>Leto Zmaja</item>
+        <item>Leto Kače</item>
+        <item>Leto Konja</item>
+        <item>Leto Koze</item>
+     </string-array>
+     <string-array name="city_title">
+        <item>Mestne pokrajine</item>
+        <item>Ulice in vogali</item>
+     </string-array>
      <string-array name="collage_month">
         <item>Jan</item>
         <item>Feb</item>
@@ -60,6 +87,10 @@
         <item>Okt</item>
         <item>Nov</item>
         <item>Dec</item>
+     <string-array name="flowers_title">
+        <item>Nežni cvetni listi</item>
+        <item>V polnem razcvetu</item>
+     </string-array>
      <string-array name="flowers_title">
         <item>Nežni cvetni listi</item>
         <item>V polnem razcvetu</item>
