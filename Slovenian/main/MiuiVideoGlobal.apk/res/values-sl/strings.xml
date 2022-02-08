@@ -413,6 +413,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
      <string name="exo_download_removing">Odstranjevanje prenosov</string>
      <string name="exo_item_list">%1$s, %2$s</string>
+     <string name="exo_media_action_repeat_all_description">Ponovi vse</string>
+     <string name="exo_media_action_repeat_off_description">Brez ponavljanja</string>
+     <string name="exo_media_action_repeat_one_description">Ponovi eno</string>
      <string name="exo_track_bitrate">%1$.2f Mb/s</string>
      <string name="exo_track_mono">Mono</string>
      <string name="exo_track_resolution">%1$d × %2$d</string>

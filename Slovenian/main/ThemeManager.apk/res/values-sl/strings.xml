@@ -211,6 +211,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="copy">Kopiraj</string>
      <string name="count_down_tip">%ds ostalo</string>
      <string name="create_home_icon">Bližnjica na začetnem zaslonu</string>
+     <string name="current_device_not_support_superwallpaper_dialog_content">"Super ozadja niso podprta v tej napravi"</string>
      <string name="current_using">Trenutno</string>
      <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
      <string name="current_using_float_wallpaper_text">Transparentno</string>
@@ -264,6 +265,8 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="de_super_wp_land_position_default_des">Točka pristanka</string>
      <string name="de_to_comment">Komentiraj</string>
      <string name="de_try">Poskusite</string>
+     <string name="deep_sea">Globoko morje</string>
+     <string name="deep_sea_resource_comment">Izvor življenja na Zemlji</string>
      <string name="deleting">Brisanje…</string>
      <string name="desc_more_online_wallpaper">Več slik ozadja online</string>
      <string name="description_author">Avtor</string>
@@ -327,6 +330,8 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
      <string name="exchange_alert">Kupone lahko dobite med našimi reklamnimi dogodki in jih zamenjate za teme.</string>
+     <string name="exchange_code_dialog_title">Pozor</string>
+     <string name="exchange_code_not_match_account_dialog_content">To kodo je že unovčil drug račun Mi. Prijavite se s tem Mi računom in poskusite znova.</string>
      <string name="exit_extreme_mode_dialog_agree">Strinjam se</string>
      <string name="exit_extreme_mode_dialog_cancel">Izključi</string>
      <string name="exit_extreme_mode_dialog_title">Izključi Ekstremni način</string>
@@ -591,6 +596,13 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="loading_picture">Nalaganje slike…</string>
      <string name="loading_resource_detail_fail">"Ne morem naložiti vira!"</string>
      <string name="loading_resource_detail_info">Nalaganje…</string>
+     <string name="local_mode">Način brez povezave</string>
+     <string name="local_mode_close">Izključim način brez povezave?</string>
+     <string name="local_mode_close_desc">Izklopite način brez povezave, če želite uporabljati spletne storitve. Izklopim zdaj?</string>
+     <string name="local_mode_desc">"Način brez povezave uporablja samo lokalno vsebino in ne uporablja spletnih storitev"</string>
+     <string name="local_mode_hint">"Uporabljate način brez povezave.
+Tapnite za izklop."</string>
+     <string name="local_mode_open">Način brez povezave</string>
      <string name="local_photos">Lokalne fotografije</string>
      <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
      <string name="lock_screen_apply">Nastavi za Zakl. zaslon</string>
@@ -1034,6 +1046,9 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="refresh_footer_release">Popusti za dodatni prenos</string>
      <string name="region_not_support">Teme niso podprte na vašem območju.</string>
      <string name="reload">Poskusi ponovno</string>
+     <string name="repeat_exchange_dialog_content">"Kode ni mogoče unovčiti. Preverite, katere druge nagrade so zdaj na voljo?"</string>
+     <string name="repeat_exchange_dialog_positive_btn">Preverite</string>
+     <string name="repeat_exchange_dialog_title">Poskusite ponovno</string>
      <string name="request_time_out">Zahteva potekla. Poskusite ponovno.</string>
      <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="resource_account_fail_to_add">"Ne morem dodati računa"</string>
@@ -1368,6 +1383,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
      <string name="super_wallpaper_setting_view_height_title">Nadmorska višina</string>
      <string name="supersave_mode_toast_message">"Ta storitev ni na voljo pri uporabi Ultra varčevanja baterije. Izklopite Ultra varčevanje baterije."</string>
+     <string name="superwallpaper_has_bound_account_dialog_content">To ozadje je že povezano z drugim računom Mi. Prijavite se s tem Mi računom in poskusite znova.</string>
      <string name="support_theme_store_des">Dobre teme vedno ustvarijo nadarjeni oblikovalci. Naša aplikacija vsebuje majhno količino oglasov, kar nam omogoča, da podpremo njihovo delo.</string>
      <string name="support_theme_store_supported">Hvala za podporo!</string>
      <string name="support_theme_store_title">Podprite naše dizajnerje</string>
@@ -1461,6 +1477,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="theme_is_external_priority_storage_summary">Aplikacija Teme se bo ponovno zagnala za uveljavitev sprememb</string>
      <string name="theme_log_out">Odjava</string>
      <string name="theme_multiple_button_title_customize">Nastavi</string>
+     <string name="theme_need_login_dialog_content">Za nadaljevanje se prijavite v svoj račun Mi.</string>
      <string name="theme_no">Ne</string>
      <string name="theme_not_include_module_desc">"Ta tema ne vsebuje naslednjih stvari: %s"</string>
      <string name="theme_on_the_phone_alert">"Ne morem predvajati med klicem"</string>
@@ -1485,6 +1502,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="theme_user_agreement_remind_never">Ne kaži več</string>
      <string name="theme_user_agreement_remind_summary">Prikazuj Pogoje uporabe vsakič ko odprete Teme. Ta nastavitve bodo začele veljati ko boste ponovno zagnali napravo.</string>
      <string name="theme_user_agreement_title">Pogoji uporabe</string>
+     <string name="theme_version_need_update_prompt_dialog_content">Za nadaljevanje posodobite teme na različico %s ali novejšo</string>
      <string name="theme_wallpaper">Kategorija ozadja</string>
      <string name="theme_yes">Da</string>
      <string name="third_party_pickers_activity_title">Dodaj %1$s</string>

@@ -39,6 +39,7 @@ Tapni za ogled"</string>
      <string name="app_notification_title">Snemalec zaslona</string>
      <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
      <string name="battery_not_allowed" formatted="false">"Ne morem snemati ko je baterija napolnjena manj kot 3%. Preverite ali je baterija polna najmanj 20%."</string>
+     <string name="battery_not_allowed_warning">"Ne morem snemati, ko je baterije manj kot %1$s. Prepričajte se, da je baterija napolnjena vsaj %2$s."</string>
      <string name="bit_rate">Kakovost videoposnetka</string>
      <string name="bit_rate_summary">Višja kakovost pomeni večjo velikost datoteke</string>
      <string name="bubble_text">pritisni za začetek snemanja</string>
@@ -144,9 +145,10 @@ Tapni za ogled"</string>
      <string name="low_memory">Imate manje od 1GB prostora. Lahko snemate do 20 minut.</string>
      <string name="low_memory_dior">Imate manj kot 500MB prostora. Lahko snemate do 12 minut.</string>
      <string name="low_memory_for_pad">Imate manj kot %1$d GB prostora. Lahko snemate do %2$d minut.</string>
-     <string name="low_memory_title">Ni dovolj prostora za shranitev</string>
-     <string name="low_momery_warning">Ni dovolj prostora za shranitev. Snemanje ustavljeno in videoposnetek je shranjen.</string>
-     <string name="memory_not_allowed">Ni dovolj prostora za shranitev. Sprostite nekaj prostora da lahko snemate.</string>
+     <string name="low_memory_for_phone">Imate manj kot %1$d GB prostora. Lahko snemate do %2$d minut.</string>
+     <string name="low_memory_title">Ni dovolj prostora za shranjevanje</string>
+     <string name="low_momery_warning">Ni dovolj prostora za shranjevanje. Snemanje ustavljeno in videoposnetek je shranjen.</string>
+     <string name="memory_not_allowed">Ni dovolj prostora za shranjevanje. Sprostite nekaj prostora da bosta lahko snemali.</string>
      <string name="mic_sound">Mikrofon</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>

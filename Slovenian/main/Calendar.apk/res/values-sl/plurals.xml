@@ -73,6 +73,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="after_num_minutes">
+        <item quantity="other">Čez %d min</item>
+        <item quantity="one">Čez %d min</item>
+     </plurals>
      <plurals name="anniversary_day">
         <item quantity="other">%1$s dni</item>
         <item quantity="one">%1$s dan</item>
@@ -224,6 +228,10 @@
         <item quantity="other">še %d dogodkov</item>
         <item quantity="one">še %d dogodek</item>
      </plurals>
+     <plurals name="other_num_events">
+        <item quantity="other">%d več dogodkov</item>
+        <item quantity="one">%d dogodek več</item>
+     </plurals>
      <plurals name="recurrence_end_count">
         <item quantity="other">Za dogodkov %d</item>
         <item quantity="one">Za %d dogodek</item>
@@ -308,6 +316,10 @@
         <item quantity="other">Predvideni dan %1$d obdobja</item>
         <item quantity="one">Predvideni dan %1$d obdobja</item>
      </plurals>
+     <plurals name="today_has_num_event">
+        <item quantity="other">%d dogodkov danes</item>
+        <item quantity="one">%d dogodek danes</item>
+     </plurals>
      <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minut vožnje do %1$s.</item>
         <item quantity="one">%2$s minuto vožnje do %1$s.</item>
@@ -326,6 +338,30 @@
      <plurals name="weekly">
         <item quantity="other">Vsakih %1$d tednov na %2$s</item>
         <item quantity="one">Tedensko na %2$s</item>
+     </plurals>
+     <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s dni</item>
+        <item quantity="one">%1$s dan</item>
+     </plurals>
+     <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d dogodkov poteka</item>
+        <item quantity="one">%d dogodek poteka</item>
+     </plurals>
+     <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Naslednji dogodek čez %d min</item>
+        <item quantity="one">Naslednji dogodek čez %d min</item>
+     </plurals>
+     <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d dogodkov jutri</item>
+        <item quantity="one">%d dogodek jutri</item>
+     </plurals>
+     <plurals name="widget_weekN">
+        <item quantity="other">Tednov %d</item>
+        <item quantity="one">Teden %d</item>
      </plurals>
      <plurals name="work_days">
         <item quantity="other">%d delovnih dni</item>

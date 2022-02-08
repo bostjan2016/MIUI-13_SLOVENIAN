@@ -52,6 +52,7 @@
      <string name="ble_device_rename">Preimenuj</string>
      <string name="bluetooth_a2dp_sink_queue_name">Zdaj se predvaja</string>
      <string name="bluetooth_advanced_feat_description">Storitev Bluetooth naprednega pregledovanja</string>
+     <string name="bluetooth_broadcast_status">Oddajanje vklj.</string>
      <string name="bluetooth_connected">Seznanjeno</string>
      <string name="bluetooth_connecting">Seznanjanje…</string>
      <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
@@ -83,6 +84,7 @@
      <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
      <string name="bluetooth_sap_notif_title">Pristop SIM-u z Bluetoothom</string>
      <string name="bluetooth_search_for_devices">Išči naprave</string>
+     <string name="broadcast_notification_name">Status oddajanja</string>
      <string name="bt_audio_share_notification_content">Tapnite za prikaz možnosti</string>
      <string name="bt_audio_share_notification_title">Deljenje zvoka</string>
      <string name="bt_enable_cancel">Prekliči</string>

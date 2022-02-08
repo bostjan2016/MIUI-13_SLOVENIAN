@@ -565,7 +565,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
 Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
 %s in komponente Mi računa se bodo povezale s spletom in pridobile vašo lokacijo."</string>
      <string name="terms_of_use_label_MSA">MSA</string>
-     <string name="terms_of_use_label_Mistore">, Mi Store sistemski dodatek</string>
+     <string name="terms_of_use_label_Mistore">Mi Store sistemski dodatek</string>
      <string name="terms_of_use_label_RMS">Upravitelj dovoljenj</string>
      <string name="terms_of_use_label_ai_assistant">AI Asistent</string>
      <string name="terms_of_use_label_app_vault">Os. asistent</string>
@@ -581,12 +581,12 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
      <string name="terms_of_use_label_info_assistant">Mi Link</string>
      <string name="terms_of_use_label_joyose">Joyose</string>
      <string name="terms_of_use_label_landscape">funkcionalnost optimizacije ležečega pogleda</string>
-     <string name="terms_of_use_label_mab">, MAB</string>
+     <string name="terms_of_use_label_mab">MAB</string>
      <string name="terms_of_use_label_mi_account">Komponente računa Mi</string>
      <string name="terms_of_use_label_os">OS AI nastavitve</string>
-     <string name="terms_of_use_label_package">, Orodje za namestitev paketa</string>
+     <string name="terms_of_use_label_package">Orodje za namestitev paketa</string>
      <string name="terms_of_use_label_parallel_windows">Paralelna okna</string>
-     <string name="terms_of_use_label_phrase">, Pogosti izrazi</string>
+     <string name="terms_of_use_label_phrase">Pogosti izrazi</string>
      <string name="terms_of_use_label_power_detection">Detektor moči</string>
      <string name="terms_of_use_label_power_performance">Baterija in zmogljivost</string>
      <string name="terms_of_use_label_quickapp">Hitre aplikacije</string>
@@ -596,7 +596,7 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
      <string name="terms_of_use_label_statistics">Statistike</string>
      <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
      <string name="terms_of_use_label_translation">Storitev prevajanja</string>
-     <string name="terms_of_use_label_updater">, Posodabljanje</string>
+     <string name="terms_of_use_label_updater">Posodabljanje</string>
      <string name="terms_of_use_label_use_location_and_network_global">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava aktivirana, se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije:</string>
      <string name="terms_of_use_label_use_network_china">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava vklopljena, se bodo v omrežje povezale naslednje storitve:</string>
      <string name="terms_of_use_label_wallpaper">Ozadja</string>
@@ -611,8 +611,8 @@ Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</stri
      <string name="terms_of_use_lable_default_input_method_mint">"
 
 Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitve."</string>
-     <string name="terms_of_use_lable_gms">, Storitve Google Playa</string>
-     <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
+     <string name="terms_of_use_lable_gms">Storitve Google Playa</string>
+     <string name="terms_of_use_lable_smart_cards">Pametne kartice</string>
      <string name="terms_of_use_lable_xmsf">Okvir storitve Xiaomi</string>
      <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o zasebnosti</string>
      <string name="terms_privacy_policy_input_method_kika">Kika Pravila o zasebnosti</string>

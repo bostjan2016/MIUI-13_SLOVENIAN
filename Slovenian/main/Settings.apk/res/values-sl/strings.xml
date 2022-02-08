@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="Accounts_settings_title">Računi</string>
+     <string name="Intelligentpickfree">Zaznaj glas</string>
      <string name="SMS_and_MMS">SMS in MMS</string>
      <string name="a11y_settings_label">Nastavitve dostopnosti</string>
      <string name="aaid_info">"
@@ -672,6 +673,9 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
      <string name="ambient_display_wake_screen_summary" />
      <string name="ambient_display_wake_screen_summary_on" />
      <string name="ambient_display_wake_screen_title">Zbudite zaslon</string>
+     <string name="anc_auto">Samodejno</string>
+     <string name="anc_depth">Močno</string>
+     <string name="anc_mild">Lahko</string>
      <string name="android_beam_disabled_summary">Najprej vključite NFC</string>
      <string name="android_beam_explained">"Če je ta storitev vklopljena lahko vsebino iz aplikacije prenesete v drugo napravo ki podpira NFC tako da napravi približate. Prenesete lahko na primer strani brskalnika, videoposnetke v YouTubu, stike iz aplikacije Stiki in drugo.
 
@@ -972,6 +976,11 @@ Spremenim nastavitve?"</string>
      <string name="audio_share_confirm">Skupna raba</string>
      <string name="auto_adjst_effect_summary">Prilagodi temperaturo barve okoljski svetlobi samodejno da boste održali optimalni nivo udobnosti</string>
      <string name="auto_adjust_effect_title">Prilagodi temperaturo barve samodejno</string>
+     <string name="auto_anc_closed">Izklj.</string>
+     <string name="auto_anc_fifteen_recover">%d sek</string>
+     <string name="auto_anc_five_recover">%d sek</string>
+     <string name="auto_anc_not_recover">Obdrži</string>
+     <string name="auto_anc_ten_recover">%d sek</string>
      <string name="auto_backup">Načrtuj varnostno kopiranje</string>
      <string name="auto_backup_all_user_apps">Vse aplikacije</string>
      <string name="auto_backup_choose">Varnostno kopiraj stvari</string>
@@ -3556,6 +3565,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="done_button">Končano</string>
      <string name="double_click_power_key">Dvoklik tipke Vklop</string>
      <string name="double_click_volume_down_when_lock">Dvoklik Glasnost - ko je zaslon zaklenjen</string>
+     <string name="double_connect">Dvojna povezava</string>
+     <string name="double_connect_summary">Za povezavo dveh naprav</string>
      <string name="double_knock">Dvojni tap</string>
      <string name="double_tap_power_for_camera_suggestion_title">Hitro odpri fotoaparat</string>
      <string name="double_tap_power_for_camera_summary">Če želite hitro odpreti fotoaparat, dvakrat pritisnite gumb za vklop. Deluje na vsakem zaslonu.</string>
@@ -4550,6 +4561,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
      <string name="global_font_change_title">Spremenjena velikost pisave</string>
      <string name="global_locale_change_title">Spremba jezika</string>
+     <string name="global_stylus_summary">"Pretvori ročno napisan vnos v besedilo na katerem koli področju, kjer je podprto"</string>
+     <string name="global_stylus_title">Rokopis</string>
      <string name="gmscore_settings_title">Osnovne Google storitve</string>
      <string name="go_back_button_label">Nazaj</string>
      <string name="go_to_sleep">Izključi zaslon</string>
@@ -4739,8 +4752,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="headset_remove_message">Ali želite odstraniti to napravo iz vašega računa?</string>
      <string name="headset_remove_message_indicate">%1$s bo razdružen iz vseh naprav, povezanih s tem Mi računom</string>
      <string name="headset_settings_title">Zvočni efekti</string>
-     <string name="headset_silent_upgrade_switch_summary">Slušalke se samodejno nadgradijo pod določenimi pogoji</string>
-     <string name="headset_silent_upgrade_switch_title">Samodejna nadgradnja</string>
+     <string name="headset_silent_upgrade_switch_summary">Samodejno posodobi vdelano programsko opremo slušalk, ko so izpolnjeni vsi zahtevani pogoji </string>
+     <string name="headset_silent_upgrade_switch_title">Samodejna posodobitev</string>
      <string name="headset_spatial_audio">Prostorski zvok</string>
      <string name="headset_toast_tip_disconnect_others">Kaže da so vaše slušalke zdaj povezane z drugo napravo</string>
      <string name="headset_unsaved_device">Odstrani napravo</string>
@@ -4969,6 +4982,9 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="input_pattern_hint_text">Narišite vzorec odklepanja</string>
      <string name="input_settings">Nastavitve vnosa</string>
      <string name="input_text">Okno za vnos besedila</string>
+     <string name="inputdebuglog_select_level">Vnesite nivo dnevnika</string>
+     <string name="inputdebuglog_select_level_show">Nivo %d</string>
+     <string name="inputdebuglog_select_level_summary">Izberite nivo</string>
      <string name="insert_sim_card_and_try_again">Vstavite kartico SIM in poskusite znova.</string>
      <string name="install_all_warning">Neznane aplikacije lažje napadejo telefon in osebne podatke v njem. Če namestite aplikacije iz tega vira, se strinjate, da ste sami odgovorni za morebitno škodo, nastalo v telefonu, ali izgubo podatkov, ki je lahko posledica uporabe teh aplikacij.</string>
      <string name="install_applications">Neznani viri</string>
@@ -5068,6 +5084,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="key_gesture_function_optional">Gibi in tipke</string>
      <string name="key_gesture_function_preview">Pregled gibov in tipk</string>
      <string name="key_gesture_function_shortcut">Opravilo bližnjice</string>
+     <string name="key_handwriting_input_summary">Uredite besedilo s pisalom. Dejanja, ki jih lahko izvedete, vključujejo brisanje, izbiro, lepljenje in začetek novega odstavka.</string>
+     <string name="key_handwriting_input_title">Rokopis</string>
      <string name="key_none">Nič</string>
      <string name="key_operation_diagram">Pregled</string>
      <string name="key_position_cat">Položaj tipk</string>
@@ -5077,6 +5095,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="key_system_control">Kontrola sistema</string>
      <string name="keyboard_and_input_methods_category">Tipkovnice</string>
      <string name="keyboard_assistance_category">Pomoč za tipkovnico</string>
+     <string name="keyboard_back_light">Osvetlitev tipkovnice</string>
      <string name="keyboard_disconnected">Ni priključeno</string>
      <string name="keyboard_funtion_key">Funkcijska tipka</string>
      <string name="keyboard_layout_default_label">Privzeto</string>
@@ -5278,6 +5297,24 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="knock_long_press_horizontal_slid">Pritisnite in povlecite z členkom prstom vodoravno</string>
      <string name="knock_slide_shape">Narišite krog z členkom prstom</string>
      <string name="knock_slide_v">Narišite V z členkom prstom</string>
+     <string name="ks_add_title">Dodaj bližnjico</string>
+     <string name="ks_back_home">Zaćetni zaslon</string>
+     <string name="ks_category_app">Odprite aplikacije</string>
+     <string name="ks_category_key">Bližnjice tipkovnice</string>
+     <string name="ks_category_system">Bližnjice sistema</string>
+     <string name="ks_dialog_add_text">Vnesite kombinacijo tipk, da dodate bližnjico.</string>
+     <string name="ks_dialog_conflict">Ta bližnjica se že uporablja za \"%s\"</string>
+     <string name="ks_dialog_modify_text">Vnesite kombinacijo tipk, da uredite to bližnjico.</string>
+     <string name="ks_dialog_reset_btn">Obnovi</string>
+     <string name="ks_dialog_reset_text_app">Privzete nastavitve bližnjic za odpiranje aplikacij bodo obnovljene. Vaše bližnjice po meri bodo izbrisane. Vseeno obnovim?</string>
+     <string name="ks_dialog_reset_text_system">Obnovim privzete nastavitve sistemskih bližnjic zdaj?</string>
+     <string name="ks_dialog_title">Odpri %s</string>
+     <string name="ks_launch_control_center">Center za kontrolo</string>
+     <string name="ks_launch_notification_center">Plošča obvestil</string>
+     <string name="ks_reset_title">Obnovi privzete nastavitve</string>
+     <string name="ks_screenshot">Posnetek zaslona</string>
+     <string name="ks_search_summary">Išči</string>
+     <string name="ks_title">Bližnjice tipkovnice</string>
      <string name="lab_functions_title">Beta opravila</string>
      <string name="label_available">Razpoložljiva omrežja</string>
      <string name="label_global_roaming_settings">Nastavitve za gostovanje</string>
@@ -6149,6 +6186,7 @@ Tega ne morete povrniti!"</string>
      <string name="menu_stats_total">Skupna poraba</string>
      <string name="menu_stats_unplugged">%1$s od odklopa</string>
      <string name="menu_use_uss">Uporaba USS-ja</string>
+     <string name="mi_headset_healthy">Zdravje sluha</string>
      <string name="mi_pay">Mi denarnica</string>
      <string name="mi_pay_indonesia">Mi Pay račun</string>
      <string name="mi_pay_summary">Vozovnica/Mi Pay/Kartni Emulator</string>
@@ -6812,6 +6850,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
      <string name="natural_haptic">Naravni dotik</string>
      <string name="natural_haptic_summary">Novi vzorci haptičnih povratnih informacij dodajo dodatno dimenzijo vsem, kar vidite in se dotaknete na zaslonu.</string>
+     <string name="natural_scroll">Naravno podrsanje</string>
      <string name="nature_color">Privzeto</string>
      <string name="navigation_guide_app_quick_switch_hide_line_summary">Podrsajte gor iz spodnje strani zaslona, potem pa levo ali desno</string>
      <string name="navigation_guide_app_quick_switch_summary">>Podrsajte levo ali desno iz indikatorja celega zaslona ali dna zaslona</string>
@@ -9586,6 +9625,8 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="settings_charging_fully_charged">Napolnjeno</string>
      <string name="settings_charging_not_charging">Ne polni se</string>
      <string name="settings_forbidden_message">Ta nastavitev je omejena</string>
+     <string name="settings_keyboard_title">Tipkovnica</string>
+     <string name="settings_keyboard_warning">"Tipkovnica ni povezana"</string>
      <string name="settings_label">Nastavitve</string>
      <string name="settings_label_launcher">Nastavitve</string>
      <string name="settings_license_activity_loading">Nalaganje …</string>
@@ -10512,11 +10553,22 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="style_and_wallpaper_settings_title">Slogi in ozadja</string>
      <string name="style_suggestion_summary">Preizkusite različne sloge, ozadja, ure in drugo</string>
      <string name="style_suggestion_title">Prilagajanje telefona</string>
+     <string name="stylus_btn_continue">Naprej</string>
+     <string name="stylus_btn_learn">Vaje</string>
+     <string name="stylus_btn_quick_write">Pisanje</string>
+     <string name="stylus_btn_screen_shot">Posnetek zaslona</string>
+     <string name="stylus_btn_skip">Preskoči</string>
+     <string name="stylus_connect">Tapni za povezavo</string>
      <string name="stylus_connect_fail">"Povezave ni bilo mogoče vzpostaviti. Ponovno poskusite."</string>
      <string name="stylus_connect_fail_no_battery">Napolnite pisalo zdaj</string>
      <string name="stylus_connect_fail_no_reason">"Povezave ni bilo mogoče vzpostaviti"</string>
      <string name="stylus_connect_fail_not_open_gps">"Povezave ni bilo mogoče vzpostaviti. Vklopite lokacijske storitve in poskusite znova."</string>
      <string name="stylus_connecting">Povezovanje…</string>
+     <string name="stylus_function_and_action">Lastnosti</string>
+     <string name="stylus_keyboard_settings_title">Pisalo &amp; tipkovnica</string>
+     <string name="stylus_language_summary">Prepoznaj številke in ročno napisano besedilo v angleščini in še enem izbranem jeziku</string>
+     <string name="stylus_language_title">Jezik</string>
+     <string name="stylus_not_connect_message">"Pisalo ni povezano"</string>
      <string name="stylus_ota_check_failed_battery">"Ni bilo mogoče preveriti. Baterija vašega pisala je skoraj prazna."</string>
      <string name="stylus_ota_check_failed_info">"Različice vdelane programske opreme ni bilo mogoče preveriti. Spet pritrdite pisalo."</string>
      <string name="stylus_ota_check_update">Preveri za posodobitve</string>
@@ -10539,6 +10591,20 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="stylus_ota_update">Posodobi</string>
      <string name="stylus_ota_update_failed">"Programske opreme ni bilo mogoče posodobiti"</string>
      <string name="stylus_ota_updating">Posodabljanje</string>
+     <string name="stylus_primary_key">Prvi gumb</string>
+     <string name="stylus_quick_write">Piši</string>
+     <string name="stylus_quick_write_summary">Pritisnite in držite gumb za pisanje, da pišete ali rišete.</string>
+     <string name="stylus_schematic_diagram">Predstavitev</string>
+     <string name="stylus_screen_shot">Naredi posnetek zaslona</string>
+     <string name="stylus_screen_shot_summary">Pritisnite in držite gumb za posnetek zaslona, da posnamete in uredite posnetek zaslona.</string>
+     <string name="stylus_settings_title">Pisalo</string>
+     <string name="stylus_shortcut_actions_summary">Pritisnite in držite prvi gumb za pisanje. Pritisnite in držite drugi gumb, da posnamete posnetek zaslona.</string>
+     <string name="stylus_shortcut_actions_title">Hitra dejanja</string>
+     <string name="stylus_shortcut_title_note">Pisanje</string>
+     <string name="stylus_shortcut_title_screenshot">Posnetek zaslona</string>
+     <string name="stylus_success">Končano</string>
+     <string name="stylus_vice_key">Drugi gumb</string>
+     <string name="stylus_welcome">Spoznajte Xiaomi pametno pisalo</string>
      <string name="sub_activate_failed">Aktivacija ni uspela.</string>
      <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
      <string name="sub_activate_success">Uspešno aktivirano.</string>
@@ -11126,6 +11192,9 @@ Vam je všeč Mi Mover?"</string>
      <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
      <string name="translation_contributors_summary" />
      <string name="translation_contributors_title">Slo prevod</string>
+     <string name="transparent_human_voice">Zvok</string>
+     <string name="transparent_normal">Normalno</string>
+     <string name="transparent_surroundings">Okolje</string>
      <string name="trigger_carrier_provisioning">Sproži omogočanje uporabe operaterja</string>
      <string name="truetone_summary">Barve prilagodi svetlobi okolice</string>
      <string name="truetone_title">Prilagodljive barve</string>

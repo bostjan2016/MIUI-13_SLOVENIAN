@@ -1767,6 +1767,10 @@ posnetka zaslona"</string>
      <string name="miui_guide_dialog_button_negative_text">Nastavitve</string>
      <string name="miui_guide_dialog_button_positive_text">Razumem</string>
      <string name="miui_guide_dialog_message">Glasovi predstavnosti (glasba, videoposnetki ipd.) se bodo še dalje predvajali v tihem načinu. To lahko spremenite v nastavitvah.</string>
+     <string name="miui_keyboard_shortcut_click">Pritisni</string>
+     <string name="miui_keyboard_shortcut_double_click">Dvojni pritisk</string>
+     <string name="miui_keyboard_shortcut_system_dock">Pokaži priklop za aplikacije</string>
+     <string name="miui_keyboard_shortcut_system_quickly_recent">Preklapljaj med nedavnimi aplikacijami</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Odklenjeno z Bluetooth napravo</string>
      <string name="miui_lock_screen_date">EEEE dd/MM</string>
      <string name="miui_lock_screen_date_12">EEEE dd/MM</string>

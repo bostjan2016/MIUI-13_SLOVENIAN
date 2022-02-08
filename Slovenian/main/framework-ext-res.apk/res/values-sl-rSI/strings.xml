@@ -248,6 +248,14 @@
      <string name="knock_gesture_v">nič</string>
      <string name="knock_long_press_horizontal_slid">nič</string>
      <string name="knock_slide_shape">nič</string>
+     <string name="ks_back_home">Začetni zaslon</string>
+     <string name="ks_close_window">Zapri trenutno okno</string>
+     <string name="ks_launch_control_center">Center za kontrolo</string>
+     <string name="ks_launch_notification_center">Plošča obvestil</string>
+     <string name="ks_launch_recents_tasks">Odpri Nedavno</string>
+     <string name="ks_lock_screen">Zak. zaslon</string>
+     <string name="ks_regional_screen_shot">Posnetek zaslona (delni)</string>
+     <string name="ks_screenshot">Posnetek zaslona (cel zaslon)</string>
      <string name="kungfu">Kung fu</string>
      <string name="leisure">Prosti čas</string>
      <string name="livetalk_not_enable">Paket doplačila izključen</string>

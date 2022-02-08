@@ -1605,6 +1605,8 @@ za fotografije"</string>
      <string name="midnight">Polnoč</string>
      <string name="migrate_msg">Nekateri albumi zahtevajo dovoljenja za premikanje stvari po posodobitvi sistema.</string>
      <string name="miplay_adjust_volume">Nastavite glasnost na %d</string>
+     <string name="miplay_circulate_failed">"Predvajanja ni bilo mogoče prenesti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="miplay_circulating_msg">Prenos predvajanja…</string>
      <string name="miplay_pause_video">Premor</string>
      <string name="miplay_play_video">Predvajaj</string>
      <string name="miplay_seekbar_content_description">Napredek predvajanja: %1$s %2$s</string>

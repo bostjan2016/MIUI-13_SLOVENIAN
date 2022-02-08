@@ -113,6 +113,7 @@
      <string name="all_events">Vsi dogodki</string>
      <string name="all_records">Vsi zapisi</string>
      <string name="allow">Dovoli</string>
+     <string name="already_num">Čas od %s</string>
      <string name="am">dop.</string>
      <string name="anniversary_event_title">Obletnica: %1$s</string>
      <string name="anniversary_secondary_tag">Obletnica</string>
@@ -227,6 +228,7 @@
      <string name="copy_db">Pošlji bazo podatkov</string>
      <string name="copy_email">Kopiraj E-naslov</string>
      <string name="copy_number">Kopiraj telefonsko številko</string>
+     <string name="count_down_date_view">Odštevanje</string>
      <string name="countdown_event_title">Število dni: %1$s</string>
      <string name="countdown_notify_before_3_day_title">Število dni: %1$s čez %2$d dni</string>
      <string name="countdown_notify_title">Število dni: %1$s</string>
@@ -274,6 +276,7 @@
      <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="date_today">" (danes) "</string>
+     <string name="date_view">Datum</string>
      <string name="day">Dan</string>
      <string name="day_picker_description">Mesečni izbirnik dni</string>
      <string name="day_view">Dan</string>
@@ -546,6 +549,7 @@
      <string name="import_help">Pomoč</string>
      <string name="import_text">Uvozi</string>
      <string name="imported">Uvoženo</string>
+     <string name="in_progress">Poteka</string>
      <string name="insert_event_dialog_btn_negative">Ne</string>
      <string name="insert_event_dialog_btn_positive">Da</string>
      <string name="insert_event_dialog_message">Dodam dogodek v koledar?</string>
@@ -785,6 +789,7 @@
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
      <string name="mtrl_slider_range_content_description">%1$s do %2$s</string>
      <string name="name_title_menstruation_today_end">Ciklus naj bi se končal danes</string>
+     <string name="near_agenda_view">Prihajajoči dogodki</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="never">Nikoli</string>
      <string name="new_event_description">Novo</string>
@@ -1127,8 +1132,10 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="solar_term_winter_begins">Začetek zime</string>
      <string name="solar_term_winter_solstice">Zimski solsticij</string>
      <string name="solar_to_lunar_chinese_calendar">Gregorijanski v kitajski</string>
+     <string name="spec_agenda_view">Posebni dogodki</string>
      <string name="start_date_calculate">Izračunaj</string>
      <string name="stats_title">Statistika</string>
+     <string name="still_num">Čas do %s</string>
      <string name="storage_permission_denied">Najprej omogočite dostop do shrambe</string>
      <string name="subscribe_card">Naročite se zdaj</string>
      <string name="subscribe_card_success">Naročeni uspešno! Podrobnosti preverite na domači strani.</string>
@@ -1265,6 +1272,7 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="today">Danes</string>
      <string name="today_at_time_fmt">Danes ob %s</string>
      <string name="today_icon_voice_contentdescription">Nazaj na danes</string>
+     <string name="today_no_event">Ni dogodkov za danes.</string>
      <string name="today_no_events">Ni dogodkov</string>
      <string name="todays_panchang_title">"Današnji Panchang"</string>
      <string name="todo_audio_event">"[Glasovna naloga] "</string>
@@ -1353,7 +1361,13 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="widget_events">Naslednji dogodek</string>
      <string name="widget_get_weather_info">Dobivanje informacij o vremenu</string>
      <string name="widget_no_events">Ni dogodkov</string>
+     <string name="widget_normal_agenda_tip_empty">Za danes ni dogodkov.</string>
+     <string name="widget_normal_agenda_today_done">Vsi dogodki so zaključeni za danes.</string>
+     <string name="widget_normal_more_event">Več dogodkov</string>
+     <string name="widget_normal_new_event">Dodaj dogodek</string>
+     <string name="widget_normal_weekN">Teden %d</string>
      <string name="widget_select_style">Izberi stil</string>
+     <string name="widget_spec_agenda_birth_today">Danes</string>
      <string name="work_day_default_banner_title">Imejte produktiven dan v službi!</string>
      <string name="work_day_indication" />
      <string name="xiaomi_calendar_delete_description">Koledar je sistemska aplikacija, ki vam omogoča ustvarjanje in upravljanje dogodkov. Nekatere njegove funkcije bodo še vedno na voljo, ko odstranite bližnjico na začetnem zaslonu.</string>
