@@ -98,6 +98,7 @@
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="garbage_count">Tu je %1$s starih stvari</string>
+     <string name="long_screenshot_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>
      <string name="long_screenshot_guide_text">"Tapnite za izdelavo
 drsnega posnetka zaslona"</string>
      <string name="long_screenshot_intercepted_error">"Posnetka zaslona ni bilo mogoče narediti. Poskusite ponovno."</string>

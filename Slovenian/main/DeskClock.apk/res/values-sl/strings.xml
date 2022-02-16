@@ -495,6 +495,8 @@
      <string name="shortcut_new_alarm">Nastavi alarm</string>
      <string name="shortcut_start_timer">Zaženi časovnik</string>
      <string name="shortcut_stop_watch">Zaženi štoparico</string>
+     <string name="show_life_post_desc">"Jutranja poročila ne bodo prikazana, če izklopite to storitev"</string>
+     <string name="show_life_post_lable">Pokaži jutranje poročilo</string>
      <string name="shut_down_keep_screen">"Zaslon ne bo ostal vključen"</string>
      <string name="shutdown_alarm_alert_enable_summary">Alarmi za izklop se bodo ugasnili vsaj 10 minut po izklopu naprave</string>
      <string name="shutdown_alarm_alert_enable_summary_new">Vklopite, da se nastavljeni alarmi izklopijo, ko je naprava izključena. Izklopijo se samo alarmi, nastavljeni vsaj %d minut po izklopu naprave.</string>
@@ -503,10 +505,12 @@
      <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 10 minut potem ko izključite napravo"</string>
      <string name="shutdown_alarm_title">Alarm izklopa </string>
      <string name="silent_alarm_summary">Tiho</string>
+     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="skip_alarm_once_hint">Izključi enkrat na %s</string>
      <string name="sleep_analysis">Statistika</string>
      <string name="sleep_analysis_chart_date_format">dd/MM</string>
      <string name="sleep_date_provider_text">Podatke o spanju ponuja Mi Zdravje</string>
+     <string name="sleep_date_provider_text_new">Podatke o spanju ponuja Mi Fitness</string>
      <string name="sleep_duration">"Trajanje spanja: "</string>
      <string name="sleep_duration_avg_text_diff">Povprečno trajanje spanja (%1$s-%2$s)</string>
      <string name="sleep_duration_desc">Spanje %1$s %2$s</string>
@@ -523,6 +527,7 @@
      <string name="sleep_record_desc">Vključite za začetek snemanja podatkov o stanju spanja</string>
      <string name="sleep_record_desc_detailed">"Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z orikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
 "</string>
+     <string name="sleep_record_desc_detailed_new">Sledenje spanju omogoča storitev Mi Fitness Sleep. Če vklopite to storitev, bo Mi Fitness samodejno zbiral in prikazoval podatke o vašem spanju glede na vašo uporabo telefona, dejavnost ter čas spanja in zbujanja, ki ste ga nastavili. Za natančnejše sledenje spanju dovolite Mi Fitness, da se samodejno zažene.</string>
      <string name="sleep_record_no_data">"Vaša statistika bo prikazana tu
 ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="sleep_remind">Opomnik za spanje</string>
@@ -636,6 +641,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
      <string name="update_health_app">Posodobite Mi Zdravje</string>
      <string name="update_health_app_desc">Storitev ponuja Mi Zdravje. Posodobite Mi Zdravje na najnovejšo verzijo.</string>
+     <string name="update_health_app_desc_new">Funkcijo sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih funkcij posodobite Mi Fitness na najnovejšo različico.</string>
+     <string name="update_health_app_new">Posodobi Mi Fitness</string>
      <string name="update_it">Posodobi</string>
      <string name="update_notification_info">Posodabljanje podatakov v ozadju…</string>
      <string name="usage_start">Začni</string>
@@ -671,6 +678,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="worldclock_resident_city_text_detail">Dvojna ura je vključena</string>
      <string name="worldclock_search_city">Izberite mesto</string>
      <string name="worldclock_second_time">Čas v %s</string>
+     <string name="worldclock_second_time_desc">"%s: "</string>
+     <string name="worldclock_second_time_new">%s</string>
      <string name="worldclock_title">Ura</string>
      <string name="worldclock_world_time">Časovni pasovi</string>
      <string name="worldcolock_date_display_prefix">Trenutno: </string>

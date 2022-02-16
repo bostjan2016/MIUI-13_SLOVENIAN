@@ -166,6 +166,7 @@
      <string name="game_net_title">Optimiziraj hitrost povezave</string>
      <string name="game_setting">Nastavitve igre</string>
      <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
+     <string name="gamebooster_network_dialog_message_pad">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
      <string name="gamebooster_network_dialog_title">"Nekatere storitve niso na voljo"</string>
      <string name="gamebox_no_network_btn">Ponovno naloži</string>
      <string name="gb_adv_touch_adv_title">Klasični način dela (privzeto)</string>
@@ -213,6 +214,7 @@
      <string name="gb_game_speed_closed_fail">"Ne morem izključiti Light speed način"</string>
      <string name="gb_game_speed_open">Light speed način je vključen</string>
      <string name="gb_game_speed_open_fail">"Ne morem vključiti Light speed način"</string>
+     <string name="gb_global_settings">Splošne nastavitve</string>
      <string name="gb_gpu_control_anisotropic_filtering">Anizotropno filtriranje</string>
      <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
      <string name="gb_gpu_control_fps">Hitrost sličic</string>
@@ -244,6 +246,9 @@
      <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
      <string name="gb_pannel_control_mode_normal">Privzeto</string>
      <string name="gb_pannel_control_mode_power_saving">Varčevanje energije</string>
+     <string name="gb_webwindow_schemedialog_accept">Odpri</string>
+     <string name="gb_webwindow_schemedialog_cancel">Prekliči</string>
+     <string name="gb_webwindow_schemedialog_title">Odprem Igre?</string>
      <string name="gb_weixinpay_can_not_complete">"Ne morem izvršiti plačila. Najprej namesti za nadaljevanje."</string>
      <string name="gdpr_msg">"S ciljem uporabe osnovnih storitev aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načinih uporabe zaščitnih storitev zaštite (npr. Statistiko porabe mobilnih podatkov, informacije o zlonamernih programih) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
      <string name="get_sys_info">Pridobivanje informacij…</string>

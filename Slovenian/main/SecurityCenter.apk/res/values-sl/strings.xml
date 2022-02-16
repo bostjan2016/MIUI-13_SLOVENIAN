@@ -1286,6 +1286,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="compatible_dialog_title">Pozor</string>
      <string name="comprehensive_protection_measures">Celostna zaščita</string>
      <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
+     <string name="confirm_ai_allow_all_permission">Spremenim stanje dovoljenja v \"Odloči zame\" za vse aplikacije?</string>
      <string name="confirm_allow_all_permission">Dovolim vsem aplikacijam uporabo te storitve?</string>
      <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
      <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
@@ -2112,6 +2113,8 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
      <string name="gb_performance_balance">Uravnoteženo</string>
+     <string name="gb_performance_balance_tips">"Uravnotežen način varčuje z energijo
+ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_high">Zmogljivost</string>
      <string name="gb_performance_mode">Način igre</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
@@ -2147,6 +2150,7 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_signed_gift_loading_summary">Delam…</string>
      <string name="gb_signed_title">Prijavljen ta mesec</string>
      <string name="gb_sound_audition">Poslušaj</string>
+     <string name="gb_storage_game_dialog_button_timer">%ds</string>
      <string name="gb_storage_game_dialog_message">"Igre lahko v Game Turbo shranite samodejno. Če vklopite to funkcijo, se ne bodo prikazale na začetnem zaslonu. Vklopim zdaj?"</string>
      <string name="gb_storage_game_uninstall">Odstrani igre</string>
      <string name="gb_storage_summary">"Na zač. zaslonu ne kaži igre ki so dodane v Game Turbo"</string>
@@ -2236,6 +2240,7 @@ vašega igranja"</string>
      <string name="gd_setting_title">Stranska vrstica</string>
      <string name="gd_setting_vtb">Prikaži med predvajanjem videoposnetkov</string>
      <string name="gd_setting_vtb_desc">Posebne storitve za predvajanje videa</string>
+     <string name="gd_sidebar_long_press_tips">Pritisnite in držite indikator, da ga premaknete, medtem ko napravo držite navpično</string>
      <string name="gd_splite_screen_tips">"Razdeljeni zaslon ne podpira plavajočih oken"</string>
      <string name="gdpr_msg">"&lt;Data&gt;"Da boste zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
      <string name="get_detail_by_click">Tapnite za prikaz posrobnosti</string>
@@ -2317,6 +2322,7 @@ vašega igranja"</string>
      <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
      <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
      <string name="gtb_guide_finish">Preskoči</string>
+     <string name="gtb_guide_game_mode_tips">Izberite željeni način igranja</string>
      <string name="gtb_guide_gtb_button_done">Končano</string>
      <string name="gtb_guide_gtb_community_desc">Delite svoje izkušnje s soigralci</string>
      <string name="gtb_guide_gtb_community_title">Skupnost</string>
@@ -2325,6 +2331,7 @@ vašega igranja"</string>
      <string name="gtb_guide_gtb_game_effected">Upoštevano</string>
      <string name="gtb_guide_gtb_game_new">Novo</string>
      <string name="gtb_guide_gtb_line_new">Okrepite svojo igro s povsem novim Igre Turbo!</string>
+     <string name="gtb_guide_gtb_line_xspace">Izboljšajte svojo igro s povsem novim Igre Turbo!</string>
      <string name="gtb_guide_small_window_app_desc">"Med igranjem uporabljajte druge aplikacije"</string>
      <string name="gtb_guide_small_window_app_title">Plavajoča okna</string>
      <string name="gtb_setting_item_summary_disable_ndds_sim">Blokiraj vse komunikacijske storitve na sekundarni kartici SIM med igranjem, da ohranite povezavo stabilno in preprečite preklapljanje med omrežji. Sekundarna kartica SIM bo odblokirana, ko prenehate igrati.</string>
@@ -3524,7 +3531,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pm_remember_choice">Zapomni si</string>
      <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
      <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
-     <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
+     <string name="power_20s_shutdown">Naprava se bo izključila čez %d sek.</string>
      <string name="power_ambient_display">Zmeraj vključen zaslon</string>
      <string name="power_analysis_consume_title">Poraba baterije</string>
      <string name="power_analysis_suggestion_need_optimize">Najdene težave pri porabi baterije.</string>
@@ -4074,6 +4081,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
      <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
      <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
+     <string name="pref_operator_setting">%1$s%2$s</string>
      <string name="pref_over_traffic_limit">Ko presežete omejitev podatkov</string>
      <string name="pref_package_traffic_leisure">"%1$s 
   Izkl.maks.: %2$s"</string>
@@ -5091,6 +5099,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="st_title_editblacklist">Uredi seznam blokiranih</string>
      <string name="st_title_editwhitelist">Uredi izjeme</string>
      <string name="st_title_keywords_blacklist">Seznam blokiranih ključnih besed</string>
+     <string name="st_title_keywords_list">Seznam ključnih besed</string>
      <string name="st_title_keywords_whitelist">Seznam dovoljenih ključnih besed</string>
      <string name="st_title_man_addblacklist">Dodaj številko na seznam blokiranih</string>
      <string name="st_title_man_addwhitelist">Dodaj štev. telefona v izjeme</string>

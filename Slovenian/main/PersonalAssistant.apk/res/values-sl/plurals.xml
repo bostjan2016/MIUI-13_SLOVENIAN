@@ -161,6 +161,26 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="pa_accessibility_olympic_bronze_medal_count">
+        <item quantity="other">%d bronastih medalj</item>
+        <item quantity="one">%d bronasta medalja</item>
+     </plurals>
+     <plurals name="pa_accessibility_olympic_gold_medal_count">
+        <item quantity="other">%d zlatih medalj</item>
+        <item quantity="one">%d zlata medalja</item>
+     </plurals>
+     <plurals name="pa_accessibility_olympic_medal_count">
+        <item quantity="other">%d medalj skupaj</item>
+        <item quantity="one">%d medalja skupaj</item>
+     </plurals>
+     <plurals name="pa_accessibility_olympic_rank">
+        <item quantity="other">Mesto %d</item>
+        <item quantity="one">Mesto %d</item>
+     </plurals>
+     <plurals name="pa_accessibility_olympic_silver_medal_count">
+        <item quantity="other">%d srebrnih medalj</item>
+        <item quantity="one">%d srebrna medalja</item>
+     </plurals>
      <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_1">
         <item quantity="other">Trgovina s pripomočki. Seznam aplikacij. %d stvari na seznamu aplikacij.</item>
         <item quantity="one">Trgovina s pripomočki. Seznam aplikacij. %d stvar na seznamu aplikacij.</item>
@@ -204,6 +224,10 @@
      <plurals name="pa_base_time_minute_ago">
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred %d minut</item>
+     </plurals>
+     <plurals name="pa_edit_text_limit">
+        <item quantity="other">Vnesite do %1$d znakov</item>
+        <item quantity="one">Vnesite do %1$d znak</item>
      </plurals>
      <plurals name="pa_edit_text_min_length">
         <item quantity="other">Najmanj %1$d znakov</item>

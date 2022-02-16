@@ -894,6 +894,9 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="pay_info_dialog_mibi_balance_prefix">Uporabi preostale Mi kredite: %s</string>
      <string name="pay_info_dialog_title">Izberite način plačila</string>
      <string name="permission_management">Podrobnosti o dovoljenjih</string>
+     <string name="permission_status_allow">Dovoljeno</string>
+     <string name="permission_status_deny">Ni dovoljeno</string>
+     <string name="permission_status_loading">Dostop do stanja naprave…</string>
      <string name="phone_number_may_required_dspt_provision">"Ta storitev lahko zahteva vašo telefonsko številko."</string>
      <string name="phone_number_required_dspt_provision">"Ta storitev zahteva vašo telefonsko številko."</string>
      <string name="photo">Fotografije</string>
@@ -950,6 +953,18 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="privacy_policy_revoked_msg">Soglasje k pravilniku o zasebnosti podjetja Xiaomi Cloud je bilo za ta račun umaknjeno. Poskusite uporabiti drug račun.</string>
      <string name="privacy_policy_update_msg">Politika zasebnosti Xiaomi Cloud je bila posodobljena:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
      <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
+     <string name="privacy_runtime_perm_calendar_desc">Za sinhronizacijo koledarskih dogodkov</string>
+     <string name="privacy_runtime_perm_calendar_title">Dostop do koledarja</string>
+     <string name="privacy_runtime_perm_call_log_desc">Za sinhronizacijo posnetkov klicev</string>
+     <string name="privacy_runtime_perm_call_log_title">Dostop in urejanje posnetkov klicev</string>
+     <string name="privacy_runtime_perm_contacts_desc">Za sinhronizacijo stikov</string>
+     <string name="privacy_runtime_perm_contacts_title">Dostop in urejanje stikov</string>
+     <string name="privacy_runtime_perm_external_storage_desc">Za sinhronizacijo fotografij profila stikov in prilog sporočil</string>
+     <string name="privacy_runtime_perm_external_storage_title">Dostop do shrambe</string>
+     <string name="privacy_runtime_perm_phone_state_desc">Za dostop do telefonske številke in stanja naprave</string>
+     <string name="privacy_runtime_perm_phone_state_title">Dostop do podatkov o napravi</string>
+     <string name="privacy_runtime_perm_sms_desc">Za sinhronizacijo sporočil</string>
+     <string name="privacy_runtime_perm_sms_title">Dostop do sporočil</string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_next">Naprej</string>
