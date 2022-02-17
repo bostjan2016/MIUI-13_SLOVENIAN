@@ -366,6 +366,7 @@
      <string name="calllog_menu_blacklist">Blokiraj</string>
      <string name="calllog_menu_edit_before_call">"Uredi"</string>
      <string name="calllog_menu_send_sms">"Pošlji sporočilo"</string>
+     <string name="calllog_record_none_toast">Ni posnetkov klicev za prikaz</string>
      <string name="callrecordview_item_newcontact">"Nov stik"</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d minut %2$d sekund</string>
      <string name="callrecordview_item_op_time_missed">Klic ni uspel</string>
@@ -1272,6 +1273,12 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="name_phonetic_middle">Fonetično srednje ime</string>
      <string name="name_prefix">Predpona imena</string>
      <string name="name_suffix">Pripona imena</string>
+     <string name="new_saf_permission_dialog_content">"Dovoljenja za stike so bila posodobljena. Dovolite stikom dostop do posnetkov klicev.
+
+Kako podeliti dovoljenje
+Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
+     <string name="new_saf_permission_dialog_title"><b>Permissions required</b></string>
      <string name="next">Naprej</string>
      <string name="next_birthday">Naslednji rojstni dan: %s</string>
      <string name="nfc_vcard_file_name">Stik prejet preko NFC</string>
@@ -1857,6 +1864,8 @@ Napravite varnostno kopijo stikov."</string>
      <string name="theme_dialog_confirm_button">Razumem</string>
      <string name="theme_dialog_confirm_content">"Ta verzija aplikacije stiki ne podpira trenutno nastavljene teme."</string>
      <string name="theme_dialog_confirm_title">"Ne morem nastaviti teme"</string>
+     <string name="this_folder">Uporabi to mapo</string>
+     <string name="three_letter">DEF</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

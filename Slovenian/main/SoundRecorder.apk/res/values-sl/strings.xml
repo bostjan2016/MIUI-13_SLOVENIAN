@@ -332,6 +332,11 @@
      <string name="network_tip_dialog_title">Potrebna je spletna povezava</string>
      <string name="network_unavailable_tip">Povežite se na omrežje in poskusite znova.</string>
      <string name="new_record_name">Nov posnetek</string>
+     <string name="new_saf_permission_dialog_content">"Dovoljenja za snemalnik so bila posodobljena. Dovolite Snemalniku dostop do posnetkov klicev.
+
+Kako podeliti dovoljenje
+Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Naprej</string>
      <string name="night">Večer</string>
      <string name="no_content">Tu ni ničesar</string>
      <string name="no_file">Prazno</string>
@@ -581,6 +586,7 @@
      <string name="text_play_speed_1_0">Normalna hitrost predvajanja</string>
      <string name="text_play_speed_1_5">Hitrost predvajanja 1.5X</string>
      <string name="text_play_speed_2_0">Hitrost predvajanja 2X</string>
+     <string name="this_folder">Uporabi to mapo</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

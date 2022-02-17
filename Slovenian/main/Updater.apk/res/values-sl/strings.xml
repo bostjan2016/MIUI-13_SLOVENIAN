@@ -42,6 +42,19 @@
      <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
      <string name="fastboot_update_warning">Ta posodobitev je samo za fastboot namestitev!</string>
+     <string name="fetch_notification_default_channel_name">Prenosi</string>
+     <string name="fetch_notification_download_cancel">Prekliči</string>
+     <string name="fetch_notification_download_complete">Končano</string>
+     <string name="fetch_notification_download_downloading">Prenašam</string>
+     <string name="fetch_notification_download_eta_hrs">Ostalo še %1$dh %2$dm %3$ds</string>
+     <string name="fetch_notification_download_eta_min">Ostalo še %1$dm %2$ds</string>
+     <string name="fetch_notification_download_eta_sec">Ostalo še %1$ds</string>
+     <string name="fetch_notification_download_failed">Ni uspelo</string>
+     <string name="fetch_notification_download_pause">Premor</string>
+     <string name="fetch_notification_download_paused">Premor</string>
+     <string name="fetch_notification_download_resume">Nadaljuj</string>
+     <string name="fetch_notification_download_retry">Poskusi znova</string>
+     <string name="fetch_notification_download_starting">Začenjam</string>
      <string name="fetching_data">Sprejem povezave za prenos…</string>
      <string name="install_desc">"Naprava se bo ponovno zagnala v TWRP in namestila izbrano datoteko: %1$s
 Podatki ne bodo izbrisani."</string>

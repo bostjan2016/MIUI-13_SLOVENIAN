@@ -690,6 +690,7 @@ s številko %s"</string>
      <string name="face_error_timeout">Znova izvedite odklepanje z obrazom.</string>
      <string name="face_error_unable_to_process">Obraza ni mogoče preveriti. Poskusite znova.</string>
      <string name="face_error_user_canceled">Preverjanje pristnosti obraza preklical uporabnik</string>
+     <string name="face_error_vendor_unknown">Nekaj je šlo narobe. Poskusite ponovno.</string>
      <string name="face_icon_content_description">Ikona obraza</string>
      <string name="face_name_template">Obraz %d</string>
      <string name="face_or_screen_lock_app_setting_name">Uporaba odklepanja z obrazom ali s poverilnico</string>
@@ -741,6 +742,7 @@ s številko %s"</string>
      <string name="fingerprint_error_timeout">Čas čakanja je potekel. Poskusite ponovno.</string>
      <string name="fingerprint_error_unable_to_process">Poskusite ponovno.</string>
      <string name="fingerprint_error_user_canceled">Dejanje s prstnim odtisom je preklical uporabnik.</string>
+     <string name="fingerprint_error_vendor_unknown">Nekaj je šlo narobe. Poskusite ponovno.</string>
      <string name="fingerprint_icon_content_description">Ikona prstnega odtisa</string>
      <string name="fingerprint_name_template">Prst %d</string>
      <string name="fingerprint_not_recognized">Ni prepoznano</string>

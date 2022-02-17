@@ -1557,6 +1557,7 @@ pritisnite sprožilec"</string>
      <string name="portait_effect_entry_riddle">Uganka</string>
      <string name="portait_effect_entry_romance">Romantika</string>
      <string name="portait_effect_entry_sepia">Sepia</string>
+     <string name="portait_effect_entry_shallots">Sončni žarek</string>
      <string name="portait_effect_entry_story">Zgodba</string>
      <string name="portait_effect_entry_tea">Čaj</string>
      <string name="portrait_bokeh_first_tips">"Uporabite Portretni način da zameglite ozadje slike
@@ -2046,6 +2047,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Sprožilec</string>
      <string name="pref_camera_volumekey_function_entry_timer">Odštevanje sprožilca</string>
+     <string name="pref_camera_volumekey_function_entry_timer_new">Časovnik (%ds)</string>
      <string name="pref_camera_volumekey_function_entry_volume">Zvok</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Povečava</string>
      <string name="pref_camera_volumekey_function_title">Opravilo tipk za glasnost</string>

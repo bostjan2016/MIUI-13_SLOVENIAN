@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="HIPS_Perm_External_Storage">Shramba</string>
+     <string name="HIPS_Perm_External_Storage_Desc">Dostopajte do datotek in fotografij in jih shranite v svojo napravo</string>
+     <string name="HIPS_Perm_Read_Contact">Stiki</string>
+     <string name="HIPS_Perm_Read_Contact_Desc">Dostop do stikov</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM korporativno odklepanje PIN-a</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Zahteva za korporativno odklepanje neuspešna.</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Zahteva za RUIM korporativno odklepanje…</string>

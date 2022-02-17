@@ -31,6 +31,7 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
+     <string name="app_name">Predvajanje</string>
      <string name="audio_record_des">Za prenos zvoka iz mobilne naprave na zunanje monitorje</string>
      <string name="casting_tips">Predvajanje…</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
@@ -238,6 +239,10 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="help_page_text_55_global">"Če se ne morete povezati z omrežjem, se prepričajte, da vaš zunanji monitor podpira funkcijo Miracast in da je vklopljen. Pri nekaterih modelih se ta funkcija imenuje brezžični zaslon, zrcaljenje zaslona ali več zaslonov. Oglejte si spodnje informacije, če želite izvedeti, kako vklopite Miracast.
 %1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
      <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+     <string name="invisible_mode_dialog_content">"Ne morete uporabiti predvajanja, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
+     <string name="invisible_mode_dialog_content_audio_relay">"Predvajanja ni mogoče prenesti, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
+     <string name="invisible_mode_dialog_pos">Izklopi</string>
+     <string name="invisible_mode_dialog_title">"Ste brez beleženja zgodovine"</string>
      <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
      <string name="midnight">Noč</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>

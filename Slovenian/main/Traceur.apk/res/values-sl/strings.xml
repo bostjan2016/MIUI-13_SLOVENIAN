@@ -630,6 +630,7 @@ Izbor"</string>
      <string name="speed_label_very_fast">Zelo hitra</string>
      <string name="speed_label_very_slow">Zelo počasna</string>
      <string name="standby_bucket_summary">"Stanje pripravljenosti aplikacije:  %s"</string>
+     <string name="start_new_trace">Začni novo sledenje</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_unavailable">Ni na voljo</string>
      <string name="stop_on_bugreport">Ustavitev sledenja pri poročilih o napakah</string>
