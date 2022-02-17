@@ -505,7 +505,6 @@
      <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 10 minut potem ko izključite napravo"</string>
      <string name="shutdown_alarm_title">Alarm izklopa </string>
      <string name="silent_alarm_summary">Tiho</string>
-     <string name="skip_alarm_date_format">%1$s (%2$s)</string>
      <string name="skip_alarm_once_hint">Izključi enkrat na %s</string>
      <string name="sleep_analysis">Statistika</string>
      <string name="sleep_analysis_chart_date_format">dd/MM</string>
