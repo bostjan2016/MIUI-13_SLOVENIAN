@@ -1277,8 +1277,8 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
 
 Kako podeliti dovoljenje
 Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
-     <string name="new_saf_permission_dialog_grant_permission_immediately">Next</string>
-     <string name="new_saf_permission_dialog_title"><b>Permissions required</b></string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Naprej</string>
+     <string name="new_saf_permission_dialog_title"><b>Potrebno je dovoljenje</b></string>
      <string name="next">Naprej</string>
      <string name="next_birthday">Naslednji rojstni dan: %s</string>
      <string name="nfc_vcard_file_name">Stik prejet preko NFC</string>
