@@ -182,6 +182,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="exit_easymode">Izključi Lite način</string>
      <string name="exo_controls_cc_disabled_description">Omogoči naslove</string>
      <string name="exo_controls_cc_enabled_description">Onemogoči naslove</string>
+     <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
      <string name="exo_controls_fastforward_by_amount_description">Hitro naprej %d sek.</string>
      <string name="exo_controls_fastforward_description">Hitro naprej</string>
      <string name="exo_controls_fullscreen_enter_description">Vstopi v cel zaslon</string>
@@ -206,6 +207,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="exo_controls_shuffle_off_description">Naključno predvajanje izključeno</string>
      <string name="exo_controls_shuffle_on_description">Naključno predvajanje vključeno</string>
      <string name="exo_controls_stop_description">Ustavi</string>
+     <string name="exo_controls_time_placeholder">00:00:00</string>
      <string name="exo_controls_vr_description">VR način</string>
      <string name="exo_download_completed">Prenos končan</string>
      <string name="exo_download_description">Prenesi</string>
@@ -213,7 +215,10 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="exo_download_failed">Ne morem prenesti</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
      <string name="exo_download_removing">Odstranitev prenosov</string>
+     <string name="exo_item_list">%1$s, %2$s</string>
+     <string name="exo_track_bitrate">%1$.2f Mbps</string>
      <string name="exo_track_mono">Mono</string>
+     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_role_alternate">Alternativno</string>
      <string name="exo_track_role_closed_captions">Podnapisi</string>
      <string name="exo_track_role_commentary">Komentar</string>
@@ -610,6 +615,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="stop_app_timer_tip">Čas zaslona, povezani podatki in dovoljenja bodo izbrisani po onemogočitvi, vključno nastavitve, lokalne in oblačne podatke itd.</string>
      <string name="stop_summary">Če to izključite bo izbrisana vsa statistika in podatki časa zaslona</string>
      <string name="suggestion">Povratna inf.</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>

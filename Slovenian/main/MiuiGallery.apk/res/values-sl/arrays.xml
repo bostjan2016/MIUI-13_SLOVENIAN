@@ -91,6 +91,10 @@
         <item>Nežni cvetni listi</item>
         <item>V polnem razcvetu</item>
      </string-array>
+     <string-array name="flowers_title">
+        <item>Nežni cvetni listi</item>
+        <item>V polnem razcvetu</item>
+     </string-array>
      <string-array name="forest_title">
         <item>V divjino</item>
         <item>Divje in svobodno</item>
@@ -237,7 +241,7 @@
      <string-array name="magic_idp_size_category_certificates">
         <item>Socialna varnost</item>
         <item>Izjava o zdravju</item>
-        <item>Zdravstveno Zavarovanje</item>
+        <item>Zdravstveno zavarovanje</item>
         <item>ID</item>
         <item>Dovoljenje za bivanje</item>
      </string-array>
@@ -363,7 +367,17 @@
         <item>Skupaj</item>
         <item>Dobri časi</item>
         <item>Skladno</item>
-     </string-array>          
+     </string-array>
+     <array name="pen_default_color_item">
+        <item>#ffff7a45</item>
+     </array>
+     <integer-array name="pen_default_size_item">
+        <item>9</item>
+        <item>18</item>
+        <item>27</item>
+        <item>36</item>
+        <item>45</item>
+     </integer-array>
      <string-array name="people_travel_title">
         <item>Kamor nas pripelje cesta</item>
         <item>Potovanja so dobro deljena</item>

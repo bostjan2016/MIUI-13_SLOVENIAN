@@ -2314,7 +2314,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="remote_online_service_name">Snemanje z dvema telefonoma</string>
      <string name="remote_online_unavailable">"Ne najdem naprav"</string>
      <string name="remote_online_waiting">Čakam na povezavo…</string>
-     <string name="remote_online_whats">Kako deluje Snemanje z dvema telefonoma?</string>
+     <string name="remote_online_whats">Kako deluje snemanje z dvema telefonoma?</string>
      <string name="reset_manual_picture_style_toast">Parametri so bili uspešno ponastavljeni</string>
      <string name="reset_manually_parameter_confirmed">V redu</string>
      <string name="reset_manually_parameter_hint">Vrni</string>
