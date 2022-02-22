@@ -66,6 +66,7 @@
      <string name="character_counter_content_description">Vneseni znaki %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
      <string name="checking_intranet">Preverjam intranet povezavo, počakajte...</string>
+     <string name="clear_temperature">Izbriši temp.</string>
      <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
@@ -90,14 +91,14 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="config_suggest_suffix_title">Varčevanje z baterijo (priporočilo)</string>
      <string name="config_suggest_title">Varčevanje baterije</string>
      <string name="confirm">V redu</string>
-     <string name="connect_intranet_hint">Povežite se na intranet</string>
+     <string name="connect_intranet_hint">Povežite se z intranetom</string>
      <string name="copy">Kopiraj</string>
      <string name="current_cloud_addr_is">Naslov Cloud kontrolnega strežnika:</string>
      <string name="dark_mode">Temni način dela</string>
      <string name="dark_mode_summary">Prestavite na tamno paleto barv za prihranek baterije</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
-     <string name="delete_data_confirm">Potrdite za brisanje podatkov</string>
+     <string name="delete_data_confirm">Želite zdaj izbrisati to stvar?</string>
      <string name="disable_hide_mode">Izključi Varčevanje baterije</string>
      <string name="disable_hide_mode_warning">Izključitev Varčevanje baterije lahko povzroči večjo porabo energije</string>
      <string name="disabled">Izklj.</string>
@@ -196,9 +197,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="insert_data">Vnesite podatke</string>
      <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
      <string name="item_view_role_description">Zavihek</string>
-     <string name="kill_all_back_pro_toast_message">"Zaradi pregrevanja naprave ni mogoče uporabiti vseh postopkov v ozadju"</string>
+     <string name="kill_all_back_pro_toast_message">"Vaša naprava je pregreta. Zaprte so vse aplikacije, ki se trenutno izvajajo v ozadju"</string>
      <string name="kill_pkg_toast_message">Naprava se pregreva, aplikacija se bo zaprla</string>
-     <string name="kill_some_back_pro_toast_message">"Zaradi pregrevanja naprave ni mogoče uporabiti nekaterih postopkov v ozadju"</string>
+     <string name="kill_some_back_pro_toast_message">"Vaša naprava je pregreta. Zaprte so nekatere aplikacije, ki se trenutno izvajajo v ozadju"</string>
      <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
      <string name="lasttime_feature_cloud">Posodobljena opravila:</string>
      <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
@@ -473,7 +474,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="scenario_policies_warmcontrol">Nadzor temperature</string>
      <string name="screen_off">Zaslon je izključen</string>
      <string name="screen_off_10_min">Zaslon je izključen več kot 10 min.</string>
+     <string name="screen_off_current">Zaslon izklopljen DC</string>
      <string name="screen_on">Zaslon je vključen</string>
+     <string name="screen_on_current">Zaslon na DC</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_result_text">"Ne najdem nobene aplikacije"</string>
      <string name="select_items">Izbrano %d</string>
@@ -490,7 +493,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="sleep_config_enhance_title">Način mirovanja</string>
      <string name="sleepmode_disclaimer_agree">Strinjam se</string>
      <string name="sleepmode_disclaimer_cancel">Prekini</string>
-     <string name="sleepmode_privacy_content">To opravilo bo uporabljalo podatke o sistemu naprave in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
+     <string name="sleepmode_privacy_content">Ta storitev potrebuje dostop do informacij o vašem sistemu in napravi. Te informacije ne bodo naložene na naše strežnike</string>
      <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
      <string name="sleepmode_privacy_title">Način mirovanja</string>
      <string name="softbank_high_temp_toast_time_10min">Ugasnjena svetilka, da se prepreči pregrevanje</string>
@@ -501,8 +504,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
-     <string name="thermal_cancel">NE</string>
-     <string name="thermal_confirm">DA</string>
+     <string name="thermal_cancel">Prekliči</string>
+     <string name="thermal_confirm">V redu</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
@@ -514,6 +517,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="title_home">Domov</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="trig_temperature">Začetna temp.</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>

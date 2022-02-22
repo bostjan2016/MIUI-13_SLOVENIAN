@@ -41,6 +41,10 @@
         <item quantity="other">"Ni uporabljeno %d let"</item>
         <item quantity="one">"Ni uporabljeno %d leto"</item>
      </plurals>
+     <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Izbranih %d aplikacij za brisanje podatkov</item>
+        <item quantity="one">Izbrana %d aplikacija za brisanje podatkov</item>
+     </plurals>
      <plurals name="clean_long_msg_p1">
         <item quantity="other">"Čiščenje %1$d datotek (%2$d%%)
 "</item>
@@ -66,6 +70,10 @@
      <plurals name="dc_item_summary_app_data">
         <item quantity="other">Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacij</item>
         <item quantity="one">Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacijo</item>
+     </plurals>
+     <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacij porabi veliko prostora za shranjevanje&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacija porabi veliko prostora za shranjevanje&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_image">
         <item quantity="other">Lahko izbrišete  &lt;font color=#0097FF>%d&lt;/font> nepotrebnih fotografij</item>
@@ -217,6 +225,10 @@
         <item quantity="other">Preneslo %1$d oseb</item>
         <item quantity="one">Prenesla %1$d oseba</item>
      </plurals>
+     <plurals name="reset_app_selected_app">
+        <item quantity="other">Izbrano %d aplikacij za ponastavitev</item>
+        <item quantity="one">Izbrana %d aplikacija za ponastavitev</item>
+     </plurals>
      <plurals name="resutl_function_install_app_summary">
         <item quantity="other">"&lt;font color=#ff0000 >%d&lt;/font> aplikacij ni uporabljeno dlje časa. Poglej."</item>
         <item quantity="one">"&lt;font color=#ff0000 >%d&lt;/font> aplikacija ni uporabljena dlje časa. Poglej."</item>
@@ -232,6 +244,14 @@
      <plurals name="second">
         <item quantity="other">%1$d sek</item>
         <item quantity="one">%1$d sek</item>
+     </plurals>
+     <plurals name="select_app">
+        <item quantity="other">Izbrano %d aplikacij</item>
+        <item quantity="one">Izbrana %d aplikacija</item>
+     </plurals>
+     <plurals name="unload_app_selected_app">
+        <item quantity="other">Izbrano %d aplikacij za odstranitev</item>
+        <item quantity="one">Izbrana %d aplikacija za odstranitev</item>
      </plurals>
      <plurals name="video_clean_scan_app_result">
         <item quantity="other">%d aplikacij z predpomnjenimi videoposnetki</item>

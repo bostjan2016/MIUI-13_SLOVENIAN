@@ -1319,6 +1319,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cpu_usage_app_tip_can_not_restrict_system_app">"Ne morem omejiti storitve sistema"</string>
      <string name="cpu_usage_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
      <string name="cpu_usage_process_run_time_little_time">Manj od 1 minute</string>
+     <string name="cpu_usage_process_run_time_little_time_new">Manj od %d minut</string>
      <string name="cpu_usage_view_action_btn_text">Tapni za prikaz</string>
      <string name="create_gamebooster_destop">Bližnjica začetnega zaslona uspešno napravljena</string>
      <string name="create_shortcut">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
@@ -1772,8 +1773,9 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="first_aid_card_apn_title">"Ne morem se povezati na omrežje"</string>
      <string name="first_aid_card_consume_power_button1">Omeji</string>
      <string name="first_aid_card_consume_power_button2">Izključi</string>
-     <string name="first_aid_card_consume_power_summary1">Več kot 5 aplikacijam je dovoljen samodejni zagon. Omejite zaradi varčevanja baterije.</string>
+     <string name="first_aid_card_consume_power_summary1">Več kot 5 aplikacij se lahko samodejno zažene. Omejite, da prihranite baterijo.</string>
      <string name="first_aid_card_consume_power_summary2">Izključite prenosno dostopno točko zaradi varčevanja baterije.</string>
+     <string name="first_aid_card_consume_power_summary_app">Samodejni zagon ima več kot %d aplikacij. Omejite, da prihranite baterijo.</string>
      <string name="first_aid_card_consume_power_title">Uporaba baterije</string>
      <string name="first_aid_card_float_window_button">Omeji</string>
      <string name="first_aid_card_float_window_title">Omogočili ste plavajoča obvestila</string>
@@ -5360,7 +5362,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="system_anti_fraud_dialog_content">"Kaže da ste pravkar prejeli prevarantski klic ali sporočilo. Nadaljevanje s tem plačilom lahko povzroči finančne izgube."</string>
      <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Če vas osebje za pomoč strankam, organi ali osebe, ki jih morda poznate, prosijo, da dokončate to plačilo, &lt;/font>&lt;font = color=#F22424>preverite njihovo identiteto, preden nadaljujete.&lt;/font></string>
      <string name="system_anti_fraud_dialog_image_txt">Zaščita proti goljufijam</string>
+     <string name="system_anti_fraud_dialog_message">Zaščita proti goljufijam</string>
      <string name="system_anti_fraud_dialog_title">Opozorila proti goljufijam</string>
+     <string name="system_anti_fraud_dialog_title2">Opozorila proti goljufijam</string>
      <string name="system_app">Sistemske aplikacije</string>
      <string name="system_app_permission_instruction">Ta aplikacija potrebuje naslednja dovoljenja za zagotavljanje osnovnih sistemskih storitev. Upravljanje dovoljenj je za to aplikacijo omejeno, saj bo spreminjanje statusov dovoljenj povzročilo nenormalnosti delovanja sistema.</string>
      <string name="system_application">Sistemske aplikacije</string>

@@ -394,12 +394,15 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="permission_desc">Podrobnosti o dovoljenjih</string>
      <string name="permission_dialog_cancel">Prekliči</string>
      <string name="permission_dialog_ok">Nastavitve</string>
-     <string name="permission_record">Snemaj zvok</string>
+     <string name="permission_read_phone_state">Dostop do podatkov o napravi</string>
+     <string name="permission_read_phone_state_description">Za dostop do statusa klica za samodejno zaustavitev snemanja ob sprejemanju klicev</string>
+     <string name="permission_record">Snemanje zvoka</string>
      <string name="permission_record_description">Za zagotavljanje storitev snemanja zvoka</string>
      <string name="permission_storage">Dostop do shrambe</string>
      <string name="permission_storage_description">Za upravljanje posnetkov in njihovo prenašanje iz oblaka</string>
      <string name="permission_storage_description_for_download">Za prenos posnetkov iz oblaka</string>
      <string name="permission_storage_description_for_manage_files">Za upravljanje posnetkov</string>
+     <string name="play_speed">%1$.1fX hitrost</string>
      <string name="playback_delete_records">Izbriši posnetek</string>
      <string name="playback_share_records">Deli posnetek</string>
      <string name="pm">pop.</string>
