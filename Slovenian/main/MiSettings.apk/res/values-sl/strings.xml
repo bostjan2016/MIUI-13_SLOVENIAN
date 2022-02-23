@@ -340,8 +340,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="hsv_space_color_saturation">Saturacija</string>
      <string name="hsv_space_color_value">Vrednost</string>
      <string name="intelligent_radio_btn_summary">Hitrost osveževanja dinamično prilagodite glede na scenarije, da uravnotežite zmogljivost s porabo energije</string>
-     <string name="intelligent_radio_btn_title">Samod. (priporočeno)</string>
-     <string name="intelligent_recognition_item_summary">Uporabite označeno melodijo zvonjenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
+     <string name="intelligent_radio_btn_title">Privzeto (priporočeno)</string>
+     <string name="intelligent_recognition_item_summary">Uporabi označeno melodijo zvonjenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
      <string name="intelligent_recognition_item_title">Identificiraj storitve</string>
      <string name="item_anura">Anura</string>
      <string name="item_artiodactyla">Kopitarji z parnimi prsti</string>

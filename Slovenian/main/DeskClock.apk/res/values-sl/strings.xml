@@ -451,11 +451,15 @@
      <string name="reach_upper_limit">"Ne morem dodati več časovnikov"</string>
      <string name="read_external_storage_permission_desc">Za nastavitev melodij zvonjenja po meri</string>
      <string name="read_internal_storage">Dostop do shrambe</string>
+     <string name="read_phone_state">Dostop do podatkov o napravi</string>
+     <string name="read_phone_state_desc">Dostop do stanja klica, ko zvoni alarm</string>
+     <string name="read_phone_state_desc_when_request">Za dostop do statusa klica za samodejno zaustavitev alarmov ob prejemu klicev</string>
      <string name="refresh_fail">Ne morem osvežiti</string>
      <string name="refresh_success">Osveževanje končano</string>
      <string name="refreshing">Osveževanje</string>
      <string name="release_enter_private">Spusti za odpiranje zasebne mape</string>
      <string name="release_refresh">Spusti za osvežitev</string>
+     <string name="remark_hint">Vnesite oznako</string>
      <string name="remind_ringtone">Zvonjenje</string>
      <string name="repeat_count">X</string>
      <string name="repeat_type">Ponovi</string>
