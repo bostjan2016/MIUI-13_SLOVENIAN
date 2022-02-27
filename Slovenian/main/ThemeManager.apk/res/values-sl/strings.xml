@@ -94,8 +94,9 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="app_name">Teme</string>
      <string name="app_name_pad">Personalizacija</string>
      <string name="application_list_permission_desc">Za prikaz aplikacij, združljivih s prozornimi ozadji</string>
+     <string name="application_notify_title">Pozor</string>
      <string name="apply_choosen_type_resource">Nastavi izbrane stvari</string>
-     <string name="apply_default_font_tip">"Uporabljam trenutno sistemsko pisavo?"</string>
+     <string name="apply_default_font_tip">"Uporabim trenutno sistemsko pisavo?"</string>
      <string name="apply_failed">"Ne morem nastaviti"</string>
      <string name="apply_font_btn_exclude">Ne zdaj</string>
      <string name="apply_font_btn_reboot">Ponovni zagon</string>
@@ -208,6 +209,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="component_title_video_wallpaper">Filmi</string>
      <string name="component_title_wallpaper">Slika za ozadje</string>
      <string name="concentration_old_period">Več</string>
+     <string name="configure_success_not_enable_aod">Uspešno uporabljeno. Vklopite Vedno na zaslonu, da bo tema začela veljati.</string>
      <string name="copy">Kopiraj</string>
      <string name="count_down_tip">%ds ostalo</string>
      <string name="create_home_icon">Bližnjica na začetnem zaslonu</string>
@@ -1374,6 +1376,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="super_wallpaper">Super Slika ozadja</string>
+     <string name="super_wallpaper_dialog_content">Varčevanje z baterijo bo izklopilo dinamične funkcije ozadij.</string>
      <string name="super_wallpaper_download_progress">%1$d%%</string>
      <string name="super_wallpaper_list_footer_text">Spremljajte naše nove izdaje!</string>
      <string name="super_wallpaper_list_label">Super Slike ozadja</string>
@@ -1601,6 +1604,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="video_not_support_message">Ta video se lahko prikaže nepravilno ali upočasni vašo napravo. Vseeno nadaljujem?</string>
      <string name="video_not_support_title">Ta video je prevelik</string>
      <string name="video_silence_apply_success">Video brez zvoka uspešno nastavljen</string>
+     <string name="video_wallpaper_apply_warning">To ozadje bo uporabljeno na vašem domačem in zaklenjenem zaslonu. Uporabim?</string>
      <string name="video_wallpaper_import">Tapni za dodajanje</string>
      <string name="voice_input">Glasovni vnos</string>
      <string name="wallpaper_24h">24H</string>
