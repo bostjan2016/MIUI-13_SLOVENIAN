@@ -596,6 +596,7 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
      <string name="terms_of_use_label_statistics">Statistike</string>
      <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
      <string name="terms_of_use_label_translation">Storitev prevajanja</string>
+     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (različica Xiaomi)</string>
      <string name="terms_of_use_label_updater">Posodabljanje</string>
      <string name="terms_of_use_label_use_location_and_network_global">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava aktivirana, se bodo naslednje storitve povezale z omrežjem in dostopale do vaše lokacije:</string>
      <string name="terms_of_use_label_use_network_china">Pred uporabo MIUI morate prebrati in se strinjati z našo uporabniško pogodbo in politiko zasebnosti. Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politiko zasebnosti. Ko je naprava vklopljena, se bodo v omrežje povezale naslednje storitve:</string>

@@ -147,7 +147,7 @@
      <string name="account_setup_correct_address_tips">Vnesite naslov e-pošte</string>
      <string name="account_setup_creating_account_msg">Ustvarjam račun…</string>
      <string name="account_setup_deleting_account_msg">Brisanje računa…</string>
-     <string name="account_setup_domain_invalid_toast">E-poštno ime domene, ki ste ga vnesli je napačno, preverite</string>
+     <string name="account_setup_domain_invalid_toast">Vnesite veljavno e-poštno domeno</string>
      <string name="account_setup_exchange_certificate_title">Potrdilo odjemalca</string>
      <string name="account_setup_exchange_device_id_label">ID mobilne naprave</string>
      <string name="account_setup_exchange_no_certificate">Brez</string>
@@ -283,6 +283,9 @@
      <string name="attachment_decoding">Odpiranje priponke…</string>
      <string name="attachment_detail_empty_prompt">Izberite datoteke</string>
      <string name="attachment_download_all">Prenesi vse</string>
+     <string name="attachment_drag_add_inline">Vdelaj</string>
+     <string name="attachment_drag_add_picture_prompt">Ali želite vdelati ali priložiti izbrane slike?</string>
+     <string name="attachment_drag_create_email_prompt">Izbrane datoteke priloži novemu e-poštnemu sporočilu?</string>
      <string name="attachment_image">Slika</string>
      <string name="attachment_list_search_hint">Išči priponke</string>
      <string name="attachment_mgr_name">Priponke</string>
@@ -391,15 +394,21 @@
      <string name="click_download_all_content">[ Tapni za prenos vsebine ]</string>
      <string name="click_to_reload">Dotaknite se zaslona za ponovno nalaganje</string>
      <string name="close">Zapri</string>
+     <string name="close_custom_folder">Skrij podmape</string>
      <string name="collapse_recipient_details">Sesutje prejemnikovih podatkov</string>
      <string name="compose">Sestavi</string>
      <string name="compose_add_attachment_permission_denied">"E -pošte ni mogoče posredovati. Potrebna so dovoljenja za dostop do zunanjega pomnilnika."</string>
      <string name="compose_attachment_number_limit">"Ne morem dodati več kot 10 priponk"</string>
+     <string name="compose_encrypt_lock_description">Šifriraj</string>
+     <string name="compose_encrypt_unlock_description">Dešifriraj</string>
+     <string name="compose_encrypt_unlock_w_description">Ni zaupanja vreden stik</string>
      <string name="compose_event">Vabilo</string>
      <string name="compose_paste_address_oob">Vstavljeno besedilo je predolgo</string>
      <string name="compose_picturesexceedlimits">"Lahko dodate več slik kot priponke"</string>
      <string name="compose_send">Pošlji</string>
      <string name="compose_sent">Uspešno poslano</string>
+     <string name="compose_smime_sign_description">Uporabi podpis</string>
+     <string name="compose_smime_unsign_description">Odstrani podpis</string>
      <string name="compose_to_label">Za</string>
      <string name="compress_failed_and_retry">"Ne morem stisniti. Poskusite ponovno."</string>
      <string name="compress_img">Stisni slike</string>
@@ -1036,6 +1045,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="message_invite_title">Vabilo za dogodek</string>
      <string name="message_saved">Sporočilo shranjeno med osnutke.</string>
      <string name="message_view_attachment_background_load">Ena ali več priponk ki ste jih posredovali se bodo prenesle za pošiljanje.</string>
+     <string name="mi_slide_menu">Stranska vrstica</string>
      <string name="mi_sync_erroe_toast">"Omrežna napaka: "</string>
      <string name="mi_sync_erroe_toast_other">"Napaka strežnika: "</string>
      <string name="mi_sync_erroe_toast_other_details">-ERR:neznana napaka</string>
@@ -1247,6 +1257,7 @@ Poskusite z ostalo pošto."</string>
      <string name="one_month">1 mesec</string>
      <string name="one_week">1 teden</string>
      <string name="open_calendar_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in stikov</string>
+     <string name="open_custom_folder">Pokaži podmape</string>
      <string name="open_external_storage_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in shranjevanja</string>
      <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
      <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
@@ -1319,9 +1330,12 @@ Poskusite z ostalo pošto."</string>
      <string name="pdf_save_error">Telo je preveliko, ni ga mogoče izvoziti kot datoteko PDF</string>
      <string name="pdf_save_no_body">Počakajte, da se besedilo uspešno naloži, in poskusite znova</string>
      <string name="pdf_save_to">Shranjeno v</string>
+     <string name="pdf_signature_add">Dodaj nov podpis</string>
      <string name="pdf_signature_create_title">Ustvari podpis</string>
+     <string name="pdf_signature_delete">Izbriši podpis</string>
      <string name="pdf_signature_manager_max_count">Največje število podpisov. Izbrišite obstoječi podpis in poskusite znova</string>
      <string name="pdf_signature_manager_title">Upravitelj podpisov</string>
+     <string name="pdf_signature_select">Izberi podpis</string>
      <string name="pdf_viewer_actionbar_more_other">Odprla druga aplikacija</string>
      <string name="pdf_viewer_actionbar_more_wps">Odprto z WPS</string>
      <string name="pdf_viewer_file_damage_toast">Datoteka Pdf je poškodovana. Preverite datoteko in poskusite znova</string>
@@ -1570,6 +1584,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="select_attachment_type">Izberi priponko od:</string>
      <string name="select_no_file">Ni izbranih priponk</string>
      <string name="select_path">Izberi pot</string>
+     <string name="selected">izbrano</string>
      <string name="selected_lable">Izbrano</string>
      <string name="send">Pošlji</string>
      <string name="send_att_title">Opozorilo</string>
@@ -1764,6 +1779,7 @@ Odstranim račun?"</string>
      <string name="undo">Razveljavi</string>
      <string name="unknow">Neznano</string>
      <string name="unread_string">pogovor neprebran</string>
+     <string name="unselected">Preklicana izbira</string>
      <string name="unselected_lable">Več</string>
      <string name="unzip_file_failed">"Ne morem razširiti!"</string>
      <string name="update_date_format_templete">HH:mm aa, dd.MM.yyyy</string>
@@ -1810,7 +1826,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
      <string name="wait_for_sync_title">Čakaj na sinhr.</string>
      <string name="wait_help_context">Na čakanju</string>
      <string name="wait_while_update_db">Počakajte trenutek med nadgradnjo baze podatkov!</string>
-     <string name="web_view_load_error_tip">Prišlo je do nekaterih težav in telesa tega e-poštnega sporočila ni mogoče pravilno prikazati. Če naletite na to težavo, dodajte skupino QQ 952315061, da nam pošljete povratne informacije.</string>
+     <string name="web_view_load_error_tip">Vaš brskalnik se je zrušil. Prenesite najnovejšo različico Webview iz Googla Play, da poskusite odpraviti to težavo.</string>
      <string name="webview_logout">Ali res odstopate od prijave? Pridite in poskusite ponovno!</string>
      <string name="webview_logout_cancel">"Ne želim več poizkušati"</string>
      <string name="webview_logout_sure">Poizkusi še enkrat</string>

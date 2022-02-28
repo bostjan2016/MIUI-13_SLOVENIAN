@@ -692,6 +692,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
      <string name="angle_enabled_app">Izbira aplikacije, ki podpira ANGLE</string>
      <string name="angle_enabled_app_not_set">Ni nastavljene aplikacije, ki podpira ANGLE</string>
      <string name="angle_enabled_app_set">Aplikacija, ki podpira ANGLE: %1$s</string>
+     <string name="animation_off">Animacija izklopljena</string>
      <string name="animator_duration_scale_title">Merilo trajanja animacije</string>
      <string name="another_migration_already_in_progress">Poteka že druga selitev.</string>
      <string name="anr_record_interval_title">Posnemi ANR intervale</string>
@@ -966,7 +967,8 @@ Spremenim nastavitve?"</string>
      <string name="asst_feedback_indicator_title">Povratne informacije o prilagodljivih obvestilih</string>
      <string name="asst_importance_reset_summary">Ponastavitev uporabniško spremenjenih nastavitev pomembnosti in omogočanje prednostne obravnave Pomočniku za obvestila</string>
      <string name="asst_importance_reset_title">Ponastavitev pomembnosti obvestil</string>
-     <string name="attempt_other_network">Poskusi drugo omrežje</string>
+     <string name="at_most_one_process">Največ %d procesov</string>
+     <string name="attempt_other_network">Poskusite drugo omrežje</string>
      <string name="audio_and_captions_category_title">Zvok in besedilo na zaslonu</string>
      <string name="audio_category_title">Zvok</string>
      <string name="audio_files_title">Zvočne datoteke</string>
@@ -1021,7 +1023,7 @@ Spremenim nastavitve?"</string>
      <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
      <string name="auto_clean_description">"O tej storitvi
 1. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-2. Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+2. Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_description_pad">"O tej storitvi
 - Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
 - Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
@@ -1556,6 +1558,10 @@ v časovnem obdobju ^2"</string>
      <string name="block_list_title">Seznam blokiranih</string>
      <string name="block_title">Pokaži obvestila</string>
      <string name="bluetooth">Bluetooth</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimizirano za kakovost zvoka (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Uravnotežena kakovost zvoka in povezave (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimiziran0 za kakovost povezave (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Najboljši učinek (prilagodljiva bitna hitrost)</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Povezan s profilom za predstavnostni zvok</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Uporabi za zvok predstavnosti</string>
      <string name="bluetooth_active_battery_level">Aktivno, %1$s baterije</string>
@@ -4386,7 +4392,9 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
      <string name="force_immersive_compatibility_hint_message">Nekatere aplikacije mogoče ne bodo delovale pravilno če izbereti Skrij tipke zaslona.</string>
      <string name="force_immersive_compatibility_hint_title">Težave s kompatibilnostjo</string>
      <string name="force_msaa">Vsili 4x MSAA</string>
+     <string name="force_msaa_new">Vsili %dx MSAA</string>
      <string name="force_msaa_summary">V aplikacijah OpenGL ES 2.0 omogoči 4x MSAA</string>
+     <string name="force_msaa_summary_new">Omogoči %2$dx MSAA v OpenGL ES %1$.1f apl</string>
      <string name="force_resizable_activities">Vsili spremembo velikosti za aktivnosti</string>
      <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim spremeniti velikost za način z več okni.</string>
      <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
@@ -6063,6 +6071,7 @@ Tega ne morete povrniti!"</string>
      <string name="max_cpu8_info">"8 jedrni "</string>
      <string name="max_fingerprint_number_reached">"Ni možno dodati več kot 5 prstnih odtisov. Da dodate nov prstni odtis najprej izbrišite obstoječega."</string>
      <string name="max_fingerprint_reached_toast">Lahko dodate do 5 prstnih odtisov</string>
+     <string name="max_number_of_processes">Največ %d procesov</string>
      <string name="maximum_memory_use">Največja uporaba pomnilnika</string>
      <string name="mbn_version">MBN verzija</string>
      <string name="mechanical_ime">Mehanska tipkovnica</string>
@@ -7108,6 +7117,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="no_all_caps">NE</string>
      <string name="no_application">Nič</string>
      <string name="no_applications">Ni aplikacij.</string>
+     <string name="no_background_processes">Brez procesov v ozadju</string>
      <string name="no_battery_summary">Akumulator ni bil uporabljen od zadnje polne napolnjenosti</string>
      <string name="no_battery_summary_24hr">V zadnjih 24 urah ni bilo porabe energije baterije.</string>
      <string name="no_bluetooth_devices">Ni naprav Bluetooth</string>
@@ -10154,6 +10164,7 @@ Umaknem privolitev %s zdaj?"</string>
      <string name="stable_build">" | Stabilna"</string>
      <string name="standard">Tiho</string>
      <string name="standard_info">Klici in obvestila bodo utišani</string>
+     <string name="standard_limit">Standardna omejitev</string>
      <string name="standby_bucket_summary">"Stanje pripravljenosti aplikacije:  %s"</string>
      <string name="start_backup">Začni izdelavo var. kopije</string>
      <string name="start_restore">Obnovi</string>
@@ -10514,8 +10525,36 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="string_KB_per_log_buffer">%d KB na medpomnilnik dnevnika</string>
      <string name="string_MB">%d MB</string>
      <string name="string_MB_per_log_buffer">%d MB na medpomnilnik dnevnika</string>
+     <string name="string_after_int_minute">Čez %d minuto</string>
+     <string name="string_after_int_minutes">Čez %d minut</string>
+     <string name="string_after_int_seconds">Čez %d sekund</string>
+     <string name="string_always">Zmeraj</string>
+     <string name="string_bits_per_sample">%d bit/vzorec</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Kratka latenca (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Srednja latenca (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Dolga latenca (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimizirano za nizko latenco (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimizirano za kakovost povezave (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Uravnotežena kakovost zvoka in povezave (%1$d/%2$dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimizirano za kakovost zvoka (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Najboljše (samodejna bitna hitrost)</string>
+     <string name="string_float_inches">%f inč</string>
+     <string name="string_float_seconds">%f sekund</string>
+     <string name="string_immediately">Takoj</string>
+     <string name="string_int">%d</string>
+     <string name="string_int_hour">%d ura</string>
+     <string name="string_int_hours">%d ur</string>
+     <string name="string_int_minute">%d minuta</string>
+     <string name="string_int_minutes">%d minut</string>
+     <string name="string_int_second">%d sekunda</string>
+     <string name="string_int_seconds">%d sekund</string>
+     <string name="string_kHz">%.1f kHz</string>
+     <string name="string_never">Nikoli</string>
      <string name="string_off">Izklj.</string>
      <string name="string_offed">Izklj.</string>
+     <string name="string_scale_float">Merilo animacije %.1fx</string>
+     <string name="string_scale_int">Merilo animacije %dx</string>
+     <string name="string_unlimited">Neomejeno</string>
      <string name="strong_suppression_summary">"Vaša naprava ne bo reagirala na slučajni dotik, nekateri gibi morda ne bodo delali blizu robov"</string>
      <string name="strong_suppression_title">Veliko področje</string>
      <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>
@@ -10925,6 +10964,9 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
      <string name="time_floating_window">Plavajoča ura</string>
      <string name="time_floating_window_summary">Pokaži uro v plavajočem oknu nad drugimi aplikacijami</string>
      <string name="time_format_category_title">Oblika zapisa ure</string>
+     <string name="time_format_entries_1">%d-ur 1:00 Pop.</string>
+     <string name="time_format_entries_2">%d-ur 13:00</string>
+     <string name="time_format_entries_3">Samodejno (glede na sistemski jezik)</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
@@ -11717,6 +11759,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
      <string name="use_personalized_ad_service_summary_for_global">"Ko so priporočila za prilagojene oglase izklopljena, boste v sistemskih aplikacijah MIUI še vedno videli enako količino oglasov kot, ko je storitev vklopljena. Oglasi Xiaomi in platform tretjih oseb pa ne bodo več relevantni, saj ne bodo temeljili na vaših osebnih željah.."</string>
      <string name="use_privacy_password_immediate">Uporabi</string>
      <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
+     <string name="use_system_preference">Uporabi sistemske nastavitve (privzeto)</string>
      <string name="use_this_wlan">Ostani povezan</string>
      <string name="use_wifi_hotsopt_main_switch_title">Uporabi dostopno točko WiFi</string>
      <string name="use_wifi_master_key_summary">Poveži z uporabo WiFi Master ključa</string>

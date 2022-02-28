@@ -169,6 +169,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="loading">Samo trenutek…</string>
      <string name="login_check_find_device">Dobivanje informacij o varnosti naprave…</string>
      <string name="logout_account">Odjava</string>
+     <string name="mibi_account_disable_dialog_btn_negative">Prekliči</string>
+     <string name="mibi_account_disable_dialog_btn_positive">Vključi</string>
+     <string name="mibi_account_disable_dialog_msg">Če želite uporabljati MiCoin, se morate prijaviti v svoj račun Xiaomi. Omogočite storitev računa Xiaomi v Nastavitve-Upravljanje aplikacij.</string>
+     <string name="mibi_account_disable_dialog_title">Obvestilo</string>
      <string name="mibi_all_license_message">"Uporabljali boste Mi Coin, ki je storitev, ki jo ponuja Xiaomi Inc. Preden lahko začnete uporabljati to storitev, se morate strinjati s pogoji storitve. Dotaknite se V redu, če se strinjate s pogoji in določili, opisanimi v %1$s in %2$s. Če želite uporabljati Mi Coin, se morate povezati s spletom in poiskati svojo napravo."</string>
      <string name="mibi_all_purpose">Dobrodošli v MiCoin, s to aplikacijo lahko napolnite MiCoin, preverite svoje darilne kartice itd.</string>
      <string name="mibi_app_name">Mi Kredit</string>
@@ -190,6 +194,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>

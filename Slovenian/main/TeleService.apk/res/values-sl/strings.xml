@@ -2001,6 +2001,8 @@ Zmeraj uporabi to številko"</string>
      <string name="msim_sim_radio_off">Izključeno</string>
      <string name="msim_switch_data_conn_toast">SIM kartice so se zamenjale. Vrsta omrežja se je zamenjala. Poglej dodatne informacije za SIM kartico in mobilna omrežja v meniju Nastavitve.</string>
      <string name="msim_switch_data_conn_toast_for_h2xct">Reža 2 za SIM kartico podpira samo GSM omrežja. Prednostna vrsta za to omrežje se je spremenila na "samo 2G".</string>
+     <string name="mtn_simlock_emergency">V sili</string>
+     <string name="mtn_simlock_text_tip">Vstavljena kartica SIM ne izpolnjuje zahteve. Pred uporabo telefona morate vstaviti kartico SIM, ki jo zahteva pogodba. Za podrobnosti se obrnite na lokalnega operaterja.</string>
      <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
      <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
      <string name="mtrl_exceed_max_badge_number_content_description">Več kot toliko novih obvestil: %1$d</string>
@@ -2504,12 +2506,14 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM samod.</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G Prednostno)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G samod.</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G samod</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G samod.</string>
      <string name="preferred_network_type_pref_entries_5g_preferred">Prednostno 5G</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM samod.</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G Prednostno)</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G samod.</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G samod</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_za_mtn">2G/3G/4G/5G samod.</string>
      <string name="preferred_network_type_pref_entries_auto">Samodejno</string>
      <string name="preferred_network_type_pref_entries_global">Globalno</string>
@@ -2703,7 +2707,7 @@ Vmesnik UT: %5$s"</string>
      <string name="reject_via_sms_summary">Pokaži tipke za končanje klica in pošiljanje SMS-a</string>
      <string name="reject_via_sms_title">Hitri odgovori</string>
      <string name="relay_call_answered_by_other_devices">Ta klic je bil odgovorjen na drugi napravi.</string>
-     <string name="relay_call_released_due_to_connect_lost">Povezava je bila prekinjena. Nadaljujte s klicem na vaši drugi napravi.</string>
+     <string name="relay_call_released_due_to_connect_lost">Povezava je bila izgubljena. Nadaljujte s klicem v drugi napravi.</string>
      <string name="relay_connection_service_label">Vgrajeno RELAY klicanje</string>
      <string name="remain_mins_unit">minut</string>
      <string name="remain_mins_unit_plural">minut</string>
@@ -2895,6 +2899,7 @@ Vmesnik UT: %5$s"</string>
      <string name="sim_absent">Ni</string>
      <string name="sim_accounts">SIM računi</string>
      <string name="sim_activated">Preverjeno</string>
+     <string name="sim_can_not_read">reža za kartico %d lahko bere samo kartico SIM operaterja MTN</string>
      <string name="sim_card_activate">Preverjanje SIM kartice</string>
      <string name="sim_card_num">SIM %s</string>
      <string name="sim_card_summary_no_sim_card">Vstavite SIM kartico</string>
