@@ -1053,6 +1053,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="mtrl_picker_a11y_next_month">Prehod na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Prehod na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_selection">Trenutno izbrano: %1$s</string>
+     <string name="mtrl_picker_confirm">V redu</string>
      <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberi datum</string>
      <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
@@ -1079,6 +1080,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="mtrl_picker_toggle_to_day_selection">Dotaknite se, če želite preklopiti na izbiro dneva</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Preklopi v način vnosa besedila</string>
      <string name="mtrl_picker_toggle_to_year_selection">Dotaknite se, da preklopite na izbiro leta</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="mulit_choice_management">Urejanje večkratnih storitev</string>
      <string name="multichoice">Izberi</string>
      <string name="music_browser_label">Glasba</string>
@@ -1432,7 +1434,7 @@ Bodite Happy"</string>
      <string name="select_album">Izberi album</string>
      <string name="select_all">Izberi vse</string>
      <string name="select_clip_desc">Izberite vzorec iz pesmi</string>
-     <string name="select_desc_sub">Lahko izberete do 3 jezike</string>
+     <string name="select_desc_sub">Lahko izberete do %d jezikov</string>
      <string name="select_device">Izberi napravo</string>
      <string name="select_displayed_folders">Izberi mape za prikaz</string>
      <string name="select_local_album_cover">Izberi sliko</string>
@@ -1441,9 +1443,9 @@ Bodite Happy"</string>
      <string name="select_local_lyric_file">Izberi lokalno datoteko besedila</string>
      <string name="select_lyric">Izberi besedilo</string>
      <string name="select_none">Prekliči izbrano</string>
-     <string name="select_one_language">Izberite vsaj en jezik</string>
+     <string name="select_one_language">Izberite vsaj %d jezikov</string>
      <string name="select_operation_items">Izberite stvari</string>
-     <string name="select_three_languages">Lahko izberete do 3 jezike</string>
+     <string name="select_three_languages">Lahko izberete do %d jezikov</string>
      <string name="selected_count">Izbrano %1$d od %2$d</string>
      <string name="send">Pošlji</string>
      <string name="send_to">Pošlji</string>

@@ -1023,10 +1023,10 @@ Spremenim nastavitve?"</string>
      <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
      <string name="auto_clean_description">"O tej storitvi
 1. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-2. Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+2. Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_description_pad">"O tej storitvi
 - Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-- Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+- Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_summary">30 sekund predvajajte zvok, da očistite zvočnik</string>
      <string name="auto_clean_summary_new">Predvaj %d-sekund zvok, da očistite zvočnik. To funkcijo uporabite večkrat zapored za znatne količine umazanije.</string>
      <string name="auto_clean_title">Očisti zvočnik</string>
@@ -12640,6 +12640,8 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
      <string name="wifi_protection_tip">MIUI bo zaščitil vaše osebne podatke pred WiFi poskusom zahteve ki pride iz naključnih MAC naslovov in WiFi poskusom sniffers-ov ko vaša naprava išče WiFi omrežja.</string>
      <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
      <string name="wifi_quick_toggle_title">WiFi</string>
+     <string name="wifi_region_summary">Za uveljavitev je treba WiFi znova zagnati.</string>
+     <string name="wifi_region_title">WiFi regija</string>
      <string name="wifi_remembered">Shranjeno</string>
      <string name="wifi_remembered_disabled_auto_connect">Shranjeno. Samodejno povezovanje je izključeno.</string>
      <string name="wifi_require_sim_card_to_connect">Za povezavo je potrebna kartica SIM</string>

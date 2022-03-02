@@ -531,6 +531,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_manager_manage_space">Urejaj prostor</string>
      <string name="app_manager_memory">RAM</string>
      <string name="app_manager_menu_clear_data">Izbriši podatke</string>
+     <string name="app_manager_mobile_slot">Mobilni podatki (SIM %d)</string>
      <string name="app_manager_mobile_slot1">Mobilni podatki (SIM 1)</string>
      <string name="app_manager_mobile_slot2">Mobilni podatki (SIM 2)</string>
      <string name="app_manager_more_times">Dostopano 100000+ krat</string>
@@ -747,6 +748,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="applock_gulide_third_part">Račun bo odstranjen, ko se odjavite</string>
      <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
      <string name="applock_lock_all">Zakleni vse</string>
+     <string name="applock_lock_mode_locked">Ko je naprava zaklenjena</string>
+     <string name="applock_lock_mode_locked_or_exit">Ko je naprava zaklenjena ali po izhodu iz aplikacije</string>
+     <string name="applock_lock_mode_locked_or_exit_or_wait">Ko je naprava zaklenjena​ ali čez %d minut po izhodu iz aplikacije</string>
      <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
      <string name="applock_mixtype_hidepwd_icon">Skrij</string>
      <string name="applock_mixtype_showpwd_icon">Pokaži</string>
@@ -2122,9 +2126,9 @@ ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
-     <string name="gb_shoulder_key">Virtualne tipke</string>
+     <string name="gb_shoulder_key">Sprožilci pojavnih oken</string>
      <string name="gb_shoulder_key_add_show_btn">Pokaži virtualne tipke med igranjem</string>
-     <string name="gb_shoulder_key_add_tips">Premakni [L] in [D] tipko v poljuben funkcijski položaj in jih uporabite prek virtualnih gumbov</string>
+     <string name="gb_shoulder_key_add_tips">Premakni [L] in [D] v kateri koli funkcionalni položaj in ju uporabite prek pojavnih sprožilcev</string>
      <string name="gb_shoulder_key_btn_cancel">Prekliči</string>
      <string name="gb_shoulder_key_btn_save_exit">Shrani</string>
      <string name="gb_shoulder_key_circle_left">L</string>
@@ -2133,16 +2137,16 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_shoulder_key_dialog_txt">Game Turbo lahko vklopite z virtualnimi gumbi.</string>
      <string name="gb_shoulder_key_guide_btn_done">Razumem</string>
      <string name="gb_shoulder_key_guide_btn_next">Naprej</string>
-     <string name="gb_shoulder_key_guide_tips">Konfigurirajte virtualne tipke za igranje kot profesionalci!</string>
+     <string name="gb_shoulder_key_guide_tips">Konfiguriraj sprožilce pojavnih oken za igranje kot profesionalec!</string>
      <string name="gb_shoulder_key_guide_tips1">Odprite orodja in konfigurirajte virtualne tipke</string>
      <string name="gb_shoulder_key_light_effect">Barvne animacije</string>
      <string name="gb_shoulder_key_light_effect_color">Barva</string>
-     <string name="gb_shoulder_key_light_effect_subtitle">"Barvne animacije bodo prikazane, ko so vklopljeni virtualni gumbi in se igrate"</string>
+     <string name="gb_shoulder_key_light_effect_subtitle">"Barvne animacije bodo prikazane, ko so sprožilci pojavnih oken vklopljeni in igrate igre"</string>
      <string name="gb_shoulder_key_light_effect_title">Animacije</string>
      <string name="gb_shoulder_key_settings_guide_tips1">Premakni [L] in [D] tipko v poljuben funkcijski položaj za dokončanje</string>
-     <string name="gb_shoulder_key_settings_guide_tips2">Uporabite virtualne tipke za funkcije, ki ste jim jih dodelili med igrami</string>
-     <string name="gb_shoulder_key_settings_summary">"Z obema virtualnima gumboma zaženite Game Turbo, ko ne igrate iger"</string>
-     <string name="gb_shoulder_key_settings_title">Uporabite virtualne tipke za Game Turbo</string>
+     <string name="gb_shoulder_key_settings_guide_tips2">Uporabite sprožilce pojavnih oken za funkcije, ki ste jim jih dodelili med igrami</string>
+     <string name="gb_shoulder_key_settings_summary">"Z sprožilcema pojavnih oken zaženite Game Turbo, ko ne igrate iger"</string>
+     <string name="gb_shoulder_key_settings_title">Uporabite sprožilce pojavnih oken za Game Turbo</string>
      <string name="gb_shoulder_key_settings_title_new">Hitri začetek Game Turbo</string>
      <string name="gb_sign_gift">Prijavite se, če želite dobiti nagrade</string>
      <string name="gb_sign_gift_button_text">Prejmi</string>
@@ -5637,6 +5641,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="title_flow_rank">Uporaba mobilnih podatkov</string>
      <string name="title_flow_verify">Primerjaj izračune</string>
      <string name="title_flow_verify_failed">"Ne morem nastaviti 5 dni zapored"</string>
+     <string name="title_flow_verify_failed_new">"Ne morem nastaviti za %d dni zapored"</string>
      <string name="title_garbage_clean">Velikost predpomnilnika aplik. dosegla %s</string>
      <string name="title_garbage_less">Predpomnilnik aplikacije je majhen</string>
      <string name="title_garbage_lib">Posodobi definicije smeti</string>

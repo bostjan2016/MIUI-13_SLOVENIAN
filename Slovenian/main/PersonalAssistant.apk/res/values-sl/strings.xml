@@ -1044,6 +1044,7 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_express_empty_extra">Sledi</string>
      <string name="pa_express_empty_title">Tukaj ni podatkov o dostavi</string>
      <string name="pa_express_i_known">V redu</string>
+     <string name="pa_express_input_again">Ponovno vstopite</string>
      <string name="pa_express_inqiury_select_logistics">Izberite kurirsko službo</string>
      <string name="pa_express_inquiry">Preverite naročilo</string>
      <string name="pa_express_inquiry_frequently_used_logistics">Popularno</string>

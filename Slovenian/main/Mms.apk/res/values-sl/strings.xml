@@ -610,7 +610,13 @@ Preverite SIM kartico."</string>
 Sporočilo je nezaželjeno."</string>
      <string name="mms_block_hint_highlight">Blokiraj MMS</string>
      <string name="mms_main_purpose">"Da izkoristite vse zmožnosti sporočil vključite Mi sporočila in Smart sporočila."</string>
+     <string name="mms_mi_message_main_purpose">Dobrodošli v Mi Sporočila! Za aktiviranje Mi Sporočila je potrebno odhodno sporočilo SMS. Vaš operater vam lahko zaračuna to sporočilo.</string>
+     <string name="mms_mi_message_request_notice">Želimo, da kar najbolje izkoristite Mi Sporočila.</string>
+     <string name="mms_mx_privacy_policy">Mi Sporočila Pravila o zasebnosti</string>
+     <string name="mms_smart_msg_main_purpose">Pametna Sporočila lahko prepozna ID-je pošiljatelja, zagotovi storitve pametnega menija in prepozna sumljiva sporočila.</string>
+     <string name="mms_smart_msg_privacy_policy">Pametna Sporočila Pravila o zasebnosti</string>
      <string name="mms_title">Sporočila</string>
+     <string name="mms_user_agreement">Pogoji uporabe</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
@@ -1379,16 +1385,20 @@ Oglejte si priporočene!"</string>
      <string name="system_permission_declare_disagree">Prekliči</string>
      <string name="system_permission_declare_double_link" formatted="false">Preberite in sprejmite naše %1s in %2s pred uporabo.</string>
      <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! %2s</string>
+     <string name="system_permission_declare_mi_message">Dobrodošli v Mi sporočila!</string>
      <string name="system_permission_declare_no_say_no">"Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.
   
 Če ne daste potrebnih dovoljenj ali nam ne dovolite zbiranje in uporabo vaših podatkov ta aplikacija ne bo mogla normalno delati."</string>
      <string name="system_permission_declare_privacy_declare">"%1s mora dobiti vaše podatke in zahteva naslednja dovoljenja:</string>
      <string name="system_permission_declare_privacy_declare_new">Aplikacija se mora povezati na splet in zahteva naslednja dovoljenja:</string>
      <string name="system_permission_declare_privacy_link">Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z %1s.</string>
+     <string name="system_permission_declare_rcs">Dobrodošli v 5G sporočila!</string>
      <string name="system_permission_declare_revoke_path">Lahko prekličete avtorizacijo in izključite storitve v nastavitvah sporočil.</string>
      <string name="system_permission_declare_single_link">Preberite in sprejmite naše %1s pred uporabo.</string>
+     <string name="system_permission_declare_smart_message">Dobrodošli v pametna sporočila!</string>
      <string name="system_permission_declare_triple_link" formatted="false">Preberite in sprejmite naše %1s, %2s, in %3s pred uporabo.</string>
      <string name="system_permission_declare_use_network">Povežite se na omrežje</string>
+     <string name="system_permission_declare_user_agree">Strinjam se</string>
      <string name="system_permission_disabled">Ni dovoljeno</string>
      <string name="system_permission_enabled">Dovoljeno</string>
      <string name="system_permission_perm_agree_desc">Dovolite tej aplikaciji, da se poveže s spletom in dodelite neobvezna dovoljenja za uporabo vseh njenih funkcij.</string>
@@ -1420,6 +1430,7 @@ Oglejte si priporočene!"</string>
      <string name="system_permission_perm_write_mms">Dovolite aplikaciji Sporočila, da piše MMS</string>
      <string name="system_permission_perm_write_sms">Dovolite aplikaciji Sporočila, da piše SMS</string>
      <string name="system_permission_requested">Vprašaj</string>
+     <string name="system_permission_user_privacy">Preden nadaljujete, preberite in se strinjate z naslednjimi določili in pogoji.</string>
      <string name="tab_finance">Finance</string>
      <string name="tab_message">Sporočila</string>
      <string name="tab_promotions">Reklame</string>

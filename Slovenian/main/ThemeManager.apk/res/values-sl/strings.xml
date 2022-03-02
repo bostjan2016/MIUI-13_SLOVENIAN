@@ -371,6 +371,9 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="exo_download_downloading">Prenašam…</string>
      <string name="exo_download_failed">"Ne morem prenesti"</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
+     <string name="exo_download_paused">Prenosi so zaustavljeni</string>
+     <string name="exo_download_paused_for_network">Prenosi čakajo na omrežje</string>
+     <string name="exo_download_paused_for_wifi">Prenosi čakajo na WiFi</string>
      <string name="exo_download_removing">Odstranitev prenosov</string>
      <string name="exo_track_mono">Mono</string>
      <string name="exo_track_role_alternate">Alternativno</string>
@@ -392,7 +395,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="extreme_mode_dialog_message">"Ta storitev ni na voljo v Ekstremnem načinu. Izključite Ekstremni način da jo boste lahko uporabili."</string>
      <string name="extreme_mode_dialog_ok">Razumem</string>
      <string name="extreme_mode_dialog_title">Opozorilo</string>
-  <string name="fail_to_add_account">"Ne morem dodati računa"</string>
+     <string name="fail_to_add_account">"Ne morem dodati računa"</string>
      <string name="favorite_list">Priljubljeno</string>
      <string name="favorite_list_format">Priljubljeno %1$s</string>
      <string name="find_more_font">Najdi več</string>
