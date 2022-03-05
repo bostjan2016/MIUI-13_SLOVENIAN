@@ -1354,7 +1354,7 @@ Oglejte si priporočene!"</string>
      <string name="stick_conversation">Pripni trenutni pogovor</string>
      <string name="sticked_conversation">Pogovor je že pripet</string>
      <string name="storage_dialog_attachments">MMS priponke:</string>
-     <string name="storage_dialog_available_space">Dostopen prostor:</string>
+     <string name="storage_dialog_available_space">Prostor na voljo:</string>
      <string name="storage_dialog_database">Baza podatkov:</string>
      <string name="storage_dialog_mms">MMS: %d</string>
      <string name="storage_dialog_mms_size">Velikost MMS-a:</string>
@@ -1363,7 +1363,7 @@ Oglejte si priporočene!"</string>
      <string name="storage_limits_message">Omejim število sporočil ki ste jih shranili na pogovor?</string>
      <string name="storage_limits_setting">Nastavi omejitev</string>
      <string name="storage_limits_setting_dismiss">Ni omejitve</string>
-     <string name="storage_unavailable">Ni dostopnega prostora</string>
+     <string name="storage_unavailable">Ni prostora na voljo</string>
      <string name="sub_sim_card">Sub</string>
      <string name="sub_sim_card_indicator">Sub%d</string>
      <string name="sub_sim_not_support_mms">"MMS ni možno poslati z uporabo sekundarne SIM kartice"</string>

@@ -1443,7 +1443,7 @@ Bodite Happy"</string>
      <string name="select_local_lyric_file">Izberi lokalno datoteko besedila</string>
      <string name="select_lyric">Izberi besedilo</string>
      <string name="select_none">Prekliči izbrano</string>
-     <string name="select_one_language">Izberite vsaj %d jezikov</string>
+     <string name="select_one_language">Izberite vsaj %d jezik</string>
      <string name="select_operation_items">Izberite stvari</string>
      <string name="select_three_languages">Lahko izberete do %d jezikov</string>
      <string name="selected_count">Izbrano %1$d od %2$d</string>

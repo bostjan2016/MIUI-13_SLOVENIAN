@@ -12640,7 +12640,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
      <string name="wifi_protection_tip">MIUI bo zaščitil vaše osebne podatke pred WiFi poskusom zahteve ki pride iz naključnih MAC naslovov in WiFi poskusom sniffers-ov ko vaša naprava išče WiFi omrežja.</string>
      <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
      <string name="wifi_quick_toggle_title">WiFi</string>
-     <string name="wifi_region_summary">Za uveljavitev je treba WiFi znova zagnati.</string>
+     <string name="wifi_region_summary">Za uveljavitev je treba WiFi znova zagnati</string>
      <string name="wifi_region_title">WiFi regija</string>
      <string name="wifi_remembered">Shranjeno</string>
      <string name="wifi_remembered_disabled_auto_connect">Shranjeno. Samodejno povezovanje je izključeno.</string>
