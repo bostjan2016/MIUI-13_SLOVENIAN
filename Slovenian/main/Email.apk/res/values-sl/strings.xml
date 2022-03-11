@@ -82,6 +82,7 @@
      <string name="account_settings_description_label">Ime računa</string>
      <string name="account_settings_display">Zaslon</string>
      <string name="account_settings_does_not_support_pop">Protokol POP3 ne podpira te storitve</string>
+     <string name="account_settings_does_not_support_pop_attachment">"POP3 lahko samodejno prenese priloge, vendar jih ne more urejati"</string>
      <string name="account_settings_edit_quick_responses_label">Hitri odzivi</string>
      <string name="account_settings_edit_quick_responses_summary">Uredite kratka sporočila ki jih lahko prilepite na vašo E-pošto</string>
      <string name="account_settings_enforced_label">Pravila</string>
@@ -522,6 +523,10 @@
      <string name="del_account_questionnair_hint">"Zakaj brišete ta račun?"</string>
      <string name="delete">Izbriši</string>
      <string name="delete_contact_content">Želite izbrisati ta stik?</string>
+     <string name="delete_message_dialog_content">Ali želite izbrisati to e-pošto in blokirati pošiljatelja??</string>
+     <string name="delete_message_dialog_left_button">Izbriši in blokiraj</string>
+     <string name="delete_message_dialog_right_button">Samo izbriši</string>
+     <string name="delete_message_dialog_title">Brisanje e-pošte</string>
      <string name="delete_message_event">Želite izbrisati to vabilo?</string>
      <string name="delete_message_flow">Izbriši tok sporočil</string>
      <string name="delete_message_flow_keywords">Izbriši tok sporočil;Izbriši preusmerjene</string>
@@ -791,6 +796,7 @@
      <string name="from_heading">Od:</string>
      <string name="general_preference_confirm_delete_label">Potrdi pred brisanjem</string>
      <string name="general_preference_confirm_send_label">Potrdi pred pošiljanjem</string>
+     <string name="general_preference_delete_message_prompt_title">Vprašaj pred brisanjem</string>
      <string name="general_preference_load_picture">Naloži online slike</string>
      <string name="general_preference_str_auto_translation">Hitri prevod</string>
      <string name="general_preference_str_auto_translation_prompt">Kopirajte tekst da boste videli prevod</string>
@@ -859,6 +865,8 @@
      <string name="installing_module">Nameščanje modula:</string>
      <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
      <string name="invalid_recipient">Naslov %s ni pravilen.</string>
+     <string name="invalid_recipient_dialog_message">Vnesite veljaven e-poštni naslov prejemnika</string>
+     <string name="invalid_recipient_dialog_title">"Ne morem poslati"</string>
      <string name="invalid_recipient_title">Napaka prejemnika</string>
      <string name="invoice_card_amount">Skupni zaračunani znesek</string>
      <string name="invoice_card_buyer">Kupec</string>
@@ -1547,6 +1555,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="request_permission_activity">Iskanje dovoljenja</string>
      <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
      <string name="respond_inline">Odgovori v tekstu</string>
+     <string name="respond_inline_text">Uredi izvirno e-pošto</string>
      <string name="resume_draft">Uredi</string>
      <string name="retry">Poskusite znova</string>
      <string name="retry_login">Prijavite se ponovno</string>
@@ -1649,6 +1658,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="show_images_all">Naloži in pokaži vse slike</string>
      <string name="show_password">Pokaži geslo</string>
      <string name="show_server_cet">Pokaži certifikat</string>
+     <string name="shrink">Strni</string>
      <string name="sign_in_dialog_outlook_enterprise">Outlook za podjetja (brez koledarja)</string>
      <string name="sign_in_dialog_outlook_exchange">EXCHANGE (z koledarjem)</string>
      <string name="sign_in_dialog_outlook_imap">IMAP (brez koledarja)</string>
