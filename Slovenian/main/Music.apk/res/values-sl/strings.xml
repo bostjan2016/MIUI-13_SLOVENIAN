@@ -192,6 +192,7 @@
      <string name="banner_op">Mi Glasba</string>
      <string name="being_disable_auto_payment">Izklop…</string>
      <string name="being_enable_auto_payment">Vklop…</string>
+     <string name="best_experience">Najboljša izkušnja</string>
      <string name="bill_list_fragment_title">Grafikon</string>
      <string name="billboard_song_subtitle">— %s</string>
      <string name="bluetooth_device">Bluetooth naprava</string>
@@ -467,6 +468,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="download_error_insufficient_space">Premalo prostora</string>
      <string name="download_fail_to_fetch_info">Ne morem prenesti. Poskusi ponovno.</string>
      <string name="download_filesize_unknown">Neznano</string>
+     <string name="download_free">Prenesi glasbo</string>
      <string name="download_in_process">PRENAŠANJE</string>
      <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
      <string name="download_list_get_free_vip">Xunlei preizkus</string>
@@ -516,6 +518,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="download_while_playing_no_vip_summary">Samodejno prenesi pesmi ki jih poslušate (razen plačljivih)</string>
      <string name="download_while_playing_summary">Samodejno prenesite skladbe ki jih predvajate na spletu</string>
      <string name="download_while_playing_title">Prenesite med predvajanjem</string>
+     <string name="downloaded">Prenešeno</string>
      <string name="downloaded_empty">Prazno</string>
      <string name="downloading_apk">Prenos poteka… Preverite napredek v plošči obvestil</string>
      <string name="downloading_empty">Prazno</string>
@@ -655,6 +658,8 @@ predvsem nudi Ultimate Inc."</string>
      <string name="filter_by_size_prefix">Minimalna velikost:</string>
      <string name="filter_by_size_summary">Ne pokaži majhnih avdio datotek</string>
      <string name="filter_size_unit">%dKB</string>
+     <string name="find_you_tunes">Poiščite svoje melodije</string>
+     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
      <string name="floating_view_dialog_desc">Glasba se bo nehala predvajati če zapustite to stran. Vseeno zapustim?</string>
      <string name="floating_view_dialog_leave">Zapusti</string>
      <string name="floating_view_dialog_stay">Prekliči</string>
@@ -724,12 +729,16 @@ predvsem nudi Ultimate Inc."</string>
      <string name="fragment_title_channel">FM</string>
      <string name="fragment_title_personal">Osebno</string>
      <string name="fragment_title_recommend">Priporočeno</string>
+     <string name="free">Brezplačno</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="garbage_cleanup">Čistilec</string>
      <string name="gcm_fallback_notification_channel_label">Razno</string>
      <string name="get_more_favorite_content_after_login">Prijavi se da najdeš še več pesmi in videoposnetkov.</string>
+     <string name="get_one_day_vip">Imate %d-dnevni VIP!</string>
+     <string name="get_one_hour_vip">Imate %d-urni VIP!</string>
+     <string name="get_vip">Pridobi VIP</string>
      <string name="global_search_app_name">Glasba</string>
      <string name="global_search_description_entry">Uživajte v glasbi</string>
      <string name="global_search_description_hot">Posodobi tedensko</string>
@@ -772,6 +781,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="headset_settings">Slušalke &amp; zvočni efekti</string>
      <string name="hide_album">Skrij ovitek albuma</string>
      <string name="hide_lyric">Skrij besedilo</string>
+     <string name="hifi_quality">Hi-Fi kvaliteta</string>
      <string name="high_sound_quality">Visoka</string>
      <string name="higher_quality_music">Visoka avdio kvaliteta</string>
      <string name="higher_quality_music_summary">Predvajaj in prenesi datoteke višje bitne hitrosti</string>
@@ -808,6 +818,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="i_know">V redu</string>
      <string name="icon_content_description">Ikona pogovornega okna</string>
      <string name="id_namespace">hungama</string>
+     <string name="imported">Uvoženo</string>
      <string name="impunity_declaration_content">Morate prebrati in se strinjati z &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=sl_SI\"&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=sl_SI\"&gt;Pravila o zasebnosti&lt;/a&gt; pred uporabo.</string>
      <string name="impunity_declaration_ignore">Ne kaži več</string>
      <string name="impunity_declaration_negative_text">Zapri</string>
@@ -816,6 +827,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="impunity_declaration_summary">Pokaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
      <string name="impunity_declaration_title">Pogoji uporabe</string>
      <string name="in_searching_please_wait">Iščem...</string>
+     <string name="include_sensitive_extra">napačno</string>
      <string name="individuation_card_login_button">Prijavi se</string>
      <string name="individuation_card_login_message">"Prijavite se da najdete pesmi, ki so vam všeč"</string>
      <string name="individuation_card_title">Za vas</string>
@@ -846,6 +858,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="japan_korea_female">Ženski izvajalci (Japonska/Koreja)</string>
      <string name="japan_korea_group">Skupine (Japonska/Koreja)</string>
      <string name="japan_korea_male">Moški izvajalci (Japonska/Koreja)</string>
+     <string name="just_hit_next">Samo pritisnite naprej</string>
      <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo te storitve.</string>
      <string name="karaoke_my_studio">Moj Studio</string>
      <string name="karaoke_negative_text">Kasneje</string>
@@ -862,6 +875,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="list_detail_title">Podrobnosti</string>
      <string name="list_item_play_FM_radio">Dotakni se za predvajanje FM radija</string>
      <string name="list_item_play_all_tracks">Dotakni se za predvajanje vseh skladb</string>
+     <string name="listen_anywhere">Poslušajte kjerkoli</string>
      <string name="load_shuffle">Nalaganje…</string>
      <string name="loadercontainer_loading">Nalaganje…</string>
      <string name="loading">Nalaganje</string>
@@ -939,6 +953,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="middle_sound_quality">Standardno</string>
      <string name="midnight">Polnoč</string>
      <string name="milink_unavaliable_please_update">Mi Link opravilo ni na voljo. Morate posodobiti MIUI.</string>
+     <string name="millions_songs">Miljoni pesmi</string>
      <string name="min_sleep_time">%d</string>
      <string name="missing_title">&lt;Neznano&gt;</string>
      <string name="miui_music">Mi Glasba</string>
@@ -1175,6 +1190,8 @@ predvsem nudi Ultimate Inc."</string>
      <string name="offline_opt_in_message">"Poslali vam bomo obvestilo s povezavo do spletnega mesta oglaševalca."</string>
      <string name="offline_opt_in_title">"Odprite oglas, ko boste spet na spletu."</string>
      <string name="ok">"V redu"</string>
+     <string name="one_day_vip">%d-dnevni VIP</string>
+     <string name="one_hour_vip">%d-urni VIP</string>
      <string name="one_month">1 mesec</string>
      <string name="online_apk_acquired">Prenešeno %d%%</string>
      <string name="online_apk_acquiring">Prenos %d%%</string>
@@ -1747,6 +1764,7 @@ Bodite Happy"</string>
      <string name="unknown_artist_name">Neznan izvajalec</string>
      <string name="unlimited_downloads">Neomejen prenos</string>
      <string name="unlimited_offline_songs">Neomejene izvenmrežne pesmi</string>
+     <string name="unlimited_skips">Neomejeno število preskokov</string>
      <string name="update_now">Posodobi zdaj</string>
      <string name="upgrade">Nadgradnja:</string>
      <string name="upgrade_force">"Prekinjamo trenutno streaming storitev zaradi vprašanja avtorskih pravic. Posodobite na najnovejšo verzijo aplikacije Glasba za poslušanje glasbe visoke kvalitete."</string>
@@ -1770,6 +1788,7 @@ Bodite Happy"</string>
      <string name="upload_playlist_to_hungama_title">Sinhronizirajte spletne pesmi z Hungamo, da boste lahko dostopali do njih v drugih napravah, kjer uporabljate svoj Mi račun.</string>
      <string name="upload_playlist_to_hungama_toast">Spletne pesmi bodo sinhronizirane z Hungamo</string>
      <string name="user_agreement">Pogoji uporabe</string>
+     <string name="user_experience_program_open">Zaradi omejitev avtorskih pravic se morate vpisati v program uporabniške izkušnje, da boste lahko predvajali prenesene pesmi. To lahko storite v Nastavitve > Gesla &amp; varnost > Zasebnost > Včlanite se v program uporabniške izkušnje.</string>
      <string name="user_playlist_plaza">Seznam predvajanja</string>
      <string name="user_privacy_dialog_negative_text">Prekliči</string>
      <string name="user_privacy_dialog_positive_count_down_text">Preklic (%ss)</string>
@@ -1799,6 +1818,7 @@ Bodite Happy"</string>
      <string name="vip_required">Kupite Premium naročnino za predvajanje te pesmi.</string>
      <string name="vip_required_with_song">%s je na voljo samo članom PRO. Pesem preskočena.</string>
      <string name="voice_search_first_hint">Poskusite glasovno iskanje!</string>
+     <string name="watch_video">Oglejte si video</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
