@@ -305,6 +305,10 @@
         <item quantity="other">Odstrani igre: %2$d (vključno %1$s)</item>
         <item quantity="one">Odstrani %2$d igro (vključno %1$s)</item>
      </plurals>
+     <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Samodejno posnemi ključne trenutke in ustvari videoposnetke s poudarki seje. Po vsaki igralni seji jih lahko trajno shranite. Neshranjeni videoposnetki bodo samodejno izbrisani po %1$d dneh.</item>
+        <item quantity="one">Samodejno posnemi ključne trenutke in ustvari videoposnetke s poudarki seje. Po vsaki igralni seji jih lahko trajno shranite. Neshranjeni videoposnetki bodo samodejno izbrisani po %1$d dnevu.</item>
+     </plurals>
      <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">Shranjeno %d AI posnetkov v Game Turbo</item>
         <item quantity="one">Shranjen %d AI posnetek v Game Turbo</item>

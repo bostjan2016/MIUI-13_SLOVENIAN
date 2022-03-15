@@ -726,7 +726,7 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="systemui">Plošča obvestil</string>
      <string name="tab_title_chat">Pogosta vprašanja</string>
-     <string name="tab_title_my_reports">Moja poročila</string>
+     <string name="tab_title_my_reports">Moje pov. informacije</string>
      <string name="tab_title_preferences">Nastavitve</string>
      <string name="tab_title_report">Pov. informacije</string>
      <string name="temporary_not_available">"To še ni na voljo."</string>

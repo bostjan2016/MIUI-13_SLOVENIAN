@@ -2506,6 +2506,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM samod.</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G Prednostno)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G samod.</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G samod.</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G samod</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">2G/3G/4G samod.</string>
      <string name="preferred_network_type_pref_entries_5g_preferred">Prednostno 5G</string>
@@ -2513,6 +2514,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM samod.</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G Prednostno)</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G samod.</string>
+     <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G samod.</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G samod</string>
      <string name="preferred_network_type_pref_entries_5g_preferred_za_mtn">2G/3G/4G/5G samod.</string>
      <string name="preferred_network_type_pref_entries_auto">Samodejno</string>

@@ -13,6 +13,7 @@
      <string name="android_ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
      <string name="android_ringtone_silent">Nič</string>
      <string name="android_ringtone_unknown">Neznana melodija zvonjenja</string>
+     <string name="app_continuity_channel_name">Kontinuiteta aplikacije</string>
      <string name="application_cannot_open_alipay_health_code">"Zdravstvene kode Alipay ni bilo mogoče odpreti"</string>
      <string name="application_cannot_open_alipay_payment_code">"Ne morem odpreti kode za plačilo Alipay"</string>
      <string name="application_cannot_open_alipay_scanner">"Ne morem odpreti Alipay skener"</string>
@@ -290,6 +291,7 @@
      <string name="miui">miui</string>
      <string name="miui_device_name">Android</string>
      <string name="miui_forbid_poweroff_when_device_locked">"Ne morem izključiti, naprava je zaklenjena."</string>
+     <string name="miui_landscape_compat_toast">"Ni primerno za zložljivo napravo, medtem ko aplikacijo uporabljate v ležečem položaju, priporočamo uporabo v pokončnem položaju"</string>
      <string name="miui_multiwindow_not_support_cvw">"Za to aplikacijo ni mogoče prilagoditi velikosti okna"</string>
      <string name="miui_multiwindow_not_support_small_window">"%1$s ne podpira plavajočih oken"</string>
      <string name="miui_multiwindow_not_support_split">"%1$s ne podpira razdeljenega zaslona"</string>
@@ -379,11 +381,15 @@
      <string name="redmi_note_5">Redmi Note 5</string>
      <string name="redmi_note_7">Redmi Note 7</string>
      <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+     <string name="relaunch_action">Znova zaženite aplikacijo</string>
      <string name="relaunch_dialog_alwaysUsePrompt">Zapomni si izbiro</string>
      <string name="relaunch_dialog_button_cancel">Prekliči</string>
      <string name="relaunch_dialog_button_confirm">V redu</string>
      <string name="relaunch_dialog_message">"Med uporabo aplikacije ni mogoče prilagoditi velikosti okna. Aplikacijo lahko znova zaženete, da prilagodite velikost okna, vendar bodo podatki o aplikaciji, ustvarjeni med to sejo, izgubljeni. Vseeno znova zaženem?"</string>
      <string name="relaunch_dialog_title">Znova zaženem \"%s\"?</string>
+     <string name="relaunch_fold_notification_content">\"%s\" aplikacija se lahko prikaže nenormalno, ko telefon zložite, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
+     <string name="relaunch_notification_title">Ponovno zaženi \"%s\" aplikacijo</string>
+     <string name="relaunch_unfold_notification_content">\"%s\" aplikacija se lahko nenormalno prikaže, ko telefon odprete, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
      <string name="remain">Ostalo: %s</string>
      <string name="replace">Zamenjaj</string>
      <string name="resolver_app_recommend_flag">Priporočeno</string>
@@ -400,6 +406,10 @@
      <string name="rog_phone">ROG</string>
      <string name="samsung">Samsung</string>
      <string name="samsung_phone">Samsung phone</string>
+     <string name="sc_notification_warning_content">Postavitev je morda nenormalna v celozaslonskem načinu. Lahko se vrnete v stanje pred preklopom ali pojdite v nastavitve.</string>
+     <string name="sc_notification_warning_restore">Obnovi</string>
+     <string name="sc_notification_warning_settings">Pojdi v nastavitve</string>
+     <string name="sc_relaunch_dialog_message">"Ne more biti primerno za zlaganje naprave, medtem ko uporabljate aplikacijo. Aplikacijo lahko znova zaženete, da preklopite na celozaslonski način. Znova zaženem?"</string>
      <string name="scanning_device_tips">Iskanje naprav v bližini ... Preverite ali je druga naprava v načinu dela odkrivanja.</string>
      <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
      <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>

@@ -449,7 +449,17 @@
      <string name="relay_network_error">Napaka omrežja</string>
      <string name="relay_network_error_msg">"Zaradi napake v omrežju ni mogoče sprejeti klicev v tej napravi. Namesto tega preklopite nazaj na telefon."</string>
      <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo na voljo ko odklenete napravo. Odklenem?"</string>
+     <string name="remind_unlock_screen_message">Odklenite napravo, da boste lahko uporabljali \"%s\". Odklenem?</string>
      <string name="respond_via_sms_custom_message">Lastni SMS…</string>
+     <string name="saf_permission_content">"Sistemska dovoljenja so bila posodobljena. Če želite snemati klice, najprej dajte dovoljenje.
+
+Kako dati dovoljenja
+Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
+     <string name="saf_permission_grant_permission_immediately">Naprej</string>
+     <string name="saf_permission_later">Ne zdaj</string>
+     <string name="saf_permission_refused">"Ne morem snemati klicev zaradi manjkajočih dovoljenj"</string>
+     <string name="saf_permission_title">Potrebna so dovoljenja</string>
+     <string name="saf_permission_use_this_folder">Uporabi to mapo</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

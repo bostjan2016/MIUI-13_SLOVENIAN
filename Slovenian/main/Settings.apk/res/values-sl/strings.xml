@@ -1023,10 +1023,10 @@ Spremenim nastavitve?"</string>
      <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
      <string name="auto_clean_description">"O tej storitvi
 1. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-2. Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+2. Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_description_pad">"O tej storitvi
 - Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-- Če je zvočnik močneje blokiran, zaženite to storitev 2-5 krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+- Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_summary">30 sekund predvajajte zvok, da očistite zvočnik</string>
      <string name="auto_clean_summary_new">Predvaj %d-sekund zvok, da očistite zvočnik. To funkcijo uporabite večkrat zapored za znatne količine umazanije.</string>
      <string name="auto_clean_title">Očisti zvočnik</string>
@@ -2072,6 +2072,8 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_absVolume_open_dialog_title">Pozor</string>
      <string name="bt_absVolume_pre_title">Absolutna glasnost</string>
      <string name="bt_absVolume_summary">Obdrži strogo dosledno glasnost Bluetooth naprav in telefona</string>
+     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptive bo zagotovil visokokakovostno predvajanje in zmanjšal zakasnitev zvoka za igre in video, hkrati pa povečal porabo energije. Predvajanje se lahko upočasni zaradi omejitev strojne opreme Bluetooth in motenj iz okolja.</string>
+     <string name="bt_aptx_adaptive_open_dialog_title">Preklopim na aptX Adaptive?</string>
      <string name="bt_audio_repair_property">Popravi težave z zvokom</string>
      <string name="bt_audio_share_property">Deljenje</string>
      <string name="bt_audio_share_switch_summary">Delite zvok z povezanimi Bluetooth napravami</string>
@@ -2087,6 +2089,8 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_dialog_settings">Nastavitve</string>
      <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
      <string name="bt_hci_snoop_log_summary">Zajemanje paketov Bluetooth. (po spremembi te nastavitve preklopite Bluetooth)</string>
+     <string name="bt_lc3plus_open_dialog_summary">LC3plus bo zagotovil visokokakovostno predvajanje in zmanjšal zakasnitev zvoka za igre in video, hkrati pa povečal porabo energije. Predvajanje se lahko upočasni zaradi omejitev strojne opreme Bluetooth in motenj iz okolja.</string>
+     <string name="bt_lc3plus_open_dialog_title">Preklopim na LC3plus?</string>
      <string name="bt_ldac_declaration">Če Bluetooth naprava podpira LDAC bo povezano po privzetih nastavitvah. LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. Problemi se lahko pojavijo med predvajanjem zaradi Bluetooth strojne opreme.</string>
      <string name="bt_ldac_dialog_summary">"LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. To lahko izključite v Nastavitvah"</string>
      <string name="bt_ldac_dialog_title">Trenutna naprava podpira LDAC, ki je povezan po standardnem:</string>
@@ -2108,6 +2112,14 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_lhdc_open_dialog_title">Vključim LHDC?</string>
      <string name="bt_lhdc_pre_title">LHDC</string>
      <string name="bt_lhdc_property">Lastnosti</string>
+     <string name="bt_plugin_new_version">Posodobi</string>
+     <string name="bt_plugin_preference_button">Posodobi</string>
+     <string name="bt_plugin_preference_msg">Trnutno: %1$s | Novo: %2$s</string>
+     <string name="bt_plugin_preference_title">Nova različica</string>
+     <string name="bt_plugin_set_net_dialog_cancle">Prekliči</string>
+     <string name="bt_plugin_set_net_dialog_message">Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="bt_plugin_set_net_dialog_retry">Poskusite znova</string>
+     <string name="bt_plugin_set_net_dialog_title">"Ne morem se povezati na omrežje"</string>
      <string name="bt_pre_summary">Ponuja visoko kvalitetno avdio izkušnjo</string>
      <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
      <string name="bt_show_notification_summary">Pokaži trajno obvestilo v plošči obvestil</string>
@@ -4668,6 +4680,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="gxzw_quick_open_slow_summary">Pritisnite in držite ikono prstnega odtisa, da odprete meni bližnjic. Če želite uporabiti bližnjico, povlecite.</string>
      <string name="gxzw_quick_open_slow_title">Pritisnite in držite</string>
      <string name="gxzw_quick_open_title">Bližnjice</string>
+     <string name="gxzw_vibrate_summary">Vibriraj, medtem ko se predvaja animacija za odklepanje s prstnim odtisom</string>
+     <string name="gxzw_vibrate_title">Vibrirajte med odklepanjem</string>
      <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
      <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
      <string name="handy_mode">Delo z eno roko</string>
@@ -6229,6 +6243,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_ancMedium">Dnevno</string>
      <string name="miheadset_ancMild">Lahko</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
+     <string name="miheadset_anc_manual">Ročno</string>
      <string name="miheadset_audio_mode">Kakovost zvoka</string>
      <string name="miheadset_audio_mode_high">Visoko</string>
      <string name="miheadset_audio_mode_listen">Nizko</string>
@@ -6236,6 +6251,8 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_audio_mode_summary">Zamenjaj avdio način</string>
      <string name="miheadset_audio_quality">Kakovost zvoka</string>
      <string name="miheadset_audio_quality_summary">Izberite zvočni kodek Bluetooth</string>
+     <string name="miheadset_audio_sound_quality">Kakovost zvoka</string>
+     <string name="miheadset_audio_sound_quality_summary">Izberite zvočni kodek Bluetooth</string>
      <string name="miheadset_auto_ack_mode">Ko nosite slušalke, samodejno sprejmite klice</string>
      <string name="miheadset_auto_ack_mode_summary">Samodejno sprejmite klice</string>
      <string name="miheadset_auto_answer_call">Samodejno odgovorite na klice</string>
@@ -6245,6 +6262,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_cancel_device">Prekliči</string>
      <string name="miheadset_checkUpdate">Preveri za posodobitve</string>
      <string name="miheadset_closeAnc">Izklj.</string>
+     <string name="miheadset_codec_sample_rate">Hitrost vzorčenja zvoka Bluetooth</string>
      <string name="miheadset_common_problem">Pogosta vprašanja</string>
      <string name="miheadset_connectHeadsetForFw">Priključite slušalke, da si ogledate različico vdelane programske opreme</string>
      <string name="miheadset_connect_play_music">Predvajanje se začne samodejno, ko so priključene slušalke</string>
@@ -6452,14 +6470,21 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_screensaver_title">Čuvaj zaslona</string>
      <string name="miui_screensaver_usage">Čuvaj zaslona se začne 5 sekund po ugasnitvi zaslona.</string>
      <string name="miui_silent_title">omogoči tiho</string>
+     <string name="miui_sos_around_photo_summary">Besedilnemu sporočilu, poslanemu vašim stikom za nujne primere, priloži po %d fotografij iz sprednje in zadnje kamere</string>
+     <string name="miui_sos_around_photo_title">Priloži fotografije</string>
+     <string name="miui_sos_around_voice_summary">Priloži %d-sekundni zvočni posnetek besedilnemu sporočilu, poslanemu vašim stikom za nujne primere</string>
+     <string name="miui_sos_around_voice_title">Priloži %d-sekundni zvočni posnetek</string>
      <string name="miui_sos_audio_summary">Predvajaj SOS sporočilo ko se dobi stik v sili</string>
      <string name="miui_sos_audio_title">SOS glasovno sporočilo</string>
+     <string name="miui_sos_call_fire">Ogenj</string>
+     <string name="miui_sos_call_hospital">Bolnišnica</string>
      <string name="miui_sos_call_log_duration">Trajanje</string>
      <string name="miui_sos_call_log_none">Ni zgodovine klicev za zadnjo uro.</string>
      <string name="miui_sos_call_log_stranger">Tujec</string>
      <string name="miui_sos_call_log_summary">Pošlji zgodovino klicev zadnje ure nujnemu stiku</string>
      <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
      <string name="miui_sos_call_log_title">Pošlji zgodovino klicev</string>
+     <string name="miui_sos_call_police">Policija</string>
      <string name="miui_sos_call_warning_sim_unable">"Ni signala. Ne morem poslati SMS."</string>
      <string name="miui_sos_calling_summary">Vaša naprava bo samodejno poklicala vaše nujne stike in predvajala SOS glasovno sporočilo, ki ste ga posneli. Klic bo komčan ob koncu sporočila. Samodejno klicanje se bo ustavilo po prvem uspešnem poskusu.</string>
      <string name="miui_sos_calling_title">Samod. klic</string>
@@ -6471,14 +6496,19 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_sos_emergency_delivered_sms_noname">%1$s je prejel sporočilo</string>
      <string name="miui_sos_emergency_failed_sms">"Ne morem poslati sporočilo na %1$s (%2$s)"</string>
      <string name="miui_sos_emergency_failed_sms_noname">"Ne morem poslati sporočilo na %1s."</string>
+     <string name="miui_sos_emergency_title">Pomoč v sili</string>
      <string name="miui_sos_enable_switch_summary">Hitro pritisnite tipko za vklop/izklop 5 krat da boste poslali SOS besedilno sporočilo z vašo lokacijo svojim nujnim stikom</string>
      <string name="miui_sos_enable_switch_title">Klic v sili</string>
      <string name="miui_sos_exit_dialog_cancel">Prekliči</string>
      <string name="miui_sos_exit_dialog_message">Aktivirali ste Klic v sili. Vaši podatki o lokaciji se pošiljajo vašim nujnim stikom. Izključim vseeno?</string>
      <string name="miui_sos_exit_dialog_ok">V redu</string>
      <string name="miui_sos_exit_dialog_title">Izklop Nujnega SOS-a</string>
+     <string name="miui_sos_exit_emergency_title">Izklop</string>
+     <string name="miui_sos_exit_send_location_title">Delite svojo lokacijo s stiki za nujne primere v realnem času</string>
      <string name="miui_sos_green_guard_summary">Deli informacije o lokaciji v realnem času</string>
      <string name="miui_sos_green_guard_title">Starševski nadzor</string>
+     <string name="miui_sos_hospital_card">Zdravstvena izkaznica</string>
+     <string name="miui_sos_hospital_card_important_info">Vaši kritični zdravstveni podatki za prve odzivne osebe</string>
      <string name="miui_sos_launch_error">"Ne morem aktivirati Klic v sili"</string>
      <string name="miui_sos_launch_error_confirm">Razumem</string>
      <string name="miui_sos_launch_error_message">"Ne morem se povezati z mobilnim omrežjem. Uporaba Klic v sili ni možna."</string>
@@ -6505,6 +6535,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_sos_settings_category">SOS nastavitve</string>
      <string name="miui_sos_statusbar_summary">Tapni za izklop</string>
      <string name="miui_sos_statusbar_title">Vključen je Klic v sili</string>
+     <string name="miui_sos_unknow_contract">Neznan stik</string>
      <string name="miui_special_feature">Posebne storitve</string>
      <string name="miui_touch_filtered_touchassistant_warning">Dialoški okvir dovoljenj je pokrit z menijem bližnjic. Premaknite ga ali izključite to storitev.</string>
      <string name="miui_touch_filtered_warning">Če aplikacija blokira pogovorno okno za dovoljenje potegnite stvar ki se preklapa ali zaprite aplikacijo.</string>
@@ -9907,6 +9938,7 @@ Morda je koda PIN napačna."</string>
      <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
      <string name="sim_name_hint">Vnesite ime kartice SIM</string>
      <string name="sim_no_inserted_msg">Ni vstavljenih kartic SIM</string>
+     <string name="sim_no_service">Ni storitve</string>
      <string name="sim_notification_summary">Dotaknite se za nastavitev</string>
      <string name="sim_notification_title">Zamenjava kartic SIM.</string>
      <string name="sim_other_call_settings">Druge nastavitve klicev</string>
@@ -12838,6 +12870,7 @@ Dovolite to vsem aplikacijam, ki želijo iskati?"</string>
      <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
      <string name="wifi_tether_configure_subtext">Dostopna točka %1$s %2$s</string>
      <string name="wifi_tether_disabled_by_airplane">Ni na voljo, ker je vklopljen način za letalo</string>
+     <string name="wifi_tether_enabled_nosecurity_summary">"%1$s ni šifrirano"</string>
      <string name="wifi_tether_enabled_subtext">Povezava %1$s je aktivna</string>
      <string name="wifi_tether_enabled_summary">%1$s</string>
      <string name="wifi_tether_failed_subtext">Napaka prenosne dostopne točke WiFi</string>

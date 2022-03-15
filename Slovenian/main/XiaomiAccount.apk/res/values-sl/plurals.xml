@@ -29,6 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="area_code_search_result_size">
+        <item quantity="other">Najdeno %d rezultatov</item>
+        <item quantity="one">Najden %d rezultat</item>
+     </plurals>
      <plurals name="dirty_contacts_count">
         <item quantity="other">Stikov: %d</item>
         <item quantity="one">%d stik</item>

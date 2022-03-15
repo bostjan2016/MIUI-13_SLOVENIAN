@@ -191,6 +191,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="high_temp_benchmark_state_message">"Zdi se, da je ta naprava zdaj vroča. Uporabite to aplikacijo, ko se naprava ohladi:"</string>
      <string name="high_temp_state">Pregrevanje</string>
      <string name="high_temp_state_message">Vaša naprava se pregreva. Mobilni podatki, WiFi hotspoti, GPS in kamera bodo omejeni.</string>
+     <string name="high_temp_state_message_orange_es">Nekaterih aplikacij ni bilo mogoče začasno uporabiti za izboljšanje delovanja telefona.</string>
      <string name="hints_loading_text">Nalaganje…</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="important_warning">Pozor</string>

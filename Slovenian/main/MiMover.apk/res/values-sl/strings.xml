@@ -52,6 +52,10 @@
      <string name="apple_image">Slike</string>
      <string name="apple_video">Videoposnetki</string>
      <string name="appname_app_data_suffix">%1$s podatki aplikacije</string>
+     <string name="apps_cannot_be_transfered_confirm_button">Začni</string>
+     <string name="apps_cannot_be_transfered_next_button">Naprej</string>
+     <string name="apps_cannot_be_transfered_summary">"Teh 64-bitnih aplikacij ni mogoče prenesti v 32-bitno napravo. Lahko jih prenesete neposredno iz GetApps."</string>
+     <string name="apps_cannot_be_transfered_title">"Teh aplikacij ni mogoče prenesti"</string>
      <string name="audio">Avdio</string>
      <string name="audio_video_document">Avdio, video in dokumenti</string>
      <string name="back">Nazaj</string>
@@ -670,6 +674,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="reconnect">Povežite se ponovno</string>
      <string name="recovery_progress">Vračanje stvari (%1$d/%2$d)…</string>
      <string name="recreate_soft_ap_tips">Tapnite gumb spodaj za ponovni poskus.</string>
+     <string name="refuse_accept">"Ne strinjam se"</string>
      <string name="request_all_permission_content">"Mi Mover mora dostopati do naslednjega, da lahko prenese stvari v novo napravo:
 - Lokacija
 - Stiki

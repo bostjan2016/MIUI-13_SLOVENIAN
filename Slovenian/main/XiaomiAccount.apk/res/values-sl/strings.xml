@@ -31,6 +31,7 @@
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="about_device_info">Pokaži podrobnosti o napravi</string>
      <string name="accept">Dovoli</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="access_token_expired_warning">Weibo račun je potekel</string>
      <string name="access_token_invalid_warning">Weibo račun je neveljaven</string>
      <string name="account">Račun</string>
@@ -120,6 +121,8 @@
      <string name="alert_title_remove_account">Odstranim račun?</string>
      <string name="am">dop.</string>
      <string name="app_name">Mi račun</string>
+     <string name="area_code_no_search_result">"Nič ne najdem"</string>
+     <string name="area_code_search_hint">Išči državo ali regijo</string>
      <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>
      <string name="authorize_title">Avtorizacija</string>
      <string name="barcode_add_account_prompt">Če želite dodati račun ponovno skenirajte QR kodo ko se prijavite.</string>
@@ -493,6 +496,8 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="my_device_title">Trenutna naprava</string>
      <string name="my_favorite">Moji priljubljeni</string>
      <string name="need_install_wechat">Najprej namestite WeChat</string>
+     <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="night">Noč</string>
      <string name="no_account_or_forget_password">Ustvarjanje računa ali pozabljeno geslo?</string>
      <string name="no_install">Ni nameščeno</string>
@@ -816,6 +821,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="privacy_policy_reject_confirm_title">"Računa Mi ni mogoče uporabiti"</string>
      <string name="privacy_policy_update_msg">Pravila o zasebnosti računa Mi so bila posodobljena:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
      <string name="privacy_policy_update_title">Posodobljena Pravila o zasebnosti</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
@@ -927,6 +933,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="system_ad_summary">"Vklopite to storitev in tako omogočite prikazovanje majhnega števila oglasov v sistemskih aplikacijah. Ti oglasi nam pomagajo razvijati in izboljševati naše izdelke in storitve. To storitev lahko kadarkoli izklopite. Hvala za podporo! "</string>
      <string name="system_ad_switch">Oglasi v sist. aplikacijah</string>
      <string name="system_ad_switch_failed">"Ne morem uporabiti"</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="talkback_scan_barcode">Skeniraj QR kodo</string>
      <string name="temporary_not_available">"Trenutno še ni na voljo"</string>
      <string name="third_party_login">Računi tretjih oseb</string>
@@ -954,6 +961,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="two_factor_auth_summary">"Ko se poskusite prijaviti na novi napravi ali lokaciji boste o tem obveščeni na ostalih povezanih napravah. Morate potrditi če ste te poskuse prijave odobrili."</string>
      <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun."</string>
      <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo."</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="unlock_help_notice">"Pomoč:
 1. Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
 2. Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo.

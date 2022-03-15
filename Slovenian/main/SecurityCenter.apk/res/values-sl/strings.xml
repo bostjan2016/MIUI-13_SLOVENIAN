@@ -1966,6 +1966,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
      <string name="gamebox_brightness">Svetlost</string>
      <string name="gamebox_browser_not_find">Najprej namestite Mi brskalnik</string>
+     <string name="gamebox_bullet_chat">Komentarji na zaslonu</string>
      <string name="gamebox_collimator">Pogled</string>
      <string name="gamebox_display_1">Nič</string>
      <string name="gamebox_display_2">Nasičeno</string>
@@ -2067,6 +2068,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_dialog_record_way_ai">AI posnetki se shranjujejo v gamebox in se tam hranijo 7 dni.</string>
      <string name="gb_dialog_record_way_finish">Končano</string>
      <string name="gb_dialog_record_way_manual">Ročno posnemite videoposnetke dolge do 30 sekund</string>
+     <string name="gb_dialog_record_way_manual_desc" formatted="false">Ročno posnemite %d-%d sekund videoposnetka med igranjem.</string>
+     <string name="gb_dialog_record_way_setting_tip_one">Povečana poraba energije in zamik</string>
+     <string name="gb_dialog_record_way_setting_tip_title">Ta storitev lahko povzroči naslednje težave:</string>
+     <string name="gb_dialog_record_way_setting_tip_two">Konflikti z drugimi snemalniki zaslona</string>
      <string name="gb_dialog_record_way_setting_tips">Opomba: Snemanje vaših sej igranja zahteva večjo porabo energije.</string>
      <string name="gb_dialog_record_way_title">Izberite način snemanja</string>
      <string name="gb_first_guide_function_shiled_title">Izključi storitve sistema ko je Game Turbo vključen</string>
@@ -2095,6 +2100,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_game_video_page_null">Zabeležite ključne trenutke igranja</string>
      <string name="gb_game_video_record_finish_tips">Videoposnetek uspešno shranjen</string>
      <string name="gb_game_video_save">Shrani</string>
+     <string name="gb_game_video_save_tip">Shranjeno</string>
      <string name="gb_game_video_type_ai">AI</string>
      <string name="gb_game_video_type_ai_record">Posnemi z uporabo AI</string>
      <string name="gb_game_video_type_manual">Ročno</string>
@@ -2107,6 +2113,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_gpu_driver_update_app_tips">Nameščena verzija je najnovejša</string>
      <string name="gb_have_signed">Prijavljen danes</string>
      <string name="gb_manual_record_dialog_del_video_message">Želite trajno izbrisati izbrane videoposnetke?</string>
+     <string name="gb_manual_video_record_title">Posnetki</string>
      <string name="gb_msg_completely_shielded">Skrij sporočila</string>
      <string name="gb_msg_completely_shielded_summary">Skrij</string>
      <string name="gb_msg_not_shielded_summary">Pokaži</string>
@@ -2126,13 +2133,22 @@ ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
+     <string name="gb_shoulder_guide_message1">Premaknite [L] v kateri koli funkcionalni položaj, da ga uporabite prek pojavnega sprožilca</string>
+     <string name="gb_shoulder_guide_message2">Dejanje [1] se aktivira s pritiskom na gumb. Dejanje [2] se aktivira s sprostitvijo gumba.</string>
+     <string name="gb_shoulder_guide_tips1">Odprite orodje in konfigurirajte sprožilce pojavnih oken</string>
+     <string name="gb_shoulder_guide_title1">Opravilo</string>
+     <string name="gb_shoulder_guide_title2">Zaporedje</string>
      <string name="gb_shoulder_key">Sprožilci pojavnih oken</string>
      <string name="gb_shoulder_key_add_show_btn">Pokaži virtualne tipke med igranjem</string>
      <string name="gb_shoulder_key_add_tips">Premakni [L] in [D] v kateri koli funkcionalni položaj in ju uporabite prek pojavnih sprožilcev</string>
      <string name="gb_shoulder_key_btn_cancel">Prekliči</string>
      <string name="gb_shoulder_key_btn_save_exit">Shrani</string>
      <string name="gb_shoulder_key_circle_left">L</string>
+     <string name="gb_shoulder_key_circle_left_sub1">L1</string>
+     <string name="gb_shoulder_key_circle_left_sub2">L2</string>
      <string name="gb_shoulder_key_circle_right">D</string>
+     <string name="gb_shoulder_key_circle_right_sub1">D1</string>
+     <string name="gb_shoulder_key_circle_right_sub2">D2</string>
      <string name="gb_shoulder_key_dialog_message">"Če ne igrate iger, lahko hkrati uporabite obe virtualna gumba, da zaženete Game Turbo."</string>
      <string name="gb_shoulder_key_dialog_txt">Game Turbo lahko vklopite z virtualnimi gumbi.</string>
      <string name="gb_shoulder_key_guide_btn_done">Razumem</string>
@@ -2148,6 +2164,14 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_shoulder_key_settings_summary">"Z sprožilcema pojavnih oken zaženite Game Turbo, ko ne igrate iger"</string>
      <string name="gb_shoulder_key_settings_title">Uporabite sprožilce pojavnih oken za Game Turbo</string>
      <string name="gb_shoulder_key_settings_title_new">Hitri začetek Game Turbo</string>
+     <string name="gb_shoulder_set_left_right">Nastavi [%s]</string>
+     <string name="gb_shoulder_set_title">Vklopite sprožilce pojavnih oken, da jih konfigurirate</string>
+     <string name="gb_shoulder_set_title2">Premaknite [%s] na kateri koli funkcionalni položaj in ga uporabite prek pojavnih sprožilcev</string>
+     <string name="gb_shoulder_single_trigger">Opravilo</string>
+     <string name="gb_shoulder_subsection_down">Pritisni</string>
+     <string name="gb_shoulder_subsection_trigger">Zaporedje</string>
+     <string name="gb_shoulder_subsection_up">Spusti</string>
+     <string name="gb_shoulder_update_left_right">Uredi %s</string>
      <string name="gb_sign_gift">Prijavite se, če želite dobiti nagrade</string>
      <string name="gb_sign_gift_button_text">Prejmi</string>
      <string name="gb_sign_notification_summary">Igrajte igre brez zamud v omrežju</string>
@@ -2310,10 +2334,15 @@ vašega igranja"</string>
      <string name="gs_show_way_vertical">Navpično</string>
      <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
      <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
+     <string name="gtb_after_acceleration">Potem</string>
+     <string name="gtb_auto_memory_clean">Samodejno počisti pomnilnik</string>
+     <string name="gtb_before_acceleration">Prej</string>
+     <string name="gtb_brightness_adjust">Svetlost</string>
      <string name="gtb_brightness_dialog_right_btn">Obdrži</string>
      <string name="gtb_brightness_dialog_sub_message">*To storitev lahko vklopite in izklopite v nastavitvah.</string>
      <string name="gtb_content_switch">Vsebinska priporočila</string>
      <string name="gtb_content_switch_summary">Prejemajte priporočila o vsebini v zvezi z igrami</string>
+     <string name="gtb_deep_garbage_cleaning">Izvajanje globinskega čiščenja…</string>
      <string name="gtb_dialog_btn_close">Izključi</string>
      <string name="gtb_dialog_btn_open">Vključi</string>
      <string name="gtb_dialog_hint_smart_5g">Lahko vključite in izključite to storitev v Game Turbo &gt; Nastavitve.</string>
@@ -2325,8 +2354,11 @@ vašega igranja"</string>
      <string name="gtb_dialog_privacy_voice_title">Xunyou Menjalec glasu</string>
      <string name="gtb_dialog_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja. Ali želite zdaj to storitev vklopiti?</string>
      <string name="gtb_dialog_title_smart_5g">5G optimizacija omrežja</string>
+     <string name="gtb_dnd">Ne moti</string>
      <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
      <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
+     <string name="gtb_garbage_clean">Sprostite prostor za shranjevanje</string>
+     <string name="gtb_garbage_cleaned_tip">Sprostite %1$s, da povečate učinkovitost</string>
      <string name="gtb_guide_finish">Preskoči</string>
      <string name="gtb_guide_game_mode_tips">Izberite željeni način igranja</string>
      <string name="gtb_guide_gtb_button_done">Končano</string>
@@ -2340,6 +2372,17 @@ vašega igranja"</string>
      <string name="gtb_guide_gtb_line_xspace">Izboljšajte svojo igro s povsem novim Igre Turbo!</string>
      <string name="gtb_guide_small_window_app_desc">"Med igranjem uporabljajte druge aplikacije"</string>
      <string name="gtb_guide_small_window_app_title">Plavajoča okna</string>
+     <string name="gtb_intelligent_garbage_clean">Sprostite prostor za shranjevanje</string>
+     <string name="gtb_memory_clean">Počisti pomnilnik</string>
+     <string name="gtb_mode_normal">Normalno</string>
+     <string name="gtb_mode_performance">Zmogljivost</string>
+     <string name="gtb_open_performance_mode_tip">Način Zmogljivost bo izboljšal vašo igralno izkušnjo, hkrati pa povečal porabo energije in segreval vašo napravo.</string>
+     <string name="gtb_phone_accelerate">Povečaj zmogljivost</string>
+     <string name="gtb_realtime_performance_monitoring">Spremljaj zmogljivost</string>
+     <string name="gtb_screenrecord">Posnemi</string>
+     <string name="gtb_screenshot">Posnetek zaslona</string>
+     <string name="gtb_screenshot_pinned">Posnetek zaslona</string>
+     <string name="gtb_setting">Nastavitve</string>
      <string name="gtb_setting_item_summary_disable_ndds_sim">Blokiraj vse komunikacijske storitve na sekundarni kartici SIM med igranjem, da ohranite povezavo stabilno in preprečite preklapljanje med omrežji. Sekundarna kartica SIM bo odblokirana, ko prenehate igrati.</string>
      <string name="gtb_setting_item_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja.</string>
      <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povečajte hitrost povezave za 10% -20%, ko ste povezani z usmerjevalniki Mi / Redmi</string>
@@ -2361,6 +2404,10 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="gtb_spring_festival_push_join">Pridružite se</string>
      <string name="gtb_spring_festival_push_see">Pokaži</string>
      <string name="gtb_spring_festival_shortcut_create">Ustvarite bližnjico na začetni zaslon</string>
+     <string name="gtb_start_phone_accelerate">Pospeši</string>
+     <string name="gtb_stop_accelerate">Ustavi</string>
+     <string name="gtb_timer">Časovnik</string>
+     <string name="gtb_voice_changer">Menjalnik glasu</string>
      <string name="gtb_wlan_speed_tips">Uporaba Mi WiFi-ja…</string>
      <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
      <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -4517,6 +4564,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="result_sms_title_auth">Obstaja tveganje odkrivanja finančnih SMS-ov</string>
      <string name="result_virus_header">Najdeno %d virusev in nevarnih aplikacij</string>
      <string name="result_wifi_header">Odkrito WiFi tveganje</string>
+     <string name="resume">Povrni</string>
      <string name="right_precent">100%</string>
      <string name="risk_app_install_agree_button">Zaupam tej aplikaciji</string>
      <string name="risk_app_install_agree_checkbox">"Pripravljen sem sprejeti vsa možna tveganja."</string>
@@ -5989,7 +6037,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_3d">Prostorski zvok</string>
      <string name="vb_video_effects_3d_summary">Izboljšajte globino reprodukcije zvoka za slušalke in zvočnike</string>
      <string name="vb_video_effects_3d_summary_headset">Povečajte občutek potopljenosti in zaokroženosti pri poslušanju zvoka v slušalkah</string>
-     <string name="vb_video_effects_3d_surround">Prostorski zvok</string>
+     <string name="vb_video_effects_3d_surround">Virtualni potopni zvok</string>
      <string name="vb_video_effects_display_style">Stil</string>
      <string name="vb_video_effects_dolby">Dolby Atmos</string>
      <string name="vb_video_effects_dolby_dialog_enhancer">Okrepljen dialog</string>
@@ -6017,7 +6065,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="vb_video_effects_settings_stereo">Glasnost</string>
      <string name="vb_video_effects_some_headphone">Podprto z izbranimi modeli slušalk</string>
      <string name="vb_video_effects_spatial">Sledi gibanju glave</string>
-     <string name="vb_video_effects_spatial_summary">"Prilagodi prostorski zvok glede na gibanje glave
+     <string name="vb_video_effects_spatial_summary">"Prilagodi poglobljeni zvok glede na gibanje glave
 *Podprto samo na modelih igralnih slušalk"</string>
      <string name="vb_video_effects_srs_premium_sound">Zvok</string>
      <string name="vb_video_super_division">Povečaj</string>

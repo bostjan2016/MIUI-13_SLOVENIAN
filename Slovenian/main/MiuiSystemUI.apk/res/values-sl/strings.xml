@@ -2364,6 +2364,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="prompt_safe">Varno</string>
      <string name="prompt_unknown">Neznano</string>
      <string name="qs_alarm_tile_no_alarm">Ni nastavljenih alarmov</string>
+     <string name="qs_bill_message_balance">%1$s %2$s ostalo</string>
      <string name="qs_control_big_tile_state_closed">Izključeno</string>
      <string name="qs_control_big_tile_state_closing">Izklop…</string>
      <string name="qs_control_big_tile_state_connected">Povezano</string>
@@ -2395,6 +2396,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="qs_rearrange">Zamenjaj razpored hitrih nastavitev</string>
      <string name="qs_status_phone_muted">Na telefonu je izključen zvok</string>
      <string name="qs_status_phone_vibrate">Telefon je nastavljen na vibriranje</string>
+     <string name="qs_traffic_message_type_exceed">%1$s %2$s čez limit</string>
+     <string name="qs_traffic_message_type_remain">%1$s %2$s ostalo</string>
+     <string name="qs_traffic_message_type_used">Porabljeno %1$s %2$s</string>
      <string name="quick_controls_setup_subtitle">Pritisnite in držite tipko za vklop / izklop za dostop do kontrolnikov</string>
      <string name="quick_controls_setup_title">Nastavljanje kontrolnikov naprave</string>
      <string name="quick_controls_subtitle">Dodajanje kontrol za povezane naprave</string>
