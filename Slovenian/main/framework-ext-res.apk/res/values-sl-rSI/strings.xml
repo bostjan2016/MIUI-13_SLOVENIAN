@@ -530,6 +530,9 @@
      <string name="talk_back_water_mark_string2">Pritisnite in držite \"Glasnost +\" in \"Glasnost -\" 3 sekunde da ga izključite</string>
      <string name="throwing_print">Natisni</string>
      <string name="throwing_screen">Predvajaj</string>
+     <string name="tip_close_screen_phone">Za uporabo vgrajenega zvočnika preklopite na prostoročno uporabo ali zložite napravo</string>
+     <string name="tip_for_phone_and_camera">Zložite napravo za uporabo vgrajenega zvočnika ali sprednje kamere</string>
+     <string name="tip_use_front_camera">Zložite napravo, da uporabite sprednjo kamero</string>
      <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
      <string name="total">DND</string>
      <string name="total_description">Utišaj zvoke in izključi vibriranje za vse stvari razen alarma</string>

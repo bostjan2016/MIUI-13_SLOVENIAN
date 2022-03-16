@@ -2347,9 +2347,12 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="priority_onboarding_show_at_top_text">Prikaže se na vrhu odseka za pogovor</string>
      <string name="priority_onboarding_show_avatar_text">Na zaklenjenem zaslonu prikaže sliko profila</string>
      <string name="priority_onboarding_title">Pogovor je nastavljen na prioritetno</string>
+     <string name="privacy_dialog_title">Obvestila o občutljivih dejanjih</string>
+     <string name="privacy_recent_used_title">Nedavno</string>
      <string name="privacy_type_camera">fotoaparat</string>
      <string name="privacy_type_location">lokacija</string>
      <string name="privacy_type_microphone">mikrofon</string>
+     <string name="privacy_using_title">Trenutno</string>
      <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
      <string name="private_dns_mode_off">Izključeno</string>
      <string name="private_dns_mode_opportunistic">Samodejno</string>
@@ -2577,6 +2580,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="recent_task_cleaning">Čiščenje aplikacij…</string>
      <string name="recent_task_lock_text">Zakleni</string>
      <string name="recent_task_unlock_text">Odkleni</string>
+     <string name="recent_used_camera">Ta aplikacija je uporabljala kamero</string>
+     <string name="recent_used_camera_and_microphone">Ta aplikacija je snemala zvok in uporabljala kamero</string>
+     <string name="recent_used_microphone">Ta aplikacija je snemala zvok</string>
      <string name="recents_accessibility_split_screen_left">Razdeljen zaslon na levi</string>
      <string name="recents_accessibility_split_screen_right">Razdeljen zaslon na desni</string>
      <string name="recents_accessibility_split_screen_top">Razdeljen zaslon na vrhu</string>
@@ -3176,6 +3182,9 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="user_setup_dialog_title">Želite uporabnika nastaviti zdaj?</string>
      <string name="user_setup_profile_dialog_message">Želite zdaj nastaviti profil?</string>
      <string name="user_switch_to_user">Preklop na račun %s</string>
+     <string name="using_camera">Ta aplikacija uporablja kamero</string>
+     <string name="using_camera_and_microphone">Ta aplikacija snema zvok in uporablja kamero</string>
+     <string name="using_microphone">Ta aplikacija snema zvok</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT, škodljive.</string>

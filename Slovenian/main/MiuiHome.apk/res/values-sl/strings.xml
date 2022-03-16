@@ -166,7 +166,7 @@
      <string name="auto_add_app_shortcut">Dodaj nove aplikacije na zač. zaslon</string>
      <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
      <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
-     <string name="auto_disable_screenbuttons_summary">Dvakrat tapnite katero koli navigacijsko tipko, da jih znova omogočite</string>
+     <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske gumbe, ko statusna vrstica ni prikazana. Dvakrat tapnite kateri koli gumb za krmarjenje, da jih znova omogočite</string>
      <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
      <string name="back">Nazaj</string>
      <string name="backup_fail">Ne norem napraviti var. kopijo zaganjalnika.</string>

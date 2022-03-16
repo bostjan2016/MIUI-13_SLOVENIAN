@@ -759,7 +759,9 @@ ki ste ga prejeli v vaš poštni predal
      <string name="passport_talkback_voice_captcha">Predvajaj glasovno kontrolno kodo</string>
      <string name="passport_ticket_login_select_sim_card">Izberite SIM kartico</string>
      <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+     <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
      <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+     <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
      <string name="passport_ticket_login_select_sim_card_cancel">Prekliči</string>
      <string name="passport_title_reg">Ustvari račun</string>
      <string name="passport_trust_device">Dodaj to napravo k zaupanja vrednim</string>
