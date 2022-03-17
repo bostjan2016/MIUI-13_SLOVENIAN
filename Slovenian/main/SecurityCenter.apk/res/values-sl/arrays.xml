@@ -118,7 +118,7 @@
      <string-array name="lock_mode">
         <item>Zakleni ko je naprava zaklenjena</item>
         <item>Zakleni po izhodu iz aplikacije</item>
-        <item>Zakleni čez 1 min. po izhodu iz aplikacije</item>
+        <item>Zakleni čez 1 min po izhodu iz aplikacije</item>
      </string-array>
      <string-array name="lock_mode_value">
         <item>1</item>

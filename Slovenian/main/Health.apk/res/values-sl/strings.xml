@@ -484,7 +484,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
      <string name="exercise_motor_perception">Sledite vajam samodejno</string>
      <string name="exercise_motor_perception_description">Napravo nosite s seboj ves dan, da samodejno spremljate svojo vadbo</string>
      <string name="exercise_no_question">"Zakaj ne morete videti svojo statistiko?"</string>
-     <string name="exercise_notification_content">%1$d min. vadbe (%2$d Cal)</string>
+     <string name="exercise_notification_content">%1$d min vadbe (%2$d Cal)</string>
      <string name="exercise_notification_meet_title">"Današnji koraki: %d. Cilj dosežen!"</string>
      <string name="exercise_notification_no_meet_title">"Današnji koraki: %d. Nadaljujte in dosezite svoj cilj!"</string>
      <string name="exercise_question_answer_one">"1. Nekateri modeli naprav niso opremljeni s senzorji majhne moči. Mi zdravje ne spremlja podatkov o dejavnostih, da prihrani baterijo na naslednjih napravah: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
@@ -504,7 +504,7 @@ Lahko izberete drug vir podatkov v Več &gt; Vir podatkov."</string>
      <string name="exercise_reminder_accomplished">Dosegli ste svoj cilj aktivnosti!</string>
      <string name="exercise_reminder_title">Opomnik aktivnosti</string>
      <string name="exercise_reminder_unaccomplished">"Niste še dosegli svoj cilj. Nadaljujte!"</string>
-     <string name="exercise_result_reminder_content">%1$d min. vadbe (%2$d Cal). Tapni za prikaz podrobnosti.</string>
+     <string name="exercise_result_reminder_content">%1$d min vadbe (%2$d Cal). Tapni za prikaz podrobnosti.</string>
      <string name="exercise_result_reminder_title">"Današnje število korakov: %1$d. Dosegli ste cilj!"</string>
      <string name="exercise_result_reminder_title_unaccomplished">"Današnje število korakov: %1$d. Še vedno lahko dosežete cilj!"</string>
      <string name="exercise_setting_label_reach_standard_remind">Opozorilo o aktivnosti</string>
@@ -1101,8 +1101,8 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="pause">Premor</string>
      <string name="pause_button_content_description">Premor</string>
      <string name="per_count_minutes1">%d SPM</string>
-     <string name="per_time_minutes">%d na min.</string>
-     <string name="per_time_minutes1">" na min."</string>
+     <string name="per_time_minutes">%d na min</string>
+     <string name="per_time_minutes1">" na min"</string>
      <string name="per_time_minutes_heart_rate">" BPM"</string>
      <string name="period">Cikel</string>
      <string name="permission_check_result">Uspešno nastavljeno</string>
@@ -1188,7 +1188,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="remind_query_menstruation_end">"Ali se je vaša menstruacija končala? Ne pozabite to zabeležiti."</string>
      <string name="remind_query_menstruation_start">"Ali se je vaša menstruacija začela? Ne pozabite jo zabeležiti."</string>
      <string name="remind_sleep_report_complete">Statistika spanja je pripravljena</string>
-     <string name="remind_sleep_report_content">Spali ste %1$d hr %2$d min. Tapnite za prikaz podrobnosti.</string>
+     <string name="remind_sleep_report_content">Spali ste %1$d hr %2$d min Tapnite za prikaz podrobnosti.</string>
      <string name="remind_sleep_report_content_1">Zadnjo noč ste spali %1$d hr. Tapnite za prikaz podrobnosti.</string>
      <string name="remind_sleep_report_title">Statistika spanja je pripravljena</string>
      <string name="remind_subtitle_menstruation_start">Prejmite opomnik 2 dni preden se začne naslednja menstruacija</string>

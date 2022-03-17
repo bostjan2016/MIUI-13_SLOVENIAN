@@ -110,7 +110,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="apply_theme_with_ringtones">Uporabite melodijo zvonjenja teme</string>
      <string name="apply_warning_get_device_dialog_message">Če želite uporabljati preneseno vsebino, najprej omogočite tej funkciji dostop do ID-ja vaše naprave. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
      <string name="apply_warning_tip_get_device_status">Najprej dovolite tej aplikaciji dostop do ID-ja vaše naprave v Profil> Nastavitve.</string>
-     <string name="audio_duration_minutes_format">%1$d min.</string>
+     <string name="audio_duration_minutes_format">%1$d min</string>
      <string name="audio_duration_seconds_format">%1$d sek.</string>
      <string name="audition_ringtone">Predvajaj</string>
      <string name="author_attention">Sledi</string>

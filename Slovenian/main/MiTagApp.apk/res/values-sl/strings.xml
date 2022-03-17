@@ -82,7 +82,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="failed_to_erase">Brisanje ni uspelo</string>
   <string name="failed_to_write">Pisanje ni uspelo</string>
   <string name="fif_seconds">15 sek.</string>
-  <string name="five_minutes">5 min.</string>
+  <string name="five_minutes">5 min</string>
   <string name="gps">GPS</string>
   <string name="help_title">Pomoč</string>
   <string name="hint_input_address">Naslov</string>
@@ -116,7 +116,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="null_task">Ni nalog</string>
   <string name="off">Izključeno</string>
   <string name="on">Vključeno</string>
-  <string name="one_minute">1 min.</string>
+  <string name="one_minute">1 min</string>
   <string name="open_web">Odpri spletno stran</string>
   <string name="open_xiaomi_web">Pojdi na mi.com</string>
   <string name="password_preference">Nastavi geslo</string>
@@ -173,7 +173,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="tag_history">Zgodovina</string>
   <string name="tag_history_date_format">M/d</string>
   <string name="task">Naloge bližnjice</string>
-  <string name="ten_minutes">10 min.</string>
+  <string name="ten_minutes">10 min</string>
   <string name="thir_seconds">30 sek.</string>
   <string name="toast_import_failed">"Stika ne morem uvoziti"</string>
   <string name="toggle">Bližnjica</string>
@@ -184,7 +184,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
 dotaknite drugo oznako z zadnjo stranjo telefona."</string>
   <string name="touch_and_write_more">"Za pisanje druge kopije,
 dotaknite drugo oznako z zadnjo stranjo telefona."</string>
-  <string name="two_minutes">2 min.</string>
+  <string name="two_minutes">2 min</string>
   <string name="unavailable_net">"Ne morem se povezati na omrežje"</string>
   <string name="unavailable_storage">"Ne morem uporabljati SD kartice"</string>
   <string name="unrecognized_tag">Neznana vsebina oznake</string>

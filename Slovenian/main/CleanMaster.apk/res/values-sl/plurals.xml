@@ -198,8 +198,8 @@
         <item quantity="other">Preneslo %1$d oseb</item>
      </plurals>
      <plurals name="mins_ago">
-        <item quantity="other">Pred %1$d min.</item>
-        <item quantity="one">Pred %1$d min.</item>
+        <item quantity="other">Pred %1$d min</item>
+        <item quantity="one">Pred %1$d min</item>
      </plurals>
      <plurals name="minute">
         <item quantity="other">%1$d min</item>

@@ -853,9 +853,9 @@
      <string-array name="lock_screen_secure_after_timeout_entries">
         <item>Takoj</item>
         <item>30 sek.</item>
-        <item>1 min.</item>
-        <item>2 min.</item>
-        <item>5 min.</item>
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>5 min</item>
         <item>Nikoli</item>
      </string-array>
      <string-array name="long_press_timeout_selector_list_titles">

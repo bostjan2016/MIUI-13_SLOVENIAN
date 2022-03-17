@@ -542,7 +542,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="snooze_duration">Odloži</string>
      <string name="snooze_duration_text">%1$s | %2$s</string>
      <string name="snooze_duration_title">Odloži</string>
-     <string name="snooze_duration_value">Interval (min.)</string>
+     <string name="snooze_duration_value">Interval (min)</string>
      <string name="sort_hint_name">Razporejeno po imenu</string>
      <string name="sort_hint_time">Razporejeno po času</string>
      <string name="sort_hint_type">Razporejeno po vrsti</string>

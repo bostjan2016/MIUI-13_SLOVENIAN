@@ -1285,7 +1285,7 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="too_long_name">Ime je predolgo</string>
      <string name="travel_airport">Letališče</string>
      <string name="travel_carriage_number_text">Avto</string>
-     <string name="travel_eta_advice">%2$s min. vožnje do %1$s.</string>
+     <string name="travel_eta_advice">%2$s min vožnje do %1$s.</string>
      <string name="travel_ets_advice">Vozi ob %2$s pred %1$s.</string>
      <string name="travel_event_add_successfully">Dogodek dodan</string>
      <string name="travel_event_title_flight">Let: %1$s-%2$s %3$s</string>

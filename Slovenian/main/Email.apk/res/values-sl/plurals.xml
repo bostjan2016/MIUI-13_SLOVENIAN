@@ -221,11 +221,11 @@
         <item quantity="one">pred %1$d uro</item>
      </plurals>
      <plurals name="number_of_minute_after">
-        <item quantity="other">%1$d min. kasneje</item>
+        <item quantity="other">%1$d min kasneje</item>
         <item quantity="one">%1$d minuto kasneje</item>
      </plurals>
      <plurals name="number_of_minute_before">
-        <item quantity="other">pred %1$d min.</item>
+        <item quantity="other">pred %1$d min</item>
         <item quantity="one">pred %1$d minuto</item>
      </plurals>
      <plurals name="number_of_second_after">

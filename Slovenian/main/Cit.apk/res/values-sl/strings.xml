@@ -756,7 +756,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_tool_log_no_sdcard">Vstavite SD kartico</string>
      <string name="cit_tool_log_ril">RIL zapis</string>
      <string name="cit_tool_log_toast">Zapis shranjen v %s</string>
-     <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja okoli 1 min.)</string>
+     <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja okoli 1 min)</string>
      <string name="cit_tool_mbn_default_notfiy">privzeti MBN</string>
      <string name="cit_tool_mbn_no_default_notfiy">Ni privzetega MBN</string>
      <string name="cit_tool_mbn_opt_help">"Navodila za uporabo:

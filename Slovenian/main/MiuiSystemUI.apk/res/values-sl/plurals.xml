@@ -34,8 +34,8 @@
         <item quantity="one">pred %d dan</item>
      </plurals>
      <plurals name="abc_slice_duration_min">
-        <item quantity="other">pred %d min.</item>
-        <item quantity="one">pred %d min.</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
      </plurals>
      <plurals name="abc_slice_duration_years">
         <item quantity="other">pred %d let</item>
@@ -109,44 +109,44 @@
         <item quantity="one">Še %d hr do polne baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Še %d min. do polne baterije​</item>
-        <item quantity="one">Še %d min. do polne baterije​</item>
+        <item quantity="other">Še %d min do polne baterije​</item>
+        <item quantity="one">Še %d min do polne baterije​</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Še %1$d hr %2$d min. do polne baterije</item>
-        <item quantity="one">Še %1$d hr %2$d min. do polne baterije</item>
+        <item quantity="other">Še %1$d hr %2$d min do polne baterije</item>
+        <item quantity="one">Še %1$d hr %2$d min do polne baterije</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Ostalo še %d ur</item>
         <item quantity="one">Ostala še %d ura</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">Ostalo še %d min.</item>
-        <item quantity="one">Ostala še %d min.</item>
+        <item quantity="other">Ostalo še %d min</item>
+        <item quantity="one">Ostala še %d min</item>
      </plurals>
      <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">Ostalo še %1$d hr %2$d min.</item>
-        <item quantity="one">Ostalo še %1$d hr %2$d min.</item>
+        <item quantity="other">Ostalo še %1$d hr %2$d min</item>
+        <item quantity="one">Ostalo še %1$d hr %2$d min</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d ur</item>
         <item quantity="one">%d ura</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_min_time_format">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
      </plurals>
      <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$d hr %2$d min.</item>
-        <item quantity="one">%1$d hr %2$d min.</item>
+        <item quantity="other">%1$d hr %2$d min</item>
+        <item quantity="one">%1$d hr %2$d min</item>
      </plurals>
      <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">Ostalo še %d hr</item>
         <item quantity="one">Ostalo še %d hr</item>
      </plurals>
      <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">Ostalo še %d min.</item>
-        <item quantity="one">Ostalo še %d min.</item>
+        <item quantity="other">Ostalo še %d min</item>
+        <item quantity="one">Ostalo še %d min</item>
      </plurals>
      <plurals name="keyguard_extreme_power_info_could_use_time_text">
         <item quantity="other">Ostalo še %1$d h %2$d m</item>
@@ -228,8 +228,8 @@
         <item quantity="one">pred 1 minuto</item>
      </plurals>
      <plurals name="phone_locked_timeout_minutes_string">
-        <item quantity="other">Poskusi ponovno čez %d min.</item>
-        <item quantity="one">Poskusi ponovno čez %d min.</item>
+        <item quantity="other">Poskusi ponovno čez %d min</item>
+        <item quantity="one">Poskusi ponovno čez %d min</item>
      </plurals>
      <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Poskusi ponovno čez %d sek.</item>

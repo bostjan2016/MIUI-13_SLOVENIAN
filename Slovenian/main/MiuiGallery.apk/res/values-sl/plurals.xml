@@ -19,15 +19,15 @@
         <item quantity="other">Kmalu</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">čez %d min.</item>
-        <item quantity="one">čez 1 min.</item>
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">pred %d min.</item>
-        <item quantity="one">pred %d min.</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
      </plurals>
      <plurals name="add_secret_ensure_message">
         <item quantity="other">Dodam te stvari v zasebni album?</item>
@@ -110,7 +110,7 @@
         <item quantity="one">%d stvar je prevelika za shranjevanje</item>
      </plurals>
      <plurals name="backup_pause_desc">
-        <item quantity="other">Nadaljevanje čez %d min.</item>
+        <item quantity="other">Nadaljevanje čez %d min</item>
         <item quantity="one">Nadaljevanje čez %d min</item>
      </plurals>
      <plurals name="backup_pause_dialog_message">
@@ -278,7 +278,7 @@
         <item quantity="other">Takoj</item>
      </plurals>
      <plurals name="in_num_minutes">
-        <item quantity="other">čez %d min.</item>
+        <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
@@ -309,8 +309,8 @@
         <item quantity="one">Napaka omrežja. %1$d stvar čaka izdelavo var. kopije</item>
      </plurals>
      <plurals name="num_minutes_ago">
-        <item quantity="other">pred %d min.</item>
-        <item quantity="one">pred 1 min.</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">Stvari za sinhroniziranje: %1$d</item>

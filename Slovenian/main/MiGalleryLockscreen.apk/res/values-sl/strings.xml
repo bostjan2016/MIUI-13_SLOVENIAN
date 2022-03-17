@@ -442,8 +442,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="main_fragment_title_user">Nastavitve</string>
      <string name="manage">Urejaj</string>
      <string name="midnight">Noč</string>
-     <string name="minutes_15">Vsakih 15 min.</string>
-     <string name="minutes_5">Vsakih 5 min.</string>
+     <string name="minutes_15">Vsakih 15 min</string>
+     <string name="minutes_5">Vsakih 5 min</string>
      <string name="mishop_login_other">Drug račun</string>
      <string name="miui_clock_city_name_local">Lokalno</string>
      <string name="miui_clock_city_name_second">Druga ura</string>

@@ -165,8 +165,8 @@
         <item quantity="one">Naslednja menstruacija čez %1$d dan</item>
      </plurals>
      <plurals name="minutes">
-        <item quantity="other">%1$d min.</item>
-        <item quantity="one">%1$d min.</item>
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
      </plurals>
      <plurals name="minutes_ago">
         <item quantity="other">pred %1$d min</item>
@@ -201,7 +201,7 @@
         <item quantity="one">Ostal je še %s kilometer da dosežete cilj</item>
      </plurals>
      <plurals name="sport_tts_goal_time">
-        <item quantity="other">Ostalo je še %s min. da dosežete cilj</item>
+        <item quantity="other">Ostalo je še %s min da dosežete cilj</item>
         <item quantity="one">Ostala je še %s minuta da dosežete cilj</item>
      </plurals>
      <plurals name="sport_tts_riding_distance">
@@ -225,8 +225,8 @@
         <item quantity="one">"Porabili ste že %1$s Cal"</item>
      </plurals>
      <plurals name="sporting_content_min">
-        <item quantity="other">%1$d min.</item>
-        <item quantity="one">%1$d min.</item>
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
      </plurals>
      <plurals name="sporting_content_riding_km">
         <item quantity="other">"Kolo ste vozili že %1$s kilometrov"</item>

@@ -125,8 +125,8 @@
         <item quantity="one">Vsako %1$s min</item>
      </plurals>
      <plurals name="snooze_duration_summary">
-        <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsakič)</item>
-        <item quantity="one">Alarm se bo izključil %2$s X (%1$s min.)</item>
+        <item quantity="other">Alarm se bo izključil %2$s X (%1$s min vsakič)</item>
+        <item quantity="one">Alarm se bo izključil %2$s X (%1$s min)</item>
      </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Odloži alarm za %d min</item>

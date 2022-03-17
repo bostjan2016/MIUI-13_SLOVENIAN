@@ -13334,7 +13334,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
      <string name="zen_mode_reminders_title">Dovoli opomnike</string>
      <string name="zen_mode_repeat_callers">Klicatelji, ki večkrat kličejo</string>
      <string name="zen_mode_repeat_callers_list">klicatelji, ki večkrat kličejo</string>
-     <string name="zen_mode_repeat_callers_summary">Če ista oseba kliče že drugič v %d min.</string>
+     <string name="zen_mode_repeat_callers_summary">Če ista oseba kliče že drugič v %d min</string>
      <string name="zen_mode_repeat_callers_title">Dovoli večkratne klicatelje</string>
      <string name="zen_mode_restrict_notifications_category">Ko je vklopljen način »ne moti«</string>
      <string name="zen_mode_restrict_notifications_custom">Po meri</string>

@@ -291,7 +291,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
      <string name="focus_mode_timer_delete">Izbriši</string>
      <string name="focus_mode_timer_exist">Ta seja že obstaja</string>
-     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min.</string>
+     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min</string>
      <string name="focus_mode_timer_pick_dialog_title">Vnesite trajanje</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
      <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
@@ -664,7 +664,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="usage_app_limit_alter_title">Preverite časovno omejitev zaslona</string>
      <string name="usage_app_limit_prelong">Podaljšajte čas</string>
      <string name="usage_app_limit_reach_summay">%s ostalo</string>
-     <string name="usage_app_limit_reach_summay_new">Tapnite za dodajanje %d min.</string>
+     <string name="usage_app_limit_reach_summay_new">Tapnite za dodajanje %d min</string>
      <string name="usage_app_limit_reach_title">%s dosega svojo časovno omejitev zaslona</string>
      <string name="usage_app_limit_reach_title_new" formatted="false">Ostalo časa zaslona za %1s: %2s</string>
      <string name="usage_app_limit_summary">"Izbrane aplikacije ne bodo na voljo, ko bo dosežena omejitev"</string>

@@ -37,8 +37,8 @@
         <item quantity="one">1 min</item>
      </plurals>
      <plurals name="Nminutes">
-        <item quantity="other">%d min. prej</item>
-        <item quantity="one">%d min. prej</item>
+        <item quantity="other">%d min prej</item>
+        <item quantity="one">%d min prej</item>
      </plurals>
      <plurals name="Nweeks">
         <item quantity="other">%d tednov pred dogodkom</item>
@@ -261,11 +261,11 @@
         <item quantity="one">" ura"</item>
      </plurals>
      <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
      </plurals>
      <plurals name="reminder_later_toast">
-        <item quantity="other">Naslednji opomnik čez %1$d min.</item>
+        <item quantity="other">Naslednji opomnik čez %1$d min</item>
         <item quantity="one">Naslednji opomnik čez %1$d minuto</item>
      </plurals>
      <plurals name="repeat_custom_prompt">

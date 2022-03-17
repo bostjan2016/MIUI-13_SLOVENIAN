@@ -54,8 +54,8 @@
         <item quantity="one">%1$s-dnevna napoved</item>
      </plurals>
      <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">Povratne informacije lahko ponovno pošljete čez %1$s min.</item>
-        <item quantity="one">Povratne informacije lahko ponovno pošljete čez %1$s min.</item>
+        <item quantity="other">Povratne informacije lahko ponovno pošljete čez %1$s min</item>
+        <item quantity="one">Povratne informacije lahko ponovno pošljete čez %1$s min</item>
      </plurals>
      <plurals name="feedback_result_interval_time_too_short_second">
         <item quantity="other">Povratne informacije lahko ponovno pošljete čez %1$s sek.</item>

@@ -22,8 +22,8 @@
         <item>Vključi</item>
         <item>Izključi</item>
         <item>Takoj</item>
-        <item>Čez 10 min.</item>
-        <item>Čez 30 min.</item>
+        <item>Čez 10 min</item>
+        <item>Čez 30 min</item>
         <item>Kadar je zaslon izključen</item>
      </string-array>
      <string-array name="app_groups">
@@ -40,7 +40,7 @@
         <item>Aplikacija se izvaja v ospredju</item>
         <item>Zaslon vključen</item>
         <item>Zaslon izključen</item>
-        <item>Zaslon izključen več kot 10 min.</item>
+        <item>Zaslon izključen več kot 10 min</item>
         <item>Cel zaslon</item>
         <item>Izhod iz celega zaslona</item>
         <item>Aplikacija se izvaja v ozadju</item>

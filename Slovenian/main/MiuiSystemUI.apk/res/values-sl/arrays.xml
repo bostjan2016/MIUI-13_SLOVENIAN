@@ -235,7 +235,7 @@
      </string-array>
      <string-array name="miui_volume_timer_segments_title">
         <item>Izključeno</item>
-        <item>30 min.</item>
+        <item>30 min</item>
         <item>1 ura</item>
         <item>2 uri</item>
         <item>8 ur</item>

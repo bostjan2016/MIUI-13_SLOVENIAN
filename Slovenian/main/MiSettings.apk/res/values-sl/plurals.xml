@@ -65,8 +65,8 @@
         <item quantity="one">"Napravo ste uporabljali %d minuto neprekinjeno"</item>
      </plurals>
      <plurals name="steady_on_screen_time_pick">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
      </plurals>
      <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Čas zaslona danes je enak vašemu %d-dnevnemu povprečju</item>
@@ -146,12 +146,12 @@
         <item quantity="one">" ura"</item>
      </plurals>
      <plurals name="usage_state_minute">
-        <item quantity="other">%d min.</item>
-        <item quantity="one">%d min.</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
      </plurals>
      <plurals name="usage_state_miunte_text">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
      </plurals>
      <plurals name="usage_state_noti_count">
         <item quantity="other">%d obvestil</item>
@@ -170,16 +170,16 @@
         <item quantity="one">Vikend: %d ura</item>
      </plurals>
      <plurals name="usage_state_week_day_minute">
-        <item quantity="other">Vikend: %d min.</item>
-        <item quantity="one">Vikend: %d min.</item>
+        <item quantity="other">Vikend: %d min</item>
+        <item quantity="one">Vikend: %d min</item>
      </plurals>
      <plurals name="usage_state_work_day_hour">
         <item quantity="other">Delovnik: %d ur</item>
         <item quantity="one">Delovnik: %d sat</item>
      </plurals>
      <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Delovniki: %d min.</item>
-        <item quantity="one">Delovnik: %d min.</item>
+        <item quantity="other">Delovniki: %d min</item>
+        <item quantity="one">Delovnik: %d min</item>
      </plurals>
      <plurals name="usage_stats_remain_hour">
         <item quantity="other">%s ur</item>
@@ -194,7 +194,7 @@
         <item quantity="one">" ura"</item>
      </plurals>
      <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" min."</item>
-        <item quantity="one">" min."</item>
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
      </plurals>
 </resources>

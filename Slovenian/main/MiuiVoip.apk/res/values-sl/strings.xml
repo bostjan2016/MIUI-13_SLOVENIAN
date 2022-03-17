@@ -160,7 +160,7 @@ pojdite na %s"</string>
   <string name="voip_call_incoming">Zahteva za FaceTime z vami</string>
   <string name="voip_call_intro_summary">Pokličite vaše stike brezplačno.</string>
   <string name="voip_call_outgoing">Klicanje…</string>
-  <string name="voip_call_saved">" prihranjeno %d min."</string>
+  <string name="voip_call_saved">" prihranjeno %d min"</string>
   <string name="voip_call_setting">Brezplačen voip klic</string>
   <string name="voip_call_setting_summary">Brezplačen klic visoke kakovosti</string>
   <string name="voip_call_switch_call_message">Izberite številko telefona</string>

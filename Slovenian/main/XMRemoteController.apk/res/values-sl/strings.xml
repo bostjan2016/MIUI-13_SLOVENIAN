@@ -557,7 +557,7 @@ počakajte trenutek po opravilu"</string>
   <string name="milink_screenshot_done">Posnetek zaslona TV-a uspešno napravljen</string>
   <string name="milink_screenshot_pic">posnetek zaslona</string>
   <string name="milink_view_screenshot">Shranjeno v Galerijo, tapnite za prikaz</string>
-  <string name="minute">min.</string>
+  <string name="minute">min</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Assistant Verzija %1$s</string>
   <string name="mode">Način dela</string>
@@ -608,7 +608,7 @@ počakajte trenutek po opravilu"</string>
   <string name="notification_found_shared_remote_text">Dotaknite se da ga upravljate</string>
   <string name="notification_found_shared_remote_title">Najdeno %1$s v bližini</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" se bo pričelo čez 30 min.</string>
+  <string name="notification_str2">\" se bo pričelo čez 30 min</string>
   <string name="notification_title">Obvestila Timerja</string>
   <string name="num_keys">Številčne tipke</string>
   <string name="off">Izključi</string>

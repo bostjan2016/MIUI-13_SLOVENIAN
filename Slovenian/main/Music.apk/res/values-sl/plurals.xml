@@ -57,8 +57,8 @@ Ali želite, da jo pomagamo obnoviti?"</item>
         <item quantity="one">1 nova skladba</item>
      </plurals>
      <plurals name="Nquit_warning">
-        <item quantity="other">Predvajanje se bo zaustavilo čez %d min.</item>
-        <item quantity="one">Predvajanje se bo zaustavilo čez %d min.</item>
+        <item quantity="other">Predvajanje se bo zaustavilo čez %d min</item>
+        <item quantity="one">Predvajanje se bo zaustavilo čez %d min</item>
      </plurals>
      <plurals name="Nrecognize_switch_off_alert_message">
         <item quantity="other">Izbrali ste da se samodejno ne iščejo ovitki in teksti skladbe. Izbrišem podatke za skladbe %d?</item>

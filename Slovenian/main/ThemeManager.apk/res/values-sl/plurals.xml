@@ -98,8 +98,8 @@
         <item quantity="one">Pred %d uro</item>
      </plurals>
      <plurals name="detail_update_time_minute">
-        <item quantity="other">Pred %d min.</item>
-        <item quantity="one">Pred %d min.</item>
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred %d min</item>
      </plurals>
      <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Hitro naprej %d sek</item>

@@ -474,7 +474,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
      <string name="scenario_policies_title">Pametni scenariji</string>
      <string name="scenario_policies_warmcontrol">Nadzor temperature</string>
      <string name="screen_off">Zaslon je izključen</string>
-     <string name="screen_off_10_min">Zaslon je izključen več kot 10 min.</string>
+     <string name="screen_off_10_min">Zaslon je izključen več kot 10 min</string>
      <string name="screen_off_current">Zaslon izklopljen DC</string>
      <string name="screen_on">Zaslon je vključen</string>
      <string name="screen_on_current">Zaslon na DC</string>

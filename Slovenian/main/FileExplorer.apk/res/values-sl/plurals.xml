@@ -221,12 +221,12 @@
         <item quantity="many">%1$d min</item>
      </plurals>
      <plurals name="mins_ago">
-        <item quantity="other">Pred %1$d min.</item>
-        <item quantity="zero">Pred %1$d min.</item>
-        <item quantity="one">Pred %1$d min.</item>
-        <item quantity="two">Pred %1$d min.</item>
-        <item quantity="few">Pred %1$d min.</item>
-        <item quantity="many">Pred %1$d min.</item>
+        <item quantity="other">Pred %1$d min</item>
+        <item quantity="zero">Pred %1$d min</item>
+        <item quantity="one">Pred %1$d min</item>
+        <item quantity="two">Pred %1$d min</item>
+        <item quantity="few">Pred %1$d min</item>
+        <item quantity="many">Pred %1$d min</item>
      </plurals>
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
