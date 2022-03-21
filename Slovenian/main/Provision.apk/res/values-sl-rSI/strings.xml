@@ -56,6 +56,7 @@
      <string name="back">Nazaj</string>
      <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
      <string name="bluetooth_introduction">Bluetooth uporablja sistem za brezžično komunikacijo. Za normalno delovanje Bluetooth potrebuje naslednja dovoljenja:</string>
+     <string name="bluetooth_usage_desc">Začetna nastavitev vam omogoča, da nastavite svoje osnovne nastavitve za to napravo. Za uspešno nastavitev vaše naprave bodo sistemske storitve Bluetooth uporabljale naslednja dovoljenja:</string>
      <string name="boot_video_desc">Poglejte svet v 2K</string>
      <string name="boot_video_replay">Predvajaj ponovno</string>
      <string name="boot_video_skip">Preskoči</string>
@@ -117,6 +118,7 @@
      <string name="enable_accessibility_dialog_message">Vključili ste TalkBack s pritiskom na zaslon z 2 prstoma dlje od 10 sekund. TalkBack ponuja govorne povratne informacije osebam z poškodbo vida. Če ste ga vključili slučajno tapnite tipko Prekliči, potem pa dvakrat tapnite zaslon.</string>
      <string name="enable_accessibility_dialog_negative_btn">Prekliči</string>
      <string name="enable_accessibility_dialog_positive_btn">V redu</string>
+     <string name="enable_or_disable_bluetooth">Vklop in izklop Bluetootha</string>
      <string name="evening">Večer</string>
      <string name="exclusive_member_merchandise">Ekskluzivno blago za člane</string>
      <string name="expand_button_title">Napredno</string>
@@ -218,6 +220,7 @@
      <string name="mint_keyboard_oobe_checkbox">"Prebral sem in se strinam z Pravila o zasebnosti Mint Keyboard"</string>
      <string name="mint_keyboard_oobe_terms">Pravila o zasebnosti Mint Keyboard</string>
      <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
+     <string name="miui_provision">Začetna nastavitev</string>
      <string name="miui_terms_no_network">"Niste povezani s spletom. Poglejte Pogoje uporabe na %s"</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
@@ -370,6 +373,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_direct_call">Klicanje:</string>
      <string name="permission_direct_call_introduction">Za dodajanje stvari na seznam blokiranih</string>
      <string name="permission_download_introduction">Za predhranjenje prenešenih stvari in shranjevanje v napravo</string>
+     <string name="permission_enable_disable_bluetooth_summary">Za iskanje naprav v bližini za povezavo in prenos podatkov</string>
      <string name="permission_fast_pairing">Če želite najti naprave v bližini, se mora Mi Link povezati s spletom in zahtevati naslednja dovoljenja:</string>
      <string name="permission_imei_service">Za dostop do IMEI za nudenje storitev povezanih z vašo napravo</string>
      <string name="permission_interaction_introduction">Za shranjevanje fotografij in videoposnetkov v napravo</string>

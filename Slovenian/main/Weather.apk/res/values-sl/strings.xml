@@ -179,6 +179,11 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
      <string name="dialog_msg_score_midrop">Kako vam je všeč Vreme?</string>
      <string name="dialog_msg_score_not_good">Bi nam lahko poslali povratne informacije?</string>
      <string name="dialog_msg_score_perfect">Lepo! Ocenim Vreme v Trgovini?</string>
+     <string name="dialog_score_bad">Nezadovoljen</string>
+     <string name="dialog_score_general">Nevtralen</string>
+     <string name="dialog_score_good">Zadovoljen</string>
+     <string name="dialog_score_very_bad">Zelo nezadovoljen</string>
+     <string name="dialog_score_very_good">Zelo zadovoljen</string>
      <string name="dialog_title_score">Oceni Vreme</string>
      <string name="dislike_alert_dialog_title">Zakaj ne želite videti te vsebine?</string>
      <string name="download_rsc_tips">Zagon zvoka v ozadju…</string>
@@ -487,6 +492,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="pad_keyboard_add_city">Dodaj lokacijo</string>
      <string name="pad_keyboard_left_switch">Prejšnja lokacija</string>
      <string name="pad_keyboard_right_switch">Naslednja lokacija</string>
+     <string name="pad_real_time_detail_title">Udobje</string>
      <string name="particulate_matter_exceeded">Visoko</string>
      <string name="particulate_matter_not_exceeded">Normalno</string>
      <string name="particulate_matter_serious_exceeded">Previsoko</string>
