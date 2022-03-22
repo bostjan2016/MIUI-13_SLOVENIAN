@@ -524,6 +524,9 @@
         <item quantity="other">Izbrano: %d</item>
         <item quantity="one">Izbrano: %d</item>
      </plurals>
+     <plurals name="search_application_count">
+        <item quantity="other">Išči aplikacije</item>
+     </plurals>
      <plurals name="seconds">
         <item quantity="other">%s sekund</item>
         <item quantity="one">%s sekunda</item>

@@ -241,6 +241,7 @@ OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek napr
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
@@ -309,6 +310,8 @@ OPPO, vivo, realme in druge znamke pa bodo kmalu podprte z Mi Share. Spisek napr
      <string name="oppo_phone">OPPO</string>
      <string name="pad_device_model_name">Xiaomi Pad</string>
      <string name="pc_device_model_name">Računalnik</string>
+     <string name="pc_redmi_device_model_name">Redmi prenosnik</string>
+     <string name="pc_xiaomi_device_model_name">Xiaomi prenosnik</string>
      <string name="permission_denied_hint">Dajte potrebna dovoljenja za uporabo Mi Share</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopirano v odložišče.</string>
@@ -368,6 +371,8 @@ Pred uporabo Mi Share morate odobriti naslednja dovoljenja in omogočiti zbiranj
      <string name="scanning_device_tips">Iskanje naprav v bližini… Preverite če je druga naprava v vidnem načinu.</string>
      <string name="scanning_only_xiaomi_device">To lahko pošljete samo na Xiaomi ali Black Shark napravo</string>
      <string name="search_menu_title">Iskanje</string>
+     <string name="seize_content">Ustavite deljenje zaslona, da boste lahko prenesli stvari. Ustavim?</string>
+     <string name="seize_title">Ustavi deljenje zaslona</string>
      <string name="send">Pošlji</string>
      <string name="send_file">POŠLJI DATOTEKO</string>
      <string name="send_files_by">Delite datoteke preko</string>

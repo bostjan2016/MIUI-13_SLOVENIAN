@@ -1339,7 +1339,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cta_dialog_negative">Izhod</string>
      <string name="cta_dialog_positive">Strinjam se se</string>
      <string name="cta_dialog_title">Pravila in pogoji</string>
-     <string name="cta_main_purpose">Dobrodošli v varnost! Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) lahko uporabite za sprostitev prostora za shranjevanje, skeniranje naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu in drugo.</string>
+     <string name="cta_main_purpose">"Dobrodošli v Varnosti! Uporabite lahko Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) za sprostitev prostora za shranjevanje, skeniranje vaše naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu , in še več. Varnostne komponente MIUI se bodo povezale z internetom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
      <string name="cta_settings">Dovoli spletno povezavo in dostop do lokacije</string>
      <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
      <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za uporabo seznama blokiranih in klicanje stikov v sili, ko so izdana opozorila o potresu</string>
@@ -1643,6 +1643,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="exit_dialog_homepage_optimise_message">"Rezultat zmogljivosti za vašo napravo je nižji od 80 točk. Optimiziram zdaj?"</string>
      <string name="exit_dialog_release_memory_positive_button">Zapri</string>
      <string name="exit_dialog_release_memory_title"><Data>Pohitrite napravo za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+     <string name="exit_dialog_release_memory_title_new"><Data>Pospešite svojo napravo z &lt;font color=#0099ff>%s&lt;/font></Data></string>
      <string name="exit_dialog_release_storage_message">Več od 80% prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
      <string name="exit_dialog_release_storage_message_new">Več od %s prostora za shranjevanje na napravi je zasedeno. Sprostite prostor z odstranitvijo aplikacij ki jih ne uporabljate.</string>
      <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
@@ -1916,12 +1917,20 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
 1. Med igranjem iger bodo vsi dohodni klici na kartico SIM brez mobilne podatkovne storitve samodejno zavrnjeni.
 2. Videli boste obvestila o neodgovorjenih klicih, druga oseba pa bo zaslišala zvočno sporočilo, da ste trenutno zasedeni.
 3. To storitev podpirajo samo mobilni operaterji na Kitajskem."</string>
+     <string name="function_auto_reject_detail_new">"O tej storitvi:
+%1$d. Med igranjem iger bodo vsi dohodni klici na kartico SIM brez mobilne podatkovne storitve samodejno zavrnjeni.
+%2$d. Videli boste obvestila o neodgovorjenih klicih, druga oseba pa bo slišala zvočno sporočilo, ki pravi, da ste trenutno zasedeni.
+%3$d. To storitev podpirajo samo mobilni operaterji na Kitajskem."</string>
      <string name="function_auto_reject_title">Zavrni klice VoLTE na kartice SIM brez podatkovne storitve</string>
      <string name="function_close">Izključi</string>
      <string name="function_gwsd_detail">"O tej storitvi:
 1. Če uporabljate mobilne podatke na podatkovni SIM ali običajni kartici SIM, ki je povezana z omrežjem VoLTE, dohodni klici ne bodo prekinjeni, dokler ne odgovorite.
 2. Ko je ta storitev vklopljena, druga oseba ne bo slišala vaših tonov zvonjenja, razen če uporabljate navadno kartico SIM. Dohodni klici bodo samodejno zavrnjeni po 7-10 sekundah neaktivnosti.
 3. Podprte so podatkovne SIM kartice izdane od China Mobile in China Unicom. Podprte so redne kartice SIM, ki jih izdajo China Mobile, China Unicom in China Telecom."</string>
+     <string name="function_gwsd_detail_new">"O tej storitvi:
+ %1$d. Ko uporabljate mobilne podatke na podatkovni kartici SIM ali navadni kartici SIM, povezani z omrežjem VoLTE, povezava ne bo prekinjena zaradi dohodnih klicev, dokler ne dvignete.
+ %2$d. Ko je ta funkcija vklopljena, druga oseba ne bo mogla slišati vaših tonov povratnega zvonjenja, razen če uporabljate običajno kartico SIM. Dohodni klici bodo samodejno zavrnjeni po %3$d-%4$d sekundah nedejavnosti.
+ %5$d. Podprte so podatkovne kartice SIM, ki sta jih izdala China Mobile in China Unicom. Podprte so običajne kartice SIM, ki jih izdajajo China Mobile, China Unicom in China Telecom."</string>
      <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
      <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
      <string name="function_shield_eye_shield">Izključi način branja</string>
@@ -2066,9 +2075,11 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_dialog_game_uninstall_tips_message_xspace">Skupaj z podatki bo odstranjena tudi klonirana aplikacija.</string>
      <string name="gb_dialog_game_uninstall_tips_title">Odstrani %s</string>
      <string name="gb_dialog_record_way_ai">AI posnetki se shranjujejo v gamebox in se tam hranijo 7 dni.</string>
+     <string name="gb_dialog_record_way_ai_new">Posnetki AI se shranijo v igralno polje in se tam hranijo %d dni.</string>
      <string name="gb_dialog_record_way_finish">Končano</string>
      <string name="gb_dialog_record_way_manual">Ročno posnemite videoposnetke dolge do 30 sekund</string>
      <string name="gb_dialog_record_way_manual_desc" formatted="false">Ročno posnemite %d-%d sekund videoposnetka med igranjem.</string>
+     <string name="gb_dialog_record_way_manual_new">Ročno posnemite videoposnetke, dolge do %d sekund</string>
      <string name="gb_dialog_record_way_setting_tip_one">Povečana poraba energije in zamik</string>
      <string name="gb_dialog_record_way_setting_tip_title">Ta storitev lahko povzroči naslednje težave:</string>
      <string name="gb_dialog_record_way_setting_tip_two">Konflikti z drugimi snemalniki zaslona</string>
@@ -2095,6 +2106,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
 Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_game_time_toast">Časovnik na voljo!</string>
      <string name="gb_game_video_bottom_tips">Poglejte ključne trenutke svojih sej v Game Turbo. Videoposnetki se tam privzeto hranijo 7 dni.</string>
+     <string name="gb_game_video_bottom_tips_new">Ponovno si oglejte ključne trenutke svojih igralnih sej v Game Turbo. Videoposnetki bodo samodejno izbrisani po %d dneh.</string>
      <string name="gb_game_video_item_tag">Ključni trenutek</string>
      <string name="gb_game_video_page_delete_success">Uspešno izbrisano</string>
      <string name="gb_game_video_page_null">Zabeležite ključne trenutke igranja</string>
@@ -2247,8 +2259,11 @@ vašega igranja"</string>
      <string name="gb_wonderful_video_header_title">Danes</string>
      <string name="gb_wonderful_video_save_suc">Uspešno shranjeno</string>
      <string name="gb_xunyou_gift_type_one">Xunyou 1-dan pospeševanje</string>
+     <string name="gb_xunyou_gift_type_one_new">Xunyou %d-dnevno pospeševanje</string>
      <string name="gb_xunyou_gift_type_three">Xunyou 3-dni pospeševanje</string>
+     <string name="gb_xunyou_gift_type_three_new">Xunyou %d-dnevno pospeševanje</string>
      <string name="gb_xunyou_gift_type_two">Xunyou 2-dni pospeševanje</string>
+     <string name="gb_xunyou_gift_type_two_new">Xunyou %d-dnevno pospeševanje</string>
      <string name="gd_app_edit_done">Končano</string>
      <string name="gd_app_edit_title">Dodaj aplikacije</string>
      <string name="gd_app_edit_title_new">Uredite bližnjice plavajočega okna</string>
@@ -2333,6 +2348,7 @@ vašega igranja"</string>
      <string name="gs_show_way_horizontal">Vodoravno</string>
      <string name="gs_show_way_vertical">Navpično</string>
      <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
+     <string name="gs_sign_notification_new">Opomni na prijavo ob %d popoldan vsak dan</string>
      <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
      <string name="gtb_after_acceleration">Potem</string>
      <string name="gtb_auto_memory_clean">Samodejno počisti pomnilnik</string>
@@ -2386,6 +2402,7 @@ vašega igranja"</string>
      <string name="gtb_setting_item_summary_disable_ndds_sim">Blokiraj vse komunikacijske storitve na sekundarni kartici SIM med igranjem, da ohranite povezavo stabilno in preprečite preklapljanje med omrežji. Sekundarna kartica SIM bo odblokirana, ko prenehate igrati.</string>
      <string name="gtb_setting_item_summary_smart_5g">Kadar koli Game Turbo zazna omrežje 5G, se lahko naprava poveže z najboljšim omrežjem, ki je na voljo, da zmanjša zaostajanje omrežja.</string>
      <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povečajte hitrost povezave za 10% -20%, ko ste povezani z usmerjevalniki Mi / Redmi</string>
+     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Povečaj hitrost povezave za %1$s-%2$s, ko ste povezani z usmerjevalniki Mi/Redmi</string>
      <string name="gtb_setting_item_title_brightness">Samodejno zmanjšaj svetlost zaslona</string>
      <string name="gtb_setting_item_title_disable_ndds_sim">Blokiraj sekundarno SIM</string>
      <string name="gtb_setting_item_title_smart_5g">5G omrežna optimizacija</string>
@@ -2765,6 +2782,8 @@ operaterja"</string>
      <string name="memory_clean_no_need_clean_1" formatted="false">"Osvobojeno %s.
   
 Vaša naprava je zdaj %d%% hitrejša."</string>
+     <string name="memory_clean_no_need_clean_1_new" formatted="false">"Osvobojeno %s.
+Vaša naprava je zdaj %s hitrejša."</string>
      <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
      <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
      <string name="memory_cleaned_memory_info">Na voljo spomina</string>
@@ -2799,6 +2818,7 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="menu_item_notification_garbage_text">%s</string>
      <string name="menu_item_notification_garbage_text_error">Napaka</string>
      <string name="menu_item_notification_optimize_text">%d%% zasedeno</string>
+     <string name="menu_item_notification_optimize_text_new">%s zasedeno</string>
      <string name="menu_item_notification_power_text">Optimizacija baterije</string>
      <string name="menu_item_notification_title">Pokaži meni v obvestilni vrstici</string>
      <string name="menu_item_settings_title">Nastavitve</string>
@@ -2822,12 +2842,14 @@ Vaša naprava je zdaj %d%% hitrejša."</string>
      <string name="menu_summary_garbage_cleanup">Ni smeti</string>
      <string name="menu_summary_garbage_cleanup_ex">Osvobodite %s</string>
      <string name="menu_summary_garbage_cleanup_new">%d%% prostora za shranjevanje</string>
+     <string name="menu_summary_garbage_cleanup_new_new">%s prostora za shranjevanje</string>
      <string name="menu_summary_networkassistants">Urejajte svoj plan podatkov</string>
      <string name="menu_summary_networkassistants_2">Omejitev prekoračena</string>
      <string name="menu_summary_networkassistants_3">Ostalo je dovolj podatkov</string>
      <string name="menu_summary_networkassistants_4">Zmanjkuje podatkov</string>
      <string name="menu_summary_optimize_manage">Očisti spomin</string>
      <string name="menu_summary_optimize_manage_1">Naredite vašo napravo %d%% hitrejšo</string>
+     <string name="menu_summary_optimize_manage_1_new">Naredite vašo napravo %s hitrejšo</string>
      <string name="menu_summary_power_manager">Varčevanje baterije vam daje več časa med polnjenji</string>
      <string name="menu_summary_power_manager_1">Baterija je polna</string>
      <string name="menu_summary_power_manager_2">Ostalo %s</string>
@@ -3127,6 +3149,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="notification_link_cleaner_3002">Očistite WeChat smeti</string>
      <string name="notification_link_cleaner_4000">Očistite QQ smeti</string>
      <string name="notification_link_optimizemanage_1011">%d%% pomnilnika je zasedeno. Očistite ga.</string>
+     <string name="notification_link_optimizemanage_1011_new">%s pomnilnika je zasedeno. Očistite ga.</string>
      <string name="notification_low_battery_action_btn">Vključi</string>
      <string name="notification_low_battery_need_charge">Napolnite svojo napravo</string>
      <string name="notification_low_battery_open_save_mode">Vključi varčevanje baterije</string>
@@ -3145,6 +3168,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="notification_optimize_button_text">Očisti</string>
      <string name="notification_optimize_message">Izbrišite pomnilnik za povečanje hitrosti</string>
      <string name="notification_optimize_title">%d%% pomnilnika je zasedeno</string>
+     <string name="notification_optimize_title_new">%s pomnilnika je zasedeno</string>
      <string name="notification_power_consume_issue_summary">Velika poraba energije</string>
      <string name="notification_power_consume_suggest_summary">Popravite probleme glede varčevanja baterije</string>
      <string name="notification_qq_clean_hint">Smeti upočasnijo vašo napravo</string>
@@ -4643,6 +4667,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="scanning_bar_cache_title">Preverjanje koša...</string>
      <string name="scanning_bar_memory_title">Preverjanje predpomnilnika...</string>
      <string name="scanning_bar_number">%d%%</string>
+     <string name="scanning_bar_number_new">%s</string>
      <string name="scanning_bar_system_text">Dovoljenje aplikacij</string>
      <string name="scanning_bar_system_title">Preverjam sistem...</string>
      <string name="screenrecord_not_find">Namestite najnovejšo verzijo snemalca zaslona in poskusite ponovno.</string>
@@ -4756,8 +4781,11 @@ Umaknem soglasje zdaj?"</string>
      <string name="signal_exception_title">Test moči signala</string>
      <string name="signed_rule">Pravila</string>
      <string name="signed_rule_one">1. Vsak mesec se prijavite 10, 20 ali 28 dni zapored, da dobite Xunyou povečanje za 1, 2 ali 3 dni.</string>
-     <string name="signed_rule_three">"3. Dnevi ob prijavi se na začetku vsakega meseca razveljavijo. Preostali dnevi se ne prevrnejo."</string>
+     <string name="signed_rule_one_new">%1$d. Vsak mesec se prijavite %2$d, %3$d ali %4$d dni zapored, da dobite okrepitev Xunyouja za %5$d, %6$d oziroma %7$d dni.</string>
+     <string name="signed_rule_three">"3. Dnevi ob prijavi se na začetku vsakega meseca razveljavijo. Preostali dnevi se ne prestavljajo."</string>
+     <string name="signed_rule_three_new">"%1$d. Dnevi, ko se prijavite, se razveljavijo na začetku vsakega meseca. Preostali dnevi se ne prestavljajo."</string>
      <string name="signed_rule_two">2. Na mesec lahko dobite le 1 Xunyou povečanje.</string>
+     <string name="signed_rule_two_new">%d. Na mesec lahko dobite le 1 Xunyou povečanje.</string>
      <string name="sim_car_absent__tip">Potrdite zaklepanje zaslona, da izklopite izgubljeni način</string>
      <string name="sim_car_absent_intercept_action">Potrdite zaklepanje zaslona (%d)</string>
      <string name="sim_car_absent_intercept_action_last">Potrdite zaklepanje zaslona</string>
@@ -5370,6 +5398,7 @@ Z formatiranjem bo izbrisana vsebina ^2. Če želite preprečiti izgubo vsebine,
      <string name="superpower_dialog_title">Ultra varčevanje baterije</string>
      <string name="superpower_notification_hint_enter">Vključi</string>
      <string name="superpower_notification_new_title">Ostalo je manj od %d%% baterije</string>
+     <string name="superpower_notification_new_title_new">Ostalo je manj kot %s baterije</string>
      <string name="superpower_notification_summary">Vključi Ultra varčevanje baterije</string>
      <string name="superpower_notification_time_12">EEEE, dd.MM</string>
      <string name="superpower_notification_time_24">EEEE, dd.MM</string>

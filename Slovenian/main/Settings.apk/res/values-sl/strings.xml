@@ -446,6 +446,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
      <string name="activity_title_permissions_manager">Dovoljenja</string>
      <string name="activity_title_power_manager">Varčevanje baterije;Varčuj baterijo</string>
      <string name="ad_service">Storitve oglasov</string>
+     <string name="adapt_embedded">Na voljo so vzporedna okna</string>
      <string name="adaptive_battery_main_switch_title">Uporabi prilagodljivo baterijo</string>
      <string name="adaptive_brightness_main_switch_title">Uporabi prilagodljivo svetlost</string>
      <string name="adaptive_charging_time_estimate"><b>Prilagodljivo polnjenje</b> • Povsem polna bo do %1$s</string>
@@ -882,6 +883,8 @@ Spremenim nastavitve?"</string>
      <string name="application_item_permission">Dovoli</string>
      <string name="application_lock_name">Zakl. aplikacije</string>
      <string name="application_manager_section_title">Aplikacije</string>
+     <string name="application_mode_empty_text">Tu ni aplikacij</string>
+     <string name="application_mode_name">Način prikaza aplikacije</string>
      <string name="application_permission_manager">Dovoljenja aplikacij</string>
      <string name="application_permissions">Dovoljenja aplikacije</string>
      <string name="application_restrictions">Omogočanje aplikacij in vsebine</string>
@@ -8593,6 +8596,7 @@ Vmesnik UT: %5$s"</string>
      <string name="remove_from_frequently_fragment">Odstranim %s iz Hitrih nastavitev?</string>
      <string name="remove_managed_profile_label">Odstrani delovni profil</string>
      <string name="remove_sourceinfo_btn_txt">Odstranite podatke o viru</string>
+     <string name="rename_words_reached_limit">"Novo ime ne sme biti daljše od tega"</string>
      <string name="repeat">Ponovi</string>
      <string name="repeat_call">Obvestila o ponovljenih klicih</string>
      <string name="repeat_call_info">Dovoli zvok za ponovljene klice znotraj %d minut, ko je Ne moti vklopljen</string>
@@ -9977,6 +9981,8 @@ Tapnite tipko Domov za povratek.
 Dvakrat tapnite za odpiranje Nedavno.""</string>
      <string name="single_press_AI_button">Pritisnite AI tipko</string>
      <string name="size_byte">B</string>
+     <string name="size_embedded">Vzporedna okna</string>
+     <string name="size_full">Celozaslonski način</string>
      <string name="size_giga_byte">GB</string>
      <string name="size_kilo_byte">KB</string>
      <string name="size_mega_byte">MB</string>
@@ -11408,6 +11414,7 @@ Vam je všeč Mi Mover?"</string>
      <string name="uicc_mount">Naloži UICC pomnilnik</string>
      <string name="uicc_mount_summary" />
      <string name="uicc_unmount_inform_text">UICC pomnilnik bo izključen.</string>
+     <string name="unadapt_embedded">"Vzporedna okna niso na voljo"</string>
      <string name="under_keyguard">Na izključenem zaslonu</string>
      <string name="unimportant">Nepomembno</string>
      <string name="uninstall_all_users_text">Odstrani za vse uporabnike</string>

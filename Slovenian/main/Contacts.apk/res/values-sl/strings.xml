@@ -1527,8 +1527,8 @@ Napravite varnostno kopijo stikov."</string>
      <string name="preference_privacy_settings_title">Zasebnost</string>
      <string name="preference_remove_duplicate">Združi podvojene stike</string>
      <string name="preference_show_firewall_calllog">Pokaži blokirane klice v zgodovini klicev</string>
-     <string name="preference_show_yellowpage_tab_description">Yellow Pages storitev ne bo delala pravilno če izključite to storitev</string>
-     <string name="preference_show_yellowpage_tab_title">Pokaži Yellow Pages</string>
+     <string name="preference_show_yellowpage_tab_description">"Rumene strani in njene storitve ne bodo prikazane, če izklopite to funkcijo"</string>
+     <string name="preference_show_yellowpage_tab_title">Pokaži Rumene strani</string>
      <string name="preference_simple_mode_description">Pokaži slike in ostale podatke v pogledu seznama</string>
      <string name="preference_simple_mode_title">Pokaži slike in podatke</string>
      <string name="preference_smart_group_company_summary">Združi po podjetju</string>
@@ -1544,6 +1544,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="preference_telocation_summary_teloc_on">Pokaži lokacijo stika</string>
      <string name="preference_telocation_title">Lokacija</string>
      <string name="preference_tone_title">Zvoki</string>
+     <string name="preference_yellowpage_function_setting">Nastavitve Rumene strani</string>
      <string name="prepare_import">"Uvozi stike"</string>
      <string name="preview_contact_card_title">"Uvažam stike…"</string>
      <string name="preview_incall_show_entry">Pregled videoposnetka</string>
