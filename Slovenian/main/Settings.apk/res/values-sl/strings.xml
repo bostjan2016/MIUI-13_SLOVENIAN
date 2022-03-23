@@ -4036,6 +4036,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="external_storage_turn_on">Zunanji pomnilnik je vključen</string>
      <string name="extreme_threats_summary">Prejem. opozoril o skrajnih grožnjah za življenje in premoženje</string>
      <string name="extreme_threats_title">Skrajne grožnje</string>
+     <string name="eye_gaze_summary">"Naprava se ne zaklene, ko zazna, da gledate v zaslon"</string>
+     <string name="eye_gaze_title">Zaznaj pogled</string>
      <string name="face_add_max">Ne morete dodati več kot %d obrazov</string>
      <string name="face_data_apply_for_category_title">Odklenite s pomočjo obraza</string>
      <string name="face_data_apply_for_keyguard_title">Zakl. zaslon</string>
