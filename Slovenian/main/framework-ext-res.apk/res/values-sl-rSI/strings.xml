@@ -259,6 +259,8 @@
      <string name="ks_screenshot">Posnetek zaslona (cel zaslon)</string>
      <string name="kungfu">Kung fu</string>
      <string name="leisure">Prosti čas</string>
+     <string name="lenovo">Lenovo</string>
+     <string name="lenovo_phone">Lenovo telefon</string>
      <string name="livetalk_not_enable">Paket doplačila izključen</string>
      <string name="location_usage_restricted_body">Dotaknite se za odpravo omejitev.</string>
      <string name="location_usage_restricted_title">Lokacija v ozadju je omejena</string>
@@ -445,6 +447,7 @@
      <string name="set_password_action">Nastavite geslo</string>
      <string name="set_password_message">Nastavite geslo</string>
      <string name="set_password_title">Nastavite geslo</string>
+     <string name="shortcut_no_support_on_pc_mode">"Ta kretnja ni podprta v načinu PC"</string>
      <string name="shutdown_confirm_title">"Izključim napravo?"</string>
      <string name="shutdown_progress">"Izklop…"</string>
      <string name="silence_mode">Tihi način</string>

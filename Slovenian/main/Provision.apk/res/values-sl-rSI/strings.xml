@@ -194,6 +194,7 @@
      <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
      <string name="input_method_setting">Izberite privzeto tipkovnico</string>
      <string name="install_preinstall_app">Branje aplikacij…</string>
+     <string name="intent_filter_verification_service">Storitev preverjanja filtra namena</string>
      <string name="interconnection_communication_introduction">Internetne komunikacijske storitve Xiaomi omogočajo odkrivanje, povezovanje in komunikacijo z drugimi napravami Xiaomi.</string>
      <string name="item_contents_wwarning">"Če napravo izgubite drugim ljudem ne boste mogli preprečiti, da bi jo uporabljali in dostopali do vaših podatkov, če ne nastavite zaklepanja zaslona. Vseeno preskočim?"</string>
      <string name="item_fingerprint">Prstni odtis</string>
@@ -333,6 +334,8 @@
      <string name="other_settings_location_summary">Dovolite aplikacijam in spletnim mestom dostop do podatkov o vaši lokaciji za zagotavljanje storitev, ki temeljijo na lokaciji</string>
      <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>
      <string name="other_settings_mifg_online_content_summary">Za redno posodabljanje ozadij zakl. zaslona se povežite na omrežje.</string>
+     <string name="other_settings_quality_service">MIUI Daemon dovoljenja</string>
+     <string name="other_settings_quality_service_summary">MIUI Daemon se uporablja za izboljšanje stabilnosti in zmogljivosti sistema. Za normalno delovanje ta storitev potrebuje dovoljenja za dostop in shranjevanje elementov v pomnilnik naprave.</string>
      <string name="other_settings_upload_debug_log_detail">"Pomagajte izboljšati izkušnjo naprave MIUI s samodejnim pošiljanjem diagnostičnih podatkov, podatkov o napravi in porabi podatkov za aplikacije podjetju Xiaomi. To bo pomagalo izboljšati življenjsko dobo baterije, stabilnost sistema MIUI in aplikacij ter še več.
 Podatki, ki jih boste poslali, bodo vsebovali splošne informacije o vaši napravi in o tem, kako jo uporabljate (npr. Raven akumulatorja, aktivnost sistema in aplikacij ter napake). Podatki bodo uporabljeni za izboljšanje naprav MIUI.
 Izklop te storitve ne vpliva na zmožnost naprave, da pošlje podatke, potrebne za bistvene storitve, kot so posodobitve sistema in varnost.

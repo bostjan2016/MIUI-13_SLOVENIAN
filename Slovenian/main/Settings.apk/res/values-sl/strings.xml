@@ -3994,7 +3994,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="error_name_empty">Polje z imenom ne sme biti prazno.</string>
      <string name="error_permissions">"Ta aplikacija nima dovoljenja za dostop do koledarja. Pojdite v nastavitve in preverite dovoljenja za nadaljevanje."</string>
      <string name="error_title" />
-     <string name="error_xcap_not_add">Vrsta APN ne more biti XCAP.</string>
+     <string name="error_xcap_not_add">"XCAP ni mogoče uporabiti kot vrsto imena dostopne točke.".</string>
      <string name="estimated_charging_time_left">Do napolnjenosti</string>
      <string name="estimated_time_description">Ocena je odvisna od uporabe in se lahko spremeni.</string>
      <string name="estimated_time_left">Približni preostali čas</string>
@@ -4270,6 +4270,8 @@ Za več informacij se obrnite na ponudnika obročnega odplačila."</string>
      <string name="firmware_version">Različica sistema Android</string>
      <string name="fiveg_sa_switch_summary">Uporaba omrežja SA na sekundarni kartici SIM (samo za preskušanje)</string>
      <string name="fiveg_sa_vice_switch_title">SA na sekundarni kartici SIM</string>
+     <string name="fiveg_vonr_switch_summary">Uporabite VoNR v omrežnih okoljih 5G, da izboljšate izkušnjo klicanja. Ta storitev je na voljo samo za namene testiranja.</string>
+     <string name="fiveg_vonr_switch_title">VoNR nastavitve</string>
      <string name="fix_connectivity">Odpravljanje težav s povezavo</string>
      <string name="flash_drive_backup_btn">Napravi var. kopijo v USB shrambo</string>
      <string name="flash_drive_backup_disable">Najprej vključite USB shrambo</string>
@@ -4362,6 +4364,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="fold_rule_unimportant">Ni važno</string>
      <string name="fold_title">Pravila za združena obvestila</string>
      <string name="following_us_title">Spremljajte nas</string>
+     <string name="font_cta_alert_btn_negative">Prekliči</string>
+     <string name="font_cta_alert_btn_positive">Strinjam se</string>
+     <string name="font_cta_alert_message">Za nadaljevanje preberite in se strinjajte z pogoji in pravila Teme.</string>
+     <string name="font_cta_alert_title">Pogoji in pravila</string>
      <string name="font_setting_weight_toast">"Trenutna pisava ne podpira prilagajanja vekikosti fontov"</string>
      <string name="font_settings_jump">Accessibility > Velikost ekrana</string>
      <string name="font_settings_recommend_title">"Je besedilo premajhno?"</string>
@@ -12046,6 +12052,7 @@ Med glasovnim klicem ne boste mogli uporabljati spleta in nekatere aplikacije mo
      <string name="volume_ring_mute">Izklop zvonjenja in obvestil</string>
      <string name="volume_system_description">Kamera, posnetki zaslona, tipke in ostal sistemska obvestila</string>
      <string name="volume_voice_description">Glas med klicem</string>
+     <string name="vonr_switch_title">Uporabi VoNR</string>
      <string name="vpn_always_on_active">Opravilo Vedno vključeno aktivno</string>
      <string name="vpn_always_on_invalid_reason_dns">Naslovi DNS strežnika za stalno vklopljen VPN morajo biti številčni</string>
      <string name="vpn_always_on_invalid_reason_no_dns">Za stalno vklopljen VPN mora biti naveden strežnik DNS.</string>

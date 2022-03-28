@@ -1451,6 +1451,7 @@ Oglejte si priporočene!"</string>
      <string name="title_allow_network_access">Posodobi podatke samodejno</string>
      <string name="title_collapse_sp_messages">Obvestila skupine</string>
      <string name="title_hide_verification_code">Samod. skrij OTP na zakl. zaslonu</string>
+     <string name="title_not_show_read_mms_perm_req">Potrebna so dovoljenja</string>
      <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
      <string name="title_send_red_package">Preveri Red Package</string>
      <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
@@ -1475,6 +1476,7 @@ Oglejte si priporočene!"</string>
      <string name="toast_not_show_email_perm_req">Dovolite aplikaciji Sporočila dostop do vaše e-pošte za uporabo te storitve</string>
      <string name="toast_not_show_location_perm_req">Dovolite aplikaciji Sporočila dostop do vaše lokacije za uporabo te storitve</string>
      <string name="toast_not_show_microphone_perm_req">Dovolite aplikaciji Sporočila uporabo mikrofona za uporabo te storitve</string>
+     <string name="toast_not_show_read_mms_perm_req">Če si želite ogledati prejeta sporočila, morate aplikaciji Sporočila dovoliti branje sporočil SMS in MMS. To dovoljenje lahko dodelite v nastavitvah.</string>
      <string name="toast_not_show_send_sms_perm_req">Če želite uporabljati to storitev, najprej dovolite tej aplikaciji, da pošilja sporočila.</string>
      <string name="toast_not_show_storage_perm_req">Dovolite aplikaciji Sporočila dostop do pomnilnika, da boste lahko uporabljali to storitev</string>
      <string name="toast_not_show_write_contacts_perm_req">Dovoli aplikaciji Sporočila, da ureja stike za uporabo te storitve</string>

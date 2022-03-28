@@ -371,13 +371,47 @@ Pošljite to kodo nadzorniku."</string>
      <string name="launch_bg_permission_exception">Dovolite Wallpaper Carousel prikazovanje skočnih oken ko se izvaja v ozadju v aplikaciji Varnost</string>
      <string name="like">Všeč mi je</string>
      <string name="liked">Mi je že všeč</string>
+     <string name="lks_cta_dont_mention">"Ne kaži več"</string>
+     <string name="lks_cta_ok">Strinjam se</string>
+     <string name="lks_cta_reject">"Ne strinjam se"</string>
+     <string name="lks_cta_summary1">Wallpaper Carousel ponuja naslednje storitve :</string>
+     <string name="lks_cta_summary2">"1. Samodejno posodobljena ozadja&lt;br>2. Sveže slike in zgodbe so dostavljene na vaš zaklenjen zaslon&lt;br>3. Možnosti prilagajanja&lt;br>Ta storitev se mora za normalno delovanje povezati s spletom.&lt;br>&lt;br>Za zagotavljanje dodatnih storitev bomo morda prosili za dovoljenje za dostop in shranjevanje elementov v pomnilnik te naprave. Preberite in se strinjate z &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pogoji uporabe&lt;/font>&lt;/a> in &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a> preden nadaljujete."</string>
+     <string name="lks_cta_title">Pogoji in pravila</string>
+     <string name="lks_current_lks_wallpaper">Trenutni zaklenjeni zaslon</string>
+     <string name="lks_data_warning_toast_1">"Za brskanje po ozadjih uporabljate mobilne podatke.
+To lahko povzroči dodatne stroške."</string>
+     <string name="lks_dislike">"Ni mi všeč"</string>
+     <string name="lks_download">Prenos</string>
      <string name="lks_left_net_deny">Omrežna povezava je omejena</string>
      <string name="lks_left_net_error">"Ne morem se povezati na omrežje."</string>
      <string name="lks_left_top_notice">Tapnite tu za vrnitev na vrh</string>
      <string name="lks_left_top_notice_refresh">Tapnite za prikaz novih stvari</string>
+     <string name="lks_like">Dodaj v priljubljeno</string>
+     <string name="lks_liked">Dodano v priljubljeno</string>
      <string name="lks_logo_desc2">Vsak dan nove slike ozadja</string>
      <string name="lks_logo_desc_search">Vsak dan nove slike ozadja</string>
+     <string name="lks_loop_icon_ask_cancle">Prekliči</string>
+     <string name="lks_loop_icon_ask_dlg">Vklopite diaprojekcijo zaklenjenega zaslona, če želite na vaš zaklenjen zaslon vsak dan prejemati sveže slike in zgodbe.</string>
+     <string name="lks_loop_icon_ask_ok">Vklopi</string>
+     <string name="lks_loop_icon_ask_title">Diaprojekcija zaklenjenega zaslona</string>
+     <string name="lks_loop_icon_close_cancle">Prekliči</string>
+     <string name="lks_loop_icon_close_dlg">Diaprojekcija zaklenjenega zaslona bo izklopljena, če to sliko nastavite kot zaklenjeni zaslon. Nastavim kot zaklenjen zaslon?</string>
+     <string name="lks_loop_icon_close_ok">V redu</string>
+     <string name="lks_loop_icon_close_title">Pozor</string>
+     <string name="lks_loop_icon_dlg_title">Diaprojekcija zaklenjenega zaslona</string>
+     <string name="lks_loop_icon_open_dlg">Diaprojekcija zaklenjenega zaslona je vklopljena in vsak dan na vaš zaklenjen zaslon prinaša sveže slike in zgodbe.</string>
+     <string name="lks_loop_icon_open_ok">Razumem</string>
+     <string name="lks_more">Več</string>
+     <string name="lks_more_pics_coming_toast">Nove slike so na poti</string>
+     <string name="lks_new_user_help_anime">Povlecite navzgor, da vidite več od Wallpaper Carousel</string>
+     <string name="lks_no_network">"Ne morem se povezati na omrežje"</string>
+     <string name="lks_please_reload">Ponovno naloži</string>
+     <string name="lks_related_article">Predmet</string>
+     <string name="lks_retry">Poskusi znova</string>
+     <string name="lks_set_as_lks_wallpaper">Nastavi za zaklenjen zaslon</string>
      <string name="lks_subscription_toast">Slika ozadja zamenjana</string>
+     <string name="lks_to_history">Zgodovina</string>
+     <string name="lks_to_setting">Wallpaper Carousel nastavitve</string>
      <string name="llks_add_cate">Naročite se na %s</string>
      <string name="llks_auto_switch_wp">Naročite se na kategorije ki so vam včeč</string>
      <string name="llks_display_error">Potrebna so dovoljenja</string>
@@ -1164,7 +1198,7 @@ mm"</string>
      <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%3$s>Določila in pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
-     <string name="user_agreement_protocal_dialog_hint_default"><Data>"Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> kot tudi Mi račun's &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_protocal_dialog_hint_default">"<Data>"Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> kot tudi Mi račun's &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data>"</string>
      <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_id_hint">E-pošta/Št. telefona</string>

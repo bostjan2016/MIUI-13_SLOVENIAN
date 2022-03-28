@@ -712,7 +712,7 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
      <string name="dialer_empty_text_no_search_result">Najdenih ni nobenih stikov</string>
      <string name="dialer_firewall_entry_name">Blokirani zapisniki klicev</string>
      <string name="dialer_menu_description">Pokaži tipkovnice</string>
-     <string name="dialer_menu_title">Možnosti izbiranja</string>
+     <string name="dialer_menu_title">Možnosti klicanja</string>
      <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>
      <string name="dialer_useDtmfDialpad">Uporabi tonsko tipkovnico</string>
      <string name="dialog_delete_contact_button_delete">Izbriši</string>
@@ -1557,6 +1557,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="privacy_password_title2">Uporabi geslo za zaščito zasebnosti</string>
      <string name="privacy_password_title3">Nadgradite svoje geslo</string>
      <string name="privacy_password_title4">Geslo nadgrajeno</string>
+     <string name="privacy_settings_blue_scan_connect">Poveži se z bližnjimi napravami</string>
      <string name="privacy_settings_call_phone">Klic</string>
      <string name="privacy_settings_call_phone_description">Za klicanje prek bližnjic na začetnem zaslonu</string>
      <string name="privacy_settings_call_phone_description_for_pad">Za klicanje v aplikacijah tretjih oseb</string>
@@ -1888,6 +1889,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="toast_for_saving_nickname">Vzdevek shranjen</string>
      <string name="toast_join_with_empty_contact">Vnesite ime stika preden ga združite z drugim</string>
      <string name="toast_making_personal_copy">Ustvarjam osebno kopijo...</string>
+     <string name="toast_not_show_blue_scan_connect_perm_req">Dovolite tej storitvi, da se poveže z bližnjimi napravami preko Bluetootha, da lahko uvozite stike iz drugih naprav.</string>
      <string name="toast_not_show_camera_perm_req">Če želite uporabljati kamero za fotografiranje profila, dovolite tej aplikaciji, da najprej fotografira in snema videoposnetke.</string>
      <string name="toast_not_show_location_perm_req">Če želite uvoziti stike iz drugih naprav prek povezave Bluetooth, dovolite tej aplikaciji, da najprej dostopa do vaše lokacije.</string>
      <string name="toast_not_show_read_calllogs_perm_req">Če si želite ogledati zgodovino klicev, dovolite tej aplikaciji, da najprej dostopa do zgodovine klicev.</string>
