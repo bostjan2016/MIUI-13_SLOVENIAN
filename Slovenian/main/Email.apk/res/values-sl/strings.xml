@@ -1677,6 +1677,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="sms_tip">Kontrola identitete ni uspela, preverite če je antivirusni program blokiral SMS sporočilo</string>
      <string name="smtp_password_error">Napačno geslo odhodnega strežnika</string>
      <string name="sort_attachment">Razvrsti po</string>
+     <string name="special_text_5">piše:</string>
      <string name="storage">Pomnilnik</string>
      <string name="str_select_all">Izberi vse</string>
      <string name="str_select_none">Odznači vse</string>

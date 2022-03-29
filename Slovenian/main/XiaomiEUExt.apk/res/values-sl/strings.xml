@@ -197,5 +197,6 @@
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="wifi_region">WiFi regija</string>
      <string name="yesterday">Včeraj</string>
 </resources>

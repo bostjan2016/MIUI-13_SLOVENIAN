@@ -221,6 +221,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="current_version">Trenutna verzija: %1$s</string>
      <string name="current_version_incompatible">Ta tema je nezdružljiva</string>
      <string name="custom_storage_permission_desc">Če želite spremeniti nastavitve prilagajanja in shraniti prenesene stvari, najprej dovolite tej storitvi dostop do prostora za shranjevanje. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
+     <string name="custom_theme">ime,id</string>
      <string name="date_picker_label_day" />
      <string name="date_picker_label_month" />
      <string name="date_picker_label_year" />
@@ -1355,6 +1356,8 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="shortcut_message">Dodajte bližnjico začetnega zaslona!</string>
      <string name="shortcut_show_tip">"Ne kaži več"</string>
      <string name="shortcut_title">So vam všeč slike za ozadje?</string>
+     <string name="show_exchange">Bližnjica centra za odkup</string>
+     <string name="show_exchange_desc">Pokaži ali skrij bližnjico centra za odkup</string>
      <string name="show_free">Pokaži brezplačne %1$s</string>
      <string name="show_free_aod">Pokaži brezplačne teme</string>
      <string name="show_free_font">Pokaži brezplačne fonte</string>

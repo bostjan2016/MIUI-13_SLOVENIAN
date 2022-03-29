@@ -2115,6 +2115,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_lhdc_open_dialog_title">Vključim LHDC?</string>
      <string name="bt_lhdc_pre_title">LHDC</string>
      <string name="bt_lhdc_property">Lastnosti</string>
+     <string name="bt_plugin_current_version">Trenutna verzija</string>
      <string name="bt_plugin_new_version">Posodobi</string>
      <string name="bt_plugin_preference_button">Posodobi</string>
      <string name="bt_plugin_preference_msg">Trnutno: %1$s | Novo: %2$s</string>
@@ -4649,6 +4650,16 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="guest_reset_guest_confirm_button">Ponastavi</string>
      <string name="guest_reset_guest_dialog_title">Želite ponastaviti gosta?</string>
      <string name="guest_resetting">Ponastavljanje gosta …</string>
+     <string name="guide_button_text">Razumem</string>
+     <string name="guide_text_center">"Povlecite desno navzgor po sredini zaslona.
+Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na sredino."</string>
+     <string name="guide_text_left">"Povlecite naravnost navzgor iz spodnjega levega kota.
+Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na levo."</string>
+     <string name="guide_text_right">"Povlecite naravnost navzgor iz spodnjega desnega kota.
+Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</string>
+     <string name="guide_title_center">Povlecite navzgor po sredini</string>
+     <string name="guide_title_left">Povlecite navzgor na levi</string>
+     <string name="guide_title_right">Povlecite navzgor na desni</string>
      <string name="gxzw_add_fingerprint_area">Skener prstnih odtisov</string>
      <string name="gxzw_add_fingerprint_continue">Nadaljuj</string>
      <string name="gxzw_add_fingerprint_edge_message">Premikajte prst tako da bo senzor lahko posnel robove prstnega odtisa.</string>
@@ -9124,6 +9135,7 @@ Za uporabo pripenjanja aplikacije: \u0009
      <string name="search_app_invisible">Aplik. skrita;Skrite aplikacije</string>
      <string name="search_app_permission">Dovoljenja;ROOT dostop</string>
      <string name="search_app_switch_key">Nedavno;Nedavno;Meni;Tipka meni;Upravljalec nalog</string>
+     <string name="search_application_count">Išči aplikacije</string>
      <string name="search_application_lock_name">Zakl. aplikacije</string>
      <string name="search_applications_settings">Nameščene aplikacije</string>
      <string name="search_back_key">Nazaj;Tipka nazaj;Tipka nazaj</string>
