@@ -4009,6 +4009,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="exceptional_case">Izjeme</string>
      <string name="exchange_account">Zamenjaj račun</string>
      <string name="expand_button_title">Dodatno</string>
+     <string name="expand_card_action">Dodatne kartice</string>
      <string name="expandable_under_keyguard_title">Razširljivo na zakl. zaslonu</string>
      <string name="experience_optimization_category">Optimizacija</string>
      <string name="experimental_category_title">Poskusno</string>
@@ -6921,8 +6922,10 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="music_notification_headset_custom">Zavrzi</string>
      <string name="music_notification_headset_info">Tapni za prikaz nastavitev.</string>
      <string name="music_notification_headset_settings">Slušalke priključene</string>
+     <string name="music_playback_control_cross_device_flow">Prenesite predvajanje zvoka med napravami</string>
      <string name="music_title_dolby_control">Dolby digital plus</string>
      <string name="music_unsupport_effect_summary">Nepodprte USB slušalke</string>
+     <string name="music_video_flow_across_device">Nadzirajte in prenašajte predvajanje zvoka med napravami</string>
      <string name="musicfx_title">Glasbeni učinki</string>
      <string name="mute">Tiho</string>
      <string name="mute_media_sound_summary">Igre, glasba, videoposnetki in druge aplikacije</string>
@@ -10136,10 +10139,23 @@ Za shranjevanje stikov v sili
 Za označavanje stikov v sili
 • Pošiljanje SMS-a
 Za pošiljanje besedilnih sporočil stikom v sili
-• Dostop do lokaciji
+• Dostop do lokacije
 Za deljenje svoje lokacije stikom v sili
 Če se ne strinjate z odobritvijo takšnih dovoljenj ali delitvijo in posredovanjem vaših osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko odločite, da boste v nujnih primerih izklopili ali ne uporabljali SOS.
-Pred uporabo naših storitev preberite in sprejmite naše %s."</string>
+Pred uporabo naših storitev preberite in sprejmite %s."</string>
+     <string name="sos_privacy_dialog_message_old_version">"SOS v sili vam omogoča, da v realnem času delite svojo lokacijo in pošiljate besedilna sporočila vašim stikom za nujne primere.
+Vaše osebne podatke bomo varovali v skladu z ustreznimi zakoni, predpisi in politikami zasebnosti.
+Upoštevajte, da se mora ta aplikacija povezati s spletom in zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov:
+• Dostop do shrambe
+Za shranjevanje stikov v sili
+• Dostop do stikov
+Za označavanje stikov v sili
+• Pošiljanje SMS
+Za pošiljanje besedilnih sporočil stikom v sili
+• Dostop do lokacije
+Za deljenje svoje lokacije stikom v sili
+Če se ne strinjate z odobritvijo takšnih dovoljenj ali delitvijo in posredovanjem vaših osebnih podatkov, te aplikacije ne boste mogli uporabljati. V takih primerih se lahko odločite, da boste v nujnih primerih izklopili ali ne uporabljali SOS.
+Pred uporabo naših storitev preberite in sprejmite %s."</string>
      <string name="sos_privacy_dialog_title">Pogoji in Pravila</string>
      <string name="sos_privacy_policy">Pravila o zasebnosti</string>
      <string name="sos_privacy_policy_change_endtitle">Preden nadaljujete, preberite in se strinjajte z novo različico %s.</string>
