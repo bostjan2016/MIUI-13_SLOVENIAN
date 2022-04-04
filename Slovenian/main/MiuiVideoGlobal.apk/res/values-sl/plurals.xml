@@ -108,6 +108,10 @@
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
      </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novo obvestilo</item>
+        <item quantity="one">%d novih obvestil</item>
+     </plurals>
      <plurals name="notice_user_banned">
         <item quantity="other">Vaša vsebina vsebuje stvari (%1$s) ki kršijo standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
         <item quantity="one">Vaša vsebina vsebuje stvar (%1$s) ki krši standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
