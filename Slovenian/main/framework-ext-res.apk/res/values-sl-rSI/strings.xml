@@ -117,6 +117,10 @@
      <string name="customer_location_judgment">Kitajska</string>
      <string name="cut">Izreži</string>
      <string name="dance">Ples</string>
+     <string name="dark_mode_enable">Vključi</string>
+     <string name="dark_mode_suggest_message">Ob sončnem zahodu lahko samodejno preklopite na temni način, da zagotovite udobnejšo izkušnjo gledanja</string>
+     <string name="dark_mode_suggest_title">"Mrači se"</string>
+     <string name="dark_mode_suggest_toast">Temni način se bo samodejno vklopil ob sončnem zahodu in izklopil ob sončnem vzhodu</string>
      <string name="data_usage_context">Če WiFi ni vključen se bo naprava povezala na mobilno omrežje kar vam morda lahko povzroči dodatne stroške</string>
      <string name="daydream">Sanjarjenje</string>
      <string name="default_device_name">Neznana naprava</string>

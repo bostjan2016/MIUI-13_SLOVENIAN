@@ -3172,6 +3172,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="default_theme">Privzeto</string>
      <string name="default_usb_mode">USB povezava</string>
      <string name="default_vol_stream_title">Privzeta kontrola glasnosti</string>
+     <string name="deferred_setup_hintViewTitle">Preverjam…</string>
      <string name="delete">Izbriši</string>
      <string name="delete_backup_process">Odstranjujem…</string>
      <string name="delete_backup_title">Izbriši var. kopijo</string>
@@ -4492,8 +4493,12 @@ Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</stri
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
      <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
      <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
+     <string name="freeform_guide_to_sidehide_summary">Aplikacijo hitro povlecite na stran zaslona, da jo skrijete</string>
+     <string name="freeform_guide_to_sidehide_title">Skrivanje plavajočih oken</string>
      <string name="freeform_vedio_description">"·Pritisnite in zadržite, nato povlecite dol da odprete obvestilo v plavajočem oknu.
 ·Tapnite \"Plavajoča okna\" v Nedavno za izbiro aplikacij."</string>
+     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tapnite aplikacijo v stranski vrstici, da jo odprete v plavajočem oknu.
+· Povlecite aplikacijo na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite Deljeni zaslon."</string>
      <string name="freeform_vedio_description_pad">Povlecite predmete da odprete plavajoča okna</string>
      <string name="frequently_fragment_delete">Odstrani</string>
      <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
@@ -9856,6 +9861,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="shut_down_find_device_network_failure_content">"Ne morem izključiti Najdi napravo. Preverite ali je naprava povezana s spletom."</string>
      <string name="shut_down_find_device_network_failure_title">"Ne morem se povezati na omrežje"</string>
      <string name="shuting_down_find_device">Izklop Najdi napravo…</string>
+     <string name="sidebar_setting">Nastavitve stranske vrstice</string>
      <string name="silent_duration">Trajanje</string>
      <string name="silent_mode">Tihi način</string>
      <string name="silent_mode_disable_media">Utišaj vse</string>
