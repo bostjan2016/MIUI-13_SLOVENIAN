@@ -210,8 +210,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="dialog_need_permission">Zahtevana so dovoljenja</string>
      <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
      <string name="dialog_title_require_wlan_china">Poveži se preko WiFi</string>
-     <string name="dialog_wechat_data_close_agree">Keep on</string>
-     <string name="dialog_wechat_data_close_disagree">Turn off</string>
+     <string name="dialog_wechat_data_close_agree">Obdrži</string>
+     <string name="dialog_wechat_data_close_disagree">Izključi</string>
      <string name="dialog_wechat_data_close_message">"Če izklopite to storitev, podatki WeChat ne bodo varnostno kopirani, ko boste naslednjič uporabili varnostno kopiranje v oblaku. To lahko povzroči izgubo podatkov. Izklopim varnostne kopije WeChat?"</string>
      <string name="dialog_wechat_data_close_title">WeChat var. kopije</string>
      <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -450,8 +450,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="restore_from_mimover">Pošlji iz stare naprave s pomočjo Mi Moverja</string>
      <string name="restore_from_this_device">Obnovi z uporabo te var. kopije</string>
      <string name="restore_header_msg">"Preden obnovite podatke WeChat, se prepričajte, da WeChat ni nameščen v tej napravi. Medtem ko se podatki obnavljajo, ne odpirajte in ne uporabljajte WeChat."</string>
-     <string name="restore_header_title">Total size: %s</string>
-     <string name="restore_header_title2">Total backups: %s</string>
+     <string name="restore_header_title">Skupna velikost: %s</string>
+     <string name="restore_header_title2">Skupaj var. kopije: %s</string>
      <string name="restore_home_failed">"Ne morem vrniti začetni zaslon."</string>
      <string name="restore_home_screen_apps">Obnovi iz var. kopije na Mi Cloudu</string>
      <string name="restore_home_screen_apps_options">"Možnosti var. kopiranja
