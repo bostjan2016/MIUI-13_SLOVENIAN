@@ -59,7 +59,7 @@
      <string name="dialog_connect_verify_perssion_fail">"Ne morem avtorizirati predvajanje na vašem televizorju. Počakajte minuto ali dve in poskusite ponovno."</string>
      <string name="dialog_connected">Povezano</string>
      <string name="dialog_connecting">Povezovanje…</string>
-     <string name="dialog_location_permission_message">Ta aplikacija mora dostopati do vaše lokacije, da lahko v bližini najde zunanje monitorje. Med dajanjem tega dovoljenja izberite \"Vedno dovoli\", da se izognete morebitnim napakam.</string>
+     <string name="dialog_location_permission_message">Ta aplikacija mora dostopati do vaše lokacije, da lahko v bližini najde zunanje monitorje. Med dajanjem tega dovoljenja izberite \"Dovoli ves čas\", da se izognete morebitnim napakam.</string>
      <string name="dialog_location_permission_title">Zahtevana so dovoljenja</string>
      <string name="dialog_miplay_permission_message">Dovoli Castingu, da snema zvoke, dostopa do datotek v notranjem pomnilniku in do vaše lokacije, da lahko normalno uporabljate to storitev. Dotaknite se \"Nastavitve\" in za nadaljevanje izberite \"Dovoljenja aplikacij\".</string>
      <string name="dialog_miplay_permission_positive">Nastavitve</string>

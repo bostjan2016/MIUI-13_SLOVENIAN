@@ -125,7 +125,8 @@
      <string name="battery_meter_very_low_overlay_symbol">!</string>
      <string name="ble_device_address">Bluetooth Pametna naprava MAC</string>
      <string name="ble_device_profile">Profil Bluetooth naprave</string>
-     <string name="ble_device_profile_header_title">Nastavitve</string>
+     <string name="ble_device_profile_header_title">Več</string>
+     <string name="ble_device_profile_summary">Urejaj to napravo</string>
      <string name="ble_device_profile_title">Seznanjena Bluetooth Pametna naprava</string>
      <string name="ble_device_rename">Preimenuj</string>
      <string name="blob_expires_text">Poteče %s</string>
@@ -524,6 +525,10 @@ Hitrejši protokol povezave."</string>
      <string name="headset_fw_error_failed">ni uspelo</string>
      <string name="headset_fw_file_position_failed">ni uspelo</string>
      <string name="headset_fw_file_readfailed">ni uspelo</string>
+     <string name="headset_incall_answer">Odgovori</string>
+     <string name="headset_incall_reject">Prekliči</string>
+     <string name="headset_incall_summary">Boste odgovorili na klic od %1$s s slušalkami? Vaše slušalke bodo ostale povezane s to napravo po koncu klica.</string>
+     <string name="headset_incall_title">Odgovorite na klic s slušalkami</string>
      <string name="headset_loss_notify_summary">Kaže, da vsaj ena od vaših slušalk ni v ohišju za polnjenje. Poglejte naokoli!</string>
      <string name="headset_loss_notify_summary1">"Kaže, da slušalke niso v torbici. Vrnite jih, da se napolnijo."</string>
      <string name="headset_loss_notify_title">Manjka opozorilo slušalk</string>

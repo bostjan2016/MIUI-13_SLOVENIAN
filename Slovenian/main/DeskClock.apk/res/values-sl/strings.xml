@@ -37,6 +37,7 @@
      <string name="add_clock">Dodaj uro</string>
      <string name="add_common_timer">Dodaj kronometer</string>
      <string name="add_timer">Dodaj kronometer</string>
+     <string name="add_timer_dialog_title">Dodaj časovnik</string>
      <string name="add_timezone_title">Dodaj časovni pas</string>
      <string name="afternoon">Popoldne</string>
      <string name="aggree_desc">Dovolite aplikaciji povezavo s spletom in odobrite zgoraj navedena obvezna dovoljenja.</string>
@@ -596,9 +597,10 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="timer_alert_type_beach">Plaža</string>
      <string name="timer_alert_type_forest">Gozd</string>
      <string name="timer_alert_type_mute">Privzeto</string>
-     <string name="timer_alert_type_rain">Drizzle</string>
+     <string name="timer_alert_type_no">Nič</string>
+     <string name="timer_alert_type_rain">Rosenje</string>
      <string name="timer_alert_type_spring_rain">Pomladni dež</string>
-     <string name="timer_alert_type_stove_fire">Stove fire</string>
+     <string name="timer_alert_type_stove_fire">Ogenj v peči</string>
      <string name="timer_alert_type_summer_night">Poletna noč</string>
      <string name="timer_can_continue_in_timer">Odpri Kronometer za nadaljevanje</string>
      <string name="timer_cancel_hint">Stop</string>
@@ -607,6 +609,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="timer_continue">Nadaljuj</string>
      <string name="timer_continue_timer">Nastavi Kronometer</string>
      <string name="timer_created">Kronometer je nastavljen</string>
+     <string name="timer_desc_use_brush_teeth">Umivanje zob</string>
+     <string name="timer_desc_use_facial_mask">Ličenje</string>
+     <string name="timer_desc_use_sleep">Dremež</string>
      <string name="timer_end_time">Kronometer se bo ustavil ob %s</string>
      <string name="timer_end_time_format">HH:mm dd.MM</string>
      <string name="timer_end_time_format_today">HH:mm</string>
@@ -615,6 +620,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="timer_is_paused">Kronometer ima premor</string>
      <string name="timer_item_delete">Izbriši</string>
      <string name="timer_item_duration_display">%1$d min %2$d sek</string>
+     <string name="timer_item_edit">Uredi</string>
      <string name="timer_item_label_hint">Ime kronometra</string>
      <string name="timer_item_picker_hour">Ura</string>
      <string name="timer_item_picker_minute">Min</string>
@@ -671,6 +677,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="wednesday_shortest">S</string>
      <string name="week_ringtone_recommend_desc">Alarm narave predvaja različne zvoke, odvisno od datuma. Nastavim kot privzeti alarm?</string>
      <string name="white_noise">Hrup iz okolice</string>
+     <string name="white_noise_guide_desc">Dodajte zvok v ozadju, da ostanete osredotočeni</string>
      <string name="white_noise_selector">Izberi zvok</string>
      <string name="workday_alarm_clock">Alarm ob delavnikih</string>
      <string name="worldclock_edit_label">Svetovna ura</string>

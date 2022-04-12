@@ -177,6 +177,8 @@
      <string name="bh_not_contact">"Nič ne najdem"</string>
      <string name="bh_notice">Pozor</string>
      <string name="bh_online_service">Online podpora</string>
+     <string name="bh_open_carrier_services_short">Mi storitve operaterja</string>
+     <string name="bh_open_carrier_services_short_reason">Vklopi Mi storitve operaterja za uporabo te storitve.</string>
      <string name="bh_option_agree_dec">Dovoli Mi storitve operaterja, da se povežejo na splet in pred uporabo aplikacije dodelijo potrebna dovoljenja.</string>
      <string name="bh_order_detail">Podrobnosti naročila</string>
      <string name="bh_order_id">Številka naročila</string>
@@ -208,6 +210,7 @@
      <string name="bh_please_fill_total_limit_title">Prosimo, izpolnite celoten paket</string>
      <string name="bh_please_set_pkg">Nastavite Plan, da boste lahko preverili stanje.</string>
      <string name="bh_privacy_policy">Pravila o zasebnosti</string>
+     <string name="bh_qualification_and_certificate">Licence in certificiranje</string>
      <string name="bh_receive_zero_card">Brezplačna SIM</string>
      <string name="bh_recharge_money">Račun</string>
      <string name="bh_recharge_record">Zapis polnjenja</string>
@@ -226,7 +229,7 @@
      <string name="bh_stop_carrier_services_short">Izklopi Mi Carrier storitve</string>
      <string name="bh_stop_result">"Če izklopite Mi Carrier storitve ne boste mogli upravljati svojega operaterskega načrta ali kupovati podatkov in minut klicev. Vseeno izklopim?"</string>
      <string name="bh_system_recommend">Sistemska priporočila</string>
-     <string name="bh_system_recommend_des">Dovolite nam, da analiziramo vaš promet in na podlagi rezultatov priporočimo digitalne izdelke</string>
+     <string name="bh_system_recommend_des">"Ko so prilagojena priporočila izklopljena, boste še vedno videli enako količino oglasov kot ob vklopljeni storitvi, vendar ne bodo tako pomembni za vas"</string>
      <string name="bh_tag">*%1$s</string>
      <string name="bh_tag_phones">Pogosto uporabljene telefonske številke</string>
      <string name="bh_tags_number_exceed">"Ne morem shraniti več telefonskih številk"</string>

@@ -1190,6 +1190,7 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_picker_detail_small_widget">Pripomočki</string>
      <string name="pa_picker_detail_theme_app_cta">Nastavitve</string>
      <string name="pa_picker_detail_theme_app_cta_pre">"Če želite uporabljati ta pripomoček, dovolite, da se teme najprej povežejo s spletom. "</string>
+     <string name="pa_picker_detail_vp2_indicator">Izbranih strani %1$d od %2$d</string>
      <string name="pa_picker_detail_wait_wifi_download_maml">Prenešeno bo z uporabo WiFi</string>
      <string name="pa_picker_home_app_group_title">Aplikacije s pripomočki</string>
      <string name="pa_picker_home_group_more">Vse</string>

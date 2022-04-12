@@ -1556,7 +1556,7 @@ v časovnem obdobju ^2"</string>
      <string name="block_list_no_device">V seznamu blokad ni povezanih naprav</string>
      <string name="block_list_qcom_dialog_content">To bo prekinilo povezavo %s s to napravo in jo dodalo na Seznam blokiranih</string>
      <string name="block_list_remove_dialog_content">Naprava %s se bo lahko povezala na ta hotspot</string>
-     <string name="block_list_remove_dialog_title">Odstrani %s iz Seznama blokiranih</string>
+     <string name="block_list_remove_dialog_title">Pozor</string>
      <string name="block_list_summary">Pokaži naprave ki se ne smejo povezati na ta hotspot</string>
      <string name="block_list_title">Seznam blokiranih</string>
      <string name="block_title">Pokaži obvestila</string>
@@ -10744,6 +10744,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sub_deactivate_not_supported">Deaktivacija ni podprta</string>
      <string name="sub_deactivate_success">Uspešno deaktivirano.</string>
      <string name="subs_settings">SUBS Status</string>
+     <string name="subscreen_title">Zadnji zaslon</string>
      <string name="subscription_available">Na voljo</string>
      <string name="succ_description">Uspešno</string>
      <string name="succeed">Končano</string>

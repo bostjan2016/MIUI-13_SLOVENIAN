@@ -418,6 +418,7 @@
      <string name="sc_notification_warning_content">Postavitev je morda nenormalna v celozaslonskem načinu. Lahko se vrnete v stanje pred preklopom ali pojdite v nastavitve.</string>
      <string name="sc_notification_warning_restore">Obnovi</string>
      <string name="sc_notification_warning_settings">Pojdi v nastavitve</string>
+     <string name="sc_notification_warning_title">Preklopi v način gledanja</string>
      <string name="sc_relaunch_dialog_message">"Ne more biti primerno za zlaganje naprave, medtem ko uporabljate aplikacijo. Aplikacijo lahko znova zaženete, da preklopite na celozaslonski način. Znova zaženem?"</string>
      <string name="scanning_device_tips">Iskanje naprav v bližini ... Preverite ali je druga naprava v načinu dela odkrivanja.</string>
      <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>

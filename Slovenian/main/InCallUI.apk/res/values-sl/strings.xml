@@ -462,6 +462,7 @@ Kako dati dovoljenja
 Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="saf_permission_grant_permission_immediately">Naprej</string>
      <string name="saf_permission_later">Ne zdaj</string>
+     <string name="saf_permission_recorder_unlock_screen_message">Če želite posnetke shraniti, najprej odklenite napravo. Odklenem?</string>
      <string name="saf_permission_refused">"Ne morem snemati klicev zaradi manjkajočih dovoljenj"</string>
      <string name="saf_permission_title">Potrebna so dovoljenja</string>
      <string name="saf_permission_use_this_folder">Uporabi to mapo</string>

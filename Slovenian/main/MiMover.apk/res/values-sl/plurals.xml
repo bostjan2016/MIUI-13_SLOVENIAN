@@ -37,6 +37,10 @@
         <item quantity="other">Na voljo so 64-bitne različice za %1$d aplikacij</item>
         <item quantity="one">Na voljo je 64-bitna različica za %1$d aplikacij0</item>
      </plurals>
+     <plurals name="apple_install_install_immediately">
+        <item quantity="other">Namesti %d aplikacij</item>
+        <item quantity="one">Namesti %d aplikacijo</item>
+     </plurals>
      <plurals name="data_item_count">
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>

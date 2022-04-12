@@ -80,4 +80,8 @@
         <item quantity="other">Vračanje datotek: %d</item>
         <item quantity="one">Vračanje %d datoteke</item>
      </plurals>
+     <plurals name="session_time_remain">
+        <item quantity="other">Ostalo še približno %s minut</item>
+        <item quantity="one">Ostala še približno %s minuta</item>
+     </plurals>
 </resources>

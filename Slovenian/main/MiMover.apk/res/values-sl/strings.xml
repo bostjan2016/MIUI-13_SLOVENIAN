@@ -50,6 +50,12 @@
      <string name="apple_calendar">Dogodki koledarja</string>
      <string name="apple_contacts">Stiki</string>
      <string name="apple_image">Slike</string>
+     <string name="apple_install_background_downloading">Prenos aplikacij v ozadju…</string>
+     <string name="apple_install_get_data_faild">Napaka</string>
+     <string name="apple_install_install_immediately_default">Namesti</string>
+     <string name="apple_install_skip">Preskoči</string>
+     <string name="apple_install_sub_title">Izbrane aplikacije bodo prenesene iz GetApps</string>
+     <string name="apple_install_title">Aplikacije iz vaše stare naprave</string>
      <string name="apple_video">Videoposnetki</string>
      <string name="appname_app_data_suffix">%1$s podatki aplikacije</string>
      <string name="apps_cannot_be_transfered_confirm_button">Začni</string>

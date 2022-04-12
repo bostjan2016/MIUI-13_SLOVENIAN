@@ -60,6 +60,7 @@
      <string name="apple_cloud_price">Okoli RMB 72 na leto</string>
      <string name="bad_authentication">Nepravilen račun ali geslo</string>
      <string name="btn_return">Nazaj</string>
+     <string name="btn_revoke_permission">Preklic soglasja</string>
      <string name="button_agree">Strinjam se</string>
      <string name="button_cancel">Prekliči</string>
      <string name="button_quit">Izhod</string>
