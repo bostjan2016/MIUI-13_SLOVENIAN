@@ -1118,7 +1118,7 @@ Oglejte si priporočene!"</string>
      <string name="rcs_recipient_type_contact">Posreduj stiku</string>
      <string name="rcs_recipient_type_group">Posreduj na skupinski klepet</string>
      <string name="rcs_recipient_type_pc">Posreduj na računalnik</string>
-     <string name="rcs_remember_my_choice">Zapomni si izbranor</string>
+     <string name="rcs_remember_my_choice">Zapomni si izbrano</string>
      <string name="rcs_resend_not_online">"Ne morem uporabiti 5G sporočil"</string>
      <string name="rcs_resend_sim_card_not_insert">"SIM kartica ni vstavljena"</string>
      <string name="rcs_search_group_local">Moje mini aplikacije</string>
