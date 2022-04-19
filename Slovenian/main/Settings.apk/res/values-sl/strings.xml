@@ -5120,6 +5120,10 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="kddi_nfc_secure_toggle_summary">Dovoli funkcijo NFC / Osaifu-keitai, ko je zaslon odklenjen</string>
      <string name="keep_legacy_fingerprint">Obdrži</string>
      <string name="keep_screen_on">Brez izklopa zaslona</string>
+     <string name="keep_screen_on_after_folding_off_summary">Med klici ali med uporabo fotoaparata naj bo zunanji zaslon vklopljen, ko ga zložite</string>
+     <string name="keep_screen_on_after_folding_on_summary">Po zlaganju naj bo zunanji zaslon vklopljen, da nadaljujete s trenutnimi opravili</string>
+     <string name="keep_screen_on_after_folding_text">Po zlaganju naj bo zunanji zaslon vklopljen, da nadaljujete s trenutnimi opravili</string>
+     <string name="keep_screen_on_after_folding_title">Po zlaganju naj ostane zaslon vklopljen</string>
      <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli izklopil</string>
      <string name="kernel_version">Različica jedra</string>
      <string name="key_combination_power_back">Tipka vklop + Nazaj</string>

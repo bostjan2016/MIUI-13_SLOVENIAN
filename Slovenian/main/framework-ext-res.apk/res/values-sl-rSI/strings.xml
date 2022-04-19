@@ -396,9 +396,9 @@
      <string name="relaunch_dialog_button_confirm">V redu</string>
      <string name="relaunch_dialog_message">"Med uporabo aplikacije ni mogoče prilagoditi velikosti okna. Aplikacijo lahko znova zaženete, da prilagodite velikost okna, vendar bodo podatki o aplikaciji, ustvarjeni med to sejo, izgubljeni. Vseeno znova zaženem?"</string>
      <string name="relaunch_dialog_title">Znova zaženem \"%s\"?</string>
-     <string name="relaunch_fold_notification_content">\"%s\" aplikacija se lahko prikaže nenormalno, ko telefon zložite, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
+     <string name="relaunch_fold_notification_content">Ta aplikacija se lahko prikaže nenormalno, ko telefon zložite, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
      <string name="relaunch_notification_title">Ponovno zaženi \"%s\" aplikacijo</string>
-     <string name="relaunch_unfold_notification_content">\"%s\" aplikacija se lahko nenormalno prikaže, ko telefon odprete, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
+     <string name="relaunch_unfold_notification_content">Ta aplikacija se lahko nenormalno prikaže, ko telefon odprete, in jo je treba znova zagnati, da se vrne v normalno stanje.</string>
      <string name="remain">Ostalo: %s</string>
      <string name="replace">Zamenjaj</string>
      <string name="resolver_app_recommend_flag">Priporočeno</string>
