@@ -1532,8 +1532,8 @@ prednostno"</string>
      <string name="keyguard_try_fingerprint">Odprite s prstnim odtisom</string>
      <string name="keyguard_unlock">Povlecite, da odklenete</string>
      <string name="keyguard_unlock_press">Pritisnite da odklenete</string>
-     <string name="keyguard_widget_12_hours_format">hmm</string>
-     <string name="keyguard_widget_24_hours_format">kkmm</string>
+    <string name="keyguard_widget_12_hours_format">h:mm</string>
+    <string name="keyguard_widget_24_hours_format">kk:mm</string>
      <string name="keywords_adb_wireless">adb, odpravljanje napak, razvoj</string>
      <string name="keywords_alarms_and_reminders">načrtovanje, urnik, alarm, opomnik, ura</string>
      <string name="kg_enter_confirm_pin_hint">Potrdite novo kodo PIN</string>
@@ -1547,7 +1547,7 @@ Poskusite znova čez %3$d s."</string>
      <string name="kg_failed_attempts_now_erasing_profile">Telefon ste neuspešno poskusili odkleniti %d-krat. Delovni profil bo odstranjen in vsi podatki profila bodo izbrisani.</string>
      <string name="kg_failed_attempts_now_erasing_user">Telefon ste neuspešno poskusili odkleniti %d-krat. Ta uporabnik bo odstranjen in vsi podatki uporabnika bodo izbrisani.</string>
      <string name="kg_failed_attempts_now_wiping">Telefon ste neuspešno poskusili odkleniti %d-krat, zato bo ponastavljen, vsi podatki v njem pa bodo izbrisani.</string>
-     <string name="kg_fingerprint_not_recognized">Nije prepoznat</string>
+     <string name="kg_fingerprint_not_recognized">Ni prepoznano</string>
      <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
      <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
      <string name="kg_invalid_puk">Znova vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
