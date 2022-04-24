@@ -386,10 +386,10 @@
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
      <string name="fmt_date_long_month">MMMM</string>
-     <string name="fmt_date_long_month_day">d. MMMM</string>
+     <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-     <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
-     <string name="fmt_date_numeric_day">dd.</string>
+     <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -1126,8 +1126,8 @@
      <string name="wechat_copying_video_dialog_title">Izvozi v galerijo</string>
      <string name="wechat_copying_video_empty">Ni videoposnetkov za izvoz</string>
      <string name="wechat_copying_video_success">Uspešno izvoženo</string>
-     <string name="wechat_msg_time_long">yyyy-MM-dd</string>
-     <string name="wechat_msg_time_short">MM-dd</string>
+     <string name="wechat_msg_time_long">dd.MM.yyyy</string>
+     <string name="wechat_msg_time_short">dd.MM.</string>
      <string name="wechat_qq_activity_title">Globinsko čiščenje</string>
      <string name="wechat_qq_celan_tab_file">Datoteke</string>
      <string name="wechat_qq_celan_tab_image">Slike</string>
