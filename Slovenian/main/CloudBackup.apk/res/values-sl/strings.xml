@@ -46,6 +46,8 @@
      <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
      <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
      <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
+     <string name="backup_action_long_time_not_backup_action">Var. kopiraj</string>
+     <string name="backup_action_long_time_not_backup_title">Ni nedavnih kopij</string>
      <string name="backup_action_no_space_with_wechat_off_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje stvari iz te naprave. Dotaknite se za ogled možnosti shranjevanja v oblaku, ki so vam na voljo.</string>
      <string name="backup_action_no_space_with_wechat_off_title">"Stvari ni bilo mogoče varnostno kopirati"</string>
      <string name="backup_action_no_space_with_wechat_on_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje podatkov WeChat. Nadgradite svoj načrt shranjevanja za varnostno kopiranje stvari.</string>
@@ -216,10 +218,18 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_cancel_backup_msg">Sprememba bo povzročila prekinitev izdelave var. kopije.</string>
      <string name="dialog_cancel_backup_title">Odpovem izdelavo v teku?</string>
      <string name="dialog_cloud_space_not_enough">Ta varnostna kopija zahteva %1$s brezplačnega prostora za shranjevanje v oblaku. Nadgradite načrt skladiščenja, če želite varnostno kopirati predmete.</string>
+     <string name="dialog_content_cancel_backup">Če prekličete varnostno kopiranje, bodo že naloženi podatki izgubljeni. Vseeno prekličem?</string>
+     <string name="dialog_content_cancel_restore">Podatki, ki so že obnovljeni se ohranijo, če prenehate z vračanjem. Neham vračati?</string>
      <string name="dialog_msg_overwrite_backup">Razlika med lokalno in Cloud var. kopijo je velika, nadaljevanje izdelave var. kopije bo pobrisalo obstoječo.</string>
      <string name="dialog_msg_restore_require_wlan">Namestitev var. kopije zahteva WiFi povezavo z omrežjem.</string>
      <string name="dialog_msg_restore_require_wlan_china">Vračanje var. kopij zahteva povezavo z WiFi omrežjem.</string>
      <string name="dialog_need_permission">Zahtevana so dovoljenja</string>
+     <string name="dialog_negative_btn_cancel_backup">Prekliči kopiranje</string>
+     <string name="dialog_negative_btn_cancel_restore">Ustavi vračanje</string>
+     <string name="dialog_positive_btn_cancel_backup">"Ne prekliči"</string>
+     <string name="dialog_positive_btn_cancel_restore">"Ne ustavi"</string>
+     <string name="dialog_title_cancel_backup">Prekliči kopiranje</string>
+     <string name="dialog_title_cancel_restore">Ustavi vračanje</string>
      <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
      <string name="dialog_title_require_wlan_china">Poveži se preko WiFi</string>
      <string name="dialog_wechat_data_close_agree">Obdrži</string>

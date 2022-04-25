@@ -4715,6 +4715,7 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="handy_mode">Delo z eno roko</string>
      <string name="handy_mode_enable">Delo z eno roko</string>
      <string name="handy_mode_enter_ask">Vprašaj pred vstopom v način Delo z eno roko</string>
+     <string name="handy_mode_hint">Enoročni način je na voljo samo na zunanjem zaslonu</string>
      <string name="handy_mode_no_touch_assistant">"Način z eno roko bo deloval le, če za navigacijo po sistemu uporabljate gumbe. Preklapljate lahko med potezami in gumbi v razdelku \"Navigacija sistema\" v nastavitvah."</string>
      <string name="handy_mode_size">Velikost zaslona</string>
      <string name="handy_mode_tips">Podrsajte s prstom levo ali desno od tipke Domov da pomaknete zaslon bliže enemu robu.</string>

@@ -530,7 +530,6 @@
      <string name="holidays_title">Počitnice</string>
      <string name="horoscope">Horoskop</string>
      <string name="horoscope_card_title">"Današnji horoskop"</string>
-     <string name="horoscope_partner">ponuja Staqu</string>
      <string name="horoscope_select_activity_label">Izberite hor. znak</string>
      <string name="hotel_detail_title">Podrobnosti o hotelu</string>
      <string name="hotel_event_delete_successfully">Rezervacija hotela je bila uspešno izbrisana</string>

@@ -31,7 +31,6 @@
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
-     <string name="app_name">Predvajanje</string>
      <string name="audio_record_des">Za prenos zvoka iz mobilne naprave na zunanje monitorje</string>
      <string name="casting_tips">Predvajanje…</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
@@ -83,7 +82,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
      <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
      <string name="dialog_scanning_precondition_new_china">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
-     <string name="dialog_scanning_precondition_new_global">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
+     <string name="dialog_scanning_precondition_new_global">Vključite WiFi in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
      <string name="dialog_select_tv">Izberite napravo (%1$d)</string>
      <string name="dialog_show_help">Pomoč</string>
      <string name="disconnect">Ustavi predvajanje</string>
