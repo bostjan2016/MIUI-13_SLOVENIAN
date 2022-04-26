@@ -93,7 +93,8 @@
      <string name="catch_full_log_add_photo_dialog_content">Če je napaka o kateri poročate povezana s kvaliteto slike kamere, dodajte originalno vzorčno fotografijo (neobrezano), da bomo lahko lažje našli napako. Želite dodati fotografijo sedaj?</string>
      <string name="catch_full_log_category">Vrste zapisov</string>
      <string name="catch_full_log_dialog_confirm_text">Pojdi na Začetni zaslon</string>
-     <string name="catch_full_log_dialog_content">To lahko vpliva na splošno zmogljivost vaše naprave. Če težave, ki jo želite prijaviti, ne morete reproducirati, se vrnite v zapise in tapnite \ "Prekliči \".</string>
+     <string name="catch_full_log_dialog_content">To lahko vpliva na splošno zmogljivost vaše naprave. Če težave, ki jo želite prijaviti, ne morete reproducirati, se vrnite v poročila in tapnite \"Prekliči\".</string>
+     <string name="catch_full_log_dialog_content_pad">"To lahko vpliva na splošno zmogljivost vaše naprave. Če težave, ki jo želite prijaviti, ne morete reproducirati, se vrnite v poročila in tapnite \"Prekliči\"."</string>
      <string name="catch_full_log_dialog_title">Ustvarjam zapise…</string>
      <string name="catch_full_log_dump_hprof_failed">Ni mogoče ustvariti zapisov zaostajanja</string>
      <string name="catch_full_log_item_content_catch_direct">"1. Pojdite nazaj, kjer ste zaznali napako in jo ponovite.
@@ -117,11 +118,13 @@
      <string name="catch_full_log_notification_content">Tapnite, če se želite vrniti med zapise</string>
      <string name="catch_full_log_notification_title">Generiranje zapisov…</string>
      <string name="catch_full_log_privacy_content_audio">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke o zvoku na vaši napravi, vključno z zgodovino predvajanja in zgodovino snemanja. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
+     <string name="catch_full_log_privacy_content_audio_pad">"Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke o zvoku na vaši napravi, vključno z zgodovino predvajanja in zgodovino snemanja. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili."</string>
      <string name="catch_full_log_privacy_content_bt">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke o uporabi Bluetooth naprave (vključno z zgodovino klicov, sporočili, prenesenimi podatki, itd.). Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
      <string name="catch_full_log_privacy_content_camera">"Ustvarjate dnevnike in jih shranjujete v svoji napravi. Dnevniki lahko vsebujejo informacije o uporabi kamere (vključno s frekvenco procesorja, sistemskim klicem, porabo pomnilnika itd.). Bodite previdni in teh dnevnikov ne razkrivajte drugim ljudem. Če spodaj tapnete \"Strinjam se\", se strinjate, da bomo med ustvarjanjem dnevnikov zbrali zgornje podatke in nato naložili dnevnike v naše strežnike, da boste našli in rešili težave, o katerih poročate."</string>
      <string name="catch_full_log_privacy_content_charge">"Ustvarjate dnevnike in jih shranjujete v svoji napravi. Dnevniki lahko vsebujejo podatke o bremenitvi. Bodite previdni in teh dnevnikov ne razkrivajte drugim ljudem. Če spodaj tapnete \"Strinjam se\", se strinjate, da bomo med ustvarjanjem dnevnikov zbrali zgornje podatke in nato naložili dnevnike v naše strežnike, da bi našli in rešili težave, o katerih poročate.."</string>
      <string name="catch_full_log_privacy_content_gps">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo vaše osebne podatke in podatke o lokaciji. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
      <string name="catch_full_log_privacy_content_sensor">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke, ki jih zbirajo senzorji naprave (vključno s senzorjem za okoljsko svetlobo, barometrom, pedometrom, magnetometrom, itd.). Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
+     <string name="catch_full_log_privacy_content_sensor_pad">"Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo podatke, ki jih zbirajo senzorji naprave (vključno s senzorjem za okoljsko svetlobo, barometrom, pedometrom, magnetometrom, itd.). Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili."</string>
      <string name="catch_full_log_privacy_content_signal">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo vaša sporočila, zgodovino klicov, podatke o omrežju in o komunikaciji. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanji, ki ste jih prijavili.</string>
      <string name="catch_full_log_privacy_content_trace">"Ustvarite dnevnike in jih shranite v svojo napravo. Dnevniki lahko vsebujejo statistiko uporabe aplikacije (vključno s frekvenco CPE, sistemskim klicem, uporabo pomnilnika itd.). Bodite previdni in teh dnevnikov ne razkrivajte drugim ljudem. Z dotikom »Strinjam se« spodaj se strinjate, da bomo med ustvarjanjem dnevnikov zbrali zgornje podatke in jih nato naložili v naše strežnike, da bi našli in rešili težave, o katerih poročate."</string>
      <string name="catch_full_log_privacy_content_wifi">Ustvarjate poročila, ki so shranjena na vaši napravi. Poročila lahko vsebujejo vaše osebne podatke, podatke o lokaciji, ter IP in MAC naslove vaše naprave. Če ste povezani na nešifrirano WiFi omrežje, lahko tudi pridobimo dele vaših podatkih o komunikaciji. Bodite previdni in ne pokažite poročila drugimi ljudmi. Z dotikom na \"Strinjam se\" spodaj, se strinjate, da lahko zbiramo zgoraj navedene podatke med ustvarjanjem dnevnikov, ki bodo naloženi na naše strežnike v namen lociranja in reševanja vprašanj ki ste jih prijavili.</string>
@@ -249,7 +252,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_probability_label">Verjetnost</string>
      <string name="feedback_remind_login_btn">Prijavite se</string>
      <string name="feedback_report_remind_login_desc">Prijavite se s svojim Mi Računom da vas naši strokovnjaki lahko kontaktirajo.</string>
-     <string name="feedback_report_remind_login_desc2">Lahko pregledate napredek vašega poročila v \"Moja poročila \".</string>
+     <string name="feedback_report_remind_login_desc2">Lahko pregledate napredek vašega poročila v \"Moje pov. informacije \".</string>
      <string name="feedback_reproductivity_everytime">Vsakič</string>
      <string name="feedback_reproductivity_occasionally">Občasno</string>
      <string name="feedback_reproductivity_often">Pogosto</string>
@@ -295,7 +298,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_submit_failed_notification_title">Ne morem poslati poročila</string>
      <string name="feedback_submit_hint">Poročajte o napakah vsakič, ko do njih pride, da jih hitreje odpravimo.</string>
      <string name="feedback_submit_hint1">Obvestili vas bomo o napredku</string>
-     <string name="feedback_submit_hint2">Pojdite v \"Moja poročila\" da vidite podrobnosti</string>
+     <string name="feedback_submit_hint2">Pojdite v \"Moje pov. informacije\" da vidite podrobnosti</string>
      <string name="feedback_submit_hint_gone">Zaprto sporočilo</string>
      <string name="feedback_submit_succ">Uspešno poslano</string>
      <string name="feedback_submit_succ_button">Končano</string>
@@ -397,6 +400,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="kr_authorization_log_protocol_desc">Za izboljšanje storitev, ki Vam jih omogočamo, bomo naložili podatke o uporabi in sistemske dnevnike na naše strežnike. Ti podatki lahko vsebujejo Vaše osebne podatke, kot tudi podatke o Vaši napravi in omrežji. Naložene podatke bomo uporabili za lociranje in analiziranje problemov v sistemu.</string>
      <string name="kr_authorization_phone">Telefon</string>
      <string name="kr_authorization_phone_desc">Dostop do modela naprave, IMEI ter ID naprave, da bi locirali in rešili težave</string>
+     <string name="kr_authorization_phone_desc_pad">Dostop do modela naprave, IMEI ter ID naprave, da bi locirali in rešili težave</string>
      <string name="kr_authorization_privacy_policy">Pravilnik o zasebnosti (obvezno)</string>
      <string name="kr_authorization_select_all">Izberite vse</string>
      <string name="kr_authorization_storage">Pomnilnik</string>
