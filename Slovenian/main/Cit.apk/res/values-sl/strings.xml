@@ -1125,10 +1125,11 @@ določen položaj"</string>
      <string name="mic_check_rm_headset_tip">Najprej odstranite slušalke in posnemite zvok.</string>
      <string name="mic_tip">Napravite hrup na mikrofonu. Ko priključite slušalke, jih poslušajte, da slišite zvok</string>
      <string name="mic_volume_height_tip">MIC test USPELO</string>
-     <string name="mic_volume_low_tip">MIC zvočni test ni uspel. Med snemanjem ustvarite večji zvok</string>
+     <string name="mic_volume_low_tip">MIC zvočni test ni uspel. Med snemanjem naredite večji zvok</string>
      <string name="micphone_test">MIC in SPK</string>
      <string name="motor_calibration">Kalibracija motorja</string>
      <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
+     <string name="mtb_tool_modem_user_panel">Uporabniška plošča</string>
      <string name="navigation_drawer_close">Zapri namizje za navigacijo</string>
      <string name="navigation_drawer_open">Odpri namizje za navigacijo</string>
      <string name="next">Naprej</string>
@@ -1149,7 +1150,7 @@ Izključite polnilec in preobrnite vtikač."</string>
      <string name="pop_camera">Pop kamera</string>
      <string name="pop_push_camera_test_summary">"Kliknite tipko Skočne kamere da boste ugotovili ali kamera izide
 Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</string>
-     <string name="pop_push_camera_test_title">Test Skočne in Push kamere</string>
+     <string name="pop_push_camera_test_title">Test Skočne in Potisne kamere</string>
      <string name="push_camera">Push kamera</string>
      <string name="radio_boy">Moški glas</string>
      <string name="radio_chinese">Kitajsko</string>

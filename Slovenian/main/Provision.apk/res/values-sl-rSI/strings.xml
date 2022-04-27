@@ -195,8 +195,9 @@
      <string name="input_method_setting">Izberite privzeto tipkovnico</string>
      <string name="install_preinstall_app">Branje aplikacij…</string>
      <string name="intent_filter_verification_service">Storitev preverjanja filtra namena</string>
-     <string name="interconnection_communication_introduction">Internetne komunikacijske storitve Xiaomi omogočajo odkrivanje, povezovanje in komunikacijo z drugimi napravami Xiaomi.</string>
+     <string name="interconnection_communication_introduction">Spletne komunikacijske storitve Xiaomi omogočajo odkrivanje, povezovanje in komunikacijo z drugimi napravami Xiaomi.</string>
      <string name="item_contents_wwarning">"Če napravo izgubite drugim ljudem ne boste mogli preprečiti, da bi jo uporabljali in dostopali do vaših podatkov, če ne nastavite zaklepanja zaslona. Vseeno preskočim?"</string>
+     <string name="item_facerecognition">Odklep z obrazom</string>
      <string name="item_fingerprint">Prstni odtis</string>
      <string name="item_lock_screen_password">Samo zakl. zaslona</string>
      <string name="item_lock_screen_password_only">Zakl. zaslon</string>
@@ -493,7 +494,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_agreement">"Prebral sem in se strinjam."</string>
      <string name="service_company_adjust_content">Omrežne storitve Xunlei Pogoji uporabe</string>
      <string name="service_fast_pairing_policy"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Mi Link Pravila o zasebnosti&lt;/a > pred uporabo.</Data></string>
-     <string name="service_interconnection_communication">Internetne komunikacijske storitve Xiaomi</string>
+     <string name="service_interconnection_communication">Spletne komunikacijske storitve Xiaomi</string>
      <string name="service_location_share_policy"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Izjava o zasebnosti lokacijskih storitev&lt;/a > pred uporabo.</Data></string>
      <string name="service_mi_account">Mi račun</string>
      <string name="service_name_MIUIDaemon">MIUI Daemon</string>

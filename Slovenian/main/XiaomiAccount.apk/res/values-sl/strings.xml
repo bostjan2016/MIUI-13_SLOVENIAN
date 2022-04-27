@@ -162,7 +162,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="collect_diagnosis_log">Zberi zapise pregleda</string>
      <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
      <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka med prenosom slike.</string>
-     <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje spleta-a</string>
+     <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje spleta</string>
      <string name="com_facebook_internet_permission_error_title">AndroidManifest napaka</string>
      <string name="com_facebook_like_button_liked">Všeč mi je</string>
      <string name="com_facebook_like_button_not_liked">Ni mi všeč</string>

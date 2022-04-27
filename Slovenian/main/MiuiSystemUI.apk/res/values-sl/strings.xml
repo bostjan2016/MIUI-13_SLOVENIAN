@@ -3397,7 +3397,7 @@ Shramba certifikatov mogoče ni omogočena"</string>
      <string name="wifitrackerlib_tap_to_sign_up">Dotaknite se, če se želite registrirati</string>
      <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Dostopna točka je trenutno zasedena</string>
      <string name="wifitrackerlib_wifi_check_password_try_again">Preverite geslo in poskusite znova</string>
-     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Povezava z napravo je vzpostavljena. Dostop do interneta ni na voljo.</string>
+     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Povezava z napravo je vzpostavljena. Dostop do spleta ni na voljo.</string>
      <string name="wifitrackerlib_wifi_disabled_generic">Onemogočeno</string>
      <string name="wifitrackerlib_wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
      <string name="wifitrackerlib_wifi_disabled_password_failure">Težava preverjanja pristnosti</string>

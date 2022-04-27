@@ -7,7 +7,7 @@
      <string name="network_partial_connectivity">%1$s ima omejeno povezljivost</string>
      <string name="network_partial_connectivity_detailed">Dotaknite se, da se vseeno povežete</string>
      <string name="network_switch_metered">Povezano na %1$s</string>
-     <string name="network_switch_metered_detail">Naprava uporablja %1$s, ko %2$s nima dostopa do interneta. Morda bodo zaračunani stroški.</string>
+     <string name="network_switch_metered_detail">Naprava uporablja %1$s, ko %2$s nima dostopa do spleta. Morda bodo zaračunani stroški.</string>
      <string name="network_switch_metered_toast">Preklopljeno iz %1$s na %2$s</string>
      <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
      <string name="other_networks_no_internet">Omrežje nima dostopa do spleta</string>

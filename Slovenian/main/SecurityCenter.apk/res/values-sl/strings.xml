@@ -1339,7 +1339,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="cta_dialog_negative">Izhod</string>
      <string name="cta_dialog_positive">Strinjam se se</string>
      <string name="cta_dialog_title">Pravila in pogoji</string>
-     <string name="cta_main_purpose">"Dobrodošli v Varnosti! Uporabite lahko Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) za sprostitev prostora za shranjevanje, skeniranje vaše naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu , in še več. Varnostne komponente MIUI se bodo povezale z internetom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
+     <string name="cta_main_purpose">"Dobrodošli v Varnosti! Uporabite lahko Varnost in njene module (vključno z varnostnimi komponentami MIUI in sistemskimi storitvami) za sprostitev prostora za shranjevanje, skeniranje vaše naprave za viruse, nadzor porabe baterije, optimizacijo naprave za igranje iger, upravljanje aplikacij, prejemanje zgodnjih opozoril o potresu , in še več. Varnostne komponente MIUI se bodo povezale z spletom in izvajale varnostne preglede, medtem ko nameščate aplikacije in plačujete."</string>
      <string name="cta_settings">Dovoli spletno povezavo in dostop do lokacije</string>
      <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
      <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za uporabo seznama blokiranih in klicanje stikov v sili, ko so izdana opozorila o potresu</string>

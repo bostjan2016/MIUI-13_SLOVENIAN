@@ -3261,6 +3261,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="device_info_not_available">Ni na voljo</string>
      <string name="device_info_settings">Stanje telefona</string>
      <string name="device_internal_memory">Notranja shramba</string>
+     <string name="device_mall_card_title">Preverite razpoložljive ugodnosti</string>
      <string name="device_memory">RAM</string>
      <string name="device_miui_more">Pokaži več</string>
      <string name="device_miui_version">MIUI različica</string>
@@ -4067,8 +4068,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="face_data_siggesstion_next_time">Naprej (%ds)</string>
      <string name="face_data_siggesstion_next_time_cn">V redu (%ds)</string>
      <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali predmeti podobnega videza.</string>
-     <string name="face_data_suggesstion_first_cn">"Če želite uporabljati Odklepanje z obrazom, moramo zbrati vaše podatke o obrazu. Podatki o obrazu bodo lokalno shranjeni v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite \"Odklepanje z obrazom\" in nato izberite Odklepanje z obrazom > Podatki o obrazu.
-Odklepanje z obrazom je manj varno kot koda PIN, geslo ali vzorec. Vašo napravo lahko odklenejo vaša fotografija, pa tudi ljudje ali predmeti s podobnim videzom."</string>
+     <string name="face_data_suggesstion_first_cn">Da boste lahko uporabljali odklepanje z obrazom, moramo zbrati podatke o vašem obrazu, ki bodo nato shranjeni lokalno v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite Odklepanje z obrazom in nato izberite Odklepanje z obrazom > Podatki o obrazu.</string>
+     <string name="face_data_suggesstion_first_cn_highlight">Odklepanje z obrazom je manj varno kot PIN, geslo ali vzorec. Vašo napravo lahko odklenejo z vašo fotografijo, pa tudi ljudje ali predmeti s podobnim videzom.</string>
      <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti z predmeti in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
      <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
      <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
@@ -4692,7 +4693,7 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="gxzw_anim_star">Zvezdna luč</string>
      <string name="gxzw_anim_title">Prstni odtis</string>
      <string name="gxzw_anim_unlock_effect">%s animacij prstnega odtisa</string>
-     <string name="gxzw_aod_show_summary">Dvignite napravo ali tapnite zaslon da se bo bo prikazal simbol prstnega odtisa. To povečuje porabo baterije.</string>
+     <string name="gxzw_aod_show_summary">Dvignite napravo ali tapnite zaslon, da se prikaže ikona prstnega odtisa. Ta storitev poveča porabo energije sistema, vendar vam omogoča hitrejše odklepanje naprave.</string>
      <string name="gxzw_aod_show_tittle">Pokaži ikono prstnega odtisa kadar je zaslon izključen</string>
      <string name="gxzw_dialog_message">"Za normalno uporabo senzorja prstnih odtisov znotraj zaslona ne uporabljajte zaščite zaslona. Če mislite da je vseeno potrebna, jo izberite med pooblaščenimi kompatibilnimi opcijami."</string>
      <string name="gxzw_dialog_not_show_again">"Ne kaži več"</string>
@@ -6613,7 +6614,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
      <string name="mobile_data_ap_mode_disabled">Ni na voljo v načinu za letalo</string>
      <string name="mobile_data_connection_active">Povezano</string>
-     <string name="mobile_data_disable_message">Prek omrežja %s ne boste imeli dostopa do podatkovne povezave ali interneta. Internet bo na voljo samo prek povezave WiFi.</string>
+     <string name="mobile_data_disable_message">Prek omrežja %s ne boste imeli dostopa do podatkovne povezave ali spleta. Splet bo na voljo samo prek povezave WiFi.</string>
      <string name="mobile_data_disable_message_default_carrier">vašega operaterja</string>
      <string name="mobile_data_disable_title">Želite izklopiti prenos podatkov v mobilnih omrežjih?</string>
      <string name="mobile_data_no_connection">Ni povezave</string>
@@ -7073,6 +7074,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="new_backup_pw_prompt">Sem vnesite novo geslo za popolno varnostno kopiranje</string>
      <string name="new_device_suggestion_summary">Oglejte si predstavitev novega telefona</string>
      <string name="new_device_suggestion_title">Ste šele začeli uporabljati telefon Pixel?</string>
+     <string name="new_fingerprint_to_new_face_dialog_msg">Če želite uporabljati odklepanje z obrazom, najprej dodajte podatke o obrazu. Dodam zdaj?</string>
+     <string name="new_fingerprint_to_new_face_dialog_tittle">Dodajte podatke o obrazu</string>
      <string name="new_password_to_new_fingerprint_dialog_msg">Dodajte svoj prstni odtis da lahko z njim odklenete svojo napravo</string>
      <string name="new_password_to_new_fingerprint_dialog_negative_msg">Prekliči</string>
      <string name="new_password_to_new_fingerprint_dialog_positive_msg">Dodaj</string>
@@ -13050,7 +13053,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
      <string name="wifitrackerlib_tap_to_sign_up">Dotaknite se, če se želite registrirati</string>
      <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Dostopna točka je trenutno zasedena</string>
      <string name="wifitrackerlib_wifi_check_password_try_again">Preverite geslo in poskusite znova</string>
-     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Povezava z napravo je vzpostavljena. Dostop do interneta ni na voljo.</string>
+     <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Povezava z napravo je vzpostavljena. Dostop do spleta ni na voljo.</string>
      <string name="wifitrackerlib_wifi_disabled_generic">Onemogočeno</string>
      <string name="wifitrackerlib_wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
      <string name="wifitrackerlib_wifi_disabled_password_failure">Težava preverjanja pristnosti</string>
@@ -13061,7 +13064,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
      <string name="wifitrackerlib_wifi_mbo_oce_assoc_disallowed_insufficient_rssi">Šibek signal. Poskusite se premakniti bliže k usmerjevalniku.</string>
      <string name="wifitrackerlib_wifi_metered_label">Z omejenim prenosom podatkov</string>
      <string name="wifitrackerlib_wifi_network_not_found">Povezave ni mogoče vzpostaviti. Poskusite znova pozneje.</string>
-     <string name="wifitrackerlib_wifi_no_internet">Ni dostopa do interneta</string>
+     <string name="wifitrackerlib_wifi_no_internet">Ni dostopa do spleta</string>
      <string name="wifitrackerlib_wifi_no_internet_no_reconnect">Povezava ne bo samodejno vzpostavljena</string>
      <string name="wifitrackerlib_wifi_passpoint_expired">Poteklo</string>
      <string name="wifitrackerlib_wifi_poor_channel_conditions">Začasno slabo stanje omrežja</string>
