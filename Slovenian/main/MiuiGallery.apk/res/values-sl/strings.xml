@@ -516,6 +516,7 @@
      <string name="cloud_full_space_tip_negative">Ne zdaj</string>
      <string name="cloud_full_space_tip_positive">Nadgradi</string>
      <string name="cloud_full_space_tip_title">Premalo prostora v oblaku</string>
+     <string name="cloud_full_space_tip_title_completely">Shramba v oblaku je polna</string>
      <string name="cloud_guide_auto_backup_title">Izberite albume za sinhronizacijo</string>
      <string name="cloud_guide_login_title">Samodejno izdelaj var. kopijo fotografij in videoposnetkov</string>
      <string name="cloud_guide_slim_text">Samodejno izdelaj var. kopijo. Prihranite več od 90% prostora z zmanjševanjem.</string>
@@ -613,6 +614,7 @@
      <string name="correct_photo_time">Popravi datum in čas za fotografije</string>
      <string name="correct_time_success">Uspešno popravljeno</string>
      <string name="correct_time_tip">Popravljanje datuma in časa…</string>
+     <string name="create_album_failed_because_dup">Ta album že obstaja. Dodam stvari v ta album?</string>
      <string name="create_baby_album">Ustvari otroški album</string>
      <string name="create_baby_album_dialog_msg">Ustvarim album za \"%s\"?</string>
      <string name="create_baby_album_later_toast">Ustvarite otroški album kadarkoli v Nastavitvah</string>
@@ -1247,6 +1249,8 @@ za fotografije"</string>
      <string name="grant_permission_go_and_set">Nastavi</string>
      <string name="grant_permission_go_and_set_2">Nastavitve</string>
      <string name="grant_permission_go_and_set_3">Nastavitve</string>
+     <string name="grant_permission_manage_storage">Potrebna so dovoljenja</string>
+     <string name="grant_permission_manage_storage_unlock">Odklenite napravo in tej aplikaciji dovolite dostop do vseh datotek, da si lahko ogledate stvari.</string>
      <string name="grant_permission_shortcut">Dovolite tej aplikaciji, da najprej ustvari bližnjico na začetnem zaslonu.</string>
      <string name="grant_permission_storage">Najprej dovolite tej aplikaciji dostop do pomnilnika.</string>
      <string name="grant_permission_storage_unlock">Odklenite napravo in tej aplikaciji najprej omogočite dostop do shrambe.</string>
@@ -1386,6 +1390,9 @@ za fotografije"</string>
      <string name="last_some_day_travel_title_one">V %1$s</string>
      <string name="last_some_day_travel_title_three">Raziskovanje %1$s</string>
      <string name="last_some_day_travel_title_two">Spomini na %1$s</string>
+     <string name="last_some_performance_title">Stvari, ki sem jih videl</string>
+     <string name="lenovo">Lenovo</string>
+     <string name="lenovo_phone">Lenovo telefon</string>
      <string name="limit_height">Višina mora biti &gt; 0</string>
      <string name="limit_width">Širina mora biti &gt; 0</string>
      <string name="live_photo">Dinamičen posnetek</string>
@@ -1924,6 +1931,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="operation_too_often">Preveč zahtev iz vašega IP naslova. Počakaj minuto ali dve in poskusite znova.</string>
      <string name="operation_unforce_top">Odstrani z vrha</string>
      <string name="operation_unhide">Pokaži</string>
+     <string name="operation_upgrade_gallery">Posodobi</string>
      <string name="operation_video_compress">Strni videoposnetek</string>
      <string name="operation_watermark">Zaščitni vodni žig</string>
      <string name="oppo">OPPO</string>
@@ -2538,8 +2546,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="send_file_beautify_failed">"Ne morem poslati"</string>
      <string name="send_files_by">Delite datoteke preko</string>
      <string name="send_files_to">Pošlji stvari v</string>
-     <string name="send_heif_summary">Pretvorite slike pred pošiljanjem da boste zagotovili kompatibilnost</string>
-     <string name="send_heif_title">Pretvorite HEIF v JPG pred pošiljanjem</string>
+     <string name="send_heif_summary">Pretvorite slike HEIF v JPEG, preden jih pošljete</string>
+     <string name="send_heif_title">Pretvorite HEIF pred pošiljanjem</string>
      <string name="send_invitation_fail">"Ne morem poslati vabila"</string>
      <string name="send_multiple_files_hint_format">Pošlji (%s)</string>
      <string name="send_public_url">Pošlji povezavo albuma</string>
