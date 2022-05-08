@@ -174,7 +174,7 @@
         <item quantity="one">čez 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">Dan %1$d (pričakovano)</item>

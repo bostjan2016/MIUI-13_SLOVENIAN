@@ -1152,7 +1152,7 @@ mm"</string>
      <string name="ticket_hint">Kontrolna koda</string>
      <string name="ticket_invalid">Vnešena koda ni točna</string>
      <string name="ticket_sign_in">Prijavite se preko SMS</string>
-     <string name="time_current">Prav zdaj</string>
+     <string name="time_current">Pravkar</string>
      <string name="time_interval_dialog_content1">Wallpaper Carousel vam omogoča, da vidite novo sliko vsakič, ko odklenete napravo.</string>
      <string name="time_interval_dialog_content2">Pogostost posodobitve ozadja lahko spremenite v \"Nastavitve diaprojekcije\".</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>

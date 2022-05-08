@@ -23,7 +23,7 @@
         <item quantity="one">čez %1$d min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %1$d min</item>
@@ -158,7 +158,7 @@
         <item quantity="one">(%1$d)</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Najdeno stikov: %d</item>

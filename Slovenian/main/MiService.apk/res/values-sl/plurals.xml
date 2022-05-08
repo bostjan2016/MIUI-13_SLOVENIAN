@@ -46,7 +46,7 @@
         <item quantity="one">čez 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="miui_guide_accessibility_page_current_count">
         <item quantity="other">Strani %1$d od %2$d</item>

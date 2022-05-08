@@ -3170,7 +3170,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
      <string name="time_start_hour">Začetni čas ure</string>
      <string name="time_start_minute">Začetni čas minute</string>
      <string name="time_statistic">Prihranjeno %1$d min časa omrežja</string>
-     <string name="time_unit_just_now">Prav zdaj</string>
+     <string name="time_unit_just_now">Pravkar</string>
      <string name="title_cfu_enabled">Posredovanje klicev je vključeno</string>
      <string name="title_convert_fbe">Pretvaranje v enkripcijo datotek</string>
      <string name="title_country">Država</string>

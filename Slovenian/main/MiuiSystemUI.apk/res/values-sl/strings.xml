@@ -1654,12 +1654,12 @@ Poskusite znova čez %2$d s."</string>
      <string name="location_status_content_description">%1$s deli lokacijo</string>
      <string name="lock_screen_access_to_5G">Dostop do 5G</string>
      <string name="lock_screen_carrier_airplane_mode_on">Letalski način</string>
-     <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
-     <string name="lock_screen_date_12">EEEE, dd.MM.</string>
-     <string name="lock_screen_date_two_lines">"EEEE
-dd.MM.yyyy"</string>
+    <string name="lock_screen_date">EEEE, dd.MM</string>
+    <string name="lock_screen_date_12">EEEE, dd.MM</string>
+    <string name="lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
      <string name="lock_screen_date_two_lines_12">"EEEE
-dd.MM."</string>
+dd.MM"</string>
      <string name="lock_screen_magazine_default_content">Dnevni del svežih slik</string>
      <string name="lock_screen_magazine_default_entry_title">Podrobno o sliki ozadja</string>
      <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>

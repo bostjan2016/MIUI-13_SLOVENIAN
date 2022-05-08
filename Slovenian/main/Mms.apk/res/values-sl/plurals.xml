@@ -81,7 +81,7 @@
         <item quantity="one">čez 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="mark_number_dialog_subtitle">
         <item quantity="other">Označeno kot %2$s s strani %1$d oseb</item>

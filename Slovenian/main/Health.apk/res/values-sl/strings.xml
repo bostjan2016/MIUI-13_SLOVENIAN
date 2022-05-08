@@ -756,7 +756,7 @@ Skozi veliko število poskusov je povprečna napaka srčnega utripa manjša od 3
      <string name="jump_freq">Frekvenca skokov</string>
      <string name="jump_over">Preskoči</string>
      <string name="jump_rope_count_minutes">" SPM"</string>
-     <string name="just_recently">Prav zdaj</string>
+     <string name="just_recently">Pravkar</string>
      <string name="keep_edit">Prekliči</string>
      <string name="label_average_daily_sleep_duration">Povprečno trajanje spanja</string>
      <string name="label_average_daily_sleep_time">Povprečni čas kdaj ste zaspali</string>

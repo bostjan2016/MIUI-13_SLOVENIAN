@@ -138,7 +138,7 @@
      <string name="hint_search_in_disabled_apps">"Išči aplikacije ki ne morejo prikazati obvestil"</string>
      <string name="hint_search_in_enabled_apps">Išči aplikacije ki lahko prikažejo obvestila</string>
      <string name="icon_content_description">Ikona dialoga</string>
-     <string name="last_sent_time_second">Prav zdaj</string>
+     <string name="last_sent_time_second">Pravkar</string>
      <string name="list_title_disable_notification">"Obvestila niso dovoljena"</string>
      <string name="loading">Samo trenutek…</string>
      <string name="lock_screen_display_rules">Format</string>

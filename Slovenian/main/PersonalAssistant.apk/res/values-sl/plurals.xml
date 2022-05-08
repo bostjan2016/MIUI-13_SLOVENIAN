@@ -136,7 +136,7 @@
         <item quantity="one">čez 1 minuto</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Prav zdaj</item>
+        <item quantity="other">Pravkar</item>
      </plurals>
      <plurals name="main_delete_desc">
         <item quantity="other">Odstranim %s iz priljubljenih?</item>

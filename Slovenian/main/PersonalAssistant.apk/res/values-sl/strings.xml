@@ -345,7 +345,7 @@
      <string name="base_hour_minute">%1$dh%2$dm</string>
      <string name="base_minute_second">mm:ss</string>
      <string name="base_search_empty">"Nič ne najdem"</string>
-     <string name="base_time_just_now">Prav zdaj</string>
+     <string name="base_time_just_now">Pravkar</string>
      <string name="base_time_month">dd/MM</string>
      <string name="base_time_year">dd/MM/yyyy</string>
      <string name="base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
@@ -724,7 +724,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="instagram_parent">Instagram</string>
      <string name="item_type_custom">Prilagodi</string>
      <string name="item_type_suggestion">Predlogi</string>
-     <string name="just_now">Prav zdaj</string>
+     <string name="just_now">Pravkar</string>
      <string name="launch_app">Priporočila za aplikacije</string>
      <string name="launch_change_order">Spremeni zaporedje</string>
      <string name="launch_else">Ostalo</string>
@@ -1032,7 +1032,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="pa_cta_dialog_desc_location">Za zagotavljanje predlogov za pot na delo</string>
      <string name="pa_cta_dialog_desc_phone_state">Za identifikacijo vaše naprave na podlagi IMEI</string>
      <string name="pa_cta_dialog_desc_storage">Za predpomnjenje stvari</string>
-     <string name="pa_day_date">dd:MM</string>
+     <string name="pa_day_date">dd/MM</string>
      <string name="pa_day_time">H:mm</string>
      <string name="pa_disclaimer_content">To storitev zagotavlja %1$s. %1$s nosi vso odgovornost v zvezi s storitvami, ki jih opravlja. Če imate kakršna koli vprašanja, se lahko obrnete na %1$s.</string>
      <string name="pa_disclaimer_title">Izjava o omejitvi odgovornosti</string>
