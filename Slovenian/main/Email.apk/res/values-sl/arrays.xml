@@ -29,9 +29,13 @@
      </string-array>
      <string-array name="error_message_respond">
         <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
-        <item>LOGIN Napaka pri prijavi Napaka gesla</item>
+        <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
+        <item>Napaka pri prijavi ali napaka gesla</item>
+        <item>LOGIN napaka, neveljavno uporabniško ime/geslo</item>
+        <item>LOGIN errno:1424, račun ne obstaja(md return:2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Za prijavo uporabite pooblaščeno kodo. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Koda ni pravilna. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
         <item>LOGIN errno:1423, napaka uporabniškega gesla(sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Neveljavne poverilnice</item>
@@ -50,8 +54,8 @@
         <item>ERR pop3 po meri izklopljeno</item>
         <item>LOGIN Napaka pri prijavi - napaka uporabniškega imena ali gesla</item>
         <item>Neveljavna prijava ali geslo</item>
-        <item>ip XXXXXXX je na črnem seznamu, preklopite svoje omrežje ali se prijavite na https://mail.sohu.com za nastavitev bele liste ip odjemalca</item>
-        <item>java.net.UnknownHostException: Gostitelja XXXX ni mogoče razrešiti: z imenom gostitelja ni povezan noben naslov</item>
+        <item>na črnem seznamu, preklopite svoje omrežje ali se prijavite na  https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Gostitelja ni mogoče razrešiti</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčkeno</item>

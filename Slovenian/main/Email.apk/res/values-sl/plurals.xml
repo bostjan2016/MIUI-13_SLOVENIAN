@@ -117,6 +117,10 @@
         <item quantity="other">Osnutki</item>
         <item quantity="one">Osnutek</item>
      </plurals>
+     <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Dodate lahko do %1$d pogojev</item>
+        <item quantity="one">Dodate lahko do %1$d pogoj</item>
+     </plurals>
      <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d sporočil bo trajno izbrisano.</item>
         <item quantity="one">%1$d sporočilo bo trajno izbrisano.</item>

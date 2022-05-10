@@ -180,7 +180,8 @@
      <string name="account_setup_incoming_delete_policy_delete_label">Ko izbrišem iz Koša</string>
      <string name="account_setup_incoming_delete_policy_never_label">Nikoli</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">Neobvezno</string>
-     <string name="account_setup_incoming_imap_path_prefix_label">IMAP predpona poti</string>
+     <string name="account_setup_incoming_imap_path_prefix_label">IMAP
+ predpona poti</string>
      <string name="account_setup_incoming_password_label">Geslo</string>
      <string name="account_setup_incoming_port_label">Vrata</string>
      <string name="account_setup_incoming_security_label">Tip varnosti</string>
@@ -595,6 +596,32 @@
      <string name="elided_padding_token"> </string>
      <string name="email_address">Naslov e-pošte</string>
      <string name="email_feedback_uri" />
+     <string name="email_filter_add_new_rule">Ustvarite pravilo</string>
+     <string name="email_filter_choose_folder">Izberite mapo</string>
+     <string name="email_filter_choose_item">Izberite stvar</string>
+     <string name="email_filter_continue_add_rule">Dodajte še eno ključno besedo</string>
+     <string name="email_filter_continue_add_rule_first">Najprej vnesite ključno besedo</string>
+     <string name="email_filter_continue_delete_rule">Izbrišite ključno besedo</string>
+     <string name="email_filter_create_folder">Ustvarite mapo</string>
+     <string name="email_filter_delete_rule">Izbrišite pravilo</string>
+     <string name="email_filter_delete_rule_warning">"Če izbrišete to pravilo, ga pozneje ni mogoče obnoviti. S tem dejanjem ne boste izbrisali e-poštnih sporočil v obstoječih mapah. Izbrišem pravilo zdaj?"</string>
+     <string name="email_filter_edit_rule">Uredite pravilo</string>
+     <string name="email_filter_enter_folder_name">Vnesite ime mape</string>
+     <string name="email_filter_enter_key_rule">Vnesite ključno besedo</string>
+     <string name="email_filter_mailbox_name_error">Ta mapa že obstaja</string>
+     <string name="email_filter_move_to_folder">Premakni v mapo</string>
+     <string name="email_filter_no_delete_rule_choosed">Izbrano ni nobeno pravilo</string>
+     <string name="email_filter_no_rule">Tu še ni ničesar</string>
+     <string name="email_filter_rule">Pravila filtriranja</string>
+     <string name="email_filter_rule_01">Vključeni prejemniki</string>
+     <string name="email_filter_rule_02">Izključeni prejemniki</string>
+     <string name="email_filter_rule_03">Vključeni pošiljatelji</string>
+     <string name="email_filter_rule_04">Izključeni pošiljatelji</string>
+     <string name="email_filter_rule_05">CC vključeno</string>
+     <string name="email_filter_rule_06">CC izključeno</string>
+     <string name="email_filter_rule_07">Vključene zadeve</string>
+     <string name="email_filter_rule_08">Izključene zadeve</string>
+     <string name="email_filter_rule_tips">E-poštna sporočila, ki izpolnjujejo pravilo, bodo samodejno premaknjena v izbrano mapo</string>
      <string name="email_netease">NetEase Mail</string>
      <string name="email_no_snippet">[To sporočilo nima osnovnega besedila]</string>
      <string name="email_qq">QQ Mail</string>
@@ -602,6 +629,7 @@
      <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
      <string name="email_sina">Sina Mail</string>
      <string name="email_sync_failed">"Ne morem sinhronizirati pošte"</string>
+     <string name="emial_filter_create_hint">"Pravilo ne bo uporabljeno za obstoječa e-poštna sporočila"</string>
      <string name="eml_parse_message">Odpiranje EML datoteke…</string>
      <string name="empty_account_tip">"Računa ni mogoče najti"</string>
      <string name="empty_email_tip">"Ne morem poslati praznega sporočila"</string>
@@ -729,6 +757,7 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="folder">Mape</string>
      <string name="folder_drafts_name_cn0">草稿</string>
      <string name="folder_drafts_name_cn1">草稿箱</string>
      <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -781,7 +810,7 @@
      <string name="font_underline">Podčrtano</string>
      <string name="font_underline_remove">Odpovej Underline</string>
      <string name="forever">Zmeraj</string>
-     <string name="forget_app_password">Pozabljeno geslo za aplikacijo</string>
+     <string name="forget_app_password">Pozabljeno geslo</string>
      <string name="formatted_email_address">&lt;%1$s&gt;</string>
      <string name="forward">Posreduj</string>
      <string name="forward_attachment">Posreduj</string>
@@ -797,6 +826,7 @@
      <string name="general_preference_confirm_delete_label">Potrdi pred brisanjem</string>
      <string name="general_preference_confirm_send_label">Potrdi pred pošiljanjem</string>
      <string name="general_preference_delete_message_prompt_title">Vprašaj pred brisanjem</string>
+     <string name="general_preference_email_slide_switch_title">Povlecite levo/desno za ogled prejšnje/naslednje e-pošte</string>
      <string name="general_preference_load_picture">Naloži online slike</string>
      <string name="general_preference_str_auto_translation">Hitri prevod</string>
      <string name="general_preference_str_auto_translation_prompt">Kopirajte tekst da boste videli prevod</string>
@@ -883,6 +913,8 @@
      <string name="loading_conversation">Nalagam…</string>
      <string name="loading_conversations">Nalagam…</string>
      <string name="loading_from_remote">Nalagam…</string>
+     <string name="local_folder">Lokalne mape</string>
+     <string name="local_folder_prefix">"Ta naprava: "</string>
      <string name="local_search">Lokalno iskanje</string>
      <string name="location_hint">Lokacija</string>
      <string name="log_save_path">Pot zapisa</string>
@@ -1556,6 +1588,11 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
      <string name="respond_inline">Odgovori v tekstu</string>
      <string name="respond_inline_text">Uredi izvirno e-pošto</string>
+     <string name="restart_detail_conversation_options1">1 min</string>
+     <string name="restart_detail_conversation_options2">5 min</string>
+     <string name="restart_detail_conversation_options3">15 min</string>
+     <string name="restart_detail_conversation_options4">30 min</string>
+     <string name="restart_detail_conversation_title">Znova zaženi v ozadju</string>
      <string name="resume_draft">Uredi</string>
      <string name="retry">Poskusite znova</string>
      <string name="retry_login">Prijavite se ponovno</string>

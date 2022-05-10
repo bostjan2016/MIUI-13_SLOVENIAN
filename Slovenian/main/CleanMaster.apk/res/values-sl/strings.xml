@@ -976,6 +976,7 @@
      <string name="storage_item_system_name">Sistem</string>
      <string name="storage_item_video_name">Video</string>
      <string name="storage_space_release_hint">Potrebujete več prostora za shranjevanje?</string>
+     <string name="storage_system_log">Sistemski dnevniki</string>
      <string name="summary_auto_cleaner">Obvestim vsakič ko količina smeti doseže 100MB?</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="summary_delete_apk">Trajno izbrišem izbrane aplikacije?</string>

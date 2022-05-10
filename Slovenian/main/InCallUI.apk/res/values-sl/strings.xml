@@ -380,6 +380,7 @@
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
+     <string name="msim_select_default_last">Nedavno uporabljeno</string>
      <string name="msim_select_default_time_left">(%d s)</string>
      <string name="network_error_message">Trenutno omrežje je nestabilno. Sprememba na redni klic ki ga operater lahko zaračuna.</string>
      <string name="network_error_title">Nestabilno omrežje</string>

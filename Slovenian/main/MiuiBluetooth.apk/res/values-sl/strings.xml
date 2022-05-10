@@ -395,6 +395,7 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
 Za podrobnosti glejte Nastavitve."</string>
      <string name="fast_connect_b508_name">ZMI B508</string>
      <string name="fast_connect_bt_speaker2_name">MI Prenosni zvočnik</string>
+     <string name="fast_connect_connection_fail">"Ne morem se povezati"</string>
      <string name="fast_connect_device_battery">Baterija</string>
      <string name="fast_connect_device_box">Box</string>
      <string name="fast_connect_device_box_name">%1$s Box</string>
