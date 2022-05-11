@@ -142,6 +142,7 @@
      <string name="dewdrops">Jutranja rosa</string>
      <string name="digitaluniverse">Digitalno vesolje (stereo)</string>
      <string name="disable_nfc">Izključen NFC za brezžično polnjenje</string>
+     <string name="disable_nfc_haptic_reverse">Izklopljen NFC in vibriranje za povratno brezžično polnjenje</string>
      <string name="disable_nfc_reverse">Izključen NFC za obratno brezžično polnjenje</string>
      <string name="dock_tip_floatwindow">Pridržite vrstico in jo povlecite do roba zaslona, da odprete pogled na deljenem zaslonu.</string>
      <string name="dock_tip_splitscreen_landscape_drag">Povlecite vrstico vodoravno, da zamenjate položaja dveh oken aplikacij.</string>
@@ -156,6 +157,7 @@
      <string name="enable_livetalk_title">Vključi paket doplačila</string>
      <string name="enable_midrop">Vključi</string>
      <string name="enable_nfc">Ni več polnjenja. NFC ponovno vključen.</string>
+     <string name="enable_nfc_haptic_reverse">Ustavljeno obratno polnjenje. NFC in vibriranje sta spet vklopljena.</string>
      <string name="enable_nfc_reverse">Ni več obratnega brezžičnega polnjenja. NFC ponovno vključen.</string>
      <string name="expect">Vznemirjenje</string>
      <string name="fadein">Fade in</string>
@@ -181,7 +183,7 @@
      <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
      <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
      <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
-     <string name="freeform_exchange_tip">Spustite, da odprete aplikacijo</string>
+     <string name="freeform_exchange_tip">Odpri plavajoče okno v celozaslonskem načinu</string>
      <string name="freeform_exchange_tip2">Povlecite v kot da prenehate</string>
      <string name="frenchchic">Chic</string>
      <string name="frequent_email">Pogosti naslovi e-pošte</string>

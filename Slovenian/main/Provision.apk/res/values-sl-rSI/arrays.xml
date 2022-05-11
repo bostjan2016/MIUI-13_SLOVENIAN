@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
  <resources>
-    </string-array>
-    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+     <string-array name="other_settings_auto_update_at_no_simslot_entries">
         <item>Samo WiFi</item>
         <item>Izključi</item>
      </string-array>
@@ -9,5 +8,5 @@
         <item>WiFi in mobilni podatki</item>
         <item>Samo WiFi</item>
         <item>Izključi</item>
-    </string-array>
+     </string-array>
 </resources>
