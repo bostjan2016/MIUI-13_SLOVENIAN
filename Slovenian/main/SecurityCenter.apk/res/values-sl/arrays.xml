@@ -10,13 +10,13 @@
      </string-array>
      <string-array name="alarm_repeat_type_no_workdays">
         <item>Enkrat</item>
-        <item>Vsak dan</item>
+        <item>Vsakodnevno</item>
         <item>Vikend</item>
         <item>Po meri</item>
      </string-array>
      <string-array name="app_behavior_type_menu">
         <item>Vsi zapisi</item>
-        <item>Samod. zagon</item>
+        <item>Samodejni zagon</item>
         <item>Verižni zagon</item>
         <item>Uporaba dovoljenj</item>
         <item>Občutljiva opravila</item>
@@ -116,7 +116,7 @@
         <item>Najnižja</item>
         <item>Nizka</item>
         <item>Normalna</item>
-        <item>Visoka</item>
+        <item>Nizka</item>
         <item>Najvišja</item>
      </string-array>
      <string-array name="lock_mode">
@@ -128,9 +128,6 @@
         <item>1</item>
         <item>0</item>
         <item>2</item>
-     </string-array>
-     <string-array name="long_add_menu">
-        <item>Dodaj v izjeme</item>
      </string-array>
      <string-array name="mi_service_traffic_type">
         <item>"Mobilni podatki "</item>
@@ -216,6 +213,7 @@
         <item>Razvrsti po pogostosti uporabe</item>
         <item>Razvrsti po izkor. pros. za shranjevanje</item>
         <item>Razvrsti po času namestitve</item>
+        <item>Razvrsti po imenu aplikacije</item>
      </string-array>
      <string-array name="sort_type">
         <item>Status</item>
@@ -229,7 +227,6 @@
         <item>Pogostost uporabe</item>
         <item>Izkoriščeni prostor za shranjevanje</item>
         <item>Čas namestitve</item>
-     </string-array>
      </string-array>
      <string-array name="tether_limit_warn_type">
         <item>Izključi in obvesti</item>
