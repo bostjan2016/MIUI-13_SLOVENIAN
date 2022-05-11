@@ -173,6 +173,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="adb_install_reject_notiy_desc">Namestitev preko USB-a lahko dovolite v Možnosti Raz. programerja</string>
      <string name="adb_login_xiaomi_account">Najprej se prijavite z Mi Računom</string>
      <string name="add_auto_task_desktop_icon">Dodaj bližnjico na začetni zaslon</string>
+     <string name="add_bill_reminder_alarm">Nastavite opozorilo o stanju telefona</string>
      <string name="add_done">Uspešno dodano</string>
      <string name="add_game">Dodaj igro</string>
      <string name="add_game_notification_summary">Tapni za zagon &amp; pohitritev</string>
@@ -690,9 +691,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_predict_widget_summary">Hitro zaženite aplikacije, ki jih boste morda potrebovali zdaj</string>
      <string name="app_predict_widget_title">Predlogi aplikacij</string>
      <string name="app_running_tip_dialog_negative">Prekliči</string>
-     <string name="app_running_tip_dialog_positive">V redu</string>
-     <string name="app_running_tip_dialog_text">Zapri %1$s da se prepreči zagon v ozadju. To bo pohitrilo napravo in zmanjšalo porabo energije.</string>
-     <string name="app_running_tip_dialog_title">Zapri aplikacijo</string>
+     <string name="app_running_tip_dialog_positive">Prekini</string>
+     <string name="app_running_tip_dialog_text">Kaže da se ta aplikacija izvaja v ozadju. Aplikacijo lahko zaprete, da pospešite svojo napravo in zmanjšate porabo energije.</string>
+     <string name="app_running_tip_dialog_title">Prekini %1$s</string>
      <string name="app_running_tip_uninstall">Odstrani aplikacijo</string>
      <string name="app_settings_link">Dodatne nastavitve v aplikaciji</string>
      <string name="app_statusbar_audio_now">Snemanje zvoka</string>
@@ -1058,8 +1059,14 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="behavior_widget_read_write_external_storage">Dostopane datoteke</string>
      <string name="best_booster_status">Na voljo je povečanje hitrosti.</string>
      <string name="bg_network_exception_title">Omejena povezava v ozadju</string>
+     <string name="bill_arrears_character">Kaže da na kartici SIM %d ni dovolj sredstev. Napolnite zdaj, da boste ostali povezani.</string>
+     <string name="bill_arrears_title">"SIM %d se ne more povezati na omrežje"</string>
      <string name="bill_limit_notification_text_format">Kartica: %1$s | Stanje: %2$s CNY</string>
      <string name="bill_limit_notification_title">Premalo sredstev</string>
+     <string name="bill_remind">Opozorilo o stanju telefona</string>
+     <string name="bill_reminder_summary">Opomni za dopolnitev, ko je stanje nižje od %1s</string>
+     <string name="bill_traffic_reminder_instruction">Pozor</string>
+     <string name="bill_traffic_reminder_instruction_text">Dejanske podrobnosti o načrtih, ki jih zagotavljajo mobilni operaterji, se lahko razlikujejo in lahko pride do zamud pri obračunavanju. Informacije, navedene tukaj, so samo za vašo referenco.</string>
      <string name="bind_xiaomi_account_cancel">Prekini</string>
      <string name="bind_xiaomi_account_confirm">Dodaj</string>
      <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga razveljavite. Račun bo samodejno odstranjen če se odjavite."</string>
@@ -1277,6 +1284,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="clear_garbage">Izbrišite Smeti in sprostite prostor</string>
      <string name="clear_immediately">Očisti zdaj</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
+     <string name="click_to_charge_bill">Napolni</string>
+     <string name="click_to_set_carrier">Tapnite za nastavitev</string>
+     <string name="click_to_set_personalized_reminder">Nastavi opomnike</string>
+     <string name="click_to_set_traffic">Tapnite za nastavitev</string>
      <string name="close">Zapri</string>
      <string name="close_callwait">Izključeno</string>
      <string name="cmcc_app_check_dialog_message">Ponovno zaženite napravo za dokončanje.</string>
@@ -1293,6 +1304,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="confirm_ai_allow_all_permission">Spremenim stanje dovoljenja v \"Odloči zame\" za vse aplikacije?</string>
      <string name="confirm_allow_all_permission">Dovolim vsem aplikacijam uporabo te storitve?</string>
      <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
+     <string name="confirm_close">Izključi</string>
      <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
      <string name="confirm_leave">Ne, hvala</string>
      <string name="confirm_open">Vključi</string>
@@ -1363,7 +1375,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="daily_limit_network_available_body">Tapnite za pregled statistike porabe podatkov.</string>
      <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
      <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
+     <string name="daily_package_reminder_character">Nastavite dnevno omejitev porabe podatkov, da prejmete opozorilo, ko je ta omejitev dosežena.</string>
      <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
+     <string name="daily_remind_warning_text_tips">Opozori, ko je dosežena dnevna omejitev</string>
+     <string name="daily_reminder_warning">Dnevna omejitev</string>
+     <string name="daily_reminder_warning_necessary">Dnevna omejitev (zahtevano)</string>
      <string name="daily_sim_over_limit_dialog_message">"Izkoristili ste že %s dnevne omejitve podatkov.
 
 Če ponovo vključite mobilne podatke, vam bo vaš mobilni operater dodatno zaračunal."</string>
@@ -2285,10 +2301,15 @@ vašega igranja"</string>
      <string name="gd_setting_title">Stranska vrstica</string>
      <string name="gd_setting_vtb">Prikaži med predvajanjem videoposnetkov</string>
      <string name="gd_setting_vtb_desc">Posebne storitve za predvajanje videa</string>
+     <string name="gd_sidebar_edit_all_title">Vse aplikacije</string>
+     <string name="gd_sidebar_edit_btn_close">Skrij</string>
+     <string name="gd_sidebar_edit_btn_expand">Več</string>
+     <string name="gd_sidebar_edit_quick_title">Bližnjice</string>
      <string name="gd_sidebar_long_press_tips">Pritisnite in držite indikator, da ga premaknete, medtem ko napravo držite navpično</string>
      <string name="gd_splite_screen_tips">"Razdeljeni zaslon ne podpira plavajočih oken"</string>
      <string name="gdpr_msg">"&lt;Data&gt;"Da boste zaznali varnostna tveganja in zaščitili vaše podatke, moramo zbrati potrebno količino informacij o vaši napravi. Preberite in se strinjajte z &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo naših storitev. V primeru, da nam ne dovolite zbiranja takšnih podatkov, boste to aplikacijo še vedno lahko uporabljali, vendar vam nekatere storitve ne bodo na voljo. "&lt;/Data&gt;</string>
      <string name="get_detail_by_click">Tapnite za prikaz posrobnosti</string>
+     <string name="get_phone_num_fail">Neznana telefonska številka</string>
      <string name="get_sys_info">Dobivanje informacij…</string>
      <string name="gigabyteShort">GB</string>
      <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
@@ -2527,6 +2548,8 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="ime_security_warning">%1$s lahko posname vse, kar vtipkate, vključno z gesli in drugimi občutljivimi podatki. Vseeno uporabim?</string>
      <string name="in_delete">Brisanje…</string>
      <string name="in_recover">Obnavljanje…</string>
+     <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
+     <string name="infinite_remind_warning_text_tips">Opozori, ko je dosežena mesečna omejitev</string>
      <string name="info_and_call">Klici in sporočila</string>
      <string name="info_antispam_close">AntiSpam je izključen</string>
      <string name="info_antispam_current_mode">%s</string>
@@ -2542,6 +2565,8 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="input_celluar_data_quota_hint">Vnesite omejitev podatkov</string>
      <string name="input_cellular_data_warn_hint">Vnesite opzorilo omejitve porabe podatkov</string>
      <string name="input_password_hint_text">Vnesite geslo</string>
+     <string name="input_phone_num_hint">Uredi tel. številko SIM</string>
+     <string name="input_title">Tapnite za vnos</string>
      <string name="input_traffic_pkg">Vnesite porabo podatkov</string>
      <string name="input_used_hint">Vnesite porabo podatkov</string>
      <string name="input_used_max_hint">Vnesite porabo podatkov (manj od %s)</string>
@@ -2692,7 +2717,9 @@ Vaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno p
      <string name="main_button_usage_package_setting">Nastavite omejitev porabe podatkov</string>
      <string name="main_daily_card_guide_dialog_ok">Nastav</string>
      <string name="main_daily_card_guide_dialog_summary">Lahko izbirate med dnevnimi, mesečnimi in neomejenimi plani. Nastavim vrsto plana podatkov?</string>
+     <string name="main_daily_card_guide_dialog_summary_new">Podprti so dnevni, mesečni in neomejeni podatkovni paketi. Nastavim vrsto podatkovnega načrta?</string>
      <string name="main_daily_card_guide_dialog_title">Nastavi vrsto plana podatkov</string>
+     <string name="main_daily_card_guide_dialog_title_new">Nastavi vrsto plana podatkov</string>
      <string name="main_daily_package">Dnevna omejitev podatkov</string>
      <string name="main_indicator_title">Aktivacija</string>
      <string name="main_leisure_remained">Preostalo podatkov</string>
@@ -2876,6 +2903,7 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="menu_wh_remove">Odstrani iz izjem</string>
      <string name="menu_white">Dodaj v izjeme</string>
      <string name="mi_ime_not_used">Uporabite tipkovnico, ki jo je odobril Xiaomi</string>
+     <string name="mi_roaming">Mi gostovanje</string>
      <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
      <string name="mi_service_framework">Mi Service Framework</string>
      <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
@@ -2945,6 +2973,7 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="month_february">Februar</string>
      <string name="month_february_short">Feb</string>
      <string name="month_february_shortest">F</string>
+     <string name="month_fix_remind_warning_text_tips">Opozori, ko so fiksni mesečni podatki porabljeni</string>
      <string name="month_january">Januar</string>
      <string name="month_january_short">Jan</string>
      <string name="month_january_shortest">J</string>
@@ -2969,6 +2998,9 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="month_october">Oktober</string>
      <string name="month_october_short">Okt</string>
      <string name="month_october_shortest">O</string>
+     <string name="month_package_reminder_character">"Za uporabo opozoril o uporabi podatkov z neomejenimi paketi podatkov je še vedno treba nastaviti omejitev podatkov. Ko bo ta omejitev dosežena, boste prejeli opozorilo."</string>
+     <string name="month_reminder_warning">Mesečna omejitev podatkov</string>
+     <string name="month_reminder_warning_necessary">Mesečna omejitev podatkov (zahtevano)</string>
      <string name="month_report_month_report_switch">Pokaži mesečne prijave</string>
      <string name="month_september">September</string>
      <string name="month_september_short">Sep</string>
@@ -3090,10 +3122,13 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="no_network_btn">Poskusi ponovno</string>
      <string name="no_open">Ne zdaj</string>
      <string name="no_privacy_permission">Soglasje z Pravila o zasebnosti ni potrebno</string>
+     <string name="no_sim_card_by_tips">Če želite nastaviti opozorila o stanju telefona in porabi podatkov, najprej vstavite kartico SIM.</string>
      <string name="none_mi_service_app_detail">Prazno</string>
      <string name="noon">Poldne</string>
+     <string name="normal_package_usage_summary" formatted="false">%2s od %1s (%3s)</string>
+     <string name="not_closed">Obdrži</string>
      <string name="not_limited_brand">Neomejeno</string>
-     <string name="not_set">Ni nastavljeno</string>
+     <string name="not_set">Tapnite za nastavitev</string>
      <string name="not_settled">Ni nastavljeno</string>
      <string name="not_support_root_summary">Omogočanje root dostopa za aplikacije tretjih oseb lahko predstavlja varnostno tveganje in poškoduje vašo napravo. Zaradi tega ne ponujamo več možnosti za upravljanje pravic root dostopa.</string>
      <string name="not_support_root_title">Root dostop</string>
@@ -3110,6 +3145,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
      <string name="notification_abnormal_consume_wakelock">Sistem ostaja buden v ozadju</string>
      <string name="notification_antivirus_button_text">Preglej</string>
      <string name="notification_antivirus_message">Preglejte takoj da zmanjšate tveganja</string>
+     <string name="notification_bar">Obvestilo</string>
      <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
      <string name="notification_battery_over_heat_summary">Poiščite, kaj povzroča segrevanje in ohladite napravo.</string>
      <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
@@ -3302,7 +3338,10 @@ To skrajšuje trajanje baterije."</string>
      <string name="open_extreme_power_save_mode_title">Vključi Ekstremno varčevanje baterije</string>
      <string name="open_game">Odpri</string>
      <string name="open_now">Dovoli aplikaciji uporabo mobilnih podatkov</string>
+     <string name="open_wlan_title">Dovolite tej aplikaciji, da vklopi in izklopi WiFi</string>
      <string name="operator_diagnostic">Diagnostika operaterja</string>
+     <string name="operator_location_settings">Nastavite operaterja in lokacijo</string>
+     <string name="operator_location_settings_message">"Vašega operaterja in lokacije ni bilo mogoče prepoznati. Zato ni mogoče nastaviti opozoril o stanju telefona in porabi podatkov."</string>
      <string name="operator_mi_sim">Mi SIM</string>
      <string name="operator_name_cmcc">China Mobile</string>
      <string name="operator_name_mi_mobile">Mi Mobile</string>
@@ -4302,6 +4341,25 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
      <string name="privacy_empty_location">"Danes ni dostopal/a do lokacije"</string>
      <string name="privacy_empty_record">"Danes ni posnet zvok"</string>
      <string name="privacy_empty_storage">"Danes ni dostopal/a do shrambe"</string>
+     <string name="privacy_flares_behavior_recent">Obnašanje aplikacije</string>
+     <string name="privacy_flares_capsule_current">%1s | Zdaj</string>
+     <string name="privacy_flares_capsule_recent">%1s | Nedavno</string>
+     <string name="privacy_flares_current">Trenutno dejanje</string>
+     <string name="privacy_flares_current_detail_cam">Ta aplikacija uporablja kamero</string>
+     <string name="privacy_flares_current_detail_cam_loc">Ta aplikacija uporablja kamero in dostopa do vaše lokacije</string>
+     <string name="privacy_flares_current_detail_cam_mic">Ta aplikacija uporablja kamero in mikrofon</string>
+     <string name="privacy_flares_current_detail_loc">Ta aplikacija dostopa do vaše lokacije</string>
+     <string name="privacy_flares_current_detail_mic">Ta aplikacija uporablja mikrofon</string>
+     <string name="privacy_flares_current_detail_mic_loc">Ta aplikacija uporablja mikrofon in dostopa do vaše lokacije</string>
+     <string name="privacy_flares_current_detail_more">Ta aplikacija uporablja občutljivo dovoljenje</string>
+     <string name="privacy_flares_recent">Nedavno dejanje</string>
+     <string name="privacy_flares_recent_detail_cam">Ta aplikacija je uporabljala kamero</string>
+     <string name="privacy_flares_recent_detail_cam_loc">Ta aplikacija je uporabila kamero in dostopala do vaše lokacije</string>
+     <string name="privacy_flares_recent_detail_cam_mic">Ta aplikacija je uporabljala kamero in mikrofon</string>
+     <string name="privacy_flares_recent_detail_loc">Ta aplikacija je dostopala do vaše lokacije</string>
+     <string name="privacy_flares_recent_detail_mic">Ta aplikacija je uporabljala mikrofon</string>
+     <string name="privacy_flares_recent_detail_mic_loc">Ta aplikacija je uporabila mikrofon in dostopala do vaše lokacije</string>
+     <string name="privacy_flares_recent_detail_more">Ta aplikacija je uporabila občutljivo dovoljenje</string>
      <string name="privacy_global_guide_permission_guide_text">"Ko aplikacije snemajo zvok ali uporabljajo kamero, boste prejeli opozorilo v vrstici stanja. Če želite izvedeti, katera aplikacija to počne, tapnite opozorilo."</string>
      <string name="privacy_guide_permission_guide_text">V vrstici stanja lahko prejmete opozorilo, ko aplikacije dostopajo do vaše lokacije, snemajo zvoke ali fotografirajo.</string>
      <string name="privacy_guide_permission_use_text">MIUI bo prešteval in prikazal, kolikokrat aplikacija uporablja občutljiva dovoljenja, vključno z lokacijo, stiki, zgodovino klicev in dostopom do shranjevanja ter zvočnim snemanjem. Ugotovite lahko, kolikokrat vsaka aplikacija uporablja ta dovoljenja in ugotovite, ali morate prilagoditi nastavitve dovoljenj.</string>
@@ -4357,7 +4415,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
      <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da boste dobili več informacij o možnosti nakupa podatkov."</string>
      <string name="privacy_prompt_upload">Pošlji</string>
      <string name="privacy_protect_summary">Zaščitite svoje osebne podatke</string>
-     <string name="privacy_protect_title">Zasebnost</string>
+     <string name="privacy_protect_title">Zaščita zasebnosti</string>
      <string name="privacy_provision_back">Nazaj</string>
      <string name="privacy_provision_more">Izvedite več o zaščiti zasebnosti</string>
      <string name="privacy_provision_next">Naprej</string>
@@ -4540,10 +4598,15 @@ Umaknem soglasje zdaj?"</string>
      <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
      <string name="release_meminfo">Osvobodite %dMB</string>
      <string name="release_memory">Očisti predpomnilnik</string>
+     <string name="reminder_once_month">Enkrat mesečno</string>
+     <string name="reminder_tips">Pozor</string>
+     <string name="reminder_type">Vrsta opozoril</string>
+     <string name="reminder_warning">Omejitev</string>
      <string name="renew_ip">Poskusi ponovno</string>
      <string name="renew_now">Obnovi</string>
      <string name="repair">Obnovi</string>
      <string name="repair_loading_text">Nalaganje…</string>
+     <string name="repeat_type">Ponovi</string>
      <string name="repeated_marked_number_summary">"Ne blokiraj drugi klic iz iste prijavljene številke v roku %d minut."</string>
      <string name="repeated_marked_number_title">"Ne blokiraj ponovljene klice s prijavljenih številk"</string>
      <string name="replace_dns">Samodejno zamenjaj DNS</string>
@@ -4711,6 +4774,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="select_app_title_music">Predvajaj glasbo</string>
      <string name="select_pattern">Izberi vzorec</string>
      <string name="select_province_and_city">Izberite lokacijo</string>
+     <string name="select_traffic_type_and_reminder_type">Tapnite za nastavitev</string>
      <string name="send">Pošlji</string>
      <string name="send_msg_to_query">Pošljite SMS za preverbo</string>
      <string name="send_sms_title">Dovolim %s pošiljanje sporočil?</string>
@@ -4745,6 +4809,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="settings_choice_no_notification">Izključeno</string>
      <string name="settings_image_camera_summary">Model naprave, metapodatki itd.</string>
      <string name="settings_location_subtitle_no">Ni informacij o lokaciji</string>
+     <string name="settings_negative_button_text">Ne zdaj</string>
      <string name="settings_power_save_ontime_title">Razpored</string>
      <string name="settings_privacy_revoke_desc">Z izklopom stikala umaknete soglasje k Pravili o zasebnosti Varnosti.</string>
      <string name="settings_privacy_revoke_title">Preklic soglasja</string>
@@ -5254,6 +5319,8 @@ Umaknem soglasje zdaj?"</string>
      <string name="storage_app_manager_uninstall_with_xspace_app_dlg_msg">"Odstranjena bo tudi dvojna aplikacija te aplikacije."</string>
      <string name="storage_app_manager_uninstall_xspace_app_dlg_msg">Če odstranite aplikacijo, bodo izbrisani tudi vsi podatki o aplikaciji.</string>
      <string name="storage_app_manager_uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
+     <string name="storage_app_public_desc">Zavzema %s, vključno z datotekami, ustvarjenimi v skupnem pomnilniku</string>
+     <string name="storage_app_public_title">Datoteke v skupni rabi</string>
      <string name="storage_app_space_details_entry">Poglejte podrobnosti o aplikaciji</string>
      <string name="storage_app_uninstall_app_dialog_msg">Če odstranite aplikacijo, bodo izbrisani tudi vsi podatki o aplikaciji.</string>
      <string name="storage_app_uninstall_app_dialog_title">Odstranjevanje aplikacije</string>
@@ -5276,6 +5343,12 @@ Za uporabo ^1, ga morate najprej izvreči."</string>
      <string name="storage_dialog_unsupported">"Ta naprava ne podpira ta ^1.
 
 Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
+     <string name="storage_file_delete_tip">Želite trajno izbrisati izbrane stvari? Nekatere od njih se lahko po potrebi ponovno naložijo.</string>
+     <string name="storage_file_dialog_delete_title">Izbriši stvari</string>
+     <string name="storage_file_list_btn">Izbriši %1$s</string>
+     <string name="storage_file_list_form_default">SD kartica</string>
+     <string name="storage_file_list_from">Od %s</string>
+     <string name="storage_fob_date_format">dd-MM</string>
      <string name="storage_format_failure">"Ne morem formatirati %1$s"</string>
      <string name="storage_format_success">  %1$s formatiran</string>
      <string name="storage_item_apk_name">APK</string>
@@ -5285,12 +5358,18 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
      <string name="storage_item_doc_name">Dokumenti</string>
      <string name="storage_item_other_name">Ostalo</string>
      <string name="storage_item_picture_name">Slike</string>
+     <string name="storage_item_system_data">Sistem</string>
      <string name="storage_item_system_name">Sistem</string>
      <string name="storage_item_video_name">Video</string>
      <string name="storage_menu_mount">Vpni</string>
      <string name="storage_mount_failure">"Ne morem vpeti %1$s"</string>
      <string name="storage_mount_success">%1$s vpet</string>
      <string name="storage_space_release_hint">Rabite več prostora za shranjevanje?</string>
+     <string name="storage_system_log">Sistemski dnevniki</string>
+     <string name="storage_system_log_tip">Sistemski dnevniki se po potrebi samodejno počistijo</string>
+     <string name="storage_system_memory_expansion">Razširitev pomnilnika</string>
+     <string name="storage_system_memory_expansion_tip">Razširite RAM tako, da uporabite prostor za shranjevanje</string>
+     <string name="storage_system_other_tip">Podatki, potrebni za normalno delovanje sistema (velikost datoteke se lahko sčasoma spremeni)</string>
      <string name="storage_unmount_failure">"Ne morem izpeti %1$s"</string>
      <string name="storage_unmount_success"> %1$s izpet</string>
      <string name="storage_wizard_format_confirm_v2_action">Formatiraj ^1</string>
@@ -5620,6 +5699,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="tc_web_correct_error">"Ne morem kalibrirati"</string>
      <string name="temperature_formatted_text">%s℃</string>
      <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
+     <string name="terms_and_conditions_content"><Data>"Ta storitev vam omogoča opozarjanje na potres. Obveščala vas bo o prihajajočih potresih in predvajala opozorilni zvok. Poiskali boste lahko najbližje zavetišče, poklicali kontakt za nujne primere in po potrebi predložili svojo zdravstveno izkaznico. &lt;br>Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politikami zasebnosti. &lt;br>Za normalno delovanje ta storitev zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov: &lt;br>• Podatki o lokaciji: &lt;br>Za dostop do vaše lokacije in zagotavljanje natančnih opozoril o potresu. &lt;br>Če se ne strinjate s podelitvijo takih dovoljenj ali deljenjem in nalaganjem svojih osebnih podatkov, ne boste mogli uporabljati te storitve. V takih primerih lahko to storitev izklopite ali ne vklopite. &lt;br>Pred uporabo te storitve morate prebrati naš &lt;a href=%s>Pravilnik o zasebnosti&lt;/a> in se strinjati z njim."</Data></string>
      <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
      <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
      <string name="tether_limit_value_custom">Lastno</string>
@@ -5655,6 +5735,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="timeshow_m_s">%1$dmin %2$dsek</string>
      <string name="timeshow_s">%dsek</string>
      <string name="tips">Pozor</string>
+     <string name="tips_by_auto_close">Če želite nastaviti opozorila o stanju telefona in porabi podatkov, morate samodejno sinhronizirati statistiko operaterja. Vklopim sinhronizacijo?</string>
+     <string name="tips_by_reminder_function">"Če zdaj izklopite samodejno sinhronizacijo, ne boste mogli prejemati opozoril o stanju telefona in porabi podatkov."</string>
      <string name="tips_dialog_title">"Ne poznate svoje omejitve"</string>
      <string name="tips_message">"Za prikaz podrobnosti vaše omejitve izberite %2$s (%1$s) (Samo Kitajska)"</string>
      <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije da prihranite prostor</string>
@@ -5824,6 +5906,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="top_game">Najboljše igre</string>
      <string name="top_load_fail_detail">Ne morem naložiti, tapni za ponovni poskus</string>
      <string name="top_no_network_detial">Ne morem naložiti, preverite omrežno povezavo in poskusite ponovno</string>
+     <string name="traffic_advanced_settings">Napredne nastavitve prometa</string>
+     <string name="traffic_alarm">Nastavite alarm</string>
      <string name="traffic_alert_auto_modify_notification_sumarry">Mesečni načrt spremenjen v %s.</string>
      <string name="traffic_alert_auto_modify_notification_titile">Posodobljen načrt podatkov</string>
      <string name="traffic_alert_auto_modify_package_summary">"Samodejno prilagodi paket podatkov skladno z informacijami mobilnega operaterja"</string>
@@ -5876,6 +5960,9 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="traffic_provider_no_sim">"SIM kartica ni vstavljena"</string>
      <string name="traffic_purchase_body">Obnovite bon</string>
      <string name="traffic_purchse_suggestion">Doplačilo bona</string>
+     <string name="traffic_remind">Opozorilo uporabe podatkov</string>
+     <string name="traffic_remind_switch">Opozorilo uporabe podatkov</string>
+     <string name="traffic_reminder_settings">Nastavite opozorilo uporabe podatkov</string>
      <string name="traffic_saving_button_mng">Urejaj aplikacije</string>
      <string name="traffic_saving_button_sorted">Grafikon</string>
      <string name="traffic_saving_button_sorted_chose_simcard">Razvrsti po</string>
@@ -5975,6 +6062,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
+     <string name="turn_off_auto_correction">Izklop samodejne sinhronizacije</string>
      <string name="two_address_choose_hint">%1$s in %2$s</string>
      <string name="type_face_condition_summary">Prilagodite velikost besedila in velikost pisave</string>
      <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
@@ -5985,6 +6073,7 @@ Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca.
      <string name="uninstall_danagerous_desc">\"%s\" lahko poškoduje vašo napravo</string>
      <string name="uninstall_danagerous_msg">\"%s\" lahko poškoduje vašo napravo, zmanjša njeno učinkovitost ali povzroči ponovni zagon.</string>
      <string name="uninstall_danagerous_title">Odstrani zlonamerne aplikacije</string>
+     <string name="unknown_operator">"Lahko pokličete %2$s in potrdite podrobnosti svojega načrta z %1$s."</string>
      <string name="unknown_package">Niste prepričani kakšen je vaš plan?</string>
      <string name="unlike">Ne, hvala</string>
      <string name="unlimited_cellular_data_monthly">Neomejen plan</string>

@@ -319,6 +319,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_edit_hint_bookmarks_url">URL</string>
      <string name="dialog_edit_hint_name">Ime</string>
      <string name="dialog_edit_hint_url">URL</string>
+     <string name="dialog_item_add_video">Dodaj videoposnetke</string>
      <string name="dialog_jumpto_choose">"Ne kaži več"</string>
      <string name="dialog_jumpto_content">Za dostop do dodatnih storitev predvajanja preklopim na Mi Video?</string>
      <string name="dialog_jumpto_title">Mi Video</string>
@@ -450,7 +451,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="favorite_cancel_success">Uspešno odstranjeno iz priljubljenih</string>
      <string name="favorite_fail">Ne morem dodati med priljubljene. Poskusite ponovno.</string>
      <string name="favorite_success">Uspešno dodano med priljubljene</string>
+     <string name="fcm_2_args">Prvič: %1$s in sekund %2$s</string>
      <string name="fcm_fallback_notification_channel_label">Razno</string>
+     <string name="fcm_no_args">Niz brez argumentov</string>
      <string name="fcm_push_title">Popularni videoposnetki</string>
      <string name="feedback">Povratne informacije</string>
      <string name="feedback_activity_title">Povratne informacije</string>
@@ -579,7 +582,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_file_edit_save">Shrani datoteko v %s</string>
      <string name="galleryplus_fr_unsupport_restore_speed">Nepodprto število sličic. Preklopite nazaj na običajno hitrost.</string>
      <string name="galleryplus_gallery_fold_tags">Skrij oznake</string>
-     <string name="galleryplus_gallery_video_adjust_hint">Samo 960fps videoposnetki so podprti</string>
+     <string name="galleryplus_gallery_video_adjust_hint">Samo %dfps videoposnetki so podprti</string>
      <string name="galleryplus_gallery_video_adjust_text">Prilagodi</string>
      <string name="galleryplus_gallery_video_default_music_text">Samodejno</string>
      <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -760,6 +763,11 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
      <string name="local_push_video_title">Poišči nove lokalne videoposnetke</string>
+     <string name="local_subtitle_choose_language_text">Jezik</string>
+     <string name="local_subtitle_exemption_hint">Poišči podnapise na opensubtitle.org</string>
+     <string name="local_subtitle_input_keyword_text">Išči ključne besede</string>
+     <string name="local_subtitle_search_result_text">Rezultati</string>
+     <string name="local_subtitle_searching_text">Iskanje…</string>
      <string name="local_video_create_a_new_playlist">Nov seznam predvajanja</string>
      <string name="local_video_date">Datum</string>
      <string name="local_video_dialog_default">Privzeto</string>
@@ -1633,6 +1641,7 @@ Izboljša varnost vašega računa."</string>
      <string name="slide_save_message">Ustvarjanje videoposnetka…</string>
      <string name="small_video_cancel_button">Prekliči</string>
      <string name="small_video_download_button">Prenesi</string>
+     <string name="small_video_load_more_hint">Povlecite navzgor, da predvajate več videoposnetkov</string>
      <string name="small_video_snack_download_description">Prenesite SnackVideo in si oglejte najnovejše videoposnetke svojih najljubših ustvarjalcev.</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
@@ -1725,6 +1734,8 @@ Izboljša varnost vašega računa."</string>
      <string name="tab_playlist_online">Splet</string>
      <string name="talkback_ad_clicked">Oglasi</string>
      <string name="talkback_background_playback">Predvajanje v ozadju</string>
+     <string name="talkback_music_play">Predvajaj glasbo</string>
+     <string name="talkback_video_play">Predvajaj video</string>
      <string name="talkback_voice_search">Glasovno iskanje</string>
      <string name="target_sdk_version_30_upgrade_tips">Nekaterih videoposnetkov si tukaj morda ne boste mogli ogledati zaradi omejitev Android 11. Tapnite \"Datoteke\", da poiščete druge videoposnetke.</string>
      <string name="temporary_not_available">Ta storitev še ni na voljo</string>
@@ -1744,6 +1755,7 @@ Izboljša varnost vašega računa."</string>
      <string name="tip_download_video_to_save_here">%d. Videoposnetek bo shranjen v vaše prenose</string>
      <string name="tip_enter_the_website">%d. Odprite spletno mesto ali aplikacijo</string>
      <string name="tip_local_long_press_for_manager">Pritisnite in držite za upravljanje videoposnetkov</string>
+     <string name="tip_local_long_press_for_manager_folder">Pritisnite in držite za upravljanje map</string>
      <string name="tip_local_manager_here">Urejajte svoje datoteke tukaj</string>
      <string name="tip_login_for_your_online_playlist">Prijavite se za ogled svojih seznamov predvajanja.</string>
      <string name="tip_play_a_video">%d. Predvajajte video</string>
@@ -1757,6 +1769,8 @@ Izboljša varnost vašega računa."</string>
      <string name="title_fingerprint">Nastavite zaklepanje zaslona</string>
      <string name="title_firework_recommend">Firework priporočila</string>
      <string name="title_history">Zgodovina</string>
+     <string name="title_mangotv_history_sub" formatted="false">%s (Epizoda %d)</string>
+     <string name="title_mangotv_subtitle_language">Jezik podnapisov</string>
      <string name="title_publisher">Ustvarjalci</string>
      <string name="title_select_directory">Izberite mapo</string>
      <string name="title_selected">Izbrano</string>
@@ -1862,6 +1876,7 @@ Izboljša varnost vašega računa."</string>
      <string name="video_noyet_download_tip">Ta video se še zmeraj prenaša</string>
      <string name="video_offline">Ta stvar ni več na voljo</string>
      <string name="view">Pokaži</string>
+     <string name="vk_video_tab">Za vas</string>
      <string name="vp_VideoView_error_button">V redu</string>
      <string name="vp_VideoView_error_text_unknown">Prišlo je do napake</string>
      <string name="vp_VideoView_error_title">Neznana napaka</string>

@@ -39,6 +39,10 @@
         <item>Zelo veliko</item>
         <item>XXL</item>
      </string-array>
+     <string-array name="cache_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+     </string-array>
      <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -219,6 +223,13 @@
         <item>Pogostost uporabe</item>
         <item>Izkoriščeni prostor za shranjevanje</item>
         <item>Čas namestitve</item>
+     </string-array>
+     <string-array name="sort_type_new">
+        <item>Ime aplikacije</item>
+        <item>Pogostost uporabe</item>
+        <item>Izkoriščeni prostor za shranjevanje</item>
+        <item>Čas namestitve</item>
+     </string-array>
      </string-array>
      <string-array name="tether_limit_warn_type">
         <item>Izključi in obvesti</item>

@@ -184,6 +184,10 @@
         <item quantity="other">Dodaj do %d zaznamkov</item>
         <item quantity="one">Dodaj do %d zaznamek</item>
      </plurals>
+     <plurals name="video_like_text">
+        <item quantity="other">%s všečkov</item>
+        <item quantity="one">%s všeček</item>
+     </plurals>
      <plurals name="video_view_count">
         <item quantity="other">%d ogledov</item>
         <item quantity="one">%d ogled</item>

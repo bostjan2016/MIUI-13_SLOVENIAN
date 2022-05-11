@@ -1284,6 +1284,8 @@ Vseeno uporabim mobilne podatke?"</string>
      <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
      <string name="fiveg_network_mode_title">Izberite način 5G omrežja</string>
      <string name="fiveg_network_title">5G omrežje</string>
+     <string name="fiveg_nrca_switch_summary">Za boljšo povezljivost uporabi združevanje operaterjev 5G</string>
+     <string name="fiveg_nrca_switch_title">5G združevanje operaterjev</string>
      <string name="fiveg_plmn_info_list1">PLMN seznam podatkov:</string>
      <string name="fiveg_power_secret_code_tip">Urejajte v Varnost - Baterija - 5G Varčevanje baterije</string>
      <string name="fiveg_power_switch_summary">Poskrbite, da bo povezljivost 5G v določenih scenarijih manjša</string>
@@ -2175,6 +2177,8 @@ Kontaktirajte vašega operaterja."</string>
      <string name="nr_usaged_network_usaged">"Današnji podatki"</string>
      <string name="nr_usaged_operator">Mobilni operater</string>
      <string name="nr_usaged_used_time">Trajanje uporabe</string>
+     <string name="nrca_switch_summary">Za boljšo povezljivost uporabi združevanje operaterjev 5G</string>
+     <string name="nrca_switch_title">Uporabi NRCA</string>
      <string name="number">Številka</string>
      <string name="numerous_emergency_numbers_title">Številke za klic v sili</string>
      <string name="nw_subset_unlock_failed">SIM odklep neuspešen</string>
@@ -3241,6 +3245,8 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
      <string name="undefined_setting">Nič</string>
      <string name="unfold_close_camera_pref_summary">Napravo med video klicem razklopite, da izklopite kamero</string>
      <string name="unfold_close_camera_pref_title">Razklopite, da izklopite kamero</string>
+     <string name="unfold_show_bublle_pref_summary">Med klici razprite napravo, da jih prikažete v plavajočih oknih</string>
+     <string name="unfold_show_bublle_pref_title">Odprite, da zmanjšate klice</string>
      <string name="unfold_speaker_pref_summary">Med klicem napravo razklopite, da vklopite zvočnik</string>
      <string name="unfold_speaker_pref_title">Razklopite, da vklopite zvočnik</string>
      <string name="unknown">Neznano</string>

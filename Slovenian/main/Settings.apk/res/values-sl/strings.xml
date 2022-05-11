@@ -142,7 +142,7 @@ Nekatere aplikacije ne podpirajo tega."</string>
      <string name="accessibility_dialog_button_deny">Zavrni</string>
      <string name="accessibility_dialog_button_stop">Ustavi</string>
      <string name="accessibility_disable_animations">Odstranjevanje animacij</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusno opravilo in lahko vpliva na učinkovitost delovanja.</string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikaza barv na vaši napravi. To je lahko koristno, če želite:<br><br></br></br><ol><li> natančneje videti barve<li></li> odstraniti barve, da se lažje osredotočite</li></ol></string>
      <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
      <string name="accessibility_display_inversion_preference_subtitle">Lahko vpliva na učinkovitost delovanja</string>
      <string name="accessibility_display_inversion_preference_title">Inverzija barv</string>
@@ -1712,6 +1712,8 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
      <string name="bluetooth_enable_gabeldorsche_summary">Omogoči sklad funkcij Bluetooth Gabeldorsche.</string>
      <string name="bluetooth_enable_inband_ringing">Omogoči zvonjenje iz telefona</string>
      <string name="bluetooth_enable_inband_ringing_summary">Omogoči, da se toni zvonjenja v telefonu predvajajo v slušalkah z mikrofonom Bluetooth</string>
+     <string name="bluetooth_enable_opp_high_speed">Visoka hitrost Bluetooth prenosov</string>
+     <string name="bluetooth_enable_opp_high_speed_summary">Za prenose uporabi visoke hitrosti Bluetooth P2P protokolov</string>
      <string name="bluetooth_enable_page_scan">omogoči iskanje strani Bluetooth</string>
      <string name="bluetooth_enable_page_scan_summary">onemogoči / omogoči iskanje strani za preskus Bluetooth</string>
      <string name="bluetooth_enable_pts_test">dovoli bluetooth PTS test</string>
@@ -4272,6 +4274,8 @@ Za več informacij se obrnite na ponudnika obročnega odplačila."</string>
      <string name="firewall_wifi">WiFi</string>
      <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet preko WiFi kadar je ta storitev izključena."</string>
      <string name="firmware_version">Različica sistema Android</string>
+     <string name="fiveg_nrca_switch_summary">Izboljšajte povezavo 5G za testiranje okolja</string>
+     <string name="fiveg_nrca_switch_title">Združevanje operaterjev 5G</string>
      <string name="fiveg_sa_switch_summary">Uporaba omrežja SA na sekundarni kartici SIM (samo za preskušanje)</string>
      <string name="fiveg_sa_vice_switch_title">SA na sekundarni kartici SIM</string>
      <string name="fiveg_vonr_switch_summary">Uporabite VoNR v omrežnih okoljih 5G, da izboljšate izkušnjo klicanja. Ta storitev je na voljo samo za namene testiranja.</string>
@@ -4500,6 +4504,7 @@ Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</stri
 ·Tapnite \"Plavajoča okna\" v Nedavno za izbiro aplikacij."</string>
      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Tapnite aplikacijo v stranski vrstici, da jo odprete v plavajočem oknu.
 · Povlecite aplikacijo na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite Deljeni zaslon."</string>
+     <string name="freeform_vedio_description_open_freeform_and_splitscreen_pad">· Povlecite aplikacijo iz stranske vrstice na sredino zaslona, da jo odprete v plavajočem oknu, ali na stran, da uporabite deljeni zaslon</string>
      <string name="freeform_vedio_description_pad">Povlecite predmete da odprete plavajoča okna</string>
      <string name="frequently_fragment_delete">Odstrani</string>
      <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
@@ -6262,6 +6267,9 @@ Tega ne morete povrniti!"</string>
      <string name="miheadet_up_music">zgoraj</string>
      <string name="miheadset_Box">Box</string>
      <string name="miheadset_Intelligentpickfree_summary">Ko je odpravljanje hrupa vklopljeno, bodo vaše slušalke za kratek čas samodejno preklopile na preglednost, ko zaznajo glasove</string>
+     <string name="miheadset_LEAudio_summary">"Nekatere storitve ne bodo na voljo, ko je vklopljen LE Audio."</string>
+     <string name="miheadset_LEAudio_title">Vklopim LE Audio?</string>
+     <string name="miheadset_LE_on_toast">Preden vklopite to storitev, se prepričajte, da sta obe slušalki napolnjeni in ju vzemite iz etuija</string>
      <string name="miheadset_LeftEar">Levo</string>
      <string name="miheadset_RightEar">Desno</string>
      <string name="miheadset_active">Močno</string>
@@ -6321,6 +6329,8 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_enhence_low">povečaj nizko frek</string>
      <string name="miheadset_equalizer">Izenačevalnik</string>
      <string name="miheadset_feedback">Povratne informacije</string>
+     <string name="miheadset_feedback_summary">Če želite oddati dnevnike, vstavite obe slušalki v polnilni kovček in pustite pokrov odprt.</string>
+     <string name="miheadset_feedback_title">Pošlji dnevnike</string>
      <string name="miheadset_fitness_check">Fitnes kontrola</string>
      <string name="miheadset_fitness_check_checking">Odkrivanje</string>
      <string name="miheadset_fitness_check_continue">Nadaljuj</string>
@@ -6388,9 +6398,12 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_preferences">Nastavitve</string>
      <string name="miheadset_rename">Preimenuj</string>
      <string name="miheadset_rename_device">Preimenuj</string>
+     <string name="miheadset_same_account_incall">Sprejmite klice od vseh sinhroniziranih naprav</string>
+     <string name="miheadset_same_account_incall_summary">Povežite slušalke z drugimi sinhroniziranimi napravami za sprejemanje dohodnih klicev</string>
      <string name="miheadset_shared_contacts">Skupna raba stikov</string>
      <string name="miheadset_shared_contacts_summary">Za deljenje stikov</string>
      <string name="miheadset_single_ear_indicate">Nosite obe slušalki, da uporabite odpravljanje šuma</string>
+     <string name="miheadset_singleear_toast">Ni podprto za samo eno slušalko</string>
      <string name="miheadset_soft">mehko</string>
      <string name="miheadset_sound_settings">Avdio</string>
      <string name="miheadset_spatial_audio_off">Izkl.</string>
@@ -7472,6 +7485,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
      <string name="notify_connect">CMCC WiFi klic</string>
      <string name="notify_connect_summary">Opomni me pri dostopu na CMCC WiFi</string>
      <string name="now">Zdaj</string>
+     <string name="nrca_switch_title">Uporabi združevanje operaterjev 5G</string>
      <string name="nsd_quick_toggle_summary">Dovoli da aplikacije v drugih napravah odkrivajo aplikacije v tej napravi</string>
      <string name="nsd_quick_toggle_title">Odkrivanje omrežnih storitev</string>
      <string name="number_of_device_admins_none">Ni aktivnih aplikacij</string>

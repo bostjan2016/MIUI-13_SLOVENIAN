@@ -680,6 +680,7 @@ Avdio"</string>
      <string name="notification_disconnectedCall_body">Klic za %s je prekinjen zaradi klica v sili.</string>
      <string name="notification_disconnectedCall_generic_body">Klic je prekinjen zaradi klica v sili.</string>
      <string name="notification_disconnectedCall_title">Prekiniti klic</string>
+     <string name="notification_disconnectedDialing_message">Ne morem klicati, ker že poteka drug odhodni klic.</string>
      <string name="notification_incallservice_not_responding_body">Med klicem ste uporabili telefonsko aplikacijo, ki je bila priložena napravi</string>
      <string name="notification_incallservice_not_responding_title">%s je nehal reagirati</string>
      <string name="notification_incoming_call">Klic osebe %2$s preko aplikacije %1$s</string>

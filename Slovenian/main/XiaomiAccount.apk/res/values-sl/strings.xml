@@ -394,6 +394,9 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="login_check_find_device_failed_title">"Ne morem preveriti informacij o varnosti naprave"</string>
      <string name="login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
      <string name="login_guard_prompt">Potrebna je kontrola številke telefona kadar se prvič prijavite na svoj Mi Račun z neznane naprave ali v neznano aplikacijo.</string>
+     <string name="login_notification_button_text">Prijavite se</string>
+     <string name="login_notification_desc">Uživajte v storitvah v oblaku, družinskem prostoru za shranjevanje in še več</string>
+     <string name="login_notification_title">Prijavite se v svoj račun Mi</string>
      <string name="login_with_other">Več možnosti</string>
      <string name="logout_account">Odjava</string>
      <string name="logout_failed">Ne morem se vpisati</string>
