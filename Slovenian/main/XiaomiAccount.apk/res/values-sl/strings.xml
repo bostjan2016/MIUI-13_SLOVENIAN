@@ -30,6 +30,7 @@
      <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="about_device_info">Pokaži podrobnosti o napravi</string>
+     <string name="about_mi_account">O Mi računu</string>
      <string name="accept">Dovoli</string>
      <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="access_token_expired_warning">Weibo račun je potekel</string>
@@ -149,6 +150,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="change_phone_number">Menjava številke telefona</string>
      <string name="character_counter_content_description">Vnešeni znaki %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
+     <string name="check_apk_update">Preveri za posodobitve</string>
      <string name="checking_phone_num_availible">Preverjanje telefona…</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
@@ -295,6 +297,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="find_device_title">Najdi napravo</string>
      <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
      <string name="find_equipment">Najdi napravo</string>
+     <string name="find_new_apk_version">Na voljo je posodobitev</string>
      <string name="first_login_time">Prvi poskus prijave: %s</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
@@ -362,6 +365,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="google_login">Prijavite se z Google računom</string>
      <string name="goto_accept">V redu</string>
      <string name="guest_account_label">Račun Mi Gosta</string>
+     <string name="has_no_new_version">Posodobljeno</string>
      <string name="health_action_activate">Aktiviraj</string>
      <string name="health_action_install">Namesti</string>
      <string name="health_action_update">Posodobi</string>
@@ -501,6 +505,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="need_install_wechat">Najprej namestite WeChat</string>
      <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
+     <string name="new_version">Nova različica</string>
      <string name="night">Noč</string>
      <string name="no_account_or_forget_password">Ustvarjanje računa ali pozabljeno geslo?</string>
      <string name="no_install">Ni nameščeno</string>
@@ -971,6 +976,8 @@ ki ste ga prejeli v vaš poštni predal
 1. Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
 2. Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo.
 3. Povejte to številko odklepanja službi za uporabnike: %s"</string>
+     <string name="update_apk_version_later">Ne zdaj</string>
+     <string name="update_apk_version_now">Posodobi</string>
      <string name="update_contacts">Posodobi stike</string>
      <string name="update_contacts_description">Naj Sina Weibo uporablja vaš Mi račun za sinhronizacijo stikov na različnih platformah</string>
      <string name="update_email_address_dialog_message">Pred posodobitvijo e-pošte morate potrditi svojo identiteto.</string>

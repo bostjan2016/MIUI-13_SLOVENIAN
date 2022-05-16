@@ -1741,7 +1741,7 @@ podatkov o spanju"</string>
      <string name="tb_sleep_index_info">%1$s. Dotaknite se za prikaz podrobnosti.</string>
      <string name="tb_sleep_index_title">Preklopi na %1$s</string>
      <string name="tb_sleep_ring_info">%1$s. Spanje: %2$s. Dotaknite se za prikaz podrobnosti.</string>
-     <string name="tb_snore_detection_main">O funkcijah govorjenja in smrčanja: %1%s. Povlecite vodoravno na vrhu zaslona, da preidete na naslednjo stran.</string>
+     <string name="tb_snore_detection_main">O funkcijah govorjenja in smrčanja: %1$s. Povlecite vodoravno na vrhu zaslona, da preidete na naslednjo stran.</string>
      <string name="tb_snore_view_info">Grafikon govorjenja in smrčanja</string>
      <string name="tb_stand_card_finish_stand">Danes, %1$s je akumuliral stanje, cilj je končati stanje po 12 urah, trenutni čas je %2$s-%3$s, stanje je končano</string>
      <string name="tb_stand_card_not_finish_stand">Danes, %1$s je končal stanje, cilj je končati stanje po 12 urah, trenutni čas je %2$s-%3$s, in stanje je končano</string>

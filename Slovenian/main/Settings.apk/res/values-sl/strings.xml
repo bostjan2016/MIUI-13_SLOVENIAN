@@ -3258,6 +3258,8 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="device_edit_title">Preimenuj telefon</string>
      <string name="device_feedback">Pošlji povratne info. o tej napravi</string>
      <string name="device_id">ID naprave za prilagojena priporočila</string>
+     <string name="device_ime_keyboard_fold">Možnosti tipkovnice za zložljive naprave</string>
+     <string name="device_ime_keyboard_pad">Možnosti tipkovnice za tablice</string>
      <string name="device_info_default">Neznano</string>
      <string name="device_info_label">Informacije o napravi</string>
      <string name="device_info_not_available">Ni na voljo</string>
@@ -3594,6 +3596,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="double_click_volume_down_when_lock">Dvoklik Glasnost - ko je zaslon zaklenjen</string>
      <string name="double_connect">Dvojna povezava</string>
      <string name="double_connect_summary">Za povezavo dveh naprav</string>
+     <string name="double_g_v">Podvojena G in V</string>
+     <string name="double_g_v_sumary">Podvojeni osrednji gumbi na ergonomski tipkovnici za bolj prilagodljivo izkušnjo</string>
      <string name="double_knock">Dvojni tap</string>
      <string name="double_tap_power_for_camera_suggestion_title">Hitro odpri fotoaparat</string>
      <string name="double_tap_power_for_camera_summary">Če želite hitro odpreti fotoaparat, dvakrat pritisnite gumb za vklop. Deluje na vsakem zaslonu.</string>
@@ -4367,9 +4371,11 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="fold_game_adaptation">Igre</string>
      <string name="fold_rule_default">Priporočeno</string>
      <string name="fold_rule_important">Važno</string>
      <string name="fold_rule_unimportant">Ni važno</string>
+     <string name="fold_screen_settings_title">Funkcije za velik zaslon</string>
      <string name="fold_title">Pravila za združena obvestila</string>
      <string name="following_us_title">Spremljajte nas</string>
      <string name="font_cta_alert_btn_negative">Prekliči</string>
@@ -4941,6 +4947,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="imei_information_summary">Relativni podatki o IMEI</string>
      <string name="imei_information_title">Podatki o IMEI</string>
      <string name="imei_multi_sim">IMEI (reža za kartico SIM %1$d)</string>
+     <string name="imitate_real_keyboard">Tradicionalna tipkovnica</string>
+     <string name="imitate_real_keyboard_summary">Priročno, ko vaša naprava leži na ravni površini</string>
      <string name="immediately_destroy_activities">"Ne obdrži dejavnosti"</string>
      <string name="immediately_destroy_activities_summary">Uniči vsako dejavnost ko uporabnik preneha z njo</string>
      <string name="import_again">Ponovno uvozi</string>
@@ -5456,6 +5464,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="led_settings">LED lučka</string>
      <string name="left_edge">Levi rob</string>
      <string name="left_function_key">Leva bližnjica</string>
+     <string name="left_right_hand_switch">Leva in desna</string>
+     <string name="left_right_hand_switch_summary">Preklopite levi in desni del tipkovnice z enim dotikom</string>
      <string name="legacy_control_center_desc">Povlecite dol vrstico obvestil za prikaz bližnjic in obvestil</string>
      <string name="legacy_control_center_title">Stara verzija</string>
      <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
@@ -6458,6 +6468,7 @@ Tega ne morete povrniti!"</string>
      <string name="misc_files">Razne datoteke</string>
      <string name="misc_files_selected_count">izbrano %1$d od %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s od skupaj %2$s</string>
+     <string name="mishow_disable_password_setting">"V demo načinu ni mogoče nastaviti gesel"</string>
      <string name="miui_accessibility_asr_summary">Prepišite avdio in shranite tekst</string>
      <string name="miui_accessibility_asr_title">Mi Ditto</string>
      <string name="miui_allow_alarm">Alarmi</string>
@@ -6487,6 +6498,7 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_lab_aiasst_call_screen_desc">Odgovarjaj na klice s pomočjo AI</string>
      <string name="miui_lab_aiasst_call_screen_title">AI Pomočnik za klice</string>
      <string name="miui_lab_drive_mode_desc">Uporabite glasovne kontrole &amp; poslušajte WeChat sporočila</string>
+     <string name="miui_lab_drive_mode_desc_new">Uporabite glasovne kontrole</string>
      <string name="miui_lab_drive_mode_title">Način Avto</string>
      <string name="miui_lab_feature_applied">Nastavljeno</string>
      <string name="miui_lab_feature_off">Izključeno</string>
@@ -9715,6 +9727,9 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="send">Pošlji</string>
      <string name="sensor_toggle_description">Za vse aplikacije in storitve</string>
      <string name="sensors_off_quick_settings_title">Izklop tipal</string>
+     <string name="separate_keyboard">Ergonomična tipkovnica</string>
+     <string name="separate_keyboard_summary_fold">Tipkovnico ločite s pregrado na sredini, da boste lahko tipkali bolj udobno, medtem ko napravo držite z obema rokama</string>
+     <string name="separate_keyboard_summary_pad">Tipkovnico ločite s pregrado na sredini, da bo tipkanje hitrejše in udobnejše</string>
      <string name="service_background_processes">Prosto: %1$s</string>
      <string name="service_foreground_processes">V uporabi: %1$s</string>
      <string name="service_manage">Nastavitve</string>
@@ -10874,6 +10889,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="switch_sim_dialog_title">Želite uporabiti storitev %1$s?</string>
      <string name="switch_to_removable_notification">Preklopljeno na omrežje operaterja %1$s</string>
      <string name="switch_to_removable_notification_no_carrier_name">Preklopljeno na drugega operaterja</string>
+     <string name="symbol_fast_input">Posebni znaki</string>
+     <string name="symbol_fast_input_summary">Tapnite določen gumb, da ostanete na tipkovnici s posebnimi znaki in vnesete več simbolov hkrati</string>
      <string name="symbols_not_allowed_for_password">"Geslo lahko vsebuje samo številke in črke"</string>
      <string name="sync_active">Sinhronizacija aktivna</string>
      <string name="sync_automatically">Samodejna sinh. podatkov aplik.</string>
@@ -10930,6 +10947,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
      <string name="systemui_theme_light">Svetlo</string>
      <string name="systemui_theme_wallpaper">Samodejno (na podlagi ozadja)</string>
      <string name="tab_text">Zavihek</string>
+     <string name="tablet_screen_settings_title">Funkcije za tablice</string>
      <string name="take_call_on_title">Sprejemanje klicev je vklopljeno</string>
      <string name="talkback_summary">Bralnik zaslona je predvsem za slepe in slabovidne</string>
      <string name="talkback_title">TalkBack</string>
@@ -12223,6 +12241,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
      <string name="wallpaper_desktop">Začetni zaslon</string>
      <string name="wallpaper_live">Živa ozadja</string>
      <string name="wallpaper_lockscreen">Ozadje zakl. zaslona</string>
+     <string name="wallpaper_setting_title">Slika za ozadje</string>
      <string name="wallpaper_settings_fragment_title">Izberite ozadje iz</string>
      <string name="wallpaper_settings_summary_custom">Po meri</string>
      <string name="wallpaper_settings_summary_default">Privzeto</string>

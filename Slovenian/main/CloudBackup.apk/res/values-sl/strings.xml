@@ -399,7 +399,7 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="morning">Jutro</string>
      <string name="msg_alert_cancel_restore">Stvari se obnavljajo iz Xiaomi Clouda. Prekličem zdaj?</string>
      <string name="msg_alert_restore_error">Povrnitev stvari iz Mi Clouda ni uspela, poskusite ponovno.</string>
-     <string name="msg_restore_start_with_metered_network">"Vaš zač. zaslon se bo ponovno zagnal. Var. kopija aplikacij bo samodejno prenešena. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s datotek bo prenešeno.&lt;/font&gt;&lt;/b&gt;"</string>
+     <string name="msg_restore_start_with_metered_network">"Če obnovite to varnostno kopijo, se bo vaš začetni zaslon ponastavil, vaše aplikacije pa bodo samodejno prenesene in nameščene.&lt;br />&lt;b>&lt;font color='red'>Velikost varnostne kopije: %s&lt;/font>&lt;/b>"</string>
      <string name="msg_restore_with_metered_network_hint">Če boste nadaljevali z vračanjem teh stvari bodo za prenos uporabljeni mobilni podatki.</string>
      <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datotek bo prenešeno."</string>
      <string name="name_model">"%1$s %2$s"</string>

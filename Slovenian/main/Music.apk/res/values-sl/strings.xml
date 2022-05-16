@@ -396,6 +396,7 @@
      <string name="connection_error">"Morda je nekaj narobe z omrežjem~
 Preverite ga"</string>
      <string name="contact_service">E-pošta: %1$s</string>
+     <string name="content_failed_to_load">"Ne morem naložiti vsebine"</string>
      <string name="continue_backup">Nadaljuj</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_success">Kopirano !</string>

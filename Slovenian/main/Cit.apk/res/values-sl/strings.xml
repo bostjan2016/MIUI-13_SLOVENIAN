@@ -98,6 +98,22 @@
      <string name="charger_test_end">"
 Konec preizkusa polnilca, izklopite polnilec"</string>
      <string name="checkerboard_test">TEST TABELE</string>
+     <string name="cit_DP_check_summary">Linije DP morajo biti med postopkom testiranja povezani</string>
+     <string name="cit_DP_check_title">DP</string>
+     <string name="cit_DP_in_start_test">Za začetek testiranja vstavite linijo DP</string>
+     <string name="cit_DP_plug_err">"Test ni uspel 
+ Ne dobim vrednosti"</string>
+     <string name="cit_DP_plug_fail">"Test ni uspel 
+ Ta linija ni linija DP, zamenjajte drugo linijo za testiranje"</string>
+     <string name="cit_DP_plug_out_err">"Test ni uspel
+Ne dobim vrednosti"</string>
+     <string name="cit_DP_plug_out_fail">"Zaznana je bila prekinjena povezava
+Test ni uspel
+"</string>
+     <string name="cit_DP_plug_out_pass">"Zaznana je bila prekinjena povezava
+Test uspel"</string>
+     <string name="cit_DP_plug_pass">Povezana DP linija je zaznana, preverite, ali je projekcija zaslona uspešna, in kliknite ustrezen gumb</string>
+     <string name="cit_DP_plug_re_plugin">Test DP je končan, preverite, ali je zaslon uspešen, in kliknite ustrezen gumb</string>
      <string name="cit_OTG_plug_check_summary">Med preskusom vstavite in obrnite vtič v napravi USB_OTG</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
      <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
@@ -110,6 +126,23 @@ Konec preizkusa polnilca, izklopite polnilec"</string>
      <string name="cit_OTG_waiting_out_end">Prosimo, izključite USB OTG napravo, konec preskusa</string>
      <string name="cit_Reserse_charge_check_title">Preskus povratnega polnjenja</string>
      <string name="cit_SAR_TEST_TOOL">SAR TEST ZAČETEK</string>
+     <string name="cit_USB3_OTG_error_condition">"Zaznana je bila vstavitev naprave OTG, vendar ni bilo mogoče dobiti podatkov o napravi 
+ Test ni uspel"</string>
+     <string name="cit_USB3_check_summary">Med testiranjem je treba vstaviti naprave, ki podpirajo USB3.0</string>
+     <string name="cit_USB3_check_title">USB3.0</string>
+     <string name="cit_USB3_error_condition">"Zaznana je bila vstavitev naprave, vendar ni bilo mogoče dobiti podatkov o napravi 
+ Test ni uspel"</string>
+     <string name="cit_USB3_in_need_plugout">Zaznana je priključena naprava USB, izvlecite jo, da začnete preskus</string>
+     <string name="cit_USB3_in_start_test">Vstavite napravo, ki podpira USB3.0 in začnite s testiranjem</string>
+     <string name="cit_USB3_plug_err">Ne preberem pravilne vrednosti, obrnite se na razvijalce, da najdete razlog</string>
+     <string name="cit_USB3_plug_fail">Preskusna naprava ne podpira USB3.0 in test ni uspel</string>
+     <string name="cit_USB3_plug_out_test_err">"Naprava je bila izvlečena, test ni uspel
+Ne preberem pravilne vrednosti, obrnite se na razvijalce, da najdete razlog"</string>
+     <string name="cit_USB3_plug_out_test_fail">"Naprava je bila izvlečena, test ni uspel
+Priporočljivo je, da ponovno preizkusite nadomestno opremo"</string>
+     <string name="cit_USB3_plug_out_test_pass">Naprava je bila izvlečena, test je uspel</string>
+     <string name="cit_USB3_plug_pass">Test USB3.0 uspel, izvlecite naprave</string>
+     <string name="cit_USB3_plug_re_plugin">"Test USB3.0 končan, ne ponavljajte ga"</string>
      <string name="cit_abnormal_reboot_summary">Počakajte…Branje podatkov o stabilnosti na tej napravi.</string>
      <string name="cit_abnormal_reboot_title">Podatki o stabilnosti naprave</string>
      <string name="cit_ac_charger_in">AC Polnilec je priključen</string>
