@@ -4144,6 +4144,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="feedback_btn_text">Pošlji povratno inf.</string>
      <string name="feedback_settings">Povratna inf.</string>
      <string name="feedback_settings_new">Povratne informacije</string>
+     <string name="felica_wallet">FeliCa denarnica</string>
+     <string name="felica_wallet_desc">FeliCa denarnica</string>
      <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
      <string name="file_uploading">Osveževanje…</string>
      <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
@@ -6268,6 +6270,8 @@ Tega ne morete povrniti!"</string>
      <string name="mi_shopping_mall">Mi Store</string>
      <string name="mi_transfer">Mi Mover</string>
      <string name="mi_upi_settings">Mi Pay račun</string>
+     <string name="mi_wallet">Mi denarnica</string>
+     <string name="mi_wallet_desc">Mi denarnica</string>
      <string name="mic_toggle_title">Dostop do mikrofona</string>
      <string name="micloud_service_summary">Sinhronizirajte seznam aplikacij in ustvarite var. kopijo sistemskih nastavitev in videza zač. zaslon</string>
      <string name="micloud_service_summary_temp">Sinhronizirajte fotografije, videoposnetke, stike in še več</string>
@@ -6520,6 +6524,11 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_master_clear_prompt_battery_low">"Ko je baterija manj kot %1$s ni mogoče ponastaviti na tovarniške nastavitve. Pred nadaljevanjem napolnite napravo."</string>
      <string name="miui_master_clear_summary">Briše vse podatke na telefonu</string>
      <string name="miui_more_special_feature">Raziščite nove storitve</string>
+     <string name="miui_nfc_dialog_message">"Če izklopite NFC, ne boste mogli uporabljati storitve NFC, ki vključujejo Mi Pay, vozovnice, kartice za ključe in drugo. Vseeno izklopim?"</string>
+     <string name="miui_nfc_dialog_negative">Izključi</string>
+     <string name="miui_nfc_dialog_positive">Prekliči</string>
+     <string name="miui_nfc_dialog_title">Izklop NFC</string>
+     <string name="miui_nfc_mi_pay_summary">Mi Pay, vozovnice, kartice za ključe</string>
      <string name="miui_optimization_disabled">Izključi MIUI optimizacijo</string>
      <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
      <string name="miui_screensaver_show_time">"Trajanje"</string>
@@ -7118,6 +7127,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="nfc_how_it_works_content">Nastavite aplikacijo za plačevanje. Nato prislonite hrbtno stran telefona h kateremu koli terminalu s simbolom za brezstično plačevanje.</string>
      <string name="nfc_how_it_works_got_it">Razumem</string>
      <string name="nfc_how_it_works_title">Plačevanje v terminalu</string>
+     <string name="nfc_image_preference_text_click">Preverite, kje je območje antene NFC na tej napravi</string>
+     <string name="nfc_image_preference_text_noclick">"Napravo postavite blizu brezkontaktnega terminala za uporabo Mi Pay, vozovnic, kartic ključev in drugih funkcij NFC. "</string>
      <string name="nfc_main_switch_title">Uporabi NFC</string>
      <string name="nfc_more_title">Več…</string>
      <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
@@ -8185,6 +8196,7 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="preference_change_password_title">Spremeni geslo</string>
      <string name="preference_copied">Povzetek \"%1$s\" je bil kopiran v odložišče.</string>
      <string name="preference_summary_default_combination">%1$s / %2$s</string>
+     <string name="preference_toggle_nfc_dnd_mode_summary">"Ne prejemaj nobenih obvestil o neprepoznanih oznakah NFC"</string>
      <string name="preferred_app_settings">Privzeto</string>
      <string name="preferred_app_settings_default">Privzeto</string>
      <string name="preferred_app_settings_not_selected">Ni izbrano</string>
@@ -9147,6 +9159,8 @@ Za uporabo pripenjanja aplikacije: \u0009
      <string name="sdcard_settings_used_bytes_label">Zasedeni bajti:</string>
      <string name="sdcard_unmount">Izpni pomnilnik USB</string>
      <string name="sdcard_unmounted">Vstavite SD kartico</string>
+     <string name="se_in_ese">Vgrajen varnostni element</string>
+     <string name="se_in_ese_desc">Vgrajen varnostni element</string>
      <string name="se_route_default">Samodejno izberi</string>
      <string name="se_route_ese">Vgrajen varnostni element</string>
      <string name="se_route_uicc">Uporaba varnostnega elementa na SIM kartici</string>
@@ -10040,6 +10054,8 @@ Morda je koda PIN napačna."</string>
      <string name="sim_status_title_sim_slot">Stanje kartice SIM (reža za SIM %1$d)</string>
      <string name="sim_switch_button">Preklopi</string>
      <string name="sim_switch_channel_id">Preklop operaterja</string>
+     <string name="sim_wallet">SIM denarnica</string>
+     <string name="sim_wallet_desc">SIM denarnica</string>
      <string name="simulate_color_space">Simul. barvnega prostora</string>
      <string name="single_key_use">Ena tipka</string>
      <string name="single_key_use_summary">"Uporabite tipko Domov za opravila ki jih opravljata druge dve tipke.

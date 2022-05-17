@@ -2117,9 +2117,31 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_first_window_summary">Povečajte hitrost in zmogljivost na nivoju sistema</string>
      <string name="gb_first_window_title">Game Turbo</string>
      <string name="gb_game_end_toast">Ponovno poglejte ključne trenutke svojih iger</string>
+     <string name="gb_game_fill_desc">Vsebina je lahko v nekaterih primerih popačena</string>
      <string name="gb_game_macro_bubble_tips">Poskusite combo</string>
      <string name="gb_game_macro_toast_tips">"Poskusite combo!
 Posnemite zaporedja in jih kadar koli uporabite!"</string>
+     <string name="gb_game_mode">Način prikaza</string>
+     <string name="gb_game_mode_change">Tukaj preklapljajte med načini prikaza</string>
+     <string name="gb_game_mode_change_btn_right">Ponovni zagon</string>
+     <string name="gb_game_mode_change_message">Znova zaženem igro za uveljavitev sprememb?</string>
+     <string name="gb_game_mode_change_title">Znova zaženi igro</string>
+     <string name="gb_game_mode_choose_game_area">Aktivno območje</string>
+     <string name="gb_game_mode_choose_title">Izberite način prikaza</string>
+     <string name="gb_game_mode_empty">Ni iger</string>
+     <string name="gb_game_mode_fill">Zapolni zaslon</string>
+     <string name="gb_game_mode_fill_type">Zapolni zaslon</string>
+     <string name="gb_game_mode_ratio">Original</string>
+     <string name="gb_game_mode_ratio_type">Original</string>
+     <string name="gb_game_mode_recommend">" (Priporočeno)"</string>
+     <string name="gb_game_mode_search">Poišči aplikacije</string>
+     <string name="gb_game_ratio_bottom">Dno</string>
+     <string name="gb_game_ratio_center">Center</string>
+     <string name="gb_game_ratio_desc_h">"Aktivno območje ne bo obrezano, morda se prikažejo črna območja"</string>
+     <string name="gb_game_ratio_desc_v">"Aktivno območje ne bo obrezano, morda se prikažejo črna območja"</string>
+     <string name="gb_game_ratio_left">Levo</string>
+     <string name="gb_game_ratio_right">Desno</string>
+     <string name="gb_game_ratio_top">Vrh</string>
      <string name="gb_game_time_toast">Časovnik na voljo!</string>
      <string name="gb_game_video_bottom_tips">Poglejte ključne trenutke svojih sej v Game Turbo. Videoposnetki se tam privzeto hranijo 7 dni.</string>
      <string name="gb_game_video_bottom_tips_new">Ponovno si oglejte ključne trenutke svojih igralnih sej v Game Turbo. Videoposnetki bodo samodejno izbrisani po %d dneh.</string>
@@ -5703,7 +5725,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="tc_web_correct_error">"Ne morem kalibrirati"</string>
      <string name="temperature_formatted_text">%s℃</string>
      <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
-     <string name="terms_and_conditions_content"><Data>"Ta storitev vam omogoča opozarjanje na potres. Obveščala vas bo o prihajajočih potresih in predvajala opozorilni zvok. Poiskali boste lahko najbližje zavetišče, poklicali kontakt za nujne primere in po potrebi predložili svojo zdravstveno izkaznico. &lt;br>Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politikami zasebnosti. &lt;br>Za normalno delovanje ta storitev zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov: &lt;br>• Podatki o lokaciji: &lt;br>Za dostop do vaše lokacije in zagotavljanje natančnih opozoril o potresu. &lt;br>Če se ne strinjate s podelitvijo takih dovoljenj ali deljenjem in nalaganjem svojih osebnih podatkov, ne boste mogli uporabljati te storitve. V takih primerih lahko to storitev izklopite ali ne vklopite. &lt;br>Pred uporabo te storitve morate prebrati naš &lt;a href=%s>Pravilnik o zasebnosti&lt;/a> in se strinjati z njim."</Data></string>
+     <string name="terms_and_conditions_content"><Data>"Ta storitev vam omogoča opozarjanje na potres. Obveščala vas bo o prihajajočih potresih in predvajala opozorilni zvok. Poiskali boste lahko najbližje zavetišče, poklicali stik za nujne primere in po potrebi predložili svojo zdravstveno izkaznico. &lt;br>Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politikami zasebnosti. &lt;br>Za normalno delovanje ta storitev zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov: &lt;br>• Podatki o lokaciji: &lt;br>Za dostop do vaše lokacije in zagotavljanje natančnih opozoril o potresu. &lt;br>Če se ne strinjate s podelitvijo takih dovoljenj ali deljenjem in nalaganjem svojih osebnih podatkov, ne boste mogli uporabljati te storitve. V takih primerih lahko to storitev izklopite ali ne vklopite. &lt;br>Pred uporabo te storitve morate prebrati naš &lt;a href=%s>Pravilnik o zasebnosti&lt;/a> in se strinjati z njim."</Data></string>
      <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
      <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
      <string name="tether_limit_value_custom">Lastno</string>

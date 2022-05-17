@@ -780,6 +780,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_tool_exit_modem_mbn">Vrni na samod. MBN</string>
      <string name="cit_tool_getting_expired">Potek veljavnosti!</string>
      <string name="cit_tool_getting_wait">Pridobivam! Počakajte</string>
+     <string name="cit_tool_gps_path_loss_test_request_location">zahtevaj lokacijo</string>
+     <string name="cit_tool_gps_path_loss_title">Orodje za testiranje izgube poti Gnss</string>
      <string name="cit_tool_log">Zapisi</string>
      <string name="cit_tool_log_bugreport">Poročilo o napakah</string>
      <string name="cit_tool_log_dmesg">DMESG</string>

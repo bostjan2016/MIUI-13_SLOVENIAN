@@ -260,7 +260,7 @@
      <string name="feedback">Povratne inf.</string>
      <string name="feedback_description_camera_access">"Skener se ne more povezati s kamero"</string>
      <string name="feedback_description_save_photo">"Ne morem shraniti fotografije ali videa"</string>
-     <string name="feedback_phone">Podatki za kontakt (izbirno)</string>
+     <string name="feedback_phone">Podatki za stik (izbirno)</string>
      <string name="feedback_title">Povratne inf.</string>
      <string name="filename_cannot_beempty">"Datotek ni mogoče shraniti brez imena"</string>
      <string name="flash_close">zapri</string>

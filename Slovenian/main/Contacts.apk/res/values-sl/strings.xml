@@ -626,7 +626,7 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
      <string name="description_call_log_incoming_forwarding_call">Dohodni posredovani klic</string>
      <string name="description_call_log_missed_call">Neodgovorjen klic</string>
      <string name="description_call_log_missed_forwarding_call">Propušteni prosljeđeni poziv</string>
-     <string name="description_call_log_new_contact">Novi kontakt</string>
+     <string name="description_call_log_new_contact">Nov stik</string>
      <string name="description_call_log_outgoing_call">Odhodni klic</string>
      <string name="description_call_log_play_button">Predvajaj glasovno pošto</string>
      <string name="description_call_log_unheard_voicemail">Neslišana glasovna pošta</string>
@@ -1365,7 +1365,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="no_phone_no_shortcut">"Ne mrem napraviti bližnjice za stike brez telefonskih številk"</string>
      <string name="no_sdcard_message">"Shramba ni najdena."</string>
      <string name="no_setting_menu">Ni dostopnih opcij menija</string>
-     <string name="no_voip_contacts">Ni Mi Voice kontaktov</string>
+     <string name="no_voip_contacts">Ni Mi Voice stikov</string>
      <string name="non_phone_add_to_contacts">Dodaj med stike</string>
      <string name="non_phone_caption">Telefonska številka</string>
      <string name="non_phone_close">Zapri</string>
@@ -1906,7 +1906,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="toast_text_copied">Besedilo kopirano</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
-     <string name="transfer_accounts">Prenos kontaktov</string>
+     <string name="transfer_accounts">Prenos stikov</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
@@ -1924,7 +1924,8 @@ Napravite varnostno kopijo stikov."</string>
      <string name="unknown_contact_name">Neznan stik</string>
      <string name="unknown_details_add_to_contact">Obstoječi</string>
      <string name="unknown_details_new_contact">Nov stik</string>
-     <string name="update_sim_contact_photo_toast">"Ne morem nastaviti fotografije za SIM kontakte"</string>
+     <string name="unshow_qr_code_in_narrow_screen_split">"Med uporabo razdeljenega zaslona ni mogoče prikazati kode QR"</string>
+     <string name="update_sim_contact_photo_toast">"Ne morem nastaviti fotografije za SIM stike"</string>
      <string name="upgrade_in_progress">Seznam stikov se posodablja.</string>
      <string name="upgrade_out_of_memory">"Stiki so v postopku nadgradnje.      
 
