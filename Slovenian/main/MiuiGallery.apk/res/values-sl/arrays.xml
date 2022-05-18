@@ -26,7 +26,7 @@
      <string-array name="annual_travel_title">
         <item>Pozdravljen svet!</item>
         <item>Na cesti</item>
-        <item>Kaleidoskop krajev</item>
+        <item>Kalejdoskop krajev</item>
      </string-array>
      <string-array name="autumn_season_title">
         <item>Jesenski sijaj</item>
@@ -35,6 +35,10 @@
      <string-array name="baby_sexy">
         <item>Deček</item>
         <item>Deklica</item>
+     </string-array>
+     <string-array name="baby_sexy_value">
+        <item>moški</item>
+        <item>ženska</item>
      </string-array>
      <string-array name="backup_automatically_key_words">
         <item>Shrani fotografije</item>
@@ -74,19 +78,6 @@
         <item>Mestne pokrajine</item>
         <item>Ulice in vogali</item>
      </string-array>
-     <string-array name="collage_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Maj</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Avg</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
      <string-array name="flowers_title">
         <item>Nežni cvetni listi</item>
         <item>V polnem razcvetu</item>
@@ -99,7 +90,6 @@
         <item>Naša druženja</item>
         <item>V družbi prijateljev</item>
         <item>Dolgo časa se nismo videli</item>
-     </string-array>
      </string-array>
      <string-array name="holiday_last_year">
         <item>"Zadnje Novo leto"</item>
@@ -217,7 +207,7 @@
         <item>Barvni obris</item>
         <item>Črtkani obris</item>
         <item>Fluorescentni obris</item>
-        <item>Colored shadow</item>
+        <item>Barvna senca</item>
         <item>Električni val</item>
         <item>Trenutno</item>
         <item>Valovi</item>
@@ -280,9 +270,9 @@
         <item>Potrdilo drugorazrednega konstruktorja</item>
         <item>Izpit za mladi računovodski naslov</item>
         <item>Certificiran javni računovodja</item>
-        <item>Dovoljenje vodiča za Peking</item>
-        <item>Srednji knjigovodski izpit</item>
-        <item>Izpit za naziv višjega računovodstva</item>
+        <item>Pekinško vodniško dovoljenje</item>
+        <item>Vmesni izpit iz računovodstva</item>
+        <item>Izpit za višji računovodski naziv</item>
         <item>Potrdilo o računovodski usposobljenosti</item>
         <item>Izpit za pooblaščenega računovodjo</item>
      </string-array>
@@ -290,7 +280,7 @@
         <item>ZDA</item>
         <item>Vietnam</item>
         <item>Japonska</item>
-        <item>Hong Kong in Macau</item>
+        <item>Hong Kong in Macao</item>
         <item>Južna Koreja</item>
         <item>Tajska (turist)</item>
         <item>Tajska (ob prihodu)</item>
@@ -343,7 +333,7 @@
         <item>"Spet si zrasel!"</item>
      </string-array>
      <string-array name="monthly_foods_title">
-        <item>Moj osebni meni</item>
+        <item>Moj osebni menu</item>
         <item>Okusni spomini</item>
         <item>Drugo pomoč, prosim!</item>
      </string-array>
@@ -364,16 +354,6 @@
         <item>Dobri časi</item>
         <item>Skladno</item>
      </string-array>
-     <array name="pen_default_color_item">
-        <item>#ffff7a45</item>
-     </array>
-     <integer-array name="pen_default_size_item">
-        <item>9</item>
-        <item>18</item>
-        <item>27</item>
-        <item>36</item>
-        <item>45</item>
-     </integer-array>
      <string-array name="people_travel_title">
         <item>Kamor nas pripelje cesta</item>
         <item>Potovanja so dobro deljena</item>
@@ -398,10 +378,19 @@
         <item>Jaz</item>
         <item>Otrok</item>
         <item>Družina</item>
-        <item>Prijatelj</item>
-        <item>Prijatelj</item>
-        <item>Prijatelj</item>
-        <item>Neznano</item>
+        <item>Sodelavci</item>
+        <item>Sošolci</item>
+        <item>Prijatelji</item>
+        <item>Nezdruženo</item>
+     </string-array>
+     <string-array name="relation_with_me_value">
+        <item>jaz</item>
+        <item>otrok</item>
+        <item>družina</item>
+        <item>sodelavec</item>
+        <item>sošolec</item>
+        <item>prijatelj</item>
+        <item>neznano</item>
      </string-array>
      <string-array name="season">
         <item>Pomlad</item>
@@ -422,13 +411,6 @@
         <item>Babica po očetovi strani</item>
         <item>Ded po materini strani</item>
         <item>Babica po materini strani</item>
-     </string-array>
-     <string-array name="slideshow_time_entries">
-        <item>"5 minut"</item>
-        <item>"15 minut"</item>
-        <item>"30 minut"</item>
-        <item>"1 ura"</item>
-        <item>Neomejeno</item>
      </string-array>
      <string-array name="sports_title">
         <item>Samo naprej</item>
