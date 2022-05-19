@@ -36,10 +36,6 @@
         <item>Deček</item>
         <item>Deklica</item>
      </string-array>
-     <string-array name="baby_sexy_value">
-        <item>moški</item>
-        <item>ženska</item>
-     </string-array>
      <string-array name="backup_automatically_key_words">
         <item>Shrani fotografije</item>
         <item>Sinhr. fotografije z Mi Cloud</item>
@@ -382,15 +378,6 @@
         <item>Sošolci</item>
         <item>Prijatelji</item>
         <item>Nezdruženo</item>
-     </string-array>
-     <string-array name="relation_with_me_value">
-        <item>jaz</item>
-        <item>otrok</item>
-        <item>družina</item>
-        <item>sodelavec</item>
-        <item>sošolec</item>
-        <item>prijatelj</item>
-        <item>neznano</item>
      </string-array>
      <string-array name="season">
         <item>Pomlad</item>
