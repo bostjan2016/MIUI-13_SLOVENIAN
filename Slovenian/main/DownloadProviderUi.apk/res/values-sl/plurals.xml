@@ -34,8 +34,8 @@
         <item quantity="one">Izbrišem %d prenos?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Izbrisano %s prenosov</item>
-        <item quantity="one">Izbrisan %d prenos</item>
+        <item quantity="other">Izbrisano %1$d prenosov</item>
+        <item quantity="one">Izbrisan %1$d prenos</item>
      </plurals>
      <plurals name="durationDays">
         <item quantity="other">%1$d dni</item>
@@ -85,8 +85,8 @@
         <item quantity="one">Izbrišem to stvar?</item>
      </plurals>
      <plurals name="number_items">
-        <item quantity="other">stvari %s</item>
-        <item quantity="one">%s stvar</item>
+        <item quantity="other">stvari %1$d</item>
+        <item quantity="one">%1$d stvar</item>
      </plurals>
      <plurals name="sniff_find_resource">
         <item quantity="other">Najdeno %d stvari</item>

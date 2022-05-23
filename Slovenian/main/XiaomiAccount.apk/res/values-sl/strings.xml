@@ -1018,5 +1018,8 @@ ki ste ga prejeli v vaš poštni predal
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Nekatere stvari niso bile sinhronizirane"</string>
      <string name="xiao_mi_vip">Mi VIP</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
      <string name="yesterday">Včeraj</string>
 </resources>

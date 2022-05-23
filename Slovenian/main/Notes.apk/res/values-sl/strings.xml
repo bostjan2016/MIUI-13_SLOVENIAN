@@ -1001,6 +1001,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="view_all_notes">Pokaži vse</string>
      <string name="warn_cannot_add_new_bullet">"Novega označenega seznama ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_checkbox">"Novega potrditvenega polja ni mogoče dodati, ker je beležka predolga"</string>
+     <string name="warn_cannot_add_new_content">"Nove vsebine ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_doodle">"Novega priložnostnega logotipa ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_element">"Novega elementa ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_link_card">"Nove povezave ni mogoče dodati, ker je beležka predolga"</string>
@@ -1026,6 +1027,8 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="widget_size_item_big">Veliko</string>
      <string name="widget_size_item_medium">Srednje</string>
      <string name="widget_size_item_small">Majhno</string>
+     <string name="widget_size_item_super_big">Izjemno veliko</string>
+     <string name="widget_size_not_support">"Ta naprava ne podpira izjemno velikih pripomočkov"</string>
      <string name="widget_take_notes_title">Beležke</string>
      <string name="widget_under_privacy_mode">"Ne morem pregledati beležke v načinu Gost"</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>

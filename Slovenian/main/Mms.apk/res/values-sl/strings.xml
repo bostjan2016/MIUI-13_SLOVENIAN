@@ -353,9 +353,9 @@ dodana med blokirane"</string>
      <string name="favorite_at_time">Dodano v priljubljeno: %1s</string>
      <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
      <string name="feature_mx">Mi Sporočila</string>
-     <string name="feature_mx_summary"><b>Mi Sporočila vam omogoča pošiljanje sporočil drugim uporabnikom Mi Sporočil preko spleta brez stroškov</b>. Potrebno je odhodno SMS sporočilo za aktiviranje. Vaš mobilni operater vam to lahko računa. Preberite in sprejmite naše <a href="http://url1"><font color="#B3000000">Pogoji uporabe</font></a> in <a href="http://url2"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="feature_mx_summary"><b>Mi Sporočila vam omogoča pošiljanje sporočil drugim uporabnikom Mi Sporočil preko spleta brez stroškov</b>. Potrebno je odhodno SMS sporočilo za aktiviranje. Vaš mobilni operater vam to lahko računa. Preberite in sprejmite naše <font color="#B3000000"><a href="http://url1">Pogoji uporabe</a></font> in <font color="#B3000000"><a href="http://url2">Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="feature_smart_sms">Pametna sporočila</string>
-     <string name="feature_smart_sms_summary"><b>Pametna sporočila ponuja prepoznavanje ID-ja pošiljatelja in pametne menije</b>". Pametno sporočanje delno zagotavlja Yulore. Preberite in sprejmite Yulore "<a href="http://url3"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="feature_smart_sms_summary"><b>Pametna sporočila ponuja prepoznavanje ID-ja pošiljatelja in pametne menije</b>". Pametno sporočanje delno zagotavlja Yulore. Preberite in sprejmite Yulore "<font color="#B3000000"><a href="http://url3">Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="festival">Hitri odgovori</string>
      <string name="festival_continue">V redu</string>
      <string name="festival_networking_desc">To opravilo potrebuje povezavo s spletom za normalno delovanje.</string>
@@ -440,7 +440,7 @@ dodana med blokirane"</string>
      <string name="ft_cfs_dialog_content">"Datoteke se ne morejo dostaviti z uporabo RCS-a. Pošlem povezavo v SMS sporočilu?"</string>
      <string name="ft_cfs_dialog_title">Alternativni prenos datotek</string>
      <string name="go_close">Nastavitve</string>
-     <string name="google_message_promo_content">Xiaomi priporoča prehod na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WiFi, skupno rabo visokokakovostnih predstavnosti in še veliko več. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Več o tem</font></a></string>
+     <string name="google_message_promo_content">Xiaomi priporoča prehod na Google sporočila. Omogoča vam pošiljanje sporočil SMS v omrežju WiFi, skupno rabo visokokakovostnih predstavnosti in še veliko več. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Več o tem</a></font></string>
      <string name="google_message_promo_title">Nadgradite svojo aplikacijo za menjavo sporočil</string>
      <string name="group_already_kicked_hint">"Ne morem poslati sporočila. Nisi član tega skupinskega razgovora."</string>
      <string name="group_member_is_composing">Tipka…</string>

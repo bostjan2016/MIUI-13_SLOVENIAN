@@ -142,7 +142,7 @@ Nekatere aplikacije ne podpirajo tega."</string>
      <string name="accessibility_dialog_button_deny">Zavrni</string>
      <string name="accessibility_dialog_button_stop">Ustavi</string>
      <string name="accessibility_disable_animations">Odstranjevanje animacij</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikaza barv na vaši napravi. To je lahko koristno, če želite:<br><br></br></br><ol><li> natančneje videti barve<li></li> odstraniti barve, da se lažje osredotočite</li></ol></string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">Prilagodite način prikaza barv na vaši napravi. To je lahko koristno, če želite:<ol><li><br/><br/> Natančneje videti barve</li><li> Odstraniti barve, da se lažje osredotočite</li></ol></string>
      <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
      <string name="accessibility_display_inversion_preference_subtitle">Lahko vpliva na učinkovitost delovanja</string>
      <string name="accessibility_display_inversion_preference_title">Inverzija barv</string>
@@ -512,7 +512,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
      <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
      <string name="add_fingerprint_done_title">Končano!</string>
      <string name="add_fingerprint_edge_instruction_msg">Premikajte prst tako da lahko čitalec odčita robove vašega prstnega odtisa.</string>
-     <string name="add_fingerprint_edge_instruction_title">Počasi premikajte prst</string>
+     <string name="add_fingerprint_edge_instruction_title">Prilagodite oprijem, da zajamete robove prstnega odtisa</string>
      <string name="add_fingerprint_failed_retry_text">"Ne morem dodati prstnega odtisa, poskusite ponovno"</string>
      <string name="add_fingerprint_finished_button_text">Končano</string>
      <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj prstni odtis položite prst na senzor. Preverite ali vaš prst pokriva notranji rob senzorja"</string>
@@ -884,7 +884,7 @@ Spremenim nastavitve?"</string>
      <string name="application_lock_name">Zakl. aplikacije</string>
      <string name="application_manager_section_title">Aplikacije</string>
      <string name="application_mode_empty_text">Tu ni aplikacij</string>
-     <string name="application_mode_name">Način prikaza aplikacije</string>
+     <string name="application_mode_name">Postavitve aplikacij</string>
      <string name="application_permission_manager">Dovoljenja aplikacij</string>
      <string name="application_permissions">Dovoljenja aplikacije</string>
      <string name="application_restrictions">Omogočanje aplikacij in vsebine</string>
@@ -4620,6 +4620,11 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="go_back_button_label">Nazaj</string>
      <string name="go_to_sleep">Izključi zaslon</string>
      <string name="google_account_title">Google</string>
+     <string name="google_assistant_guide_cancel">Prekliči</string>
+     <string name="google_assistant_guide_message">Pritisnite in držite gumb za vklop %ssekund, da začnete govoriti s Pomočnikom Google. Nastavim to bližnjico zdaj?</string>
+     <string name="google_assistant_guide_ok">Nastavi</string>
+     <string name="google_assistant_guide_tip">*Pritisnite in držite gumb za vklop %ssekund, da odprete meni za izklop.</string>
+     <string name="google_assistant_guide_title">Google Asistent</string>
      <string name="google_assistant_label">Google Asistent</string>
      <string name="google_backup_enable">Vključi var. kopije</string>
      <string name="google_backup_section_title">Google shramba &amp; povrnitev</string>
@@ -5974,7 +5979,7 @@ kot PIN za Prvi prostor"</string>
      <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_list_empty_text_pad">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_window_name">Vzporedna okna</string>
-     <string name="magic_window_name_pad">Optimiziraj aplikacije za ležeči prikaz</string>
+     <string name="magic_window_name_pad">Optimizacija ležečega pogleda</string>
      <string name="mah">%d mAh</string>
      <string name="main_clear_accounts">"
 
@@ -6479,6 +6484,8 @@ Tega ne morete povrniti!"</string>
      <string name="miui_allow_light">Lučka obvestil</string>
      <string name="miui_allow_music">Glasba</string>
      <string name="miui_allow_vibrate">Vibracija</string>
+     <string name="miui_bubbles_notification">Obvestila mehurčki</string>
+     <string name="miui_bubbles_notification_status_opened">Vklj.</string>
      <string name="miui_data_usage_menu_metered">Mobilna dostopna točka</string>
      <string name="miui_disturb_title">Ne moti</string>
      <string name="miui_enable_service_title">Storitev bo opravljala:</string>

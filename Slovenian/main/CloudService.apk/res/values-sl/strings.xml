@@ -218,7 +218,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="find_device_error_password_changed">Geslo računa je spremenjeno.</string>
      <string name="find_device_error_server">Prišlo je do napake na naših strežnikih.</string>
      <string name="find_device_error_unknown">Neznana napaka.</string>
-     <string name="find_device_gdpr_prompt">Z vklopom Najdi napravo se strinjate z "<a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o zasebnosti</u></a>. Če želite preklicati privolitev, izklopite to storitev.</string>
+     <string name="find_device_gdpr_prompt">"Z vklopom Najdi napravo se strinjate z "<u><a href="app://com.miui.cloudservice.gdpr.license">Pravila o zasebnosti</a></u>. Če želite preklicati privolitev, izklopite to storitev.</string>
      <string name="find_device_gdpr_prompt_policy_doc_name">Pravila o zasebnosti</string>
      <string name="find_device_notice_p1">Pojdi na</string>
      <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
@@ -1087,7 +1087,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="share_sdk_pref_category_search_local_title">Stiki</string>
      <string name="share_sdk_pref_category_title_scan_qr_code">Skeniraj QR kodo</string>
      <string name="share_sdk_pref_family_detail_title">Oglejte si podrobnosti o družinski skupini</string>
-     <string name="share_sdk_privacy_link_description">Preberite in se strinjajte z &lt;a href="https://account.xiaomi.com/about/protocol/privacy"&gt;&lt;u&gt;Pravla o zasebnosti Mi Ra&amp;#269;una&lt;/u&gt;&lt;/a&gt; pred uporabo te storitve.</string>
+     <string name="share_sdk_privacy_link_description">Preberite in se strinjajte z <u><a href="https://account.xiaomi.com/about/protocol/privacy">Mi račun Pravila o zasebnosti</a></u> pred uporabo te storitve.</string>
      <string name="share_sdk_qr_code_description">"Vabilo od %1$s"</string>
      <string name="share_sdk_qr_code_expire_time">Rok veljavnosti QR kode: %1$s</string>
      <string name="share_sdk_resend_invitation_times_exceed">Preveč odhodnih vabil. Poskusite znova čez 24 ur.</string>

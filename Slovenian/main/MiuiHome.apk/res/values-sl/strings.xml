@@ -187,7 +187,7 @@
      <string name="branch_deepview_button">Pridobite aplikacijo</string>
      <string name="branch_deepview_button_description">Oglejte si to vsebino takoj po namestitvi</string>
      <string name="branch_feature_description">Poleg aplikacij lahko Hitro iskanje v spletu poišče vsebino in predmete v aplikaciji.</string>
-     <string name="branch_guide_attention">Za uporabo izboljšanega iskanja morate svoje iskalne zahteve, ID Google oglasi in naslov IP deliti z Branch Metrics Inc. Preberite in se strinjajte z <a href="http://url1"><font color="#B3000000">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</font></a> in <a href="http://url2"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="branch_guide_attention">Za uporabo izboljšanega iskanja morate svoje iskalne zahteve, ID Google oglasi in naslov IP deliti z Branch Metrics Inc. Preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="branch_guide_description_one">"Vse vaše aplikacije bomo postavili v predal za aplikacije. Vaš začetni zaslon bo videti urejen in organiziran."</string>
      <string name="branch_guide_description_three">"Z vgrajenim iskanjem boste lahko v trenutku našli vse, kar potrebujete!"</string>
      <string name="branch_guide_description_two">Predal za aplikacije samodejno kategorizira aplikacije.</string>
@@ -203,7 +203,7 @@
      <string name="branch_new_feature">Nova storitev</string>
      <string name="branch_privacy_policy">Pravila o zasebnosti</string>
      <string name="branch_search_guide_description">Naši rezultati iskanja so zdaj veliko bolj izčrpni</string>
-     <string name="branch_search_guide_privacy">"To storitev ponuja Branch Metrics Inc. Podatki o vaši lokaciji, iskalne poizvedbe in ID programa Google oglasi bodo deljeni z Branch. Preberite in se strinjajte z Branch "<a href="http://url1"><font color="#B3000000">Pravila in pogoji</font></a> in <a href="http://url2"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="branch_search_guide_privacy">"To storitev ponuja Branch Metrics Inc. Podatki o vaši lokaciji, iskalne poizvedbe in ID programa Google oglasi bodo deljeni z Branch. Preberite in se strinjajte z Branch "<font color="#B3000000"><a href="http://url1">Pravila in pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="branch_search_guide_title">"Poiščite kar iščete v svojih najljubših aplikacijah"</string>
      <string name="branch_terms_condition">Pravila in pogoji</string>
      <string name="branch_tip_title">Z hitro iskanje lahko v trenutku najdete vse, kar potrebujete.</string>
@@ -839,7 +839,7 @@
      <string name="select_photo">Fotografija</string>
      <string name="send">Pošlji</string>
      <string name="server_error">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
-     <string name="service_double_attention">Izboljšano storitev iskanja zagotavlja Branch Metrics Inc. Da bo ta storitev delovala, moramo vaše iskalne zahteve, ID Google Ads in naslov IP deliti z Branch Metrics Inc. Preberite in se strinjate z <a href="http://url1"><font color="#B3000000">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</font></a> in <a href="http://url2"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="service_double_attention">Izboljšano storitev iskanja zagotavlja Branch Metrics Inc. Da bo ta storitev delovala, moramo vaše iskalne zahteve, ID Google Ads in naslov IP deliti z Branch Metrics Inc. Preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="setting_wallpaper_tip">Premakni ali povečaj za prilagoditev</string>
      <string name="settings">Nastavitve</string>
      <string name="settings_shortcut">Nastavitve</string>
@@ -896,9 +896,9 @@
      <string name="system_text">Sistem</string>
      <string name="task_access_locked_app_msg">Zakl. aplikacij vključeno</string>
      <string name="term_of_service">Pogoji in pravila</string>
-     <string name="terms_of_services_one">"Dobrodošli v predalu aplikacij in hitrem iskalniku. Hitro iskanje vam omogoča hitrejše iskanje aplikacij, vsebine v aplikacijah in predmetov na spletu. Preberite in se strinjate z Xiaomi "<a href="http://url1"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="terms_of_services_one">"Dobrodošli v predalu aplikacij in hitrem iskalniku. Hitro iskanje vam omogoča hitrejše iskanje aplikacij, vsebine v aplikacijah in predmetov na spletu. Preberite in se strinjate z Xiaomi "<font color="#B3000000"><a href="http://url1">Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="terms_of_services_three">To storitev lahko izklopite v nastavitvah.</string>
-     <string name="terms_of_services_two">Uporaba izboljšanega iskanja zahteva izmenjavo potrebnih osebnih podatkov, vključno z vašimi iskalnimi poizvedbami, Googlovim oglaševalskim ID-jem in naslovom IP, z Branch Metrics Inc. Branch bo vaše osebne podatke obdelal v skladu z <a href="http://url1"><font color="#B3000000">Pravila o zasebnosti</font></a>. Preberite in se strinjajte z <a href="http://url2"><font color="#B3000000">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</font></a> in <a href="http://url3"><font color="#B3000000">Pravila o zasebnosti</font></a> pred uporabo.</string>
+     <string name="terms_of_services_two">Uporaba izboljšanega iskanja zahteva izmenjavo potrebnih osebnih podatkov, vključno z vašimi iskalnimi poizvedbami, Googlovim oglaševalskim ID-jem in naslovom IP, z Branch Metrics Inc. Branch bo vaše osebne podatke obdelal v skladu z <font color="#B3000000"><a href="http://url1">Branch Discovery Pravila o zasebnosti</a></font>. Preberite in se strinjajte z <font color="#B3000000"><a href="http://url2">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</a></font> in <font color="#B3000000"><a href="http://url3">Branch Discovery Pravila o zasebnosti</a></font> pred uporabo.</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
