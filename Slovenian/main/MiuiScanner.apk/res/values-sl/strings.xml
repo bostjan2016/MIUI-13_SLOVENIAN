@@ -893,6 +893,7 @@
      <string name="url_is_safety">Ta spletna stran je varna</string>
      <string name="url_is_unknown">"Ne morem preveriti ali je spletna stran varna"</string>
      <string name="url_is_unsafety">"Ta spletna stran ni varna"</string>
+     <string name="use_presentation_file">Prezentacija</string>
      <string name="user_agreement">Pogoji uporabe</string>
      <string name="user_notification">Preklic soglasja</string>
      <string name="v7_preference_off">IZKLJUČENO</string>

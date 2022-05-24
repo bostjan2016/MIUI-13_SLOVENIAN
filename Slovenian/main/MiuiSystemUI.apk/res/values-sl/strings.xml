@@ -2990,8 +2990,9 @@ Telefon lahko postane prevroč ob:
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
-     <string name="time_unit_just_now">Ravno sedaj</string>
+     <string name="time_unit_just_now">Ravno zdaj</string>
      <string name="time_zone_gmt">GMT</string>
+     <string name="tip_close_flares">"Med to sejo ne boste prejemali obvestil o obnašanju aplikacije"</string>
      <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
      <string name="title_usb_accessory">Dodatek USB</string>
      <string name="today">Danes</string>

@@ -4373,11 +4373,14 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="fold_application_mode_name">Postavitve aplikacij</string>
      <string name="fold_game_adaptation">Igre</string>
      <string name="fold_rule_default">Priporočeno</string>
      <string name="fold_rule_important">Važno</string>
      <string name="fold_rule_unimportant">Ni važno</string>
-     <string name="fold_screen_settings_title">Funkcije za velik zaslon</string>
+     <string name="fold_screen_application_adaptation_title">Postavitve po meri za zložljive naprave</string>
+     <string name="fold_screen_settings_title">Funkcije za zložljive naprave</string>
+     <string name="fold_screen_special_function_title">Funkcije za zložljive naprave</string>
      <string name="fold_title">Pravila za združena obvestila</string>
      <string name="following_us_title">Spremljajte nas</string>
      <string name="font_cta_alert_btn_negative">Prekliči</string>
@@ -4385,7 +4388,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="font_cta_alert_message">Za nadaljevanje preberite in se strinjajte z pogoji in pravila Teme.</string>
      <string name="font_cta_alert_title">Pogoji in pravila</string>
      <string name="font_setting_weight_toast">"Trenutna pisava ne podpira prilagajanja vekikosti fontov"</string>
-     <string name="font_settings_jump">Accessibility > Velikost ekrana</string>
+     <string name="font_settings_jump">Dostopnost > Velikost ekrana</string>
      <string name="font_settings_recommend_title">"Je besedilo premajhno?"</string>
      <string name="font_settings_summary_cn">Velikost fontov in besedila</string>
      <string name="font_size_exhuge">Extra veliko</string>
@@ -4621,9 +4624,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="go_to_sleep">Izključi zaslon</string>
      <string name="google_account_title">Google</string>
      <string name="google_assistant_guide_cancel">Prekliči</string>
-     <string name="google_assistant_guide_message">Pritisnite in držite gumb za vklop %ssekund, da začnete govoriti s Pomočnikom Google. Nastavim to bližnjico zdaj?</string>
+     <string name="google_assistant_guide_message">Pritisnite in držite gumb za vklop %s sekund, da začnete govoriti s Pomočnikom Google. Nastavim to bližnjico zdaj?</string>
      <string name="google_assistant_guide_ok">Nastavi</string>
-     <string name="google_assistant_guide_tip">*Pritisnite in držite gumb za vklop %ssekund, da odprete meni za izklop.</string>
+     <string name="google_assistant_guide_tip">*Pritisnite in držite gumb za vklop %s sekund, da odprete meni za izklop.</string>
      <string name="google_assistant_guide_title">Google Asistent</string>
      <string name="google_assistant_label">Google Asistent</string>
      <string name="google_backup_enable">Vključi var. kopije</string>
@@ -10970,7 +10973,9 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
      <string name="systemui_theme_light">Svetlo</string>
      <string name="systemui_theme_wallpaper">Samodejno (na podlagi ozadja)</string>
      <string name="tab_text">Zavihek</string>
+     <string name="tablet_screen_application_adaptation_title">Postavitve po meri za tablične računalnike</string>
      <string name="tablet_screen_settings_title">Funkcije za tablice</string>
+     <string name="tablet_screen_special_function_title">Funkcije za zložljive tablice</string>
      <string name="take_call_on_title">Sprejemanje klicev je vklopljeno</string>
      <string name="talkback_summary">Bralnik zaslona je predvsem za slepe in slabovidne</string>
      <string name="talkback_title">TalkBack</string>

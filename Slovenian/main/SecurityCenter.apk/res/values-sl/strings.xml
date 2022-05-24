@@ -2125,12 +2125,15 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_game_mode_change">Tukaj preklapljajte med načini prikaza</string>
      <string name="gb_game_mode_change_btn_right">Ponovni zagon</string>
      <string name="gb_game_mode_change_message">Znova zaženem igro za uveljavitev sprememb?</string>
+     <string name="gb_game_mode_change_new">Tukaj preklapljate med postavitvami</string>
      <string name="gb_game_mode_change_title">Znova zaženi igro</string>
      <string name="gb_game_mode_choose_game_area">Aktivno območje</string>
      <string name="gb_game_mode_choose_title">Izberite način prikaza</string>
+     <string name="gb_game_mode_choose_title_new">Izberite postavitev</string>
      <string name="gb_game_mode_empty">Ni iger</string>
      <string name="gb_game_mode_fill">Zapolni zaslon</string>
      <string name="gb_game_mode_fill_type">Zapolni zaslon</string>
+     <string name="gb_game_mode_new">Postavitve iger</string>
      <string name="gb_game_mode_ratio">Original</string>
      <string name="gb_game_mode_ratio_type">Original</string>
      <string name="gb_game_mode_recommend">" (Priporočeno)"</string>
@@ -2182,6 +2185,15 @@ ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_mode">Način igre</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
+     <string name="gb_predownload_dialog_cancel">Ne, hvala/string>
+     <string name="gb_predownload_dialog_checked">"Ne kaži več"</string>
+     <string name="gb_predownload_dialog_confirm">Vklopi</string>
+     <string name="gb_predownload_dialog_message_china"><Data>"Posodobljeno vsebino za to igro lahko samodejno prenesete v to napravo, ko se povežete z WiFi in izklopite zaslon. Tako boste lahko uporabljali novo različico takoj, ko bo izdana.&lt;br>&lt;br>Preberite in se strinjajte z &lt;a href=\"%1$s\">Izjava o posodobitvah v ozadju&lt;/a> pred uporabo."</Data></string>
+     <string name="gb_predownload_dialog_title">Posodobitve v ozadju so zdaj na voljo</string>
+     <string name="gb_predownload_message">"Posodobite King of Glory, Game for Peace in druge združljive igre v ozadju, medtem ko ne uporabljate te naprave"</string>
+     <string name="gb_predownload_noti_message">"%2$1.2f GB posodobljene vsebine je že v tej napravi. Uporabili jo boste lahko takoj, ko bo izšla nova različica."</string>
+     <string name="gb_predownload_noti_title">%s uspešno posodobljen v ozadju</string>
+     <string name="gb_predownload_title">Posodobitve v ozadju</string>
      <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_guide_message1">Premaknite [L] v kateri koli funkcionalni položaj, da ga uporabite prek pojavnega sprožilca</string>
      <string name="gb_shoulder_guide_message2">Dejanje [1] se aktivira s pritiskom na gumb. Dejanje [2] se aktivira s sprostitvijo gumba.</string>
@@ -2229,6 +2241,7 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_signed_gift_loading_fail">"Ne morem naložiti"</string>
      <string name="gb_signed_gift_loading_summary">Delam…</string>
      <string name="gb_signed_title">Prijavljen ta mesec</string>
+     <string name="gb_smart_battery_surplus_new">%1$s %2$s ostalo</string>
      <string name="gb_sound_audition">Poslušaj</string>
      <string name="gb_storage_game_dialog_button_timer">%ds</string>
      <string name="gb_storage_game_dialog_message">"Igre lahko v Game Turbo shranite samodejno. Če vklopite to funkcijo, se ne bodo prikazale na začetnem zaslonu. Vklopim zdaj?"</string>

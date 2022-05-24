@@ -44,6 +44,7 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
      <string name="air_space_exit">Izhod iz prostora</string>
      <string name="air_space_setting">Nastavitve prostora</string>
      <string name="airspace_users_full">"Delovnega prostora ne morem več izdelati"</string>
+     <string name="alwaysUsePrompt">Zapomni si izbiro</string>
      <string name="am">dop.</string>
      <string name="appData">Nameščene aplikacije</string>
      <string name="app_name">Komponenta varnosti jedra</string>
@@ -675,6 +676,7 @@ Nekatere dvojne aplikacije zahtevajo podporo Google Services Framework. V teh pr
      <string name="xspace_guide_description">"Vsak račun
 zasluži lastno aplikacijo"</string>
      <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
+     <string name="xspace_head">Dvojne aplikacije</string>
      <string name="xspace_header">Dvojne aplikacije</string>
      <string name="xspace_instagram_title">Instagram</string>
      <string name="xspace_install_complete">&lt;font>Uspešno izdelano&lt;/font>&lt;font color=#0D84FF>Odpri zdaj&lt;/font></string>
@@ -690,6 +692,7 @@ zasluži lastno aplikacijo"</string>
      <string name="xspace_notification_error">Prijavite se v dvojni WeChat in poskusite ponovno</string>
      <string name="xspace_qq_title">QQ</string>
      <string name="xspace_remove">"Izbriši račune dvojnih aplikacij"</string>
+     <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
      <string name="xspace_setting_label">Nastavitve dvojne aplikacije</string>
      <string name="xspace_settins">Nastavi</string>
      <string name="xspace_start">Izdelaj</string>

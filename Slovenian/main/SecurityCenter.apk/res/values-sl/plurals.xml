@@ -321,6 +321,14 @@
         <item quantity="other">Prijavljeno %d dni zapored</item>
         <item quantity="one">Prijavljeno %d krat</item>
      </plurals>
+     <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
      <plurals name="gb_smart_battery_surplus">
         <item quantity="other">%2$1.2f ur ostalo</item>
         <item quantity="one">%2$1.2f ura ostala</item>

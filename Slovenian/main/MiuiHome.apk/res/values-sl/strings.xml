@@ -54,6 +54,7 @@
      <string name="add">Dodaj</string>
      <string name="add_custom_category">Prilagodi</string>
      <string name="add_screen">Dodaj zaslon</string>
+     <string name="add_to_workspace">Dodaj na začetni zaslon</string>
      <string name="added_all_category">Vse aplikacije uspešno dodane</string>
      <string name="additional_settings">Dodatne nastavitve</string>
      <string name="afternoon">Popoldne</string>
@@ -391,6 +392,8 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="fold_pair_install_shortcut_long_click">Pritisnite in držite, da dodate na začetni zaslon</string>
+     <string name="fold_pair_installed_shortcut_launcher">Ta bližnjica že obstaja</string>
      <string name="folder_name">Mapa</string>
      <string name="frame_load_failed">Ne morem naložiti okvirja</string>
      <string name="free_style_apps_title">Izberi aplikacijo</string>
@@ -687,6 +690,7 @@
      <string name="night">Večer</string>
      <string name="no_detail_page">Ni podrobnosti strani</string>
      <string name="no_space_toast">Ni dovolj prostora</string>
+     <string name="no_space_toast_fold">Tu je premalo prostora</string>
      <string name="no_space_toast_when_click_widget">Na tej strani je premalo prostora. Poskusite to stvar potegniti na drugo stran.</string>
      <string name="noon">Poldne</string>
      <string name="normal_wallpaper">Slika ozadja</string>
@@ -788,6 +792,8 @@
      <string name="recents_title_security_scan">Varnostni pregled</string>
      <string name="recents_tv_small_window_text">Plavajoča okna</string>
      <string name="recents_worldcirculate_text">Spustite, da izberete</string>
+     <string name="recnets_relay_device_info">Od %s</string>
+     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
      <string name="recnets_worldcirculate_display_computer_info">Aplikacija deluje na %s.</string>
      <string name="recnets_worldcirculate_display_default_info">Dotaknite se, da vrnete sem.</string>
      <string name="recnets_worldcirculate_display_pad_info">Aplikacija deluje na %s.</string>
@@ -809,7 +815,7 @@
      <string name="remove_invalidate_gadget_tips">Eden od uporabljanih pripomočkov ni več na voljo. Lahko dodate kakega drugega.</string>
      <string name="remove_sys_app_content">"Bližnjico do začetnega zaslona boste lahko znova dodali v Nastavitve> Aplikacije> Urejanje bližnjic na začetnem zaslonu. Odstranim?"</string>
      <string name="remove_sys_app_title">Odstranim bližnjico do začetnega zaslona?</string>
-     <string name="request_permission_msg">POCO Launcher potrebuje nekaj dovoljenj, da vam omogoči dostop do svoje polne funkcionalnosti.</string>
+     <string name="request_permission_msg">POCO Zaganjalnik potrebuje nekaj dovoljenj, da vam omogoči dostop do svoje polne funkcionalnosti.</string>
      <string name="request_permission_title">Potrebna so dovoljenja</string>
      <string name="reset_cate_tip_content">Če nadaljujete bodo vrnjene privzete skupine . Nadaljujem?</string>
      <string name="reset_cate_tip_title">Vrni privzete skupine</string>
@@ -947,6 +953,7 @@
      <string name="unstable_dialog_content">"To je testna verzija sistema Android in je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
      <string name="unstable_dialog_message">Ta naprava je vpisana v program za predogled razvijalcev za Android 12. Program omogoča razvijalcem in navdušencem za Android, da preizkusijo predhodne različice Androida 12. Ta različica pred izdajo lahko vsebuje napake in napake, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
      <string name="unstable_dialog_title">Predogled programa za razvijalce za Android</string>
+     <string name="upgrade_remove_small_window_in_recents">Za odpiranje aplikacij v plavajočih oknih lahko uporabite stransko vrstico</string>
      <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
