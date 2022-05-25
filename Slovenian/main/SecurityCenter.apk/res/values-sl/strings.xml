@@ -2185,7 +2185,7 @@ ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_mode">Način igre</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
-     <string name="gb_predownload_dialog_cancel">Ne, hvala/string>
+     <string name="gb_predownload_dialog_cancel">Ne, hvala</string>
      <string name="gb_predownload_dialog_checked">"Ne kaži več"</string>
      <string name="gb_predownload_dialog_confirm">Vklopi</string>
      <string name="gb_predownload_dialog_message_china"><Data>"Posodobljeno vsebino za to igro lahko samodejno prenesete v to napravo, ko se povežete z WiFi in izklopite zaslon. Tako boste lahko uporabljali novo različico takoj, ko bo izdana.&lt;br>&lt;br>Preberite in se strinjajte z &lt;a href=\"%1$s\">Izjava o posodobitvah v ozadju&lt;/a> pred uporabo."</Data></string>
