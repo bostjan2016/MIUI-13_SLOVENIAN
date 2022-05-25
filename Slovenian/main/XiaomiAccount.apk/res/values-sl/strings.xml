@@ -126,6 +126,7 @@
      <string name="area_code_search_hint">Išči državo ali regijo</string>
      <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>
      <string name="authorize_title">Avtorizacija</string>
+     <string name="auto_fill_not_sport_on_water_mark_version">"Prijava s samodejnim izpolnjevanjem ni podprta v različicah z vodnim žigom"</string>
      <string name="barcode_add_account_prompt">Če želite dodati račun ponovno skenirajte QR kodo ko se prijavite.</string>
      <string name="bind_facebook">Dodajte svoj Facebook račun</string>
      <string name="bind_google">Povežite svoj Google račun</string>

@@ -233,8 +233,10 @@
      <string name="detail_no_more_recomm">Ni stvari za prikazovanje.</string>
      <string name="detail_no_net">"Ne morem se povezati na omrežje."</string>
      <string name="detail_outer_menu_icon">Meni</string>
+     <string name="detail_recomm_excellent">Predstavljeno</string>
      <string name="detail_recomm_fail">"Ne morem dobiti priporočil"</string>
      <string name="detail_recomm_load_tip">Ujemanje z vašimi zanimanji…</string>
+     <string name="detail_recomm_personal">Priporočeno</string>
      <string name="detail_share_moment">Trenutki</string>
      <string name="detail_share_qq">QQ</string>
      <string name="detail_share_qzone">Qzone</string>
@@ -472,6 +474,7 @@ To lahko povzroči dodatne stroške."</string>
      <string name="look_str">Popularno</string>
      <string name="main_fragment_title_discover">Odkrijte</string>
      <string name="main_fragment_title_home">Priporočila</string>
+     <string name="main_fragment_title_home_excellent">Predstavljeno</string>
      <string name="main_fragment_title_search">Najboljše</string>
      <string name="main_fragment_title_user">Nastavitve</string>
      <string name="manage">Urejaj</string>

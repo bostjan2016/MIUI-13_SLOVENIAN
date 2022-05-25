@@ -48,8 +48,10 @@
      <string name="afternoon">Popoldne</string>
      <string name="agree_app_use">Skeniranje QR kod in drugih slik (nekatere storitve bodo morda zahtevale dostop do lokacije)</string>
      <string name="agree_btn">Strinjam se</string>
-     <string name="agree_camera_permission">Za snemanje fotografij in videoposnetkov</string>
-     <string name="agree_storage_permission">Za dostop do fotografij in datotek shranjenih v napravi</string>
+     <string name="agree_camera_permission">Za uporabo kamere za skeniranje stvari</string>
+     <string name="agree_camera_permission_message">Za uporabo kamere za skeniranje stvari</string>
+     <string name="agree_storage_permission">Za dostop in uvoz slik galerije ter shranjevanje datotek</string>
+     <string name="agree_storage_permission_message">Za dostop in uvoz slik galerije ter shranjevanje datotek</string>
      <string name="album_view">Izberi sliko</string>
      <string name="all_text">Celotno besedilo</string>
      <string name="allow_check_website_security">Obvesti me o spletnih varnostnih pregledih</string>
@@ -121,6 +123,7 @@
      <string name="code_always">Zapomni si</string>
      <string name="code_determine">V redu</string>
      <string name="code_result">Rezultati</string>
+     <string name="come_back_picture">Nazaj</string>
      <string name="common_google_play_services_enable_button">Omogoči</string>
      <string name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
      <string name="common_google_play_services_enable_title">Omogočanje storitev Google Play</string>
@@ -836,6 +839,8 @@
      <string name="to_date">Danes</string>
      <string name="to_install_title">Ta QR koda vas preusmerja na odstranjeno aplikacijo. Prenesem to aplikacijo?</string>
      <string name="to_pay">Zaključite plačilo</string>
+     <string name="toast_net_2g">Omrežje je slabo. Prosimo, zamenjajte omrežje in poskusite znova</string>
+     <string name="toast_net_timeout">Časovna omejitev zahteve je potekla. Prosim poskusite kasneje</string>
      <string name="today">Danes</string>
      <string name="toinstall">Prenesi</string>
      <string name="tomorrow">Jutri</string>

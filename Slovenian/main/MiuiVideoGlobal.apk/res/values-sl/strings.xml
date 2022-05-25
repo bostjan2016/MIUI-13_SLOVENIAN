@@ -281,6 +281,7 @@
      <string name="content_can_not_null">Ne morem oddati povratne informacije brez opisa.</string>
      <string name="continue_play">Nadaljuj</string>
      <string name="controller_bar_edit">Uredi</string>
+     <string name="copy">Kopiraj</string>
      <string name="current_service_key">storitev</string>
      <string name="data_empty">Ni stvari</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
