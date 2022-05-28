@@ -115,7 +115,7 @@
      <string name="cancel_error">"Ne morem odstraniti, poskusite ponovno"</string>
      <string name="cancel_msg">Prekličem izbrano?</string>
      <string name="cancel_operation">Odpovej</string>
-     <string name="cancel_success">Uspešno odstranjeno, vse datoteke premeščene v %s</string>
+     <string name="cancel_success">Datoteke so bile uspešno premaknjene v %s</string>
      <string name="cancel_text">Prekliči</string>
      <string name="cancelled_by_user">Odpovedano</string>
      <string name="cannot_send">"Ne morem poslati datotek iz zunanjega pomnilnika"</string>
@@ -244,7 +244,7 @@
      <string name="decompress_confirm">Razširi</string>
      <string name="decompress_corrupt">"Ne morem razpakirati datotek. Paket je poškodovan."</string>
      <string name="decompress_destination_error">"Ne morem razpakirati datotek tukaj."</string>
-     <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka ni podprta.</string>
+     <string name="decompress_encrypted_rar_not_supported">"Šifrirane datoteke RAR niso podprte."</string>
      <string name="decompress_fail">"Ne morem razpakirati datoteke."</string>
      <string name="decompress_input_password">Vnesite geslo</string>
      <string name="decompress_password_error">Napačno geslo. Poskusite ponovno…</string>
@@ -252,10 +252,10 @@
      <string name="decompress_title">Razširi</string>
      <string name="decompress_to">Razširi v...</string>
      <string name="decompress_to_here">Razširi sem</string>
-     <string name="decrypt">Pokaži</string>
-     <string name="decrypt_error">"Ne morem dešifrirati"</string>
+     <string name="decrypt">Odstrani</string>
+     <string name="decrypt_error">"Ne morem odstraniti"</string>
      <string name="decrypt_to">Dešifriraj in shrani v…</string>
-     <string name="decrypting">Dešifriranje…</string>
+     <string name="decrypting">Odstranjevanje…</string>
      <string name="delete_dialog_button">Izbriši</string>
      <string name="delete_error">"Ne morem izbrisati datotek, poskusite ponovno"</string>
      <string name="delete_failed">"Ne morem izbrisati"</string>
@@ -316,7 +316,7 @@
      <string name="empty_file_download">Prazna datoteka ni podprta.</string>
      <string name="empty_file_upload">Prazna datoteka ni podprta.</string>
      <string name="enable_documentsui">Vključite najprej %s v Nastavitve &gt; Nameščene aplikacije</string>
-     <string name="enable_sd_card">Vstavi SD kartico ali onemogoči USB pomnilnik.</string>
+     <string name="enable_sd_card">Vstavite SD kartico.</string>
      <string name="enable_usb">Povežite USB napravo</string>
      <string name="encrypt_error">"Ne morem skriti datotek, poskusite ponovno"</string>
      <string name="encrypt_prefix">SKRITO</string>
@@ -337,7 +337,7 @@
      <string name="error_folder_already_exists">Ta datoteka že obstaja</string>
      <string name="error_hint_copy_folder_to_self_or_sub">"Ne morem premestiti ali kopirati mape v obstoječe ali njihove podmape"</string>
      <string name="error_icon_content_description">Napaka</string>
-     <string name="error_info_cant_send_folder">"Ne morem poslati to vrsto datoteke."</string>
+     <string name="error_info_cant_send_folder">"Ne morem poslati map."</string>
      <string name="error_invalid_path">Napačna pot</string>
      <string name="error_not_support">Ni podprto</string>
      <string name="error_open_file_failed_no_app_found">Najdena ni bila nobena aplikacija za izvedbo te naloge.</string>
@@ -355,6 +355,7 @@
      <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
      <string name="extended_storage_file_can_not_open">"Ne morem odpreti datoteke. Kopirajte datoteko v notranjo shrambo."</string>
      <string name="extract">Razširi</string>
+     <string name="fab_menu_ball">Hitra dejanja</string>
      <string name="fab_menu_sort">Razvrsti</string>
      <string name="fail_to_create_folder">Ni dovolj prostora ali pa mapa že obstaja.</string>
      <string name="fail_to_create_folder_unknown">"Mape ni mogoče ustvariti"</string>
@@ -448,7 +449,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="ftp_account_req_notice">4-16 znakov, črk in številk, male in velike črke</string>
+     <string name="ftp_account_req_notice">Uporabniško ime in geslo razlikujeta velike in male črke in morata vsebovati %1$d-%2$d znakov. Kombinirate lahko angleške črke, posebne simbole in številke</string>
      <string name="ftp_anonymous_login">Anonimna prijava</string>
      <string name="ftp_anonymous_warning_msg">Storitve anonimizacije lahko predstavljajo varnostno tveganje. Vseeno uporabim?</string>
      <string name="ftp_anonymous_warning_title">Pozor</string>
@@ -512,8 +513,8 @@
      <string name="install_fail">"Ne morem namestiti"</string>
      <string name="installing">Nameščanje…</string>
      <string name="instruction">Vpišite naslov v FTP strežnik:</string>
-     <string name="instruction_pre_pad">Tapni za zagon FTP strežnika</string>
-     <string name="instruction_pre_phone">Tapni za zagon FTP strežnika</string>
+     <string name="instruction_pre_pad">Upravljajte datoteke v tej napravi z računalnikom</string>
+     <string name="instruction_pre_phone">Upravljajte datoteke v tej napravi z računalnikom</string>
      <string name="interest_recommend">Priporočeni videoposnetki</string>
      <string name="internal_storage">Notranji pomnilnik</string>
      <string name="is_playing">Predvajanje…</string>
@@ -579,7 +580,7 @@
      <string name="make_private">Skrij</string>
      <string name="make_private_msg_1">Skrijem to datoteko?</string>
      <string name="make_private_msg_2">Skrijem te datoteke?</string>
-     <string name="make_private_msg_3">Vse datoteke u tej mapi bodo skrite.</string>
+     <string name="make_private_msg_3">Vse datoteke v tej mapi bodo skrite.</string>
      <string name="male">Moški</string>
      <string name="material_slider_range_end">Konec,</string>
      <string name="material_slider_range_start">Začetek,</string>
@@ -590,7 +591,7 @@
      <string name="menu_item_router">Router</string>
      <string name="menu_item_search">Išči</string>
      <string name="menu_item_sort">Razvrsti</string>
-     <string name="menu_item_sort_add_time">"Narejeno "</string>
+     <string name="menu_item_sort_add_time">"Dodano med priljubljene "</string>
      <string name="menu_item_sort_by_added_time">Dodano</string>
      <string name="menu_item_sort_date">Datum spremembe</string>
      <string name="menu_item_sort_name">Po imenu</string>

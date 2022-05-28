@@ -1619,6 +1619,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="early_morning">Jutro</string>
      <string name="edit_new_task_name">Vnesite ime opravila</string>
+     <string name="edit_phone_num">Uredite telefonsko številko SIM</string>
      <string name="eew_privacy_revoke_title">Umakni soglasje za Pravila o zasebnosti opozoril o potresu</string>
      <string name="email">E-pošta</string>
      <string name="empty_activity_title">" "</string>
@@ -1720,7 +1721,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
      <string name="extreme_add_white_list_title">Izjeme ozadjaa</string>
      <string name="extreme_power_save_description">"&lt;li&gt;"Ekstremno varčevanje baterije ustavlja vse dejavnosti aplikacij v ozadju ko jih zapustite in se vrnete na začetni zaslon. Ta aplikacija vam ne bo pošiljala obvestil in prejemala posodobitev."&lt;/li&gt;"
-"&lt;li&gt;Če želite da se aplikacija izvaja v ozadju, jo zaklenite je u Nedavno ali je dodajte v izjeme v nadaljevanju. V ozadju se lahko zažene do 4 aplikacije če je vključeno ekstremno varčevanje.&lt;/li&gt;"
+"&lt;li&gt;Če želite da se aplikacija izvaja v ozadju, jo zaklenite v Nedavno ali jo dodajte v izjeme v nadaljevanju. V ozadju se lahko zažene do 4 aplikacije če je vključeno ekstremno varčevanje.&lt;/li&gt;"
 "&lt;li&gt;Ekstremno varčevanje baterije privzeto izključi NFC. To lahko spremenite v nastavitvah.&lt;/li&gt;"
 "&lt;li&gt;Da boste sigurni da lahko normalno uporabljate vse storitve vaše naprave, se bo ekstremno varčevanje baterije samodejno izklopilo ko se baterija napolni na 30%.&lt;/li&gt;"</string>
      <string name="extreme_power_save_mode_card_summary">Vključi ekstremno varčevanje baterije kadar je baterija slaba.</string>

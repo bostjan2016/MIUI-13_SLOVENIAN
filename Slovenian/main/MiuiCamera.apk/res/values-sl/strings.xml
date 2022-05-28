@@ -1071,7 +1071,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
      <string name="hine_hht">"Pri slabi svetlobi bo kamera posnela več fotografij
   nato pa izdelala fotografijo z minimalno količino šuma."</string>
      <string name="hint_ae_af_lock">Samod. izostritev / Samod. ekspozicija sta zaklenjeni</string>
-     <string name="hint_ae_af_lock_extra">Samod. izostritev / Samod. ekspozicija sta zaklenjeni. Spremenite na Google Leče u nastavitvah kamere</string>
+     <string name="hint_ae_af_lock_extra">Samod. izostritev / Samod. ekspozicija sta zaklenjeni. Spremenite na Google Leče v nastavitvah kamere</string>
      <string name="hint_ae_lock">Samod. ekspozicija je zaklenjena</string>
      <string name="hint_device_water_mark">Oznaka bo dodana na fotografijo samodejno.</string>
      <string name="hint_eye_light">Efekti Eye sparkle najboljše delujejo ko je bliskavica vključena</string>
@@ -1518,7 +1518,7 @@ pritisnite sprožilec"</string>
      <string name="parameter_histogram_description">"Histogram je prikaz izpostavljenosti v realnem času ki prikazuje najmračnejše dele scene z leve strani in prehod na najsvjetlejše dele z desne strani. Navpični del lestvice kaže koliko je scena svetla ali mračna
 ."</string>
      <string name="parameter_histogram_title">Histogram</string>
-     <string name="parameter_iso_description">ISO vrednosti se lahko samodejno določi s pomočjo merilca. Vrednost lahko zamenjate tudi ročno. Večji ISO napravi kamero bolj občutljivo na svetlobo, prinaša pa več digitalnega šuma u vašo sliko.</string>
+     <string name="parameter_iso_description">ISO vrednosti se lahko samodejno določi s pomočjo merilca. Vrednost lahko zamenjate tudi ročno. Večji ISO napravi kamero bolj občutljivo na svetlobo, prinaša pa več digitalnega šuma v vašo sliko.</string>
      <string name="parameter_iso_title">ISO občutljivost</string>
      <string name="parameter_lens_description">"Lahko menjate med več lečami: "</string>
      <string name="parameter_lens_marco">, MACRO (macro)</string>
@@ -2332,7 +2332,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="remote_online_disconnect_confirmation">Prekličem povezavo z %1$s?</string>
      <string name="remote_online_exit_confirmation">Izklopim snemanje z dvema telefonoma?</string>
      <string name="remote_online_exit_connecting">Prekličem povezavo in izklopim snemanje z dvema telefonoma?</string>
-     <string name="remote_online_guide">Vklopite snemanje z dvema telefonoma na drugi napravi u uporabo centra za kontrolo.</string>
+    <string name="remote_online_guide">Vklopite snemanje dvojnega telefona na drugi napravi s preklopom Nadzornega centra.</string>
      <string name="remote_online_interrupted">Povezava prekinjena. Ponovno se povežite za nadaljevanje.</string>
      <string name="remote_online_introduction_i">"Snemanje z dvema telefonoma omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
      <string name="remote_online_introduction_ii">Da ta funkcija deluje, mora druga naprava Mi ali Redmi podpirati snemanje z dvema telefonoma. Vklopite ga lahko v Centru za kontrolo.</string>

@@ -7381,7 +7381,7 @@ Pametna obvestila lahko preberejo vso vsebino obvestil, vključno z osebnimi pod
      <string name="notification_conversation_add_to_home">Dodaj na zač. zaslon</string>
      <string name="notification_conversation_important">Prioriteta</string>
      <string name="notification_conversation_summary">%1$s • %2$s</string>
-     <string name="notification_conversation_summary_low">Ni zvoka ali vibracije in se pojavi nižje u delu za pogovor</string>
+     <string name="notification_conversation_summary_low">Ni zvoka ali vibracije in se pojavi nižje v delu za pogovor</string>
      <string name="notification_dashboard_summary">Zgodovina obvestil, pogovori</string>
      <string name="notification_display_settings">Plošča obvestil</string>
      <string name="notification_fold_description1">Mapa obvestil je uvedena v MIUI 9. Ta storitev filtrira nevažna obvestila in jih shranjuje v zasebne mape.</string>
@@ -7518,6 +7518,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
      <string name="notify_connect">CMCC WiFi klic</string>
      <string name="notify_connect_summary">Opomni me pri dostopu na CMCC WiFi</string>
      <string name="now">Zdaj</string>
+     <string name="nrca_need_reset">Znova zaženite napravo, da uveljavite spremembe</string>
      <string name="nrca_switch_title">Uporabi združevanje operaterjev 5G</string>
      <string name="nsd_quick_toggle_summary">Dovoli da aplikacije v drugih napravah odkrivajo aplikacije v tej napravi</string>
      <string name="nsd_quick_toggle_title">Odkrivanje omrežnih storitev</string>

@@ -328,7 +328,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="normal_device_title">Naprave, ki jim ne zaupate</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="notification_cast_desc">Predvajanje…</string>
-     <string name="notification_desc_scanning">Traženje uređaja u blizini…</string>
+     <string name="notification_desc_scanning">Iskanje naprav v bližini…</string>
      <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
      <string name="notification_rc_title">XiaoMi TV pomočnik</string>
      <string name="notification_show_more">Pokaži dodatne storitve</string>

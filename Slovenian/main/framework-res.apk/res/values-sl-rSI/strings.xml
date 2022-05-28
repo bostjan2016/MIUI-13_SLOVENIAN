@@ -2369,7 +2369,7 @@ Preostalo poskusov :"</string>
      <string name="stk_cc_ss_to_ss">Zahteva SS je spremenjena v novo zahtevo SS.</string>
      <string name="stk_cc_ss_to_ussd">Zahteva SS je spremenjena v zahtevo USSD.</string>
      <string name="stk_cc_ussd_to_dial">Zahteva USSD je spremenjena v zahtevo DIAL.</string>
-     <string name="stk_cc_ussd_to_dial_video">USSD zahteva je spremenjena u DIAL zahtevo.</string>
+     <string name="stk_cc_ussd_to_dial_video">USSD zahteva je spremenjena v DIAL zahtevo.</string>
      <string name="stk_cc_ussd_to_ss">Zahteva USSD je spremenjena v zahtevo SS.</string>
      <string name="stk_cc_ussd_to_ussd">Zahteva USSD je spremenjena v novo zahtevo USSD.</string>
      <string name="storage_external_usb">Zunanji USB pomnilnik</string>

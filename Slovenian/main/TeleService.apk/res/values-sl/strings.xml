@@ -2193,6 +2193,7 @@ Kontaktirajte vašega operaterja."</string>
      <string name="nr_usaged_network_usaged">"Današnji podatki"</string>
      <string name="nr_usaged_operator">Mobilni operater</string>
      <string name="nr_usaged_used_time">Trajanje uporabe</string>
+     <string name="nrca_need_reset">Znova zaženite napravo, da uveljavite spremembe</string>
      <string name="nrca_switch_summary">Za boljšo povezljivost uporabi združevanje operaterjev 5G</string>
      <string name="nrca_switch_title">Uporabi NRCA</string>
      <string name="number">Številka</string>
