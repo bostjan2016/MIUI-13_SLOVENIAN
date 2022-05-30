@@ -120,6 +120,8 @@
      <string name="login_mi_account_alert">Pozor</string>
      <string name="login_mi_account_summary">Upravitelj gesel sinhronizira gesla z vašim računom Mi. Se boste prijavili zdaj?</string>
      <string name="midnight">Polnoč</string>
+     <string name="miuix_access_state_desc">Izbrano</string>
+     <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
      <string name="miuix_appcompat_action_mode_select_all">Izberi vse</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
@@ -134,6 +136,8 @@
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_indexer_collect">Zbirke</string>
+     <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>

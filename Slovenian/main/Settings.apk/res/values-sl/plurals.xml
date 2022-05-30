@@ -376,6 +376,10 @@
         <item quantity="other">%1$d računov bo vrnjeno na privzeto</item>
         <item quantity="one">%1$d račun bo vrnjen na privzeto</item>
      </plurals>
+     <plurals name="max_number_of_processes">
+        <item quantity="other">Največ %d procesov</item>
+        <item quantity="one">Največ %d proces</item>
+     </plurals>
      <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplikacij je uporabljalo spomin pred %2$s</item>
         <item quantity="one">%1$d aplikacija je uporabljala spomin pred %2$s</item>
@@ -630,6 +634,30 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
      <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s aplik. lahko prikaže obvestila</item>
         <item quantity="one">1 aplik. lahko prikaže obvestila</item>
+     </plurals>
+     <plurals name="string_after_int_minute">
+        <item quantity="other">Čez %d min</item>
+        <item quantity="one">Čez %d min</item>
+     </plurals>
+     <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bitov/vzorec</item>
+        <item quantity="one">%d bit/vzorec</item>
+     </plurals>
+     <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="string_int_hour">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="string_int_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="string_int_second">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
      </plurals>
      <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d predlogov</item>

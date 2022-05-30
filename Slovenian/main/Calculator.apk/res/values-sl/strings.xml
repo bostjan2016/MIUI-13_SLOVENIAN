@@ -524,7 +524,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="network_confirm_title">Potrebno je dovoljenje</string>
      <string name="network_privacy">Vedite da se aplikacija mora povezati s spletom in zbrati potrebne osebne podatke za popolno delovanje. Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti.</string>
      <string name="network_purpose">Dobrodošli v Kalkulator! Kalkulator vam omogoča pretvorbo valut, izračunavanje odplačil kredita in še več.</string>
-     <string name="new_privacy_string"><Data>"Dobrodošli v Kalkulator!&lt;br/>Ponuja vam:&lt;br/>• Osnovni kalkulator&lt;br/>• Znanstveni kalkulator&lt;br/>• Univerzalni pretvornik (n.pr. valute, merske enote, itd.)&lt;br/>• Predloge za izračun posojil, naložb, EMI in še več&lt;br/>Kalkulator mora zbrati potrebne osebne podatke, da vam omogoči osnovne storitve. Naučite se, kako ravnamo s podatki, ki jih zbiramo v &lt;a href= \"%1$s\">Pravila o zasebnosti&lt;/a>. Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a> pred uporabo. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravili o zasebnosti kalkulatorja. Če se ne strinjate z našim pravilnikom o zasebnosti, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
+     <string name="new_privacy_string"><Data>"Dobrodošli v Kalkulator!&lt;br/>Ponuja vam:&lt;br/>• Osnovni kalkulator&lt;br/>• Znanstveni kalkulator&lt;br/>• Univerzalni pretvornik (n.pr. valute, merske enote, itd.)&lt;br/>• Predloge za izračun posojil, naložb, EMI in še več&lt;br/>Kako ravnamo s podatki, ki jih zbiramo, lahko izveste v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. Pred uporabo Kalkulatorja preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">Pravila o zasebnosti&lt;/a>. Svoje soglasje s pravili zasebnosti Kalkulatorja lahko kadar koli prekličete v nastavitvah. Če se ne strinjate z pravili o zasebnosti, ne boste mogli uporabljati nekaterih storitev te aplikacije; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo."</Data></string>
      <string name="nickname">Priimek</string>
      <string name="night">Noč</string>
      <string name="no_network">"Ne morem se povezati v omrežje"</string>
@@ -736,6 +736,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="tax_total_insurance_provident_fund">Zavarovanje &amp; stanovanjski sklad</string>
      <string name="tax_unemployment">Nezaposlen</string>
      <string name="tax_update_time_format">Podatki dobljeni od HeXun (%s)</string>
+     <string name="tenure_year_month">%1$s in %2$s</string>
      <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega stanja</string>
      <string name="the_anti_aggression_day">Dan proti agresiji</string>
      <string name="the_arbor_day">Dan vrtnice</string>

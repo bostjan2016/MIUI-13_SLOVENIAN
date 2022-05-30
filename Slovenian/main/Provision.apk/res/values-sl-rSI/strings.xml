@@ -333,6 +333,9 @@
      <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o zasebnosti</string>
      <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. %1$s in %2$s.</string>
      <string name="other_settings_enhanced_lockscreen_summary_index">Pogoji in pravila</string>
+     <string name="other_settings_get_apps">Samodejno posodabljanje aplikacij</string>
+     <string name="other_settings_get_apps_summary">"Posodobite sistem in partnerske aplikacije tretjih oseb preko GetApps, da boste lahko uporabljali njihove najnovejše funkcije.
+Samodejne posodobitve lahko izklopite v GetApps > Nastavitve > Samodejno posodabljanje."</string>
      <string name="other_settings_location">Lokacije</string>
      <string name="other_settings_location_summary">Dovolite aplikacijam in spletnim mestom dostop do podatkov o vaši lokaciji za zagotavljanje storitev, ki temeljijo na lokaciji</string>
      <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>

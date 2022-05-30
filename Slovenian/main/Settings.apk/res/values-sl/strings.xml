@@ -77,6 +77,7 @@
      <string name="access_control_password_title">Zakl. aplikacije</string>
      <string name="access_control_recording_intro_header">Narišite vzorec za odklepanje</string>
      <string name="access_control_reset_by_account">Prijavite se v svoj Mi Račun za ponastavitev gesla</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="access_point_names">Imena dostopnih točk (APN)</string>
      <string name="accessibility_assist_gesture_complete_or_keep_adjusting">Funkcija Active Edge je nastavljena. Pojdite na naslednji zaslon ali pa nadaljujte s prilagajanjem.</string>
      <string name="accessibility_audio_adjustment_title">Prilagoditev zvoka</string>
@@ -1025,8 +1026,8 @@ Spremenim nastavitve?"</string>
      <string name="auto_caps">Samodejna uporaba velikih začetnic</string>
      <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
      <string name="auto_clean_description">"O tej storitvi
-1. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
-2. Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
+%3$d. Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
+%4$d. Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
      <string name="auto_clean_description_pad">"O tej storitvi
 - Zaženite to storitev enkrat ali dvakrat, da ugotovite, če je vaš zvočnik rahlo blokiran od prahu.
 - Če je zvočnik močneje blokiran, zaženite to storitev %1$d-%2$d krat, ko napravo stresete tako, da je zvočnik obrnjen navzdol."</string>
@@ -2106,10 +2107,12 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_ldac_property">Lastnosti</string>
      <string name="bt_ldac_remember_choice">Zapomni si izbrano</string>
      <string name="bt_ldac_settings">Nastavitve</string>
+     <string name="bt_leaudio_cg_dialog_summary">"Nekatere storitve ne bodo na voljo, ko to vklopite. Ta storitev tudi ne podpira povezovanja več naprav s slušalkami. Če ste se že povezali z dvema različnima napravama, najprej prekinite povezavo z eno od njiju. Vklopim LC3?"</string>
      <string name="bt_leaudio_open_dialog_summary">"Ko je LC3 vklopljen, na slušalke ne boste mogli povezati več naprav. Če vklopite to storitev, bodo druge povezane naprave prekinjene. Vseeno vklopim LC3?"</string>
      <string name="bt_leaudio_open_dialog_title">Pozor</string>
      <string name="bt_leaudio_pre_title">LC3</string>
      <string name="bt_leaudio_summary">Kakovostna zvočna izkušnja</string>
+     <string name="bt_leaudio_support_multi_dialog_summary">"Nekatere storitve ne bodo na voljo, ko to vklopite. Vklopim LC3?"</string>
      <string name="bt_lhdc_declaration">Če Bluetooth naprava podpira LHDC bo povezana po privzetih nastavitvah. LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak..</string>
      <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Storitev lahko izključite v nastavitvah"</string>
      <string name="bt_lhdc_dialog_title">Trenutna naprava podpira LHDC, ki je povezan po standardnem:</string>
@@ -2503,6 +2506,7 @@ Ko napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dv
      <string name="codec_low_latency_video_summary">Zagotovite zvočno izkušnjo z nizko zakasnitvijo za igre in videoposnetke, tako da bo sinhronizacija zvoka in slike bolj naravna.</string>
      <string name="codec_low_latency_zmi_summary">Zmanjšaj zakasnitev zvoka in samodejno izboljšaj zvočne učinke za igre</string>
      <string name="codec_low_latency_zmi_title">Nizka zakasnitev za igre</string>
+     <string name="collect_diagnosis_log">Zberi diagnostična poročila</string>
      <string name="collect_diagnostics_summary">Zberi diagnostične podatke za rešitev problema</string>
      <string name="collect_diagnostics_title">Zberi diagnostiko</string>
      <string name="color_black">Črna</string>
@@ -2894,6 +2898,11 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
      <string name="dark_color_summary">Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije</string>
      <string name="dark_color_summary_lcd">"Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije. Temni način zmanjšuje obremenitev oči pri uporabi naprave v mraku."</string>
      <string name="dark_color_summary_oled">Uporabite temno paleto barv za ozadja sistema in kompatibilne aplikacije. Temni način zmanjšuje porabo energije in obremenitev oči pri uporabi naprave v mraku.</string>
+     <string name="dark_mode_alert_dialog_cancel">Prekliči</string>
+     <string name="dark_mode_alert_dialog_checkbox">"Ne kaži več"</string>
+     <string name="dark_mode_alert_dialog_confirm">Vklopi</string>
+     <string name="dark_mode_alert_dialog_message">Ta aplikacija morda ne bo pravilno prikazana v temnem načinu. Vseeno vklopim temni način?</string>
+     <string name="dark_mode_alert_dialog_title">Pozor</string>
      <string name="dark_mode_apps_header">Posamezne aplikacije</string>
      <string name="dark_mode_auto_time_summary">Vklopite temni način za obdobje po meri</string>
      <string name="dark_mode_auto_time_title">Obdobje po meri</string>
@@ -3299,7 +3308,11 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="device_total_memory">Vsa shramba</string>
      <string name="device_usage_list_summary">Poraba naprave od polne napolnjenosti akumulatorja</string>
      <string name="devices_title">Naprave</string>
-     <string name="dial_application_title">Izbiraj</string>
+     <string name="diagnosis_log_send_failed">Pošiljanje poročila diagnoze ni uspelo.</string>
+     <string name="diagnosis_log_sent_format">"Poročilo poslano.
+ID:%s
+Pošljite to kodo tehnikom."</string>
+     <string name="dial_application_title">Kliči</string>
      <string name="dial_pad_tones_title">Toni tipkovnice</string>
      <string name="dialog_app_upgrade_download">Posodobi</string>
      <string name="dialog_app_upgrade_exit">Izhod</string>
@@ -4417,6 +4430,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
      <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
      <string name="font_size_summary2">Lite način.</string>
      <string name="footer_learn_more_content_description">Več o storitvi %1$s</string>
+     <string name="for_diagnosis_usage_only">Uporabi te podatke samo za diagnozo.</string>
      <string name="forbidden_network">(prepovedano)</string>
      <string name="forbidden_set_unlock_password_msg">Trenutno v načinu vzdrževanja, gesla ni mogoče nastaviti ali spremeniti.</string>
      <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
@@ -4434,9 +4448,10 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
      <string name="force_immersive_compatibility_hint_message">Nekatere aplikacije mogoče ne bodo delovale pravilno če izbereti Skrij tipke zaslona.</string>
      <string name="force_immersive_compatibility_hint_title">Težave s kompatibilnostjo</string>
      <string name="force_msaa">Vsili 4x MSAA</string>
-     <string name="force_msaa_new">Vsili %dx MSAA</string>
+     <string name="force_msaa_new">Vsili 4x MSAA</string>
+     <string name="force_msaa_prefrence_summary_new">Omogoči 4x MSAA v OpenGL ES %1$.1f apl.</string>
      <string name="force_msaa_summary">V aplikacijah OpenGL ES 2.0 omogoči 4x MSAA</string>
-     <string name="force_msaa_summary_new">Omogoči %2$dx MSAA v OpenGL ES %1$.1f apl</string>
+     <string name="force_msaa_summary_new">Omogoči %2$dx MSAA v OpenGL ES %1$.1f apl.</string>
      <string name="force_resizable_activities">Vsili spremembo velikosti za aktivnosti</string>
      <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim spremeniti velikost za način z več okni.</string>
      <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
@@ -4444,7 +4459,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
      <string name="force_stop">Prisilna ustavitev</string>
      <string name="force_stop_dlg_text">Če boste vsilili zaustavitev aplikacije, morda ne bo pravilno delovala.</string>
      <string name="force_stop_dlg_title">Želite prisilno ustaviti?</string>
-     <string name="force_touch">3D Touch</string>
+     <string name="force_touch">3D dotik</string>
      <string name="force_touch_demo">Demo prikaz</string>
      <string name="force_touch_enable">Vključi 3D Touch</string>
      <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch vključen."</string>
@@ -7080,6 +7095,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="network_detail">Podrobnosti omrežja %s</string>
      <string name="network_disconnected">Brez povezave</string>
      <string name="network_error">Napaka na omrežju</string>
+     <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_global">Globalno</string>
      <string name="network_id">ID omrežja</string>
      <string name="network_lte">LTE (priporočeno)</string>
@@ -7107,6 +7123,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="network_speed_for_apps_title">Povezava</string>
      <string name="network_speed_for_apps_total">Hitrost povezave</string>
      <string name="network_state_label">Stanje omrežja:</string>
+     <string name="network_timeout_info">"Ne morem vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="network_world_mode_cdma_lte">LTE / CDMA</string>
      <string name="network_world_mode_gsm_lte">LTE / GSM / UMTS</string>
      <string name="networkid_label">Omrežni ID:</string>
@@ -8469,6 +8486,7 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="progress_dialog_speaker_auto_clean_title">Čiščenje zvočnika…</string>
      <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
      <string name="progress_scanning">Iskanje</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="promote_conversation_summary">Dodajanje v razdelek s pogovorom</string>
      <string name="promote_conversation_title">To je pogovor</string>
      <string name="prompt_all">Vprašaj za vse</string>
@@ -9750,6 +9768,8 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
      <string name="selinux_status_enforcing">Uveljavljajoče</string>
      <string name="selinux_status_permissive">Dopuščajoče</string>
      <string name="send">Pošlji</string>
+     <string name="send_diagnosis_log">Pošlji poročila diagnoze</string>
+     <string name="sending">Pošiljam…</string>
      <string name="sensor_toggle_description">Za vse aplikacije in storitve</string>
      <string name="sensors_off_quick_settings_title">Izklop tipal</string>
      <string name="separate_keyboard">Ergonomična tipkovnica</string>
@@ -10669,11 +10689,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="string_KB_per_log_buffer">%d KB na medpomnilnik dnevnika</string>
      <string name="string_MB">%d MB</string>
      <string name="string_MB_per_log_buffer">%d MB na medpomnilnik dnevnika</string>
-     <string name="string_after_int_minute">Čez %d minuto</string>
-     <string name="string_after_int_minutes">Čez %d minut</string>
      <string name="string_after_int_seconds">Čez %d sekund</string>
      <string name="string_always">Zmeraj</string>
-     <string name="string_bits_per_sample">%d bit/vzorec</string>
      <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Kratka latenca (%1$d~%2$dms)</string>
      <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Srednja latenca (%1$d~%2$dms)</string>
      <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Dolga latenca (%1$d~%2$dms)</string>
@@ -10682,22 +10699,11 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Uravnotežena kakovost zvoka in povezave (%1$d/%2$dkbps)</string>
      <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimizirano za kakovost zvoka (%dkbps)</string>
      <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Najboljše (samodejna bitna hitrost)</string>
-     <string name="string_float_inches">%f inč</string>
      <string name="string_float_seconds">%f sekund</string>
      <string name="string_immediately">Takoj</string>
-     <string name="string_int">%d</string>
-     <string name="string_int_hour">%d ura</string>
-     <string name="string_int_hours">%d ur</string>
-     <string name="string_int_minute">%d minuta</string>
-     <string name="string_int_minutes">%d minut</string>
-     <string name="string_int_second">%d sekunda</string>
-     <string name="string_int_seconds">%d sekund</string>
-     <string name="string_kHz">%.1f kHz</string>
      <string name="string_never">Nikoli</string>
      <string name="string_off">Izklj.</string>
      <string name="string_offed">Izklj.</string>
-     <string name="string_scale_float">Merilo animacije %.1fx</string>
-     <string name="string_scale_int">Merilo animacije %dx</string>
      <string name="string_unlimited">Neomejeno</string>
      <string name="strong_suppression_summary">"Vaša naprava ne bo reagirala na slučajni dotik, nekateri gibi morda ne bodo delali blizu robov"</string>
      <string name="strong_suppression_title">Veliko področje</string>
@@ -10960,6 +10966,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
      <string name="system_dashboard_summary">Jeziki, poteze, ura, varnostno kopiranje</string>
      <string name="system_default_app">(Sistemsko privzeto)</string>
      <string name="system_default_app_subtext">Sistemsko privzeto</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="system_haptic_feedback">Haptična povratna informacija</string>
      <string name="system_navigation_title">Krmarjenje po sistemu</string>
      <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
@@ -10975,8 +10982,8 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
      <string name="systemui_theme_wallpaper">Samodejno (na podlagi ozadja)</string>
      <string name="tab_text">Zavihek</string>
      <string name="tablet_screen_application_adaptation_title">Postavitve po meri za tablične računalnike</string>
-     <string name="tablet_screen_settings_title">Funkcije za tablice</string>
-     <string name="tablet_screen_special_function_title">Funkcije za zložljive tablice</string>
+     <string name="tablet_screen_settings_title">Storitve za tablice</string>
+     <string name="tablet_screen_special_function_title">Storitve za tablice</string>
      <string name="take_call_on_title">Sprejemanje klicev je vklopljeno</string>
      <string name="talkback_summary">Bralnik zaslona je predvsem za slepe in slabovidne</string>
      <string name="talkback_title">TalkBack</string>
@@ -11017,6 +11024,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
      <string name="telephony_monitor_switch">Nadziranje telefonije</string>
      <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo z opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
      <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
+     <string name="temporary_not_available">začasno ni na voljo</string>
      <string name="temporary_style">10 sekund po tapu zaslona</string>
      <string name="terms_title">Določila in pogoji</string>
      <string name="testing">Preizkušanje</string>
@@ -11544,6 +11552,7 @@ Vam je všeč Mi Mover?"</string>
      <string name="unit_byte">B</string>
      <string name="unknown">Neznano</string>
      <string name="unknown_app">Neznana aplikacija</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="unknown_hint">Neznano</string>
      <string name="unknown_unavailability_setting_summary">Nastavitev ni na voljo</string>
      <string name="unlock_backup_info_summary">Ko odklepanje s prepoznavo obraza ne deluje, kako želite odkleniti napravo?</string>

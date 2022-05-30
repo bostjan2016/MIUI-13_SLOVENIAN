@@ -774,6 +774,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_tool_check_opt">ste prepričani?</string>
      <string name="cit_tool_check_opt_with_reboot">ponovni zagon, ste prepričani?</string>
      <string name="cit_tool_current_modem_test_mode">Trenutni preskusni način:</string>
+     <string name="cit_tool_current_size">Trenutna velikost</string>
      <string name="cit_tool_drx_only">DRX</string>
      <string name="cit_tool_enable_3A_log">Omogoči zapis 3A Switch</string>
      <string name="cit_tool_enable_display_3A_log">Omogoči Display 3A log</string>
@@ -909,7 +910,10 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
      <string name="cit_tool_wifi_txrx_chain_selection">Izberi anteno</string>
      <string name="cit_tool_wlan">WiFi testno orodje</string>
+     <string name="cit_tool_wlan_circular_capture">Krožno zajemanje</string>
+     <string name="cit_tool_wlan_clear">očisti</string>
      <string name="cit_tool_wlan_exit">Izhod</string>
+     <string name="cit_tool_wlan_export">Izvozi</string>
      <string name="cit_tool_wlan_rx_chan">Rx: Kanal</string>
      <string name="cit_tool_wlan_rx_count_error">Izhodna vrednost ni število</string>
      <string name="cit_tool_wlan_rx_error">Med programom je prišlo do napake</string>
@@ -929,6 +933,7 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_tool_wlan_tx_n_chan">kanal:</string>
      <string name="cit_tool_wlan_tx_st_chan">kanal:</string>
      <string name="cit_tool_wlan_txrx_chain_selection">Izberite anteno</string>
+     <string name="cit_tool_wlan_update_ap_list">Posodobi seznam AP</string>
      <string name="cit_top_left_speaker_test">Test levega zgornjega zvočnika</string>
      <string name="cit_top_right_speaker_test">Test desnega zgornjega zvočnika</string>
      <string name="cit_torch">Svetilka</string>
