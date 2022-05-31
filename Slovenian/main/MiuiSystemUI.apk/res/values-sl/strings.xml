@@ -3273,7 +3273,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="wifi_aggressive_handover">Agresivni WiFi na mobilni prenos</string>
      <string name="wifi_aggressive_handover_summary">Ko je omogočeno se bo povezava aktivnrje preklopila na mobilne podatke ko bo WiFi signal slab.</string>
      <string name="wifi_allow_scan_with_traffic">Zmeraj omogoči skeniranje WiFi</string>
-     <string name="wifi_allow_scan_with_traffic_summary">Dovolite ali omejite skeniranje WiFi omrežij na osnovi količine prometa podataka prisotnih v vmesniku.</string>
+     <string name="wifi_allow_scan_with_traffic_summary">Dovolite ali omejite skeniranje WiFi omrežij na osnovi količine prometa podatkov prisotnih v vmesniku.</string>
      <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka začasno zasedena</string>
      <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
      <string name="wifi_cant_connect">"Ne morem se povezati"</string>

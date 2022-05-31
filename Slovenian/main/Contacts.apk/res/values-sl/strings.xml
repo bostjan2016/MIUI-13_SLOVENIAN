@@ -370,6 +370,7 @@
      <string name="calllog_menu_edit_before_call">"Uredi"</string>
      <string name="calllog_menu_send_sms">"Pošlji sporočilo"</string>
      <string name="calllog_record_none_toast">Ni posnetkov klicev za prikaz</string>
+     <string name="calllog_record_searching_toast">Iskanje posnetkov klicev…</string>
      <string name="callrecordview_item_newcontact">"Nov stik"</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d minut %2$d sekund</string>
      <string name="callrecordview_item_op_time_missed">Klic ni uspel</string>
@@ -1044,6 +1045,9 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="lunar_leap">Zaženi</string>
      <string name="lunar_yue">Mesec</string>
      <string name="make_primary">"Zapomni si to odločitev"</string>
+     <string name="manage_external_storage_dialog_message">Dovolite tej aplikaciji dostop do vseh datotek za urejanje posnetkov klicev.</string>
+     <string name="manage_external_storage_dialog_positive">Nastavitve</string>
+     <string name="manage_external_storage_dialog_title">Potrebna so dovoljenja</string>
      <string name="map_custom">"Ogled %s naslova"</string>
      <string name="map_home">"Ogled domačega naslova"</string>
      <string name="map_other">"Ogled naslova"</string>

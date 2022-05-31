@@ -5782,7 +5782,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije da prihranite prostor</string>
      <string name="tips_of_auto_launch_manage">Preprečite samodejni zagon redko uporabljenim aplikacijam</string>
      <string name="tips_of_operators_set">Samodejno prilagodite statistiko porabe podatkov</string>
-     <string name="tips_of_package_set">Nastavite svoj načrt podataka in kontrolirajte količino prometa</string>
+     <string name="tips_of_package_set">Nastavite svoj načrt podatkov in kontrolirajte količino prometa</string>
      <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko ste blizu svojega mesečnega limita"</string>
      <string name="tips_of_virus_scan">Redno izvajajte protivirusni pregled naprave</string>
      <string name="title_app_lock_disable">Zakl. aplikacij</string>

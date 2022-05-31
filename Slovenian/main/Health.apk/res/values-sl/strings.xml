@@ -278,8 +278,8 @@ Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodv
      <string name="data_source_list_description">"Mi zdravje dobiva zdravstvene podatke (%1$s) iz teh virov. Če se podatki podvojijo v več virih, boste videli podatke iz virov, ki se prvi pojavijo na seznamu v Mi zdravje."</string>
      <string name="data_source_manage">Urejanje virov podatkov</string>
      <string name="data_source_not_support_hm_description">"%1$s ne daje podrobnega štetja korakov. Poskusite preklopiti na druge vire podatkov v Več &gt; Vir podatkov."</string>
-     <string name="data_source_not_support_hm_description_consume">"Izbrani vir podatakov (%1$s) ne daje podrobnih informacij o kalorijah. Poskusite lahko z drugimi viri podatkov v Več &gt; Vir podatkov."</string>
-     <string name="data_source_not_support_hm_description_duration">"Izbrani vir podatakov (%1$s) ne daje podrobnih informacij o vadbi zmerne do visoke intenzivnosti. Poskusite lahko z drugimi viri podatkov v Več &gt; Vir podatkov."</string>
+     <string name="data_source_not_support_hm_description_consume">"Izbrani vir podatkov (%1$s) ne daje podrobnih informacij o kalorijah. Poskusite lahko z drugimi viri podatkov v Več &gt; Vir podatkov."</string>
+     <string name="data_source_not_support_hm_description_duration">"Izbrani vir podatkov (%1$s) ne daje podrobnih informacij o vadbi zmerne do visoke intenzivnosti. Poskusite lahko z drugimi viri podatkov v Več &gt; Vir podatkov."</string>
      <string name="date">Datum</string>
      <string name="date_format_h_m">H:mm</string>
      <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -1381,7 +1381,7 @@ cikel spanja"</string>
 podatkov o spanju"</string>
      <string name="sleep_notice">Obvestila spanja</string>
      <string name="sleep_record_content">Mi zdravje bo samodejno posnel vaše spanje na osnovi uporabe telefona, statistike aktivnosti in nastavljenega časa spanja/bujenja.</string>
-     <string name="sleep_record_go_open">Vključite \"Spremljaj spanje\" za začetek snemanja podatakov o stanju spanja</string>
+     <string name="sleep_record_go_open">Vključite \"Spremljaj spanje\" za začetek snemanja podatkov o stanju spanja</string>
      <string name="sleep_record_label">Zabeleži spanje</string>
      <string name="sleep_remind">Opomnik spanja</string>
      <string name="sleep_report">Statistka spanja</string>

@@ -1582,7 +1582,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="report_rendering_problem">Videti je slabo</string>
      <string name="report_rendering_problem_desc">To sporočilo je videti slabo.</string>
      <string name="report_spam">Prijavite neželjeno pošto</string>
-     <string name="request_copy_db_to_disk">Aplikacija E-pošta zahteva kopiranje baze podatakov v datoteko</string>
+     <string name="request_copy_db_to_disk">Aplikacija E-pošta zahteva kopiranje baze podatkov v datoteko</string>
      <string name="request_entity_large">Datoteka je prevelika</string>
      <string name="request_permission_activity">Iskanje dovoljenja</string>
      <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>

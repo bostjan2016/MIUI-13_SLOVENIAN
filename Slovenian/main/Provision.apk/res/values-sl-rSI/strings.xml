@@ -328,6 +328,7 @@
      <string name="other_settings_ad_enable_summary">Priporočamo prilagojene oglase na osnovi vaših podatkov obnašanja</string>
      <string name="other_settings_auto_update">Namesti samodejno</string>
      <string name="other_settings_auto_update_summary">MIUI bo izbral najboljši trenutek za namestitev posodobitve.</string>
+     <string name="other_settings_auto_update_summary_v1">Dovolite MIUI, da izbere najboljši čas za prenos in namestitev posodobitev. Vaša naprava se bo samodejno znova zagnala, da bo uveljavila spremembe.</string>
      <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
      <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
      <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o zasebnosti</string>

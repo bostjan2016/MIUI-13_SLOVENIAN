@@ -246,6 +246,7 @@
      <string name="input_method_tab_phrase_text">Pogosti izrazi</string>
      <string name="internal_livetalk_enable">Uporabite doplačilo paketa za domače klice</string>
      <string name="international_livetalk_enable">Uporabite doplačilo paketa za mednarodne klice</string>
+     <string name="kb_reset_toast">Ponastavitev tipkovnice je bila uspešna</string>
      <string name="key_btn_ok">V redu</string>
      <string name="key_btn_space">Presledek</string>
      <string name="keyboard_connect_failed">"Tipkovnice ni bilo mogoče povezati. Poskusite ponovno."</string>

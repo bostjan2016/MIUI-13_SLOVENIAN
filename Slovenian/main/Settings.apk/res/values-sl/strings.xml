@@ -2739,6 +2739,7 @@ Na podlagi teh podatkov je mogoče ugotoviti, ali stiki lahko uporabljajo določ
      <string name="continue_reset_factory">Vrnitev na tovarniške nastavitve</string>
      <string name="contributors_title">Sodelavci</string>
      <string name="control_center">Center za kontrolo</string>
+     <string name="control_center_force_use_panel_guide_text">Povlecite navzdol vrstico stanja na levi, da si ogledate obvestila. Če jo povlečete navzdol na desni, se odpre Center za kontrolo. Med obema lahko preklapljate tako, da povlečete levo in desno.</string>
      <string name="control_center_style">Stil Centra za kontrolo</string>
      <string name="control_center_style_summary">"Izberite način kako želite prikaz bližnjic in obvestil"</string>
      <string name="control_panel_switch_side">Zamenjaj stran Centra za kontrolo</string>
@@ -3267,8 +3268,8 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="device_edit_title">Preimenuj telefon</string>
      <string name="device_feedback">Pošlji povratne info. o tej napravi</string>
      <string name="device_id">ID naprave za prilagojena priporočila</string>
-     <string name="device_ime_keyboard_fold">Možnosti tipkovnice za zložljive naprave</string>
-     <string name="device_ime_keyboard_pad">Možnosti tipkovnice za tablice</string>
+     <string name="device_ime_keyboard_fold">Tipkovnica za zložljive naprave</string>
+     <string name="device_ime_keyboard_pad">Tipkovnica za tablice</string>
      <string name="device_info_default">Neznano</string>
      <string name="device_info_label">Informacije o napravi</string>
      <string name="device_info_not_available">Ni na voljo</string>
@@ -4694,7 +4695,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="guest_reset_guest_dialog_title">Želite ponastaviti gosta?</string>
      <string name="guest_resetting">Ponastavljanje gosta …</string>
      <string name="guide_button_text">Razumem</string>
-     <string name="guide_text_center">"Povlecite desno navzgor po sredini zaslona.
+     <string name="guide_text_center">"Povlecite naravnost navzgor po sredini zaslona.
 Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na sredino."</string>
      <string name="guide_text_left">"Povlecite naravnost navzgor iz spodnjega levega kota.
 Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na levo."</string>

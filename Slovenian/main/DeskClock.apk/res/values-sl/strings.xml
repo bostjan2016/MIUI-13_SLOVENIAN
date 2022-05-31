@@ -36,6 +36,7 @@
      <string name="add_alarm">Dodaj alarm</string>
      <string name="add_clock">Dodaj uro</string>
      <string name="add_common_timer">Dodaj kronometer</string>
+     <string name="add_new_sound">Dodaj melodijo zvonjenja</string>
      <string name="add_timer">Dodaj kronometer</string>
      <string name="add_timer_dialog_title">Dodaj časovnik</string>
      <string name="add_timezone_title">Dodaj časovni pas</string>
@@ -133,6 +134,7 @@
      <string name="common_timer_selector">Izberi časovnik</string>
      <string name="confirm">Potrdi</string>
      <string name="confirm_abort">Zavrzi</string>
+     <string name="confirm_remove_custom_ringtone">Če izbrišete to melodijo zvonjenja, bodo alarmi in časovniki, ki jo uporabljajo, namesto tega predvajali privzeto melodijo zvonjenja. Izbrišem zdaj?</string>
      <string name="content_desc_keep_screen">\"Obdrži zaslon\" tipka</string>
      <string name="continue_operation">Nadaljuj</string>
      <string name="continue_step">Naprej</string>
@@ -140,6 +142,7 @@
      <string name="control_set_alarm_with_existing">Alarm nastavljen: %s</string>
      <string name="copy">Kopiraj</string>
      <string name="current_stopwatch_time">Trenutni čas</string>
+     <string name="custom_ringtone_lost_permissions">"Do tega zvoka ni mogoče dostopati."</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="day_concat">", "</string>
@@ -152,6 +155,7 @@
      <string name="delete_timer_item_title">Izbriši izbrano opravilo</string>
      <string name="delete_timezone_title">Izbriši časovni pas</string>
      <string name="deskclock_sleep_no_disturbance">Ura - Urejaj čas za spanje -DND način</string>
+     <string name="device_sounds">Zvoki naprave</string>
      <string name="dialog_confirm_abort">Zavržem spremembe?</string>
      <string name="dialog_legal_off_day">Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"</string>
      <string name="dialog_legal_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o praznikih. Prazniki alarma se bodo izključili v soboto in nedeljo"</string>
@@ -332,7 +336,7 @@
      <string name="module_dialog_neutral">Razumem</string>
      <string name="module_dialog_positive">Strinjam se</string>
      <string name="module_download_cancel">Ne, hvala</string>
-     <string name="module_download_data_msg">Da bodo MIUI pametni alarmi na voljo mora Miui prenesti avdio datoteke. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem času v alarme. ≈20MB mobilnih podatakov bo potrebno za prenos. Prenesem?</string>
+     <string name="module_download_data_msg">Da bodo MIUI pametni alarmi na voljo mora Miui prenesti avdio datoteke. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem času v alarme. ≈20MB mobilnih podatkov bo potrebno za prenos. Prenesem?</string>
      <string name="module_download_data_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
      <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za MIUI pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
      <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
@@ -645,6 +649,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="tv_blank_list_show_text">Tu še ni ničesar. Poiščite lokacijo, da jo dodate na svojo svetovno uro.</string>
      <string name="tv_world_clock_edit_title1">Lokacije, prikazane na začetnem zaslonu</string>
      <string name="tv_world_clock_edit_title2">Druge shranjene lokacije</string>
+     <string name="unknown_ringtone_title">Neznano</string>
      <string name="unselect_all">Prekliči vse</string>
      <string name="upcoming_alarm">Prihodnji alarm: %s</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
@@ -653,7 +658,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="update_health_app_desc_new">Funkcijo sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih funkcij posodobite Mi Fitness na najnovejšo različico.</string>
      <string name="update_health_app_new">Posodobi Mi Fitness</string>
      <string name="update_it">Posodobi</string>
-     <string name="update_notification_info">Posodabljanje podatakov v ozadju…</string>
+     <string name="update_notification_info">Posodabljanje podatkov v ozadju…</string>
      <string name="usage_start">Začni</string>
      <string name="user_agreement">Pogoji uporabe</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
@@ -678,6 +683,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="week_ringtone_recommend_desc">Alarm narave predvaja različne zvoke, odvisno od datuma. Nastavim kot privzeti alarm?</string>
      <string name="white_noise">Hrup iz okolice</string>
      <string name="white_noise_guide_desc">Dodajte zvok v ozadju, da ostanete osredotočeni</string>
+     <string name="white_noise_not_selected">Ni izbrano</string>
+     <string name="white_noise_selected">Izbrano</string>
      <string name="white_noise_selector">Izberi zvok</string>
      <string name="workday_alarm_clock">Alarm ob delavnikih</string>
      <string name="worldclock_edit_label">Svetovna ura</string>
@@ -704,4 +711,5 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
      <string name="yesterday">Včeraj</string>
+     <string name="your_sounds">Moji zvoki</string>
 </resources>

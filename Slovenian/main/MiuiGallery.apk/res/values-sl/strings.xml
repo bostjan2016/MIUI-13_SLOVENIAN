@@ -1102,7 +1102,7 @@ za fotografije"</string>
      <string name="filter_sky_download_failed">"Ne morem prenesti dodatek. Preverite nastavitve omrežja in poskusite ponovno."</string>
      <string name="filter_sky_download_failed_msg">"Ne morem prenesti. Preverite nastavitve omrežja in poskusite ponovno."</string>
      <string name="filter_sky_download_finish">Dodatek uspešno prenešen</string>
-     <string name="filter_sky_download_sdk_without_wifi_msg">"Če niste povezani na WiFi omrežje lahko z uporabo mobilnih podatakov prenesete dodatek (%1$dMB) ki vam omogoča menjavo neba na fotografijah."</string>
+     <string name="filter_sky_download_sdk_without_wifi_msg">"Če niste povezani na WiFi omrežje lahko z uporabo mobilnih podatkov prenesete dodatek (%1$dMB) ki vam omogoča menjavo neba na fotografijah."</string>
      <string name="filter_sky_download_sdk_without_wifi_title">Prenesi dodatek</string>
      <string name="filter_sky_download_with_metered_network_msg">Uporaba mobilnih podatkov za prenos originalnih datotek lahko povzroči dodatne stroške mobilnega operaterja. Vseeno prenesem?</string>
      <string name="filter_sky_download_with_metered_network_title">Uporaba mobilnih podatkov</string>

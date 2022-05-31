@@ -143,7 +143,7 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
-     <string name="four_note">Test bo trajal okoli 3 minute.</string>
+     <string name="four_note">Test bo trajal okoli %d min.</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -403,10 +403,10 @@
      <string name="music_sound_num">Lastni zvok %s</string>
      <string name="music_sound_sample">Sistemski zvoki</string>
      <string name="music_sure_to_delete_sound_msg">Izbrišem izbrane zvoke?</string>
-     <string name="music_thirty_to_sixty_years">30-60 let</string>
+     <string name="music_thirty_to_sixty_years">%d-%d let</string>
      <string name="music_title_dolby_control">Dolby Digital Plus</string>
      <string name="music_unsupport_effect_summary">"USB slušalke niso podprte"</string>
-     <string name="music_upper_sixty_years">Več kot 60 let</string>
+     <string name="music_upper_sixty_years">Več kot %d let</string>
      <string name="name">Ime</string>
      <string name="night">Noč</string>
      <string name="noon">Poldne</string>

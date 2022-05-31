@@ -130,9 +130,9 @@ Pošljite to kodo tehnikom."</string>
      <string name="dialog_privacy_update_title">Posodobljena Pravila o zasebnosti</string>
      <string name="dialog_queued_body">Datoteka je dodana v vrsto in bo kmalu prenešena.</string>
      <string name="dialog_speed_cancel">Prekliči</string>
-     <string name="dialog_speed_msg">Uporaba mobilnih podatakov za testiranje omrežja lahko povzroči velike količine mobilnih podatakov. Nadaljujem?</string>
+     <string name="dialog_speed_msg">Uporaba mobilnih podatkov za testiranje omrežja lahko povzroči velike količine mobilnih podatkov. Nadaljujem?</string>
      <string name="dialog_speed_ok">Nadaljuj</string>
-     <string name="dialog_speed_title">Opozorilo uporabe podatakov</string>
+     <string name="dialog_speed_title">Opozorilo uporabe podatkov</string>
      <string name="dialog_title_disabled_net">Dostop do spleta</string>
      <string name="dialog_title_not_available">Prenos ni uspel</string>
      <string name="dialog_title_queued_body">Datoteka še ni pripravljena</string>
