@@ -921,6 +921,9 @@ Napravite več fotografij vaših prijateljev!"</string>
      <string name="feature_guidance_photo_effects">"Na voljo so novi efekti
 za fotografije"</string>
      <string name="feature_guidance_video_editor_smart_effects">Na voljo so novi efekti</string>
+     <string name="feedback_my_reports">Povratne informacije</string>
+     <string name="feedback_problem">Prijavite težavo</string>
+     <string name="feedback_suggest">Pošljite predlog</string>
      <string name="file_cannot_print">"Ne morem natisniti tega."</string>
      <string name="file_cannot_screen_throw">"Ne morem predvajati tega."</string>
      <string name="file_sending">Pošiljanje datotek…</string>

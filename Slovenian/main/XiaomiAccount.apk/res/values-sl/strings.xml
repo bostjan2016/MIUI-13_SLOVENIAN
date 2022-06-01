@@ -825,6 +825,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="personal_info_desc">Fotografija, vzdevek in drugo</string>
      <string name="phone_activated">%s aktivirano</string>
      <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
+     <string name="phone_register">Uporabite telefonsko številko</string>
      <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
@@ -843,7 +844,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="pwd_width_phone_number_or_mail_num">"Geslo ne sme vsebovati vaše številke telefona, e-pošte ali ID Mi Računa"</string>
      <string name="qq">QQ</string>
      <string name="recycle_phone_notification_msg">Kaže da je vaša številka reciklirana. Pritisnite za posodobitev.</string>
-     <string name="recycle_phone_notification_title">SigurVarnostno tveganje Mi Računa</string>
+     <string name="recycle_phone_notification_title">Varnostno tveganje Mi Računa</string>
      <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>
      <string name="remove_device_success_notice">Če odstranite to napravo iz vašega seznama zaupanja vrednih naprav, boste morda morali znova iti na proces preverjanja ko se prijavite.</string>
      <string name="remove_trust_btn">Odstrani iz zaupanja vrednih naprav</string>
