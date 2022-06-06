@@ -1733,6 +1733,8 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
      <string name="bluetooth_grp_source_selection_options_detail">"Vir oddajanja 
        %1$s je dodan povezanim članom skupine.
        (PIN za oddajanje pustite prazno, če gre za nešifriran vir oddajanja)"</string>
+     <string name="bluetooth_hd_music_play_summary">"Predvajaj %d kHz zvok na napravah Bluetooth brez zmanjšanja hitrosti vzorčenja. Učinki Dolby ne bodo na voljo, ko je ta storitev vklopljena."</string>
+     <string name="bluetooth_hd_music_play_title">Predvajaj %d kHz zvok</string>
      <string name="bluetooth_headset_profile_summary_connected">Povezava s profilom za zvok telefona vzpostavljena</string>
      <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
      <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnim pripomočkom je vzpostavljena</string>

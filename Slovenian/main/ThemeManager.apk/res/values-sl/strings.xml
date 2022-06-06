@@ -51,6 +51,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="ad_app_is_downloading">Prenos…</string>
      <string name="ad_begin_to_download_tip">Začetek prenosa…</string>
      <string name="ad_begin_to_install_tip">Nameščanje…</string>
+     <string name="ad_close">Zaprti oglasi</string>
      <string name="ad_closed_tip">"Videli boste manj oglasov te vrste"</string>
      <string name="ad_details">Podrobnosti</string>
      <string name="ad_download_download">Prenesi</string>
@@ -104,11 +105,12 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="apply_not_support_aod">"Vedno na zaslonu ni podprto v tej napravi"</string>
      <string name="apply_not_support_in_second_space">"Ne morem uporabiti v Drugem prostoru"</string>
      <string name="apply_not_support_maml_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi"</string>
+     <string name="apply_sensor_video_wallpaper_dialog_message">To ozadje bo uporabljeno za notranji in zunanji zaklenjeni zaslon ter začetni zaslon.</string>
      <string name="apply_succeed">Nastavljeno</string>
      <string name="apply_success_not_enable_aod">Najprej vključite Vedno na zaslonu v nastavitvah</string>
      <string name="apply_success_not_support_aod">"Ne morem kombinirati Vedno na zaslonu s temami v tej napravi. Ostali deli te teme so uspešno nastavljeni."</string>
      <string name="apply_theme_with_ringtones">Uporabite melodijo zvonjenja teme</string>
-     <string name="apply_warning_get_device_dialog_message">Če želite uporabljati preneseno vsebino, najprej omogočite tej funkciji dostop do ID-ja vaše naprave. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
+     <string name="apply_warning_get_device_dialog_message">Če želite uporabljati preneseno vsebino, najprej omogočite tej storitvi dostop do ID-ja vaše naprave. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
      <string name="apply_warning_tip_get_device_status">Najprej dovolite tej aplikaciji dostop do ID-ja vaše naprave v Profil> Nastavitve.</string>
      <string name="audio_duration_minutes_format">%1$d min</string>
      <string name="audio_duration_seconds_format">%1$d sek.</string>
@@ -158,6 +160,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="close_custom_permission_warning_text">"Brez dovoljenj za shranjevanje ta aplikacija ne bo mogla prenesti stvari in prilagoditi vaše naprave. Vseeno izklopim?"</string>
+     <string name="close_custom_permission_warning_text_above_eleven">"Brez dovoljenj za shranjevanje ta aplikacija ne bo mogla prilagoditi vaše naprave. Vseeno izklopim?"</string>
      <string name="common_applying">Nameščanje…</string>
      <string name="common_downloading">Prenos…</string>
      <string name="common_format_date_no_year">dd.MM</string>
@@ -221,7 +224,9 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="current_version">Trenutna verzija: %1$s</string>
      <string name="current_version_incompatible">Ta tema je nezdružljiva</string>
      <string name="custom_storage_permission_desc">Če želite spremeniti nastavitve prilagajanja in shraniti prenesene stvari, najprej dovolite tej storitvi dostop do prostora za shranjevanje. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
+     <string name="custom_storage_permission_desc_above_eleven">Če želite spremeniti nastavitve prilagajanja in shraniti prenesene stvari, najprej dovolite tej storitvi dostop do prostora za shranjevanje. To dovoljenje lahko dodelite v Nastavitvah.</string>
      <string name="custom_theme">ime,id</string>
+     <string name="custom_widget">Priporočeni pripomočki</string>
      <string name="date_picker_label_day" />
      <string name="date_picker_label_month" />
      <string name="date_picker_label_year" />
@@ -472,6 +477,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="fold_restore_default_theme_dialog_content">"Teme trenutno ni mogoče uporabljati v tej napravi. Če ste prej spremenili temo, lahko zdaj obnovite privzeto temo. Po tem ne boste mogli več spremeniti svoje teme."</string>
      <string name="fold_restore_default_theme_dialog_disagree">Ne, hvala</string>
      <string name="fold_restore_default_theme_dialog_title">Obnovi privzete teme</string>
+     <string name="fold_sensor_video_wallpaper_group">Dinamična ozadja za zložljive naprave</string>
      <string name="font_compat_dialog_buy_confirm">Kupi</string>
      <string name="font_compat_dialog_buy_content">Nekatere aplikacije morda ne podpirajo pisav drugih proizvajalcev. To težavo z združljivostjo bo odpravila prihajajoča posodobitev sistema. Vseeno kupim to pisavo?</string>
      <string name="font_compat_dialog_cancel">Prekliči</string>
@@ -787,6 +793,7 @@ mm"</string>
      <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+     <string name="mtrl_picker_confirm">V redu</string>
      <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberite datum</string>
      <string name="mtrl_picker_date_header_unselected">Izberite datum</string>
@@ -813,6 +820,7 @@ mm"</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonjenja bo nastavljena za obe SIM kartici.</string>
      <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonjenja je nastavljena za obe SIM kartici.</string>
      <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
@@ -980,6 +988,7 @@ Vse stvari za prilagajanje, ki se trenutno uporabljajo v tej napravi. Privzete n
      <string name="privacy_phone_logoff_theme_service_detail_title">Preberite in se strinjate z \"Izjava o preklicu storitev Teme\" preden prekličete naše storitve.</string>
      <string name="privacy_phone_logoff_theme_service_introduce">"Preklicali boste storitve Teme."</string>
      <string name="privacy_phone_read_and_write_storage">Dostop do shrambe</string>
+     <string name="privacy_phone_read_and_write_storage_above_eleven">Dostop do shrambe</string>
      <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Prebral sem in se strinjam z \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjava o preklicu storitev Teme&lt;/a>&lt;/font>\"."</Data></string>
      <string name="privacy_phone_read_theme_privacy_policy"><Data>"Prebral sem in se strinjam z \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjava o preklicu storitev Pravil o zasebnosti Teme&lt;/a>&lt;/font>\"."</Data></string>
      <string name="privacy_phone_revoke_agree_content_3">3. Vse teme, ozadja, dinamična ozadja, pisave, ikone in melodije zvonjenja, prenesene v to napravo.</string>
@@ -1232,6 +1241,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="resource_search_color_hint_purple">Vijoličasta</string>
      <string name="resource_search_color_hint_red">Rdeča</string>
      <string name="resource_search_color_hint_yellow">Rumena</string>
+     <string name="resource_search_history">Zgodovina iskanja</string>
      <string name="resource_search_list_empty">"Nič nisem našel."</string>
      <string name="resource_see_more">Pokaži več</string>
      <string name="resource_select">Izberi</string>
@@ -1322,6 +1332,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="send">Pošlji</string>
      <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>
      <string name="set_as_colorring">Nastavi kot ton zvonjenja po meri</string>
+     <string name="set_calling">Nastavi</string>
      <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonjenja</string>
      <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
      <string name="set_wallpaper_group_success">"Uspešno nastavljeno \"%1$s\" ozadje</string>
@@ -1410,6 +1421,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="system_cta_runtime_perm_desc_get_accounts">Za dostop do IMEI in zagotavljanje storitev prenosa</string>
      <string name="system_cta_runtime_perm_desc_read_phone_state">Dostop do ID-ja naprave za prepoznavanje naprave</string>
      <string name="system_cta_runtime_perm_desc_storage">Za uporabo stvari, shranjenih v napravi, za prilagajanje in shranjevanje kupljenih stvari</string>
+     <string name="system_cta_runtime_perm_desc_storage_above_eleven">Za spreminjanje nastavitev personalizacije</string>
      <string name="system_cta_runtime_perm_desc_storage_pad">Za uporabo stvari, shranjenih v napravi, za prilagajanje in shranjevanje kupljenih stvari</string>
      <string name="system_precust">Vnaprej nameščene</string>
      <string name="tag_ad">Oglas</string>
@@ -1534,6 +1546,16 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="title_system_audio_resource">Sistemske melodije zvonjenja</string>
      <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
      <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
+     <string name="toast_both_all_apply_failured">"Ni bilo mogoče uporabiti za začetni ali zaklenjeni zaslon"</string>
+     <string name="toast_both_all_apply_success">Uspešno uporabljeno</string>
+     <string name="toast_home_apply_failured">"Ni bilo mogoče uporabiti za začetni zaslon"</string>
+     <string name="toast_home_apply_success">Uspešno uporabljeno</string>
+     <string name="toast_lockscreen_apply_failured">"Ni bilo mogoče uporabiti za zaklenjeni zaslon"</string>
+     <string name="toast_lockscreen_apply_failured_but_home_apply_success">"Uspešno uporabljeno za začetni zaslon. Ni bilo mogoče uporabiti za zaklenjeni zaslon."</string>
+     <string name="toast_lockscreen_apply_success">Uspešno uporabljeno</string>
+     <string name="toast_lockscreen_apply_success_but_home_apply_failured">"Uspešno uporabljeno za zaklenjeni zaslon. Ni bilo mogoče uporabiti za začetni zaslon."</string>
+     <string name="toast_transparent_wallpaper_filter_set_failured">"Ni bilo mogoče uporabiti"</string>
+     <string name="toast_transparent_wallpaper_filter_set_successfully">Uspešno uporabljeno</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="trans_wallpaper_offline_notice">"Prozorna ozadja niso na voljo"</string>
