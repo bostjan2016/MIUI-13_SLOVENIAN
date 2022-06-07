@@ -134,6 +134,7 @@ Tapni za ogled"</string>
      <string name="hint_volume_down">Glasnost -</string>
      <string name="hint_volume_up">Glasnost +</string>
      <string name="home_title_none">Izberite stvari</string>
+     <string name="invisible_mode_error_tip">"Ste brez beleženja zgodovine. Ne morem snemati zvoka."</string>
      <string name="is_checked">Izbrano</string>
      <string name="is_go_home">Nazaj v snemanje zaslona</string>
      <string name="is_go_home_summary">"Odpri začetno stran snemanja zaslona po končanem snemanju"</string>
