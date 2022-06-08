@@ -217,6 +217,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="confirm_unbundled_phone_dialog_message">Številka telefona %1$s je povezana z Mi Račun %2$s. Ta ne bo več povezan z Mi Računom %3$s če boste nadaljevali. Nadaljujem?</string>
      <string name="continue_action">Nadaljuj</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_link">Kopiraj URL</string>
      <string name="copy_to_clipboard_successful">Uspešno kopirano</string>
      <string name="cta_declaration_agree_and_continue">Strinjam se</string>
      <string name="cta_declaration_exit">Izhod</string>
@@ -504,6 +505,8 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="my_device_title">Trenutna naprava</string>
      <string name="my_favorite">Moji priljubljeni</string>
      <string name="need_install_wechat">Najprej namestite WeChat</string>
+     <string name="network_error">Prišlo je do omrežne napake.</string>
+     <string name="network_error_hint">Preverite URL in poskusite znova ali kopirajte URL in odprite v brskalniku.</string>
      <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="new_version">Nova različica</string>
@@ -541,6 +544,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="operator_unicom_agreement">Storitve preverjanja, ki jih zagotavlja China Unicom</string>
      <string name="optional_permissions">Izbirna dovoljenja</string>
      <string name="other_devices_title">Ostale naprave</string>
+     <string name="page_load_failed">"Strani ni mogoče odpreti"</string>
      <string name="passport_Resend">Pošlji ponovno</string>
      <string name="passport_access_denied">Dostop zavrnjen</string>
      <string name="passport_account_hint_text">Email/Telefonska številka/ID Mi računa</string>
