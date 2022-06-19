@@ -1352,6 +1352,7 @@ Oglejte si priporočene!"</string>
      <string name="status_unread">Neprebrano</string>
      <string name="stick">Pripni</string>
      <string name="stick_conversation">Pripni trenutni pogovor</string>
+     <string name="sticked">Pripeto</string>
      <string name="sticked_conversation">Pogovor je že pripet</string>
      <string name="storage_dialog_attachments">MMS priponke:</string>
      <string name="storage_dialog_available_space">Prostor na voljo:</string>
@@ -1511,6 +1512,7 @@ Oglejte si priporočene!"</string>
      <string name="unknown_sender">Imate novo sporočilo</string>
      <string name="unstick">Odpni</string>
      <string name="unstick_conversation">Odpni trenutni pogovor</string>
+     <string name="unsticked">Odpeto</string>
      <string name="unsticked_conversation">Pogovor je že odpet</string>
      <string name="unsubscribe">Odpovej</string>
      <string name="unsupported_media_format">Nepodprt %1$s format.</string>

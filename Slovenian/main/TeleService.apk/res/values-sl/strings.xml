@@ -1550,6 +1550,11 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
      <string name="ivr_type_cu_3">China Unicom 2G</string>
      <string name="ivr_type_settings">Nastavitve plana podatkov</string>
      <string name="ivr_type_settings_hint">Vnesite kodo plana podatkov</string>
+     <string name="jp_sb_label_ndp">"vstavljena je USIM drugega ponudnika
+čakam na vnos kode za odklepanje"</string>
+     <string name="jp_sb_sim_lock_unlock_psw_max_length">Vnesena koda za odklepanje je manjša od 8 ali več kot 16 znakov</string>
+     <string name="jp_sb_unlock_failed">Napaka pri preverjanju kode za odklepanje.</string>
+     <string name="jp_sb_unlock_success">Uspešno preverjanje kode za odklepanje.</string>
      <string name="jump_to_mobile_network_setting">Nastavitve mobilnega omrežja</string>
      <string name="kddi_sim_lock_status_allowed">Dovoljeno</string>
      <string name="kddi_sim_lock_status_code">Koda</string>

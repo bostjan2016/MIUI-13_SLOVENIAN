@@ -615,6 +615,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
      <string name="cit_slider_hall_miui_test_summary">Izvedite celoten premik telefona navzgor in navzdol.</string>
      <string name="cit_slider_hall_test_summary">Izvedite celoten premik telefona navzgor in navzdol.</string>
      <string name="cit_slider_hall_test_title">Slider Hall</string>
+     <string name="cit_soft_light_check_title">Mehka svetloba</string>
      <string name="cit_soft_torch">Sprednja mehka bliskavica</string>
      <string name="cit_soft_torch_first">Prva mehka bliskavica</string>
      <string name="cit_soft_torch_off">Izključi sprednjo mehko bliskavico</string>
@@ -1034,6 +1035,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
      <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
      <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
      <string name="close_third_color_led">zapri tribarvno led</string>
+     <string name="cold_light_title">Hladna luč</string>
      <string name="confirm">Potrdi</string>
      <string name="continue_vibrator">Nadaljuj vibrator</string>
      <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
@@ -1301,6 +1303,7 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="set_dsi_tips">Nastavi DSI</string>
      <string name="show_log">Pokaži zapis</string>
      <string name="slave_battery_authentic">Sekundarna baterija je pristna</string>
+     <string name="soft_light_title">Mehka svetloba</string>
      <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvočniku.</string>
      <string name="start">Start</string>
      <string name="start_extract_sample">Začni izločati vzorce</string>
@@ -1378,5 +1381,6 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
 Prosimo, izberite pravi gumb glede na različne načine vibracij"</string>
      <string name="wait_test">Počakaj test</string>
      <string name="waiting">Počakajte 4s.</string>
+     <string name="warm_light_title">Vroča luč</string>
      <string name="yes">Da</string>
 </resources>

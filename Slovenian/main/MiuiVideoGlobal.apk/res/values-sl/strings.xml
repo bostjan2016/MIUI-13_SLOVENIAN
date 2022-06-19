@@ -271,6 +271,7 @@
      <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
      <string name="common_google_play_services_wear_update_text">Potrebujete novo različico storitev Google Play. V kratkem se bo posodobila.</string>
      <string name="common_open_on_phone">Odpiranje v telefonu</string>
+     <string name="common_retry_late_hint">Počakajte minuto ali dve in poskusite znova</string>
      <string name="common_signin_button_text">Prijava</string>
      <string name="common_signin_button_text_long">Prijava z Google Računom</string>
      <string name="confirm_activate_email">Potrjeno</string>
@@ -324,9 +325,12 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_jumpto_choose">"Ne kaži več"</string>
      <string name="dialog_jumpto_content">Za dostop do dodatnih storitev predvajanja preklopim na Mi Video?</string>
      <string name="dialog_jumpto_title">Mi Video</string>
+     <string name="dialog_look_offline_btn">Pokaži vsebino brez povezave</string>
+     <string name="dialog_no_internet_des">"Niste povezani z omrežjem. Namesto tega pokažem vsebino brez povezave?"</string>
      <string name="dialog_no_video_confirm">Razumem</string>
      <string name="dialog_no_video_tip">Najprej poskusite odpreti podrobnosti videoposnetka. Gumb za prenos bo na voljo, ko bo videoposnetek najden.</string>
      <string name="dialog_no_video_title">"Nič ne najdem"</string>
+     <string name="dialog_open_internet_btn">Povežite se na omrežje</string>
      <string name="dialog_privacy_change_info">"Zaradi prilagoditev storitev, ki jih ponujamo, smo posodobili Pravilnik o zasebnosti Mi Video. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo."</string>
      <string name="dialog_privacy_change_title">Posodobitev Pravil o zasebnosti</string>
      <string name="dialog_privacy_experience_plan">Pridružite se našemu programu uporabniških izkušnj, da z nami delite uporabniške podatke, da bi nam pomagali izboljšati naše izdelke in storitve.</string>
@@ -600,6 +604,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_gallery_video_save_video">Ustvaranje videoposnetka…</string>
      <string name="galleryplus_gallery_video_slow_edit">Počasni posnetek</string>
      <string name="galleryplus_gallery_view_tags">Pokaži oznake</string>
+     <string name="galleryplus_globalvideo_controller_go">Gremo</string>
+     <string name="galleryplus_globalvideo_controller_hint">"Oglejte si nadgrajeno izkušnjo predvajanja Mi Video"</string>
+     <string name="galleryplus_globalvideo_controller_tip">Oglejte si dodatne funkcije</string>
      <string name="galleryplus_is_higher_definition">HD predogled</string>
      <string name="galleryplus_network_connect_check">Povezava z omrežjem ni uspela</string>
      <string name="galleryplus_network_connect_confirm">Povežite se na WiFi omrežje ali vklopite mobilne podatke v nastavitvah omrežja.</string>
@@ -607,11 +614,20 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_network_not_wifi">Uporaba mobilnih podatkov za predvajanje videoposnetkov lahko ustvari dodatne stroške</string>
      <string name="galleryplus_next_step">Naprej</string>
      <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Urejaj datoteke %$s Dodaj podnapise %$s Predvajaj videoposnetke %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle1_new">Uporabite sliko v sliki, predvajanje v ozadju, povečavo, predvajanje in drugo %$s</string>
      <string name="galleryplus_notification_linkvideo_subtitle2">Zaščitite svoje zasebne videoposnetke z geslom %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle2_new">Zaščitite zasebne videoposnetke z geslom in upravljajte svoje datoteke %$s</string>
      <string name="galleryplus_notification_linkvideo_subtitle3">Prenesite videoposnetke iz TikTok-a, Instagram-a in Twitter-ja %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle3_new">Filmi, glasbeni videoposnetki in kratki videoposnetki z vaših najljubših platform %$s</string>
+     <string name="galleryplus_notification_linkvideo_subtitle4">Oglejte si priljubljene drame, komedije in drugo</string>
+     <string name="galleryplus_notification_linkvideo_subtitle5">Glejte in se naročite na šport, animacije, filme in drugo</string>
      <string name="galleryplus_notification_linkvideo_title1">%$s Oglejte si vse super storitve Mi Video!</string>
      <string name="galleryplus_notification_linkvideo_title2">%$s Tapnite za urejanje</string>
      <string name="galleryplus_notification_linkvideo_title3">%1$s Prenesi videoposnetke brezplačno %2$s Urejaj datoteke</string>
+     <string name="galleryplus_notification_linkvideo_title3_new">%$s Hitri, brezplačni prenosi</string>
+     <string name="galleryplus_notification_linkvideo_title4">Na stotine videoposnetkov, brezplačnih za omejen čas</string>
+     <string name="galleryplus_notification_linkvideo_title5">Brezplačno pretakajte svoje najljubše oddaje</string>
+     <string name="galleryplus_notification_try_now_btn">Poskusite</string>
      <string name="galleryplus_online_cta">Mi Video se mora za normalno delovanje povezati z omrežjem. Se strinjate?</string>
      <string name="galleryplus_online_cta_agree">Strinjam se</string>
      <string name="galleryplus_online_cta_disagree">Ne strinjam se</string>
@@ -711,6 +727,46 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="id_namespace">hungama</string>
      <string name="identity">Identifikacija</string>
+     <string name="incentive_details">Podrobnosti</string>
+     <string name="incentive_dialog_cancel_not_interested">Ne, hvala</string>
+     <string name="incentive_dialog_continue_to_watch">Nadaljuj</string>
+     <string name="incentive_dialog_default_message">Glejte %1$s več, da zaslužite %2$s!</string>
+     <string name="incentive_dialog_default_title">Boste nadaljevali z gledanjem?</string>
+     <string name="incentive_dialog_exit">Izhod</string>
+     <string name="incentive_dialog_negative_give_up">Ne, hvala</string>
+     <string name="incentive_dialog_negative_play_next_video">Predvajaj naslednji videoposnetek</string>
+     <string name="incentive_dialog_ok_receive_task">Končano</string>
+     <string name="incentive_dialog_positive_get_credits">Zahtevajte točke</string>
+     <string name="incentive_dialog_positive_login_and_get_credits">Prijava</string>
+     <string name="incentive_exchange">Unovčite</string>
+     <string name="incentive_exchange_code">Koda</string>
+     <string name="incentive_exchange_code_copy">Kopiraj</string>
+     <string name="incentive_exchange_details">Podrobnosti</string>
+     <string name="incentive_exchange_details_current">Naročilo skupaj</string>
+     <string name="incentive_exchange_details_total">Stanje</string>
+     <string name="incentive_exchange_empty_tip">Tukaj še nič. Za začetek unovčite točke.</string>
+     <string name="incentive_exchange_expire_tip">Neprevzete točke bodo izginile ob polnoči</string>
+     <string name="incentive_exchange_lack">Ni na voljo</string>
+     <string name="incentive_exchange_successful">Uspešno unovčeno</string>
+     <string name="incentive_exchange_tip">Te točke so na voljo samo danes</string>
+     <string name="incentive_login_for_claim">Če želite pridobiti točke, se prijavite v svoj Google Račun</string>
+     <string name="incentive_login_tip">Prijavite se, če želite zaslužiti točke in prejemati nagrade</string>
+     <string name="incentive_my_points">Moje točke</string>
+     <string name="incentive_popup_window_share">Delite, da zaslužite točke</string>
+     <string name="incentive_popup_window_subscribe">Naročite se, da zaslužite točke</string>
+     <string name="incentive_rules_title_bar">Pravila</string>
+     <string name="incentive_tab_exchange_recore">Nagrade</string>
+     <string name="incentive_tab_integral_task">Naloge</string>
+     <string name="incentive_tab_points_details">Zgodovina</string>
+     <string name="incentive_tab_prize_redemption">Nagrade</string>
+     <string name="incentive_task_login_receive">Prijava</string>
+     <string name="incentive_task_receive">Dobite</string>
+     <string name="incentive_task_title_daily">Dnevne naloge</string>
+     <string name="incentive_task_title_novice">Za novince</string>
+     <string name="incentive_task_to_get">Začni</string>
+     <string name="incentive_task_to_login">Prijava</string>
+     <string name="incentive_view_all_prizes">Pokaži vse nagrade</string>
+     <string name="incentive_view_details">Podrobnosti</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
      <string name="init_channels">Ponastavi na privzeto</string>
      <string name="input_email_address_notice">Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa</string>
@@ -748,12 +804,14 @@ za videoposnetke"</string>
      <string name="live_title">V živo</string>
      <string name="live_tv_title">TV v živo</string>
      <string name="loading">Samo trenutek…</string>
+     <string name="local_diversion_all_local_videos">Vsi videoposnetki v napravi</string>
      <string name="local_diversion_close_recommend">Zapri</string>
      <string name="local_diversion_download_more_video">Več videoposnetkov</string>
      <string name="local_diversion_manage_local_video">Upravljajte datoteke</string>
      <string name="local_diversion_open_mivideo">"Ogled v Mi Video
 za najboljšo izkušnjo gledanja"</string>
      <string name="local_diversion_recommend_title">Popularno</string>
+     <string name="local_diversion_view_more">Ogled</string>
      <string name="local_empty_guide">Videoposnetki, ki jih posnamete, bodo prikazani tukaj</string>
      <string name="local_folder_select_count">Izbrano %s</string>
      <string name="local_hide_folder_dialog_content">"Skriti videoposnetki ne bodo prikazani na vaših seznamih predvajanja"</string>
@@ -950,6 +1008,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="mediation_ad">REKLAME</string>
      <string name="mediation_ad_can_not_share">"Tega videa ni mogoče deliti"</string>
      <string name="mi_video">Mi Video</string>
+     <string name="mi_video_pip_mode">Slika v sliki</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
@@ -1644,6 +1703,7 @@ Izboljša varnost vašega računa."</string>
      <string name="small_video_download_button">Prenesi</string>
      <string name="small_video_load_more_hint">Povlecite navzgor, da predvajate več videoposnetkov</string>
      <string name="small_video_snack_download_description">Prenesite SnackVideo in si oglejte najnovejše videoposnetke svojih najljubših ustvarjalcev.</string>
+     <string name="small_video_tab_expose_hint">"Odkrijte kratke videoposnetke, ki vam bodo všeč"</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
      <string name="sns_bind_limit">Preveč poskusov. Poskusite drugi način prijave.</string>
@@ -1760,8 +1820,12 @@ Izboljša varnost vašega računa."</string>
      <string name="tip_local_manager_here">Urejajte svoje datoteke tukaj</string>
      <string name="tip_login_for_your_online_playlist">Prijavite se za ogled svojih seznamov predvajanja.</string>
      <string name="tip_play_a_video">%d. Predvajajte video</string>
+     <string name="tip_playlist_guide_hint_a">Oglejte si videoposnetke s svojih Googlovih seznamov predvajanja</string>
+     <string name="tip_playlist_guide_hint_b">Predvajajte videoposnetke s svojih seznamov predvajanja v YouTubu brez oglasov</string>
      <string name="tip_pop"><Data>Vsebino storitve Trenutki vam zagotavlja Firework. Da bi izboljšali vašo izkušnjo gledalca, ter da bi prejeli več ustreznih priporočil vsebin omogočite Fireworku zbiranje, obdelavo in uporabo vaših osebnih podatkov, glede na Pravila o zasebnosti. Preberite in se strinjajte z &lt;a href=\"%1$s\">Firework Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
      <string name="tip_storage_used_space" formatted="false">Uporabljeno %.2f GB/%.2f GB</string>
+     <string name="tip_subscribe_guide_hint_a">Oglejte si ustvarjalce iz svojih naročnin na Google</string>
+     <string name="tip_subscribe_guide_hint_b">"Oglejte si posodobitve kanalov YouTube, na katere ste naročeni brez oglasov"</string>
      <string name="tip_tap_download_button">%d. Tapnite \"Prenos\"</string>
      <string name="tip_topic_click">Tapnite, da boste našli več videoposnetkov iste teme</string>
      <string name="title_bookmarks">Zaznamki</string>
@@ -1786,6 +1850,13 @@ Izboljša varnost vašega računa."</string>
      <string name="toast_bookmark_url_error">Vnesite veljaven URL</string>
      <string name="toast_fail_to_delete">"Ne morem izbrisati. Poskusite znova."</string>
      <string name="toast_fail_to_rename">"Ne morem preimenovati. Poskusite znova."</string>
+     <string name="toast_incentive_claim_fail_11">"Ni bilo mogoče zahtevati točk. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="toast_incentive_claim_out_of_limit_2004">"Danes ne morete zaslužiti več točk. Pišite nam, če imate vprašanja."</string>
+     <string name="toast_incentive_redeem_fail_not_enough_points_2003">"Nimate dovolj točk"</string>
+     <string name="toast_incentive_redeem_fail_out_of_limit_2004">"Te nagrade danes ni mogoče znova unovčiti"</string>
+     <string name="toast_incentive_redeem_fail_prize_expired_2005">Ta nagrada ni na voljo</string>
+     <string name="toast_incentive_redeem_fail_prize_expired_error">"Ni bilo mogoče unovčiti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Ta nagrada trenutno ni na voljo. Poskusite znova kasneje.</string>
      <string name="toast_m3u8_download_path_tip">"Ni mogoče spremeniti poti za prenos vsebine v formatu m3u8"</string>
      <string name="toast_no_data">"Stvar ni več na voljo. Poskusite ponovno kasneje."</string>
      <string name="toast_play_error_tip">"Te datoteke ni mogoče predvajati"</string>
@@ -1797,6 +1868,7 @@ Izboljša varnost vašega računa."</string>
      <string name="tool_bar_notification_setting_title">Orodja Plošče obvestil</string>
      <string name="top_bar_game_desc">Tukaj lahko odkrite veliko novih igric</string>
      <string name="top_bar_game_title">Kanal za igre</string>
+     <string name="trending_history_continue_watching">Nadaljujte ogled</string>
      <string name="trending_scroll_load_more">Povlecite navzgor za več videoposnetkov</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>

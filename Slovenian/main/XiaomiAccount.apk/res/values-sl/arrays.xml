@@ -58,12 +58,12 @@
      <string-array name="settings_search_account_and_authority_global">
         <item>Računi</item>
         <item>Dodajte in urejajte račune drugih oseb</item>
-        <item>Računi;SNS;Facebook;Google;Mi Račun;Račun</item>
+        <item>Računi;SNS;Facebook;Google;Mi Račun;Račun;Xiaomi Račun</item>
      </string-array>
      <string-array name="settings_search_account_and_authority_non_global">
         <item>Računi</item>
         <item>Dodajte in urejajte račune drugih oseb</item>
-        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun</item>
+        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun;Xiaomi Račun</item>
      </string-array>
      <string-array name="settings_search_change_password">
         <item>Zamenjaj geslo</item>

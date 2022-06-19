@@ -1714,6 +1714,10 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
      <string name="bluetooth_enable_inband_ringing">Omogoči zvonjenje iz telefona</string>
      <string name="bluetooth_enable_inband_ringing_summary">Omogoči, da se toni zvonjenja v telefonu predvajajo v slušalkah z mikrofonom Bluetooth</string>
      <string name="bluetooth_enable_opp_high_speed">Visoka hitrost Bluetooth prenosov</string>
+     <string name="bluetooth_enable_opp_high_speed_dialog_message">Za uveljavitev sprememb je potreben ponovni zagon Bluetooth. To dejanje lahko prekine vzpostavljene povezave. Vseeno znova zaženem Bluetooth?</string>
+     <string name="bluetooth_enable_opp_high_speed_dialog_negative">Prekliči</string>
+     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Ponovni zagon</string>
+     <string name="bluetooth_enable_opp_high_speed_dialog_title">Ponovni zagon Bluetooth</string>
      <string name="bluetooth_enable_opp_high_speed_summary">Za prenose uporabi visoke hitrosti Bluetooth P2P protokolov</string>
      <string name="bluetooth_enable_page_scan">omogoči iskanje strani Bluetooth</string>
      <string name="bluetooth_enable_page_scan_summary">onemogoči / omogoči iskanje strani za preskus Bluetooth</string>
@@ -3654,6 +3658,10 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="drive_mode_sms_report">Sporočila</string>
      <string name="drive_mode_title">Avtomobilski način</string>
      <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
+     <string name="dsda_close_toast">Dvojni aktivni način je izklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
+     <string name="dsda_open_toast">Dvojni aktivni način je vklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
+     <string name="dsda_switch_summary">Dovoli obema karticama SIM, da uporabljata mobilne podatke in hkrati opravljata klice</string>
+     <string name="dsda_switch_title">Dvojni aktivni način</string>
      <string name="dsds_activation_failure_body_msg1">Kartico SIM odstranite in jo znova vstavite. Če s tem ne odpravite težave, znova zaženite napravo.</string>
      <string name="dsds_activation_failure_body_msg2">Poskusite znova vklopiti kartico SIM. Če s tem ne odpravite težave, znova zaženite napravo.</string>
      <string name="dsds_activation_failure_title">Kartice SIM ni mogoče aktivirati</string>
@@ -10852,6 +10860,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="sunlight_low_power_notification">">Načina sončne svetlobe ni mogoče vklopiti. Baterija je prenizka."</string>
      <string name="sunlight_mode">Način sončne svetlobe</string>
      <string name="sunlight_mode_summary">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal pretemen</string>
      <string name="sunlight_mode_summary_new">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal preveč temen. Ko je močna zunanja svetloba, se na vrhu zaslona prikaže majhna ikona sonca.</string>

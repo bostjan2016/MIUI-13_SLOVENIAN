@@ -1008,6 +1008,11 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="invalidContactMessage">Stik ne obstaja</string>
      <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s stiki bodo shranjeni v skupino</string>
      <string name="invalid_contacts_to_save_to_group">"Ne morem shraniti neznanih številk"</string>
+     <string name="invisible_mode_dialog_cancel">Preekliči</string>
+     <string name="invisible_mode_dialog_to_close">Izključi</string>
+     <string name="invisible_mode_title">"Ste brez beleženja zgodovine"</string>
+     <string name="invisible_mode_unable_connect_camera">Če želite uporabljati kamero, izklopite način brez beleženja zgodovine. Izklopim zdaj?</string>
+     <string name="invisible_mode_unable_get_location">Izklopite način brez beleženja zgodovine, da boste lahko uporabljali lokacijske storitve in uvažali stike iz drugih naprav prek povezave Bluetooth. Izklopim zdaj?</string>
      <string name="item_offical">Uradno</string>
      <string name="keep_local">"Ne sinhr."</string>
      <string name="keep_local_btn">Uporabi notranji pomnilnik naprave</string>

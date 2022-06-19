@@ -33,6 +33,10 @@
         <item quantity="other">Pokaži %d odgovorov</item>
         <item quantity="one">Pokaži %d odgovor</item>
      </plurals>
+     <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">Izbranih je %s zvezdic</item>
+        <item quantity="one">Izbrana je %s zvezdica</item>
+     </plurals>
      <plurals name="feed_back_home">
         <item quantity="other">Odhod na začetni zaslon čez %1$d sekund…</item>
         <item quantity="one">Odhod na začetni zaslon čez %1$d sekundo…</item>
@@ -57,8 +61,70 @@
         <item quantity="other">čez %d minut</item>
         <item quantity="one">čez 1 minuto</item>
      </plurals>
+     <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">"Prislužili ste si %d točk!"</item>
+        <item quantity="one">"Prislužili ste si %d točko!"</item>
+     </plurals>
+     <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d točk</item>
+        <item quantity="one">%d točka</item>
+     </plurals>
+     <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Prijavite se, če želite zahtevati in si prislužiti %d dodatnih točk</item>
+        <item quantity="one">Prijavite se, če želite zahtevati in si prislužiti %d dodatno točkoo</item>
+     </plurals>
+     <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+     </plurals>
+     <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Oglejte si skupno %d minut, da si prislužite točke! Dokončam nalogo zdaj?</item>
+        <item quantity="one">Oglejte si skupno %d minuto, da si prislužite točke! Dokončam nalogo zdaj?</item>
+     </plurals>
+     <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Za prevzem imate %d točk
+Na voljo samo danes"</item>
+        <item quantity="one">"Za prevzem imate %d točko
+Na voljo samo danes"</item>
+     </plurals>
+     <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">"Danes ste gledali %d minut"</item>
+        <item quantity="one">"Danes ste gledali %d minuto"</item>
+     </plurals>
+     <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Prislužite si %d točk!</item>
+        <item quantity="one">Prislužite si %d točko!</item>
+     </plurals>
+     <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">"Današnje naloge so končane! Prislužili ste si %d točk."</item>
+        <item quantity="one">"Današnje naloge so končane! Prislužili ste si %d točko."</item>
+     </plurals>
+     <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Gledali ste %1$1ds in si prislužili %2$2d točk!</item>
+        <item quantity="one">Gledali ste %1$1ds in si prislužili %2$2d točko!</item>
+     </plurals>
+     <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Oglejte si naključni videoposnetek in si prislužite %d točk</item>
+        <item quantity="one">Oglejte si naključni videoposnetek in si prislužite %d točko</item>
+     </plurals>
+     <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Oglejte si %1$1d sekund videoposnetka in si prislužite %2$2d točk</item>
+        <item quantity="one">Oglejte si %1$1d sekund videoposnetka in si prislužite %2$2d točko</item>
+     </plurals>
+     <plurals name="incentive_toast_share_success">
+        <item quantity="other">Prisluženih %d točk. Še naprej delite, da zaslužite več.</item>
+        <item quantity="one">Prislužena %d točka. Še naprej delite, da zaslužite več.</item>
+     </plurals>
+     <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Prisluženih %d točk. Še naprej se naročajte, da zaslužite več.</item>
+        <item quantity="one">Prislužena %d točka. Še naprej se naročajte, da zaslužite več.</item>
+     </plurals>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
+     </plurals>
+     <plurals name="local_diversion_video_number">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d video</item>
      </plurals>
      <plurals name="local_video_floder">
         <item quantity="other">%d map</item>
@@ -112,6 +178,14 @@
         <item quantity="other">%d novih obvestil</item>
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
+     <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">"Uspešno deljeno. Prislužili ste si %d točk. Zahtevajte v Točkovnem centru."</item>
+        <item quantity="one">"Uspešno deljeno. Prislužili ste si %d točko. Zahtevajte v Točkovnem centru."</item>
+     </plurals>
+     <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">"Uspešno naročeno. Prislužili ste si %d točk. Zahtevajte jih v Točkovnem centru."</item>
+        <item quantity="one">"Uspešno naročeno. Prislužili ste si %d točko. Zahtevajte jo v Točkovnem centru."</item>
+     </plurals>
      <plurals name="notice_user_banned">
         <item quantity="other">Vaša vsebina vsebuje stvari (%1$s) ki kršijo standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
         <item quantity="one">Vaša vsebina vsebuje stvar (%1$s) ki krši standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
@@ -139,6 +213,10 @@
      <plurals name="plus_edit_top_titletext">
         <item quantity="other">Izbrano: %s</item>
         <item quantity="one">Izbrano: %s</item>
+     </plurals>
+     <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Želite trajno izbrisati %s datotek?</item>
+        <item quantity="one">Želite trajno izbrisati %s datoteko?</item>
      </plurals>
      <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Velikost: %.2fKB</item>

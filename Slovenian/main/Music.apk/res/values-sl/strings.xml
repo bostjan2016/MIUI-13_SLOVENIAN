@@ -644,6 +644,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="enjoy_hungama_pro">Uživajte Hungama PRO</string>
      <string name="enroll_in">Vpišite se</string>
      <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
+     <string name="entertainment">Zabava</string>
      <string name="eq_auto">Po izbiri</string>
      <string name="eq_blues">Blues</string>
      <string name="eq_classical">Klasika</string>
@@ -1023,6 +1024,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="low_sound_quality">Nizko</string>
      <string name="lrc_search_failed">Ne morem najti besedila</string>
      <string name="lrc_searching">Iščem…</string>
+     <string name="ludo_tab_guide">Oglejte si naše nove glasbene sobe</string>
      <string name="lyric_is_empty">Besedilo ni na voljo</string>
      <string name="lyric_label">Besedilo</string>
      <string name="lyric_open_other_connect">Prenesi besedilo z uporabo mobilnega omrežja</string>
@@ -1944,6 +1946,7 @@ Bodite Happy"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="welcome_to_entertainment">Oglejte si novo storitev Zabava za glasbene igre in še več</string>
      <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe</string>
      <string name="wifi_required_body" formatted="false">"Uporabite WiFi da dokončate prenos %s . 
 
