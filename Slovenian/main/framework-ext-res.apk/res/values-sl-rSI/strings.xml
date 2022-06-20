@@ -327,6 +327,12 @@
      <string name="notice_audition">Zvoki narave</string>
      <string name="notification_channel_hotspot">Hotspot obvestilo</string>
      <string name="notificationxylophone">Obvestila (Xylophone)</string>
+     <string name="nps_ContentText">Kliknite za preverjanje podrobnosti</string>
+     <string name="nps_ContentTitle">Iskanje GPS</string>
+
+     <string name="nps_description">obvestilo o statusu GPS</string>
+     <string name="nps_mock_description">uporaba virtualne lokacije, za obnovitev je potreben ponovni zagon</string>
+     <string name="nps_monitor_name">GPS lokacija</string>
      <string name="nubia">Nubia</string>
      <string name="nubia_phone">Nubia</string>
      <string name="onehour">30 minut</string>

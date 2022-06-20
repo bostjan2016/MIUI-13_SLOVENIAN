@@ -5605,6 +5605,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="location_category_location_services">Lokacijske storitve</string>
      <string name="location_category_recent_location_access">Nedavni dostop do lokacije</string>
      <string name="location_category_recent_location_requests">Nedavne zahteve za lokacijo</string>
+     <string name="location_description_no_gps">"Ta naprava ne podpira satelitske navigacije. Informacije o lokaciji, ustvarjene na podlagi omrežnih podatkov, morda ne bodo zadostovale za nekatere storitve."</string>
      <string name="location_gps">Sateliti GPS</string>
      <string name="location_high_battery_use">Visoka poraba akumulatorja</string>
      <string name="location_indicator_settings_description">Pokaži za vse lokacije, tudi za zaznane na podlagi omrežja in povezav</string>
@@ -10860,7 +10861,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
-     <string name="sunlight_low_power_notification">">Načina sončne svetlobe ni mogoče vklopiti. Baterija je prenizka."</string>
+     <string name="sunlight_low_power_notification">"Načina sončne svetlobe ni mogoče vklopiti. Baterija je prenizka."</string>
      <string name="sunlight_mode">Način sončne svetlobe</string>
      <string name="sunlight_mode_summary">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal pretemen</string>
      <string name="sunlight_mode_summary_new">Prilagodite svetlost močni svetlobi okolice, da preprečite, da bi zaslon postal preveč temen. Ko je močna zunanja svetloba, se na vrhu zaslona prikaže majhna ikona sonca.</string>

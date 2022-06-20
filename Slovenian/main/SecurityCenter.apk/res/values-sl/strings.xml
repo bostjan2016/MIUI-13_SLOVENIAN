@@ -674,6 +674,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_predict_dialog_message">AI bo predlagala aplikacije, ki bi jih morda trenutno potrebovali</string>
      <string name="app_predict_dialog_success">Uspešno dodano</string>
      <string name="app_predict_folder_name">Išči</string>
+     <string name="app_predict_folder_tips">Predlogi, ki temeljijo na vaših navadah uporabe</string>
      <string name="app_predict_go_shop_search_app">Išči v GetApps</string>
      <string name="app_predict_guide_button">Dodaj</string>
      <string name="app_predict_guide_message">AI bo predlagala aplikacije, ki bi jih morda trenutno potrebovali</string>
@@ -696,6 +697,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_predict_setting_switch_message">Prejemajte predloge aplikacij glede na vaše navade pri uporabi</string>
      <string name="app_predict_setting_switch_title">Prilagojeni predlogi</string>
      <string name="app_predict_setting_title">Predlogi aplikacij</string>
+     <string name="app_predict_settings_train_tip">Samodejno optimiziraj natančnost predlogov</string>
      <string name="app_predict_widget_experience_now">Poskusi</string>
      <string name="app_predict_widget_name_2x4">Predlogi aplikacij</string>
      <string name="app_predict_widget_summary">Hitro zaženite aplikacije, ki jih boste morda potrebovali zdaj</string>
@@ -1132,10 +1134,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="btn_text_start_check">Preglej</string>
      <string name="btn_text_stop">Ustavi</string>
      <string name="btn_text_virus_scan">Preglej</string>
-     <string name="bubble_app_manage">Upravljajte obvestila v oblačkih</string>
-     <string name="bubble_notification">Obvestila v oblačkih</string>
-     <string name="bubble_notification_switch">dovoli obvestila v oblačkih</string>
-     <string name="bubble_notification_switch_desc">Ko je plavajoče okno skrito na robu zaslona, pokažite njegova obvestila v oblačkih</string>
+     <string name="bubble_app_manage">Upravljajte pogovore v oblačkih</string>
+     <string name="bubble_notification">Pogovori v oblačkih</string>
+     <string name="bubble_notification_switch">dovoli pogovore v oblačkih</string>
+     <string name="bubble_notification_switch_desc">Ko je aplikacija Sporočila v plavajočem oknu skrita na robu zaslona, prikaži dohodna sporočila v oblačkih</string>
      <string name="button_background_connection">Dovoli</string>
      <string name="button_block_calls_from_cantacts">Odblokiraj</string>
      <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -2169,6 +2171,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_game_ratio_right">Desno</string>
      <string name="gb_game_ratio_top">Vrh</string>
      <string name="gb_game_time_toast">Časovnik na voljo!</string>
+     <string name="gb_game_tips_restart">Za uveljavitev sprememb se bo igra znova zagnala</string>
      <string name="gb_game_video_bottom_tips">Poglejte ključne trenutke svojih sej v Game Turbo. Videoposnetki se tam privzeto hranijo 7 dni.</string>
      <string name="gb_game_video_bottom_tips_new">Ponovno si oglejte ključne trenutke svojih igralnih sej v Game Turbo. Videoposnetki bodo samodejno izbrisani po %d dneh.</string>
      <string name="gb_game_video_item_tag">Ključni trenutek</string>

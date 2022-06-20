@@ -775,7 +775,7 @@ Preberite in se strinjajte z novo različico %3$s preden nadaljujete."</string>
      <string name="toast_report_copied_to_clipboard">Poročilo kopirano v odložišče</string>
      <string name="toast_report_sent_failed">Ne morem poslati poročila</string>
      <string name="toast_report_sent_succeed">Poročilo poslano</string>
-     <string name="toast_screenshot_too_large">Ni mogoče naložiti slik ali posnetkov večjih od 100MB.</string>
+     <string name="toast_screenshot_too_large">Ni mogoče naložiti slik ali posnetkov večjih od %d MB.</string>
      <string name="toast_third_packagename_required">Vnesi ime aplikacije</string>
      <string name="toast_title_required">Opišite svojo težavo</string>
      <string name="today">Danes</string>

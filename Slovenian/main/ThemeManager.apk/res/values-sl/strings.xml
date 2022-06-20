@@ -1640,7 +1640,9 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="wallpaper_24h">24H</string>
      <string name="wallpaper_apply">Nastavi</string>
      <string name="wallpaper_apply_full">Vse</string>
+     <string name="wallpaper_apply_inner">Uporabi za notranji zaslon</string>
      <string name="wallpaper_apply_large">Notranji zaslon</string>
+     <string name="wallpaper_apply_outer">Uporabi za zunanji zaslon</string>
      <string name="wallpaper_apply_pcmode">Nastavi ozadje v načinu PC</string>
      <string name="wallpaper_apply_small">Zunanji zaslon</string>
      <string name="wallpaper_auto_change_title">Zakl. zaslon</string>

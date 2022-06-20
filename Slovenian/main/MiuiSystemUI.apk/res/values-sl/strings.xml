@@ -2495,6 +2495,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_inversion_label">Obrni barve</string>
      <string name="quick_settings_location_label">Lokacija</string>
      <string name="quick_settings_location_off_label">Lokacija izklopljena</string>
+     <string name="quick_settings_low_battery_toast_text">"Ne morem uporabiti svetilke. Baterija je prenizka."</string>
      <string name="quick_settings_media_device_label">Predstavnostna naprava</string>
      <string name="quick_settings_mic_label">Dostop do mikrofona</string>
      <string name="quick_settings_midrop_label">Mi Drop</string>
