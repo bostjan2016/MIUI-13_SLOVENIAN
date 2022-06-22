@@ -868,12 +868,15 @@
      <string name="hide_elided">▼ Skrij citirano besedilo</string>
      <string name="hide_password">Skrij geslo</string>
      <string name="hint_quick_reply_all">Odgovori vsem</string>
+     <string name="how_to_login_icloud">Kako se prijaviti v pošto iCloud</string>
      <string name="http_auth_dialog_cancel">Prekliči</string>
      <string name="http_auth_dialog_login">Prijava</string>
      <string name="http_auth_dialog_password">Geslo</string>
      <string name="http_auth_dialog_title">Vnesite poverilnice</string>
      <string name="http_auth_dialog_username">Uporabniško ime</string>
+     <string name="icloud_login_tips">Tukaj lahko ustvarite geslo za uporabo s svojo pošto iCloud: iCloud.com</string>
      <string name="icon_content_description">Pogovorno okno</string>
+     <string name="icoud_login_pw_hint">Vnesite geslo</string>
      <string name="imap_name">IMAP</string>
      <string name="imap_or_pop3_name">IMAP/POP3</string>
      <string name="imap_password_error">Napačno geslo dohodnega strežnika</string>
@@ -927,6 +930,7 @@
      <string name="login_des_exchange">Prijavi se v Exchange</string>
      <string name="login_des_gmail">Prijavi se v Gmail</string>
      <string name="login_des_hotmail">Prijavi se v Hotmail</string>
+     <string name="login_des_icloud">Prijavi se v iCloud pošto</string>
      <string name="login_des_mail_ru">Prijavi se v Mail.ru</string>
      <string name="login_des_office365">Prijavi se v Office 365</string>
      <string name="login_des_others">Prijavi se v ostale glavne ponudnike storitve e-pošte</string>
