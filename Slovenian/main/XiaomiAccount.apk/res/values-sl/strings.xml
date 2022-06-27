@@ -992,6 +992,8 @@ ki ste ga prejeli v vaš poštni predal
      <string name="update_phone_number_notice_message">Pred posodobitvijo številke telefona morate potrditi identiteto.</string>
      <string name="updated_nothing">Posodobljeno</string>
      <string name="used_cloud_storage_info">Izkoriščeno %s</string>
+     <string name="user_agreement_network_permission_msg">Povezati se moramo s spletom, da vam lahko zagotovimo potrebne storitve.</string>
+     <string name="user_agreement_use_account_msg">Račun Xiaomi vam omogoča dostop do vseh storitev, ki jih ponuja Xiaomi.</string>
      <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_instruction_all_purpose">Dobrodošli v računu Mi! S svojim računom lahko dostopate do storitev, ki jih ponujajo Xiaomi in z njim povezana podjetja, kot so Mi.com, Xiaomi Cloud in GetApps. Lahko dobite Mi Coins, kupite virtualno blago in uživate v storitvah z dodano vrednostjo, vključno z igrami, temami in e-knjigami.</string>

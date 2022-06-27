@@ -4121,7 +4121,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="face_unlock_offset_right">Pomaknite se levo</string>
      <string name="face_unlock_offset_top">Malo dvignite telefon</string>
      <string name="face_unlock_open_eye">Širše odprite oči</string>
-     <string name="face_unlock_prompt">Zahteva za odklepanje z obrazom</string>
+     <string name="face_unlock_prompt">Posnemi podatke o obrazu
+obrnjenem proti zunanjemu zaslonu"</string>
      <string name="face_unlock_quality">"Ne morem jasno videti vašega obraza"</string>
      <string name="face_unlock_reveal_eye">Napravite oči vidnejše</string>
      <string name="face_unlock_reveal_mouth">Napravite usta vidnejša</string>
@@ -4532,6 +4533,8 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
 Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</string>
      <string name="freeform_guide_slide_to_small_freeform_summary_pad">Povlecite vogal, da zmanjšate aplikacijo</string>
      <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Povlecite vogal, da zmanjšate aplikacijo</string>
+     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Pritisnite in držite spodnji del okna ter ga povlecite do zgornjega roba zaslona.
+Ta storitev deluje samo, če je sistemska navigacija nastavljena na gibe."</string>
      <string name="freeform_guide_slide_to_small_freeform_title">Drsna v plavajoča okna</string>
      <string name="freeform_guide_slide_up_to_close_summary">Povlecite navzgor iz delovne vrstice plavajočega okna</string>
      <string name="freeform_guide_slide_up_to_close_title">Zapiranje plavajočih oken</string>
@@ -6347,6 +6350,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_auto_ack_mode">Ko nosite slušalke, samodejno sprejmite klice</string>
      <string name="miheadset_auto_ack_mode_summary">Samodejno sprejmite klice</string>
      <string name="miheadset_auto_answer_call">Samodejno odgovorite na klice</string>
+     <string name="miheadset_auto_upgrade_reminder">Izklopite samodejne posodobitve in znova preverite, ali so na voljo posodobitve</string>
      <string name="miheadset_bluetooth_audio_title">LC3plus hitrost vzorčenja zvoka Bluetooth</string>
      <string name="miheadset_bright">svetlo</string>
      <string name="miheadset_call_assist">pokliči pomoč</string>
@@ -6514,7 +6518,7 @@ Tega ne morete povrniti!"</string>
      <string name="miui_allow_light">Lučka obvestil</string>
      <string name="miui_allow_music">Glasba</string>
      <string name="miui_allow_vibrate">Vibracija</string>
-     <string name="miui_bubbles_notification">Obvestila mehurčki</string>
+     <string name="miui_bubbles_notification">Oblački za pogovore</string>
      <string name="miui_bubbles_notification_status_opened">Vklj.</string>
      <string name="miui_data_usage_menu_metered">Mobilna dostopna točka</string>
      <string name="miui_disturb_title">Ne moti</string>

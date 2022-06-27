@@ -229,10 +229,12 @@
      <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
      <string name="back">Nazaj</string>
      <string name="back_confirm">Dotaknite se znova za postavljanje aplikacije v ozadje</string>
+     <string name="backpack_frame">Okvir</string>
      <string name="backup_complete">Pesmi shranjene na Mi Cloud</string>
      <string name="backup_empty_button">Ni izbranih pesmi</string>
      <string name="backup_immediate">Shrani</string>
      <string name="backup_song_title">Izberi pesmi za shranjevanje</string>
+     <string name="bag">Nahrbtnik</string>
      <string name="baidu_music">Baidu glasba</string>
      <string name="banner_op">Mi Glasba</string>
      <string name="being_disable_auto_payment">Izklop…</string>
@@ -1589,11 +1591,15 @@ Bodite Happy"</string>
      <string name="select_three_languages">Lahko izberete do %d jezikov</string>
      <string name="selected_count">Izbrano %1$d od %2$d</string>
      <string name="send">Pošlji</string>
+     <string name="send_diagnosis_log">Pošlji dnevnike</string>
+     <string name="send_email_activate_message">E-poštno sporočilo za preverjanje je bilo uspešno poslano</string>
      <string name="send_to">Pošlji</string>
      <string name="send_to_title">Pošlji (%1$s)</string>
+     <string name="sending">Pošiljam…</string>
      <string name="server_connection_failed">Potrebujete povezavo na omrežje</string>
      <string name="server_error">Prišlo je do napake, počakajte minuto ali dve in poskusite ponovno.</string>
      <string name="service_and_settings">Storitve in nastavitve</string>
+     <string name="service_error">napaka strežnika</string>
      <string name="service_stop">Storitev je ustavljena</string>
      <string name="session_create_error">Strežnik je vrnil SESSION CREATE ERROR kodo, kontaktirajte SDK razvojne programerje!</string>
      <string name="set_album_successful">Album shranjen</string>
@@ -1605,7 +1611,7 @@ Bodite Happy"</string>
      <string name="set_id3_successful">Informacije o skladbi shranjene</string>
      <string name="set_lyric_successful">Besedila shranjena</string>
      <string name="set_now">Pojdi v Nastavitve</string>
-     <string name="set_online_home_subtitle">Odprite online priporočila ko se aplikacija zažene</string>
+     <string name="set_online_home_subtitle">Odpri online priporočila ko se aplikacija zažene</string>
      <string name="set_online_home_title">Pokaži online priporočila ob zagonu</string>
      <string name="set_ringtones_failed">Ni bilo mogoče nastaviti melodije zvonjenja</string>
      <string name="set_ringtones_successful">%s nastavi za zvonjenje</string>
