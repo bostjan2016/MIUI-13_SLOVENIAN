@@ -27,6 +27,7 @@
      <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="add_remark_hint">Tukaj vnesite svojo pripombo</string>
      <string name="add_remark_tip">Dotaknite se, da dodate pripombo</string>
@@ -329,6 +330,8 @@
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
+     <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="network_tip_dialog_cancel">Prekini</string>
      <string name="network_tip_dialog_content">Program za prepoznavanje govora potrebuje spletno povezavo za normalno delo.</string>
      <string name="network_tip_dialog_ok">Dovoli</string>
@@ -428,6 +431,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="privacy_policy_title">Pravila o zasebnosti</string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="progress">Vrstica napredovanja predvajanja</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="recognition_button_add_to_queue">Dodaj v čakalno vrsto</string>
      <string name="recognition_button_cancel">Ne zdaj</string>
      <string name="recognition_button_start">Prepoznavanje</string>
@@ -572,6 +576,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="sync_desc_state_complete">Sinhronizirano z oblakom: %1$s</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="tab_all">Vse</string>
      <string name="tab_apps">Aplikacije</string>
      <string name="tab_call">Klici</string>
@@ -614,6 +619,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="tuesday_shortest">T</string>
      <string name="uninstall_warning_content">"Snemalec je sistemska aplikacija. Ko ga odstranite, ne boste mogli snemati in prepisovati zvočnih in glasovnih klicev."</string>
      <string name="uninstall_warning_title">Želite odstraniti Snemalca?</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="usage_description">Prepisovanje zvoka in sinhroniziranje stvari z Mi Cloudom</string>
      <string name="user_feedback">Povratna inf.</string>
      <string name="v7_preference_off">IZKLJUČENO</string>

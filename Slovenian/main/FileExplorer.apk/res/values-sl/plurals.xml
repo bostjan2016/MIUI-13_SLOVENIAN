@@ -153,8 +153,8 @@
         <item quantity="one">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetek,</item>
      </plurals>
      <plurals name="original_user_play_2">
-        <item quantity="other">• Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> oseb!</item>
-        <item quantity="one">• Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> osebo!</item>
+        <item quantity="other">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> oseb!</item>
+        <item quantity="one">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> osebo!</item>
      </plurals>
      <plurals name="remote_video_update">
         <item quantity="other">Najdeno %1$s novih videov</item>

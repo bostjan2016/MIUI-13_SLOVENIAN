@@ -601,6 +601,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="kuyin_user_agreement_content">Naročnine za melodije zvonjenja po meri zagotavlja iFlytek. Preden začnete uporabljati naročnine na melodije zvonjenja, se morate strinjati z %s. Se strinjate ?</string>
      <string name="kuyin_user_agreement_content_href">iFlytek Pravila o zasebnosti</string>
      <string name="lab">Beta storitve</string>
+     <string name="label">Oznaka</string>
      <string name="like_list">Stvari ki so mi všeč</string>
      <string name="live_wallpaper">Živo ozadje</string>
      <string name="load_from_local_photos">Galerija</string>

@@ -150,6 +150,7 @@
      <string name="content_desc_activity_main_add_city">Dodaj kraj</string>
      <string name="content_desc_activity_main_add_city_manage">Urejaj kraj</string>
      <string name="content_desc_activity_main_more_settings">Več nastavitev</string>
+     <string name="content_desc_activity_main_page">Stran %1$d od %2$d</string>
      <string name="content_desc_back_button">Nazaj</string>
      <string name="content_desc_city_manage_del">Izbriši</string>
      <string name="content_desc_city_manage_edit">Uredi</string>
@@ -497,7 +498,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="particulate_matter_not_exceeded">Normalno</string>
      <string name="particulate_matter_serious_exceeded">Previsoko</string>
      <string name="permission_device_info">Informacije o napravi</string>
-     <string name="permission_device_introduce">Za prepoznavanje ID-a naprave na temelju modela naprave in IMEI-ja ter ponujanje lokaliziranih uslug na temelju jezičnih nastavitev</string>
+     <string name="permission_device_introduce">Za prepoznavanje naprav na podlagi modela naprave in zagotavljanje lokaliziranih storitev na podlagi jezikovnih preferenc</string>
      <string name="permission_exit">Izhod</string>
      <string name="permission_privacy">Pravila o zasebnosti (obvezno)</string>
      <string name="permission_select_all">Izberi vse</string>

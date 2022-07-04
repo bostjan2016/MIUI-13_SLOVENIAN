@@ -545,6 +545,8 @@
 "</string>
      <string name="kuaipan_root_fooder">Začetna</string>
      <string name="kuaipan_tech_support">Vpis na kuaipan.cn</string>
+     <string name="lack_perm_msg">Raziskovalec za normalno delovanje potrebuje naslednja dovoljenja: &lt;b>%s&lt;/b></string>
+     <string name="lack_perm_title">Potrebna so dovoljenja</string>
      <string name="launcher_icon_add_description">Dodajte bližnjico na začetni zaslon</string>
      <string name="launcher_icon_remove_description_content">"Raziskovalec je sistemska aplikacija. Ko jo odstranite v svoji napravi ne boste mogli več upravljati datotek."</string>
      <string name="launcher_icon_remove_description_title">Odstranim \"Raziskovalec\" iz zač. zaslona?</string>
@@ -577,6 +579,9 @@
      <string name="login_reg_content1">Uporabite MiDrive kjerkoli.</string>
      <string name="login_success_tip">Prijava je uspela</string>
      <string name="login_tip">Delite videoposnetke popularnih tem za osvajanje nagrad</string>
+     <string name="main_button_continue">Nastavitve</string>
+     <string name="main_button_ok">V redu</string>
+     <string name="main_button_quit">Prekliči</string>
      <string name="make_private">Skrij</string>
      <string name="make_private_msg_1">Skrijem to datoteko?</string>
      <string name="make_private_msg_2">Skrijem te datoteke?</string>
@@ -608,6 +613,7 @@
      <string name="message_praise_comment">" je všeč ta komentar"</string>
      <string name="message_praise_video">" je všeč ta video"</string>
      <string name="message_reply_prefix">Odgovor</string>
+     <string name="message_request_manage_external_storage_perm">Raziskovalec potrebuje dovoljenje za dostop do datotek, da lahko upravlja datoteke v vaši napravi. To dovoljenje lahko podelite v nastavitvah.</string>
      <string name="message_title">Moja sporočila</string>
      <string name="mi_router_label">Router</string>
      <string name="mi_share">MiShare</string>
@@ -991,6 +997,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="path_name_email">E-pošta</string>
      <string name="path_recent_file">Urejaj datoteke v napravi</string>
      <string name="paused">Ustavljeno</string>
+     <string name="perm_manage_external_storage">Dostop do vseh datotek</string>
      <string name="permission_denial">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah."</string>
      <string name="permission_description">Podrobnosti o dovoljenjih</string>
      <string name="permission_required">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah.​"</string>
@@ -1341,6 +1348,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="title_expire_video">O poteku</string>
      <string name="title_recent">NEDAVNO</string>
      <string name="title_report_video">Prijavi</string>
+     <string name="title_request_manage_external_storage_perm">Potrebna so dovoljenja</string>
      <string name="title_select_volume">Izberite mapo</string>
      <string name="title_upload_video">Delite male videoposnetke</string>
      <string name="to_open">Nastavitve</string>

@@ -750,6 +750,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_exchange_successful">Uspešno unovčeno</string>
      <string name="incentive_exchange_tip">Te točke so na voljo samo danes</string>
      <string name="incentive_login_for_claim">Če želite pridobiti točke, se prijavite v svoj Google Račun</string>
+     <string name="incentive_login_success_for_already_claimd">Uspešno vpisani. Zahtevane točke.</string>
      <string name="incentive_login_tip">Prijavite se, če želite zaslužiti točke in prejemati nagrade</string>
      <string name="incentive_my_points">Moje točke</string>
      <string name="incentive_popup_window_share">Delite, da zaslužite točke</string>
@@ -784,6 +785,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="item_download_path">Lokacija prenosov</string>
      <string name="item_download_path_setting">Nastavitve lokacije prenosov</string>
      <string name="item_setting_go_back">Preklic soglasja</string>
+     <string name="item_title_for_search_page_hot">Popularno</string>
      <string name="item_title_unknown">Neznan naslov</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="just_a_second">Samo trenutek…</string>
@@ -1171,6 +1173,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="nick_name">Ime</string>
      <string name="night">Noč</string>
      <string name="no_account">Niste prijavljeni</string>
+     <string name="no_app_found_error">"Aplikacije ni bilo mogoče najti"</string>
      <string name="no_history">Tu ni ničesar</string>
      <string name="no_longer_prompt">"Ne kaži več"</string>
      <string name="no_more_content">"To je za zdaj vse"</string>
@@ -1212,6 +1215,10 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="ok">V redu</string>
      <string name="on_tip_firework_recommend">Od Fireworka boste prejeli prilagojena priporočila vsebine</string>
      <string name="online_play_hint">Na primer: http://www.example.com/video.mp4</string>
+     <string name="online_play_start_loading_tip">Delam…</string>
+     <string name="online_play_start_ready_loading_tip_b">Nalaganje %.2f B/s</string>
+     <string name="online_play_start_ready_loading_tip_kb">Nalaganje %.2f KB/s</string>
+     <string name="online_play_start_ready_loading_tip_mb">Nalaganje %.2f MB/s</string>
      <string name="online_play_title">Vnesite URL</string>
      <string name="open_settings">Nastavitve</string>
      <string name="order_recently_subscribe">Nedavne naročnine</string>
@@ -1703,7 +1710,7 @@ Izboljša varnost vašega računa."</string>
      <string name="small_video_download_button">Prenesi</string>
      <string name="small_video_load_more_hint">Povlecite navzgor, da predvajate več videoposnetkov</string>
      <string name="small_video_snack_download_description">Prenesite SnackVideo in si oglejte najnovejše videoposnetke svojih najljubših ustvarjalcev.</string>
-     <string name="small_video_tab_expose_hint">"Odkrijte kratke videoposnetke, ki vam bodo všeč"</string>
+     <string name="small_video_tab_expose_hint">Tapnite za več kratkih videoposnetkov</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
      <string name="sns_bind_limit">Preveč poskusov. Poskusite drugi način prijave.</string>
@@ -1971,6 +1978,12 @@ Izboljša varnost vašega računa."</string>
      <string name="welcome_tip_into_mivideo">Začnite</string>
      <string name="welcome_tip_skip">Preskoči</string>
      <string name="welcome_tip_title">Dobrodošli v Mi Video</string>
+     <string name="widget_local_video">Locani videoposnetki</string>
+     <string name="widget_local_video_click">Tapnite za ogled videoposnetkov, shranjenih v vaši napravi</string>
+     <string name="widget_more_channel">Več kanalov</string>
+     <string name="widget_more_channel_click">Tapnite za ogled TV kanalov</string>
+     <string name="widget_trending_click">"Tapnite za ogled najbolj priljubljenih videoposnetkov danes"</string>
+     <string name="widget_trending_today">Popularno danes</string>
      <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
      <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
 Velikost: %2$s"</string>

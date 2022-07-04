@@ -174,6 +174,7 @@
      <string name="crop_and_create">Obrezovanje in ustvarjanje Excelove datoteke…</string>
      <string name="crop_cancel_description">Prekliči</string>
      <string name="crop_done_description">Končano</string>
+     <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Izbirno območje mora imeti štiri strani</string>
      <string name="crop_frame_you_selected_cannot_crop_this_picture">Rezalni štirikotnik ne more biti vdolbljen in največji kot ne sme biti večji od 140 stopinj</string>
      <string name="crop_title_study">Obreži fotografijo</string>
      <string name="crop_title_translation">Izberite besedilo za prevod</string>
@@ -334,6 +335,7 @@
      <string name="food_module_title_food">Kalorije</string>
      <string name="form_demo_dialog_negative">Tapnite, da skenirate tabelo, nato izvozite kot datoteko Excel.</string>
      <string name="form_excel_save_sucess">Datoteka Excel je bila uspešno shranjena</string>
+     <string name="form_preview_title">Predogled Excel tabele</string>
      <string name="form_recognition_crop_hint">Prepričajte se, da so vogali tabele znotraj izbranega območja</string>
      <string name="format_error">Neveljavno geslo</string>
      <string name="friday">Petek</string>
@@ -426,6 +428,8 @@
      <string name="link_to_network">Poveži</string>
      <string name="local_ocr_recognition">Lokalno OCR prepoznavanje</string>
      <string name="local_ocr_recognition_str">Preklopljeno na prevajanje brez povezave</string>
+     <string name="location_permission_message">Za povezavo z WiFi</string>
+     <string name="location_permissions_text">Dovolite dostop do lokacije v nastavitvah, da lahko uporabljate to storitev.</string>
      <string name="logistics">Expresna dostava</string>
      <string name="logout_service">Preklic soglasja</string>
      <string name="low_version_tip">Posodobite MIUI za uporabo skenerja.</string>
@@ -557,6 +561,8 @@
      <string name="not_identification_form">"Tabele ni bilo mogoče prepoznati. Izberite znova in začnite znova."</string>
      <string name="not_insert_contact">"Ne morem dodati stika"</string>
      <string name="not_network">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="not_permissions_hint">Za uporabo te storitve dovolite dostop do kamere.</string>
+     <string name="not_permissions_title">Potrebna so dovoljenja</string>
      <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_tips">"Ne kaži več"</string>
@@ -839,8 +845,8 @@
      <string name="to_date">Danes</string>
      <string name="to_install_title">Ta QR koda vas preusmerja na odstranjeno aplikacijo. Prenesem to aplikacijo?</string>
      <string name="to_pay">Zaključite plačilo</string>
-     <string name="toast_net_2g">Omrežje je slabo. Prosimo, zamenjajte omrežje in poskusite znova</string>
-     <string name="toast_net_timeout">Časovna omejitev zahteve je potekla. Prosim poskusite kasneje</string>
+     <string name="toast_net_2g">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Zamenjajte omrežje in poskusite znova."</string>
+     <string name="toast_net_timeout">Časovna omejitev zahteve je potekla. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="today">Danes</string>
      <string name="toinstall">Prenesi</string>
      <string name="tomorrow">Jutri</string>

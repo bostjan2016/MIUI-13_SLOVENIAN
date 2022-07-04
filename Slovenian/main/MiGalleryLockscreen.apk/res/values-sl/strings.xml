@@ -116,6 +116,7 @@
      <string name="at_least_one">Izberite vsaj eno kategorijo</string>
      <string name="auth_fail_warning">Seja je potekla. Prijavite se ponovno.</string>
      <string name="auto_interval">Vsakič ko se naprava odklene</string>
+     <string name="back">Nazaj</string>
      <string name="back_icon_content_description">Nazaj</string>
      <string name="bind_sign_in_title">Dodaj Mi Račun</string>
      <string name="cancel">Prekini</string>
@@ -152,6 +153,7 @@
      <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
+     <string name="close_country_code_content_description">Izbriši kodo države</string>
      <string name="close_gallery">Izključi</string>
      <string name="collect_diagnosis_log">Zberi zapise</string>
      <string name="comment_pop_cancel">Ne zdaj</string>
@@ -278,6 +280,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
      <string name="external_storage_permission">Dostop do shrambe</string>
      <string name="external_storage_permission_summary">Za izbiro ozadij po meri in shranjevanje prenesenih stvari</string>
+     <string name="facebook_login_btn_content_description">Vpis z Facebook</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi Računom</string>
      <string name="favor_list_no_data">Ni stvari.</string>
      <string name="favor_list_title">Priljubljeno</string>
@@ -290,7 +293,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -346,6 +349,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi Račune s to telefonsko številko. Ne morete dodati novih računov.</string>
      <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
      <string name="getverifycode_seconde">s</string>
+     <string name="google_login_btn_content_description">Vpis z Google</string>
      <string name="goto_confirm">Nastavitve</string>
      <string name="goto_sign_up">Napravi račun</string>
      <string name="header_help">Pomoč</string>
@@ -934,6 +938,7 @@ mm"</string>
      <string name="pull_to_refresh_pull_up_label">Podrsaj gor za osvežitev</string>
      <string name="pull_to_refresh_refreshing_label">Osveževanje…</string>
      <string name="pull_to_refresh_release_label">Spusti za osvežitev</string>
+     <string name="qq_login_btn_content_description">Vpis z QQ</string>
      <string name="recommend_switch_desc">Prejem priporočil na osnovi vaših zanimanj</string>
      <string name="recommend_switch_dlg_close">Izključi</string>
      <string name="recommend_switch_dlg_desc">"Ne boste mogli prejemati priporočil na osnovi vaših zanimanj če to izklopite."</string>
@@ -1216,6 +1221,8 @@ mm"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="weibo_login_btn_content_description">Vpis z Weibo</string>
+     <string name="weixin_login_btn_content_description">Vpis z WeChat</string>
      <string name="wlan_download">Posodobi ko je povezano na WiFi</string>
      <string name="wlan_download_cn">Posodobi ko je povezano na WiFi</string>
      <string name="wm_storage_left">"Ostalo: "</string>
