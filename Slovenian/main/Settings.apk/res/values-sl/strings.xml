@@ -2061,6 +2061,7 @@ Dokler bo povezava vzpostavljena, bo naprava %2$s prejemala vse klice na števil
      <string name="bootloader_tips_ok">Razumem</string>
      <string name="bootloader_tips_warning">"Ne prekinite povezave z omrežjem, odjavite se iz Mi računa, naredite vrnitev na tovarniške nastavitve ali brišite podatke sistema."</string>
      <string name="bottom_function_settings">Opravila dodatnih tipk</string>
+     <string name="bottom_to_top_slide">Povlecite navzgor</string>
      <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
      <string name="breathing_light_color_menu_title">Barva LED lučk</string>
      <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
@@ -5505,6 +5506,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="left_function_key">Leva bližnjica</string>
      <string name="left_right_hand_switch">Leva in desna</string>
      <string name="left_right_hand_switch_summary">Preklopite levi in desni del tipkovnice z enim dotikom</string>
+     <string name="left_to_right_slide">Povlecite desno</string>
      <string name="legacy_control_center_desc">Povlecite dol vrstico obvestil za prikaz bližnjic in obvestil</string>
      <string name="legacy_control_center_title">Stara verzija</string>
      <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
@@ -6432,6 +6434,9 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_key_config_triple_right">Trikrat tapnite desno slušalko</string>
      <string name="miheadset_key_config_volume_down">Znižaj glasnost</string>
      <string name="miheadset_key_config_volume_up">Povečaj glasnost</string>
+     <string name="miheadset_keyconfig_click_thrice">Trikrat pritisnite gumb</string>
+     <string name="miheadset_keyconfig_click_twice">Dvakrat pritisnite gumb</string>
+     <string name="miheadset_keyconfig_press_long">Pritisnite in držite gumb %d sekund</string>
      <string name="miheadset_last_version">Posodobljeno</string>
      <string name="miheadset_local_ota">Lokalno</string>
      <string name="miheadset_low_latency">Nizka latenca</string>
@@ -8852,6 +8857,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="rgb_manage_facerecoginition_text">Urejaj podatke 2D obraza</string>
      <string name="right_edge">Desni rob</string>
      <string name="right_function_key">Desna bližnjica</string>
+     <string name="right_to_left_slide">Povlecite levo</string>
      <string name="ring_to_you">FeelRing</string>
      <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
      <string name="ring_to_you_info">Nastavite prilagojen ton ki ga bodo drugi ljudje sliašali preden se javite</string>
@@ -11191,6 +11197,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
      <string name="toggle_auto_speaker_preference_title">Prestavi na zvočnik samodejno</string>
      <string name="toggle_collapse_after_clicked_title">Strni po dotiku</string>
      <string name="tomorrow">Jutri</string>
+     <string name="top_to_bottom_slide">Povlecite dol</string>
      <string name="total">DND</string>
      <string name="total_info">Utišaj dohodne klice, obvestila in omeji vibracije</string>
      <string name="total_info_no_vibrator">Utišaj dohodne klice in obvestila</string>
@@ -13198,6 +13205,8 @@ Shramba poverilnic morda ne bo omogočena"</string>
      <string name="wizard_finish">Dokončaj</string>
      <string name="wizard_next">Naprej</string>
      <string name="wlan_scanner_unresizeble">"Ne morem prikazati WiFi nastavitve v Deljenem zaslonu"</string>
+     <string name="wlan_switch_tips">Preklapljanje omrežij WiFi</string>
+     <string name="wlan_switch_tips_message">Ko preklapljate med pomožnim in glavnim omrežjem WiFi, bo vaša naprava začasno prekinjena s pomožnim omrežjem WiFi. Vseeno zamenjam?</string>
      <string name="wlan_to_cellular_hint_title">WiFi-&gt;Mobilni nasvet</string>
      <string name="words_title">Besedilo</string>
      <string name="work_alarm_ringtone_title">Privzeti delovni zvok alarma</string>

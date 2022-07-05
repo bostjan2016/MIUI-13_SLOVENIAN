@@ -922,6 +922,9 @@ Izbor"</string>
      <string name="device_locked_without_biometric_face">Te naprave ni mogoče odkleniti s podatki o obrazu, ko uporabljate zaklepanje zaslona tretje osebe</string>
      <string name="device_locked_without_biometric_finger">Te naprave ni mogoče odkleniti s prstnimi odtisi, ko uporabljate zaklepanje zaslona tretje osebe</string>
      <string name="device_services">Storitve naprave</string>
+     <string name="dialog_forget_password_cancel">Prekliči</string>
+     <string name="dialog_forget_password_message">Če ste pozabili kodo PUK, lahko to eSIM onemogočite, da ne izgubite dostopa do svoje naprave. Po tem se lahko za pomoč obrnete na svojega operaterja.</string>
+     <string name="dialog_forget_password_ok">Onemogoči</string>
      <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
      <string name="disable_carrier_button_text">Onemogoči eSIM</string>
      <string name="disable_notification_summary">"Ne pokaži obvestil izbranih aplikacij."</string>
@@ -1216,6 +1219,7 @@ Vnesite PIN za odklepanje."</string>
      <string name="force_rtl_layout_all_locales_summary">Vsili smer od desne na levo za vse države/jezike</string>
      <string name="forced_resizable_secondary_display">Aplikacija morda ne bo delovala na sekundarnem zaslonu.</string>
      <string name="forget_password_string">Pozabljeno geslo</string>
+     <string name="forget_password_string_for_esim"><u>Pozabljeno PUK geslo</u></string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>

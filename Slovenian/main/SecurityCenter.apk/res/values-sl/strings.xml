@@ -2204,6 +2204,7 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_new_feature">Novo opravilo</string>
      <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
+     <string name="gb_performace_guide_disable_desc"><Data>"V Game Turbo ni mogoče preklopiti v način Balanced, ko je vklopljen sistemski način Performance. Nastavitve baterije lahko spremenite v Varnost.&lt;br>&lt;a href=\"#\">Odpri Varnost&lt;/a>"</Data></string>
      <string name="gb_performance_balance">Uravnoteženo</string>
      <string name="gb_performance_balance_tips">"Uravnotežen način varčuje z energijo
 ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>

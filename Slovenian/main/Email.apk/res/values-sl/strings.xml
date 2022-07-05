@@ -443,7 +443,7 @@
      <string name="contact_edit_set_black_list_receive_summary">Izbriši pošto ki vsebuje tega prejemnika v polju Prejemnik ali Kopija</string>
      <string name="contact_edit_set_black_list_title">Dodaj na seznam blokiranih</string>
      <string name="contact_edit_set_phone_contact">Uredi stike telefona</string>
-     <string name="contact_edit_title_phone_contact">Seznam stikov na telefonu</string>
+     <string name="contact_edit_title_phone_contact">Uredi stike</string>
      <string name="contact_in_filter_call_phone_str">Klic od %s</string>
      <string name="contact_in_filter_title">Pošiljatelj</string>
      <string name="contact_info_string">Pokaži podatke o stiku za %1$s</string>
@@ -451,7 +451,7 @@
      <string name="contact_list_add_btn">Dodaj</string>
      <string name="contact_list_search_hint">Išči stike</string>
      <string name="contact_list_title">Stiki</string>
-     <string name="contact_permission_error">"Dostop do stikov na telefonu je omejen"</string>
+     <string name="contact_permission_error">Potreben je dostop do sistemskih stikov</string>
      <string name="contact_select">Izberi stike</string>
      <string name="contain_view_all_body">Pokaži celotno besedilo sporočila</string>
      <string name="content_description">%1$s približno %2$s, %3$s na %4$s, %5$s</string>
@@ -460,7 +460,7 @@
      <string name="contextmenu_add_contact">Dodaj stik</string>
      <string name="contextmenu_call">Klic</string>
      <string name="contextmenu_copy">Kopiraj</string>
-     <string name="contextmenu_copylink">Kopiraj URL link</string>
+     <string name="contextmenu_copylink">Kopiraj URL bližnjico</string>
      <string name="contextmenu_create">Ustvari nov stik</string>
      <string name="contextmenu_dial_dot">Kliči…</string>
      <string name="contextmenu_edit">Uredi stik</string>
@@ -564,7 +564,7 @@
      <string name="downlaod_cancel_confirm_download">Ustavi</string>
      <string name="downlaod_cancel_continue_download">Nazaj</string>
      <string name="downlaod_confirm_download">Prenesi</string>
-     <string name="downlaod_nonWifi_confirm_message">Uporabim mobilne podatke za prenos te priponke?</string>
+     <string name="downlaod_nonWifi_confirm_message">Prenos brez povezave WiFi lahko porabi veliko mobilnih podatkov. Vseeno prenesem?</string>
      <string name="downlaod_nonWifi_confirm_title">Prenesem to priponko?</string>
      <string name="download_again">Prenesi znova</string>
      <string name="download_before_sharing">ni se še preneslo....</string>
@@ -652,7 +652,10 @@
      <string name="error_message_respond_revert_07">"Vaše identitete ni bilo mogoče preveriti. Za prijavo uporabite kodo za preverjanje."</string>
      <string name="error_message_respond_revert_16">Vaše geslo je poteklo. Posodobite geslo in se znova prijavite.</string>
      <string name="error_message_respond_revert_21">Vklopite POP3 in poskusite znova.</string>
+     <string name="error_message_respond_revert_24">Vaš naslov IP je bil blokiran. Obrnite se na službo za stranke Sohu Mail, da odpravite to težavo.</string>
      <string name="error_message_respond_revert_25">Preverite omrežno povezavo in poskusite znova.</string>
+     <string name="error_message_respond_revert_26">Vaš račun je bil zamrznjen. Prijavite se v Sohu Mail v brskalniku, da ga aktivirate.</string>
+     <string name="error_message_respond_revert_27">Vaše geslo je poteklo. Prijavite se v Sohu Mail v svojem brskalniku, da dobite geslo, ki ga ustvari strežnik.</string>
      <string name="evening">Večer</string>
      <string name="exception_cancel">"
   Ta dogodek je odpovedan
@@ -673,15 +676,15 @@
      <string name="failed">Slike ni bilo mogoče naložiti</string>
      <string name="failed_parse_eml_file">"Ne morem odpreti EML datoteko, poskusite ponovno."</string>
      <string name="failed_read_phone_state_permission">"Nimate dovoljenja za dostop do stanja telefona"</string>
-     <string name="failed_read_write_calendar_permission">"Dostop do koledarja je omejen"</string>
-     <string name="failed_read_write_contacts_permission">"Dostop do stikov je omejen"</string>
+     <string name="failed_read_write_calendar_permission">Potrebna so dovoljenja za koledar</string>
+     <string name="failed_read_write_contacts_permission">Dovolite dostop do stikov, da lahko uporabljate to storitev</string>
      <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
      <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
      <string name="fallback_menu_item_share_link">Deli povezavo</string>
      <string name="feedback">Pošlji povratne informacije</string>
      <string name="feedback_body">Sporočilo</string>
      <string name="feedback_sent">"Hvala za vaše povratne informacije"</string>
-     <string name="feedback_user_edit_hint">Tu opišite težavo. Ko pregledamo težavo vam bomo poslali e-mail.</string>
+     <string name="feedback_user_edit_hint">Tu opišite težavo. Ko pregledamo težavo vam bomo poslali e-pošto.</string>
      <string name="feedback_user_edit_tag">Od MIUI </string>
      <string name="fetch_bank_sender_list_failure">"Ni bilo mogoče dobiti informacije"</string>
      <string name="fetching_attachment">Pridobivam priponke</string>
@@ -1399,7 +1402,7 @@ Poskusite z ostalo pošto."</string>
      <string name="permission_calendar_subtitle">Za sinhronizacijo dogodkov iz e -pošte v koledar</string>
      <string name="permission_calendar_title">Dostop in dodajanje dogodkov v koledarju</string>
      <string name="permission_des_calendar">Za sinhronizacijo dogodkov v koledarju</string>
-     <string name="permission_des_contact">Za dostop do e-pošte vaših stikov da boste samodejno dokončali prejemnike</string>
+     <string name="permission_des_contact">Za sinhronizacijo vaših e-poštnih stikov kot sistemskih stikov. Priporočamo, da izberete \"Vedno dovoli\", da se izognete motnjam</string>
      <string name="permission_des_detail">"Če ne daste dovoljenj ali nočete deliti vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko odstranite aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah."</string>
      <string name="permission_des_external_storage">Za ustvarjanje novih sporočil e-pošte, kot tudi za shranjevanje in dodajanje priponk</string>
      <string name="permission_des_phone_status">Uporablja se za pridobivanje IMEI za razlikovanje različnih naprav</string>
@@ -1456,7 +1459,7 @@ da prejmete opomnike o plačilih in potovanjih"</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="preference_eas_tips">Tapnite "Aktiviraj" za nastavitev strežnika e-pošte.</string>
      <string name="preference_imap_tips" />
-     <string name="preference_pop_tips">V POP3 bo priponka/e samodejno prenešena z e-pošto. To lahko poveča uporabu mobilnih podatkov.</string>
+     <string name="preference_pop_tips">Priloga bo prenešena z e-pošto. To lahko porabi veliko mobilnih podatkov. Vseeno prenesem?</string>
      <string name="preference_sender_image_description">Pokaži profilno sliko zraven imena pošiljatelja v mapi Prejeto</string>
      <string name="preference_sender_image_title">Profilne slike</string>
      <string name="preferences_signature_dialog_title">Podpis</string>
@@ -1543,6 +1546,7 @@ da prejmete opomnike o plačilih in potovanjih"</string>
      <string name="quick_reply_hint_cc">(V Kp)</string>
      <string name="quick_reply_hint_reply_only_from">Hitri odgovor (samo pošiljatelj)</string>
      <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
+     <string name="quick_translation">Prevedi</string>
      <string name="quote_divider_6">---Original---</string>
      <string name="quote_divider_7">Originalno sporočilo</string>
      <string name="quote_divider_apple">"
@@ -1730,11 +1734,11 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="sunday_shortest">N</string>
      <string name="sync_calendra_fail_per_content">Tapnite za omogočanje dostopa do kalendarja</string>
      <string name="sync_calendra_fail_per_title">"Ne morem sinhronizirati koledar"</string>
-     <string name="sync_calendra_fail_permission">"Ne morem sinhronizirati koledar, dovolite E-pošti dostop do koledarja v nastavitvah"</string>
+     <string name="sync_calendra_fail_permission">"Dodelite dovoljenja za koledar v Nastavitve > Dovoljenja, da boste lahko sinhronizirali dogodke v koledarju"</string>
      <string name="sync_contacts_fail_per_content">Omogočite dovoljenje za stike</string>
      <string name="sync_contacts_fail_per_title">Sinhronizacija stikov ni uspela</string>
      <string name="sync_contacts_fail_permission">Sinhronizacija stikov ni uspela. V nastavitvah omogočite dovoljenje stikov.</string>
-     <string name="sync_contacts_req_per_ignored">Sinhronizacija stikov ni uspela</string>
+     <string name="sync_contacts_req_per_ignored">Dovolite tej aplikaciji, da sinhronizira stike, da bo lahko uporabljala to storitev</string>
      <string name="sync_error">Sinhronizacija ni mogoča.</string>
      <string name="sync_error_message">Vaša naprava nima dovolj prostora za sinhronizacijo.</string>
      <string name="sync_failed_mi_authority_view_detail">Pokaži podrobnosti</string>
@@ -1751,7 +1755,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="system_folders_trash_summary">Izberite koš vašega strežnika</string>
      <string name="system_folders_trash_title">Koš</string>
      <string name="system_root_path">Nastavitve notranjega pomnilnika</string>
-     <string name="system_security_open_error">Varnost ni mogoče nastaviti. Odprite dovoljenja v nastavitvah telefona</string>
+     <string name="system_security_open_error">V nastavitvah dodelite dovoljenja, da lahko odprete Varnost</string>
      <string name="system_setup_open_error">"Ne morem zagnati sinhronizacijo računa, vključite "nastavitev" sistema v računu za sinhronizacijo e-pošte"</string>
      <string name="tablet">tablica</string>
      <string name="tap_to_configure">Tapni za nastavitev</string>
@@ -1775,16 +1779,16 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
      <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
      <string name="toast_bar_sync_failed_client_cert">"Ne morem sinhronizirati zaradi manjkajočega certifikata. Tapnite da boste ponovno dodali certifikat."</string>
-     <string name="toast_bar_sync_failed_mi_authority">Prijavite se da boste avtorizirali svojo napravo</string>
+     <string name="toast_bar_sync_failed_mi_authority">"Ta naprava ni bila avtorizirana. Preverite, ali je v vašem SMS-u prišlo avtorizacijsko sporočilo."</string>
      <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">"Stikov in dogodkov ni bilo mogoče sinhronizirati. Za rešitev te težave spremenite ustrezna dovoljenja v \"Vedno dovoli\"."</string>
      <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
      <string name="toastbar_calendar_permission_switch_allow_only_using">"Dogodkov ni bilo mogoče sinhronizirati. Za rešitev te težave spremenite ustrezna dovoljenja v \"Vedno dovoli\"."</string>
      <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
      <string name="toastbar_contacts_permission_switch_allow_only_using">"Stikov ni bilo mogoče sinhronizirati. Za rešitev te težave spremenite ustrezna dovoljenja v \"Vedno dovoli\"."</string>
-     <string name="toastbar_contacts_permission_switch_close">Dovoljenja stikov so zaprta. Stiki se ne morejo sinhronizirati</string>
+     <string name="toastbar_contacts_permission_switch_close">Dovolite dostop do stikov, da jih lahko dodate kot sistemske stike</string>
      <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
      <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
-     <string name="toastbar_local_contacts_sync_swtich_close">Sprememba sinhronizacije stikov je zaprta. Stiki se ne morejo sinhronizirati</string>
+     <string name="toastbar_local_contacts_sync_swtich_close">Dovolite tej aplikaciji sinhronizacijo stikov, da jih boste lahko dodali kot sistemske stike</string>
      <string name="today">Danes</string>
      <string name="today_text">Danes</string>
      <string name="tomorrow">Jutri</string>
