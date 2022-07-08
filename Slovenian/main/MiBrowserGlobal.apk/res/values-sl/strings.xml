@@ -582,7 +582,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="early_morning">Jutro</string>
      <string name="edit">Uredi</string>
      <string name="edit_bookmark">Uredi zaznamek</string>
-     <string name="edit_bookmark_tips">Zaznamek uspešno dodan. &lt;font color=#247BFF>Edit&lt;/font></string>
+     <string name="edit_bookmark_tips">Zaznamek uspešno dodan. &lt;font color=#247BFF>Uredi&lt;/font></string>
      <string name="edit_quicklink">Uredi</string>
      <string name="empty" />
      <string name="empty_app_name">Druga aplikacija</string>
@@ -595,8 +595,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="enter_developer_mode">Vstop v način za razvijalce</string>
      <string name="enter_incongnito_mode">Odpri način brez beleženja zgodovine</string>
      <string name="enter_news_by_pull_down">Spustite, da boste odprli vsebinski tok</string>
-     <string name="eras_ad">CE</string>
-     <string name="eras_bc">BCE</string>
+    <string name="eras_ad">n. št.</string>
+    <string name="eras_bc">pr. n. št.</string>
      <string name="error_console_eval_button_text">Ocenite</string>
      <string name="error_console_eval_text_hint">Ocenite JavaScript</string>
      <string name="error_console_header_text_maximized">JavaScript console</string>

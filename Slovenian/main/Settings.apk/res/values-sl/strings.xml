@@ -4035,7 +4035,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="ethernet">Ethernet</string>
      <string name="ethernet_data_template">^1 ethernet podatkov</string>
      <string name="ethernet_data_usage">Poraba ethernet podatkov</string>
-     <string name="ethernet_tether_checkbox_text">Splet. povez. prek Ether.</string>
+     <string name="ethernet_tether_checkbox_text">Deljenje preko Etherneta</string>
      <string name="ethernet_tethering_subtext">Deljenje spletne povezave telefona preko povezave USB Ethernet</string>
      <string name="evening">Popoldne</string>
      <string name="every_day">Vsak dan</string>
@@ -4084,7 +4084,8 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="face_data_input_structure_title">3D obraz</string>
      <string name="face_data_input_title">Dodaj obraz</string>
      <string name="face_data_introduction_add">Začni</string>
-     <string name="face_data_introduction_msg">Obraz lahko uporabite za odklepanje naprave ali preverjanje identitete. Preden dodate podatke o obrazu, dodajte geslo zakl. zaslona.</string>
+     <string name="face_data_introduction_msg">Obraz lahko uporabite za odklepanje naprave ali preverjanje identitete.
+Preden dodate podatke o obrazu, dodajte geslo zakl. zaslona.</string>
      <string name="face_data_introduction_next">Naprej</string>
      <string name="face_data_introduction_title">Prepoznavanje obraza</string>
      <string name="face_data_manage_delete">Izbrišem obraz?</string>
@@ -4100,7 +4101,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="face_data_siggesstion_next_time_cn">V redu (%ds)</string>
      <string name="face_data_suggesstion_first">Varnostni problemi: Odklepanje obraza je manj varno kot PIN, geslo ali vzorec. Vaša naprava bo morda odklenjena s vašo fotografijo, pa tudi z osebami ali predmeti podobnega videza.</string>
      <string name="face_data_suggesstion_first_cn">Da boste lahko uporabljali odklepanje z obrazom, moramo zbrati podatke o vašem obrazu, ki bodo nato shranjeni lokalno v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite Odklepanje z obrazom in nato izberite Odklepanje z obrazom > Podatki o obrazu.</string>
-     <string name="face_data_suggesstion_first_cn_highlight">Odklepanje z obrazom je manj varno kot PIN, geslo ali vzorec. Vašo napravo lahko odklenejo z vašo fotografijo, pa tudi ljudje ali predmeti s podobnim videzom.</string>
+     <string name="face_data_suggesstion_first_cn_highlight">Odklepanje z obrazom je manj varno kot PIN, geslo, vzorec ali prstni odtis. Vašo napravo lahko odklenejo z vašo fotografijo, pa tudi ljudje ali predmeti s podobnim videzom.</string>
      <string name="face_data_suggesstion_second">"Prepričajte se, da vsi deli obraza niso pokriti z predmeti in so dobro vidni. In vaš obraz naj bo dobro osvetljen.."</string>
      <string name="face_intro_error_max">Dodali ste največje dovoljeno število obrazov</string>
      <string name="face_intro_error_unknown">Obrazov ni več mogoče dodati</string>
@@ -4224,6 +4225,7 @@ Za več informacij se obrnite na ponudnika obročnega odplačila."</string>
      <string name="finger_add_user_info_dialog_message">"Če želite uporabljati odklepanje prstnih odtisov in plačevati s prstnimi odtisi, moramo zbrati vaš prstni odtis. Prstni odtis bo shranjen lokalno v tej napravi. Če ga želite izbrisati, v nastavitvah poiščite \"Odklepanje s prstnim odtisom\" in nato izberite Odklepanje s prstnim odtisom> Prstni odtis. Če se s tem ne strinjate, te storitve ne boste mogli uporabljati."</string>
      <string name="finger_add_user_info_dialog_next">Strinjam se</string>
      <string name="finger_add_user_info_dialog_title">Pozor</string>
+     <string name="finger_detail_info_text">Spremenite ime prstnega odtisa</string>
      <string name="fingerprint_add_max">Dodate lahko največ toliko prstnih odtisov: %d</string>
      <string name="fingerprint_add_title">Dodaj prstni odtis</string>
      <string name="fingerprint_and_password_entrance_title">Zakl. zaslona &amp; Prstni odtis</string>
@@ -5819,9 +5821,8 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
      <string name="lockpassword_choose_your_password_header_for_fingerprint">Nastavite geslo za prstni odtis</string>
      <string name="lockpassword_choose_your_password_message">Zaradi varnosti nastavite geslo</string>
      <string name="lockpassword_choose_your_password_second_space">"Nastavite geslo
-za Drugi prostor.
-Ta PIN mora vsebovati toliko znakov
-kot PIN za Prvi prostor"</string>
+za Drugi prostor.</string>
+
      <string name="lockpassword_choose_your_pattern_header">Izberite vzorec</string>
      <string name="lockpassword_choose_your_pattern_header_for_biometrics">Nastavite vzorec za uporabo obraza ali prstnega odtisa</string>
      <string name="lockpassword_choose_your_pattern_header_for_face">Nastavite nadomestek preverjanja obraza</string>
@@ -5832,7 +5833,8 @@ kot PIN za Prvi prostor"</string>
      <string name="lockpassword_choose_your_pin_header_for_face">Nastavite nadomestek preverjanja obraza</string>
      <string name="lockpassword_choose_your_pin_header_for_fingerprint">Nastavite kodo PIN za prstni odtis</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Nastavite PIN 
- za Drugi prostor"</string>
+ za Drugi prostor.
+ Biti mora enake dolžine kot PIN Prvega prostora."</string></string>
      <string name="lockpassword_choose_your_pin_message">Zaradi varnosti nastavite kodo PIN</string>
      <string name="lockpassword_choose_your_pin_title">Vnesite %1$d-%2$d znakov</string>
      <string name="lockpassword_choose_your_profile_password_header">Nastavitev gesla za službo</string>
@@ -5928,7 +5930,8 @@ kot PIN za Prvi prostor"</string>
      <string name="lockpattern_recording_incorrect_too_short">Povežite vsaj toliko točk: %d. Poskusite ponovno.</string>
      <string name="lockpattern_recording_inprogress">Ko končate, dvignite prst</string>
      <string name="lockpattern_recording_intro_footer">Če želite pomoč, pritisnite meni.</string>
-     <string name="lockpattern_recording_intro_header">Narišite vzorec za odklepanje:</string>
+     <string name="lockpattern_recording_intro_header">Narišite vzorec za odklepanje.
+Vključite najmanj 4 točke."</string>
      <string name="lockpattern_recording_intro_header_second_space">Narišite vzorec za odklepanje za Drugi prostor:</string>
      <string name="lockpattern_restart_button_text">Ponovno nariši</string>
      <string name="lockpattern_retry_button_text">Izbriši</string>
@@ -6377,6 +6380,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_double_connection_summary">Ko vklopite to storitev lahko sprejemate klice ali predvajate zvok ali video na obeh povezanih napravah, ne da bi morali ročno preklapljati</string>
      <string name="miheadset_double_press_left">Dvakrat pritisnite levo slušalko</string>
      <string name="miheadset_double_press_right">Dvakrat pritisnite desno slušalko</string>
+     <string name="miheadset_double_toast">Za uporabo te storitve vstavite obe slušalki</string>
      <string name="miheadset_dual_connect_mode">Poveži se z dvema napravama</string>
      <string name="miheadset_dual_connect_mode_summary">Vklopite, če želite slušalke hkrati povezati z dvema napravama Bluetooth</string>
      <string name="miheadset_enhanceVoice">Izboljšajte zvok</string>
@@ -7688,6 +7692,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
      <string name="owner_space">Prvi prostor</string>
      <string name="p2p_summary_enable_GPS">Ta storitev deluje, ko so vklopljene lokacijske storitve</string>
      <string name="packages_subtitle">Vključeni paketi</string>
+     <string name="pad_add_fingerprint_finish_message">Nadaljujte z dostopom do dodatnih nastavitev.</string>
+     <string name="pad_add_fingerprint_message">Postavite prst na gumb za vklop</string>
      <string name="pad_backup_summary">Varnostno kopirajte in obnovite elemente v tej napravi</string>
      <string name="pad_backup_title">Mobilna naprava</string>
      <string name="pad_computer_backup_summary">Varnostno kopirajte in obnovite elemente z računalnikom</string>
@@ -10195,7 +10201,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
      <string name="smart_rotate_text_headline">Zaznavanje obraza uporablja sprednji fotoaparat za izboljšanje natančnosti samodejnega zasuka. Slike se nikoli ne shranijo in ne pošljejo Googlu.</string>
      <string name="smart_space_clock">Na prvi pogled</string>
      <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
-     <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
+     <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite napravo s smart cover-jem</string>
      <string name="smartcover_sensitive_title">Smart cover</string>
      <string name="smooth_adjust_ligth">Bolj gladki prehodi</string>
      <string name="smooth_adjust_ligth_summary">Naj bodo prehodi bolj gladki, ko ročno nastavljate svetlost. Ko je ta storitev vklopljena, se lahko v nekaterih primerih pojavijo rahle barvne neskladnosti.</string>

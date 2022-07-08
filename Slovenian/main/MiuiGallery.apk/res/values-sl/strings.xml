@@ -708,6 +708,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="document_provider_guide_step_4">%d. Tapni \"SD kartica\".</string>
      <string name="document_provider_guide_step_5">%d. Tapni \"Izberi\".</string>
      <string name="documentary">Dokumentarec</string>
+     <string name="dolby_vision_icon">Ikona Dolby Vision</string>
      <string name="doodle">Risba</string>
      <string name="doodle_big_size">Veliko</string>
      <string name="doodle_brush">Čopič</string>
@@ -723,7 +724,8 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="doodle_small_size">Majhno</string>
      <string name="doodle_super_big_size">Ogromno</string>
      <string name="doodle_tooltip">Tapni za risbo</string>
-     <string name="double_tap_for_hr_preview_108m">Dvakrat tapnite za prehod na pregled pri 108MP</string>
+     <string name="double_tap_for_hr_preview_108m">Dvakrat tapnite za prehod na 108MP</string>
+     <string name="double_tap_for_hr_preview_200m">Dvakrat tapnite za prehod na 200MP</string>
      <string name="double_tap_to_higher_definition">Dvakrat tapnite še enkrat za HD pregled</string>
      <string name="download">Prenašanje</string>
      <string name="download_canceled">Prenos preklican</string>
@@ -1247,7 +1249,7 @@ za fotografije"</string>
      <string name="functions_are_being_developed">To bo kmalu na voljo. Ostanite v toku!</string>
      <string name="gallery_setting">Nastavitve</string>
      <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
-     <string name="generate_story_summary">MIUI bo analiziral vaše fotografije in napravil albume za spomine. Izključite to, če hočete ustavili izdelavo albuma.</string>
+     <string name="generate_story_summary">"Naredite dovolj fotografij, priključite polnilnik in izklopite zaslon, da se prikažejo spomini. Že ustvarjeni spomini ne bodo izginili, če izklopite to storitev."</string>
      <string name="generate_story_title">Spomini</string>
      <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
      <string name="gif_tip">GIF</string>
@@ -1315,6 +1317,7 @@ za fotografije"</string>
      <string name="homepage_allphotos_tip_dialog_title">Katere slike bi radi videli v \"Fotografije\"?</string>
      <string name="how_to_set_relation">Pritisnite &amp; držite album za kreiranje skupine</string>
      <string name="hr_preview_108m">Zamenjano na pregled pri 108MP</string>
+     <string name="hr_preview_200m">Zamenjano na pregled pri 200MP</string>
      <string name="hybrid_check_network">Nastavitve omrežja</string>
      <string name="hybrid_data_error">Prišlo je do napake</string>
      <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
@@ -1361,6 +1364,8 @@ za fotografije"</string>
      <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
      <string name="input_relation_name">Vnesi ime skupine</string>
      <string name="install_fail">"Ne morem prebrati dodatka zaradi napake."</string>
+     <string name="install_media_editor_download_description">Prenašam…</string>
+     <string name="install_media_editor_download_title">Prenašam Gallery Editor vtičnik…</string>
      <string name="install_media_editor_function_message">Za uporabo prenesite najnovejšo različico urejevalnika galerij \"%1$s\".</string>
      <string name="install_media_editor_latest_message">Če želite urejati stvari, najprej prenesite vtičnik.</string>
      <string name="install_media_editor_message">Če želite urejati stvari, najprej prenesite vtičnik. Prenesem zdaj?</string>
@@ -2204,6 +2209,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="play_video_desc">Predvajaj video</string>
      <string name="pm">pop.</string>
      <string name="posterize">Posterize</string>
+     <string name="pref_today_of_year_summary">"Spomnite se trenutkov, ki ste jih ujeli na ta dan skozi leta. Že ustvarjeni spomini ne bodo izginili, če to storitev izklopite."</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="prepare_to_drop">Shranjevanje v %s</string>
      <string name="preparing_data">Trenutek…</string>
@@ -2559,6 +2565,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="select_item_face">"Na fotog. je %s"</string>
      <string name="select_origin_tip">Originalna datoteka (%s)</string>
      <string name="send">Pošlji</string>
+     <string name="send_dolby_vision_duration_more_than_40s">Videoposnetke Dolby Vision, daljše od 4 minut, je mogoče dati v skupno rabo samo v izvirnem video formatu, ki ga sprejemna naprava morda ne podpira. Vseeno nadaljujem?</string>
+     <string name="send_dolby_vision_video_continue">Continue</string>
      <string name="send_file_beautify_failed">"Ne morem poslati"</string>
      <string name="send_files_by">Delite datoteke preko</string>
      <string name="send_files_to">Pošlji stvari v</string>
@@ -3053,6 +3061,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="today">Danes</string>
      <string name="today_of_year">Na ta dan</string>
      <string name="today_of_year_empty_tip">Tukaj še ni spominov</string>
+     <string name="today_of_year_function_closed_btn_tip">Vklopi</string>
+     <string name="today_of_year_function_closed_tip">"\"Na ta dan\" še niste vklopili"</string>
      <string name="today_of_year_location_num">Lokacije</string>
      <string name="today_of_year_photo_num">Fotografije</string>
      <string name="tomorrow">Jutri</string>

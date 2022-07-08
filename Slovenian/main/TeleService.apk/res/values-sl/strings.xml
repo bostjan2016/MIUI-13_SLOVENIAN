@@ -2023,7 +2023,7 @@ Zmeraj uporabi to številko"</string>
      <string name="msim_setting_sim_info_editor_title">Spremeni informacije o SIM</string>
      <string name="msim_sim_lock">Zaklenjeno</string>
      <string name="msim_sim_radio_off">Izključeno</string>
-     <string name="msim_switch_data_conn_toast">SIM kartice so se zamenjale. Vrsta omrežja se je zamenjala. Poglej dodatne informacije za SIM kartico in mobilna omrežja v meniju Nastavitve.</string>
+     <string name="msim_switch_data_conn_toast">SIM kartice so se zamenjale. Vrsta omrežja se je zamenjala.</string>
      <string name="msim_switch_data_conn_toast_for_h2xct">Reža 2 za SIM kartico podpira samo GSM omrežja. Prednostna vrsta za to omrežje se je spremenila na "samo 2G".</string>
      <string name="mtn_simlock_emergency">V sili</string>
      <string name="mtn_simlock_text_tip">Vstavljena kartica SIM ne izpolnjuje zahteve. Pred uporabo telefona morate vstaviti kartico SIM, ki jo zahteva pogodba. Za podrobnosti se obrnite na lokalnega operaterja.</string>
