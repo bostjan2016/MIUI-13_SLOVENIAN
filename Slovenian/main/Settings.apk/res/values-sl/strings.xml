@@ -5834,7 +5834,7 @@ za Drugi prostor.</string>
      <string name="lockpassword_choose_your_pin_header_for_fingerprint">Nastavite kodo PIN za prstni odtis</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Nastavite PIN 
  za Drugi prostor.
- Biti mora enake dolžine kot PIN Prvega prostora."</string></string>
+ Biti mora enake dolžine kot PIN Prvega prostora."</string>
      <string name="lockpassword_choose_your_pin_message">Zaradi varnosti nastavite kodo PIN</string>
      <string name="lockpassword_choose_your_pin_title">Vnesite %1$d-%2$d znakov</string>
      <string name="lockpassword_choose_your_profile_password_header">Nastavitev gesla za službo</string>

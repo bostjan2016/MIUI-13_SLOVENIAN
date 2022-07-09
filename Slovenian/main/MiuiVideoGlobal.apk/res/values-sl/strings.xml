@@ -1993,6 +1993,7 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
      <string name="year">leto</string>
      <string name="yesterday">Včeraj</string>
+    <string name="yt_subscription_notification_setting_title">Obvestila o naročnini</string>
      <string name="ytb_account">Računi</string>
      <string name="ytb_author_video">Videoposnetki</string>
      <string name="ytb_login">Vpišite se</string>
