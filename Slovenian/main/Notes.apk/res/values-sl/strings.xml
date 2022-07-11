@@ -27,6 +27,7 @@
      <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="action_collapse">Skrij</string>
      <string name="action_expand">Pokaži več</string>
      <string name="action_folder_description">Pokaži mape</string>
@@ -594,6 +595,8 @@ Tapnite + da napravite mapo"</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
+     <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="new_app_name">Mi Beležke</string>
      <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
      <string name="new_audio_create_done_talkback_des">Napravljeno</string>
@@ -735,6 +738,7 @@ Tapnite + da napravite mapo"</string>
      <string name="privacy_notes_fragment_title">Skrite beležke</string>
      <string name="private_entry_available">Spusti za odpiranje zasebne mape</string>
      <string name="private_entry_default">Podrsaj dol za odpiranje zasebne mape</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="quick_note_link_default_text">URL</string>
      <string name="quick_note_new_user_guide">Hitre beležke vam omogočajo ustvarjanje beležk in izvlečkov</string>
      <string name="recover_notes_hint">Prišlo je do napake, pojdite na i.mi.com da vrnete beležke.</string>
@@ -850,6 +854,7 @@ Tapnite + da napravite mapo"</string>
      <string name="sync_note_folder">%1$s in %2$s</string>
      <string name="sync_note_todo">%1$s in %2$s</string>
      <string name="sync_tips">Dotaknite se za sinhr. beležk z Mi Cloudom.</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="theme_blue_description">Modra</string>
      <string name="theme_green_description">Zelena</string>
      <string name="theme_red_description">Rdeča</string>
@@ -995,6 +1000,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="tuesday_shortest">T</string>
      <string name="unclassfied_folder_name">Nekategorizirano</string>
      <string name="undo">Razveljavi</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="unknown_source">Neznan vir</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>

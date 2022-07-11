@@ -62,9 +62,21 @@
         <item quantity="other">Izbrišem %d opravil?</item>
         <item quantity="one">Izbrišem %d opravilo?</item>
      </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Nazaj %d sekund</item>
+        <item quantity="one">Nazaj %d sekundo</item>
+     </plurals>
      <plurals name="file_count">
         <item quantity="other">%1$d stvari</item>
         <item quantity="one">%1$d stvar</item>
+     </plurals>
+     <plurals name="file_num">
+        <item quantity="other">%d datotek</item>
+        <item quantity="one">%d datoteka</item>
      </plurals>
      <plurals name="find_on_page_matches">
         <item quantity="other">%d ujemanj</item>
@@ -73,6 +85,19 @@
      <plurals name="found_new_files">
         <item quantity="other">Najdeno %1$d novih datotek</item>
         <item quantity="one">Najdena %1$d nova datoteka</item>
+     </plurals>
+     <plurals name="general__d_day_unit">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="general__d_hour_unit">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="general__d_minute_unit">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -84,6 +109,10 @@
      <plurals name="hours_ago">
         <item quantity="other">Pred %1$d ur</item>
         <item quantity="one">Pred %1$d uro</item>
+     </plurals>
+     <plurals name="import_confirm">
+        <item quantity="other">Uvozi %d datotek</item>
+        <item quantity="one">Uvozi %d datoteko</item>
      </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
@@ -97,6 +126,10 @@
      <plurals name="in_num_minutes">
         <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 minuto</item>
+     </plurals>
+     <plurals name="intercept_panel_protection_total">
+        <item quantity="other">Zaščiteno %d krat</item>
+        <item quantity="one">Zaščiteno %d krat</item>
      </plurals>
      <plurals name="le_notification_download_completed">
         <item quantity="other">%d stvari je uspešno preneseno</item>
@@ -144,6 +177,22 @@
      <plurals name="pref_adblock_counts">
         <item quantity="other">Blokirano %d oglasov</item>
         <item quantity="one">Blokiran %d oglas</item>
+     </plurals>
+     <plurals name="privacy_dialog_next_plurals">
+        <item quantity="other">Naprej (%1$d secs)</item>
+        <item quantity="one">Naprej (%1$d sec)</item>
+     </plurals>
+     <plurals name="privacy_dialog_revoke_plurals">
+        <item quantity="other">Dvig (%1$d secs)</item>
+        <item quantity="one">Dvig (%1$d sec)</item>
+     </plurals>
+     <plurals name="scanning_notyfy">
+        <item quantity="other">Najdeno %d datotek…</item>
+        <item quantity="one">Najdena %d datoteka…</item>
+     </plurals>
+     <plurals name="scanresult">
+        <item quantity="other">Najdeno %d datotek</item>
+        <item quantity="one">Najdena %d datoteka</item>
      </plurals>
      <plurals name="search_trending_views">
         <item quantity="other">%s iskalnih nizov</item>
@@ -197,6 +246,10 @@
         <item quantity="other">Še %d minut</item>
         <item quantity="one">Še %d minuta</item>
      </plurals>
+     <plurals name="video_views">
+        <item quantity="other">%s ogledov</item>
+        <item quantity="one">%s ogled</item>
+     </plurals>
      <plurals name="videos_updated_amount">
         <item quantity="other">Poglej %1$d novih videoposnetkov</item>
         <item quantity="one">Poglej %1$d nov videoposnetek</item>
@@ -213,5 +266,49 @@
         <item quantity="other">%d oseb je glasovalo</item>
         <item quantity="one">%d oseba je glasovala</item>
         <item quantity="few">%d osebe so glasovale</item>
+     </plurals>
+     <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">Blokirano %d oglasov</item>
+        <item quantity="one">Blokiran %d oglas</item>
+     </plurals>
+     <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">Dovoljeno %d krat</item>
+        <item quantity="one">Dovoljeno %d krat</item>
+     </plurals>
+     <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Omejeno %d krat</item>
+        <item quantity="one">Omejeno %d krat</item>
+     </plurals>
+     <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">Ustavljeno %d krat</item>
+        <item quantity="one">Ustavljeno %d krat</item>
+     </plurals>
+     <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">Blokirano %s oglasov</item>
+        <item quantity="one">Blokiran %s oglas</item>
+     </plurals>
+     <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">Dovoljeno %s krat</item>
+        <item quantity="one">Dovoljeno %s krat</item>
+     </plurals>
+     <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Omejeno %s krat</item>
+        <item quantity="one">Omejeno %s krat</item>
+     </plurals>
+     <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">Ustavljeno %s krat</item>
+        <item quantity="one">Ustavljeno %s krat</item>
+     </plurals>
+     <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s dni</item>
+        <item quantity="one">%s dan</item>
+     </plurals>
+     <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s krat</item>
+        <item quantity="one">%s krat</item>
+     </plurals>
+     <plurals name="welcome_skip_count_down">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
      </plurals>
 </resources>
