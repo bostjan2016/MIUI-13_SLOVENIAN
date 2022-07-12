@@ -342,6 +342,7 @@
      <string name="exit_overview_because_task_stack_changed">Zaprto Nedavno zaradi sprememb, ki so se zgodile v ozadju</string>
      <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
+     <string name="external_not_support_split_screen_j18">"Razdeljeni zaslon ni podprt na zunanjem zaslonu"</string>
      <string name="failed_to_delete_temporary">"Izbris ni mogoč"</string>
      <string name="failed_to_drop">"Ne morem premakniti"</string>
      <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
@@ -1010,7 +1011,7 @@
      <string name="unknown_artist_name">Neznan izvajalec</string>
      <string name="unnamed_folder_name">Mapa</string>
      <string name="unstable_dialog_content">"To je testna verzija sistema Android in je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
-     <string name="unstable_dialog_message">Ta naprava je vpisana v program za predogled razvijalcev za Android 12. Program omogoča razvijalcem in navdušencem za Android, da preizkusijo predhodne različice Androida 12. Ta različica pred izdajo lahko vsebuje napake in napake, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
+     <string name="unstable_dialog_message">Ta naprava je včlanjena v program za predogled razvijalcev za Android 13. Program razvijalcem in navdušencem za Android omogoča, da preizkusijo predizdajne različice Androida 13. Ta predizdajna različica lahko vsebuje napake in okvare, ki lahko vplivajo na normalno delovanje vaše naprave.</string>
      <string name="unstable_dialog_title">Predogled programa za razvijalce za Android</string>
      <string name="upgrade_remove_small_window_in_recents">Za odpiranje aplikacij v plavajočih oknih lahko uporabite stransko vrstico</string>
      <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
@@ -1041,5 +1042,8 @@
      <string name="work_profile_second_content">Delovne aplikacije &amp; podatki so vidni vašemu IT administratorju</string>
      <string name="work_profile_title">Delovni profil</string>
      <string name="work_profile_toggle_label">Delovni profil</string>
+     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
+     <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
+     <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
      <string name="yesterday">Včeraj</string>
 </resources>

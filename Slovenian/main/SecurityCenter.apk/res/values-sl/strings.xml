@@ -1134,6 +1134,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="btn_text_start_check">Preglej</string>
      <string name="btn_text_stop">Ustavi</string>
      <string name="btn_text_virus_scan">Preglej</string>
+     <string name="bubble_app_empty_page">"V tej napravi ni bilo mogoče najti aplikacij, ki podpirajo oblačke za pogovore"</string>
      <string name="bubble_app_manage">Upravljajte pogovore v oblačkih</string>
      <string name="bubble_notification">Pogovori v oblačkih</string>
      <string name="bubble_notification_switch">dovoli pogovore v oblačkih</string>
@@ -5466,9 +5467,9 @@ Za uporabo ^1, ga morate najprej izvreči."</string>
      <string name="storage_dialog_unsupported">"Ta naprava ne podpira ta ^1.
 
 Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
-     <string name="storage_fbo_clear">Defragmentacija</string>
-     <string name="storage_fbo_des">"Notranji pomnilnik trpi zaradi razdrobljenosti, kar lahko znatno upočasni vašo napravo. Defragmentacija se izvede samodejno, ko naprave ne uporabljate. Vaše datoteke fizično organizira v najmanjše število fragmentov, kar zmanjša zamik."</string>
-     <string name="storage_fbo_number_tip">Združeno na %1$s</string>
+     <string name="storage_fbo_clear">FBO osvežitev prostora za shranjevanje</string>
+     <string name="storage_fbo_des">"Notranji pomnilnik je razdrobljen, kar lahko močno upočasni vašo napravo. Osvežitev pomnilnika FBO deluje samodejno, ko naprave ne uporabljate. Vaše datoteke fizično organizira v najmanjše število fragmentov, kar zmanjša zamik."</string>
+     <string name="storage_fbo_number_tip">Obdelano %1$s</string>
      <string name="storage_fbo_tools">Optimizacija shrambe</string>
      <string name="storage_file_delete_tip">Želite trajno izbrisati izbrane stvari? Nekatere od njih se lahko po potrebi ponovno naložijo.</string>
      <string name="storage_file_dialog_delete_title">Izbriši stvari</string>

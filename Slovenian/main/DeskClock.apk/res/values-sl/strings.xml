@@ -707,6 +707,8 @@ ko bo Mi Zdravje analiziral dovolj podatkov"</string>
      <string name="worldcolock_timezone_gap">%s H</string>
      <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
      <string name="xiaoai_ringtone_title">Mi AI zvonjenja</string>
+     <string name="xiaomi_deskclock_uninstall_description_content">"Ura je sistemska aplikacija. Ko odstranite aplikacijo, ne boste mogli preveriti časa, nastaviti alarmov ali uporabljati drugih storitev ure."</string>
+     <string name="xiaomi_deskclock_uninstall_description_title">Odstranim uro?</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
