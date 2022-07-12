@@ -98,7 +98,6 @@
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
      </plurals>
-     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
