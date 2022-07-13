@@ -747,7 +747,7 @@
      <string name="scanHistory_close">Izključi</string>
      <string name="scanHistory_isOpen">Začnem spremljati zgodovino skeniranih stvari?</string>
      <string name="scanHistory_open">Vključi</string>
-     <string name="scan_document_top_tip">Skenirajte fizični dokument in ustvarite PDF</string>
+     <string name="scan_document_top_tip">Skenirajte papirnate dokumente, da ustvarite PDF</string>
      <string name="scan_document_top_tip_second">Skenirajte več dokumentov in ustvarite en PDF</string>
      <string name="scan_fail">"Ne morem skenirati kode"</string>
      <string name="scan_form">Skeniraj tabelo</string>

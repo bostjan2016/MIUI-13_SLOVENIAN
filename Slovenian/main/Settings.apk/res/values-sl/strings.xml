@@ -6362,6 +6362,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_cancel_device">Prekliči</string>
      <string name="miheadset_checkUpdate">Preveri za posodobitve</string>
      <string name="miheadset_closeAnc">Izklj.</string>
+     <string name="miheadset_close_leaudio_first">Izklopite LE Audio v Dodatnih nastavitvah, da boste lahko uporabljali to storitev</string>
      <string name="miheadset_codec_sample_rate">Hitrost vzorčenja zvoka Bluetooth</string>
      <string name="miheadset_common_problem">Pogosta vprašanja</string>
      <string name="miheadset_connectHeadsetForFw">Priključite slušalke, da si ogledate različico vdelane programske opreme</string>
@@ -6455,6 +6456,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_notification_title">Pokaži v plošči obvestil</string>
      <string name="miheadset_ok_device">V redu</string>
      <string name="miheadset_openAnc">Preklic hrupa</string>
+     <string name="miheadset_openAnc2">Odpravljanje hrupa</string>
      <string name="miheadset_play_pause">predvajaj/premor</string>
      <string name="miheadset_plus">Glasnost gor</string>
      <string name="miheadset_preferences">Nastavitve</string>
