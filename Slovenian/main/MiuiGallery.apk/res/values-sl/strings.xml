@@ -2033,7 +2033,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="photo_editor_crop_size_free">Po meri</string>
      <string name="photo_editor_crop_size_fullscreen">Cel zaslon</string>
      <string name="photo_editor_crop_size_origin">Original</string>
-     <string name="photo_editor_doodle">Doodle</string>
+     <string name="photo_editor_doodle">Risba</string>
      <string name="photo_editor_filter">Filter</string>
      <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
      <string name="photo_editor_frame">Okvir</string>
@@ -2439,7 +2439,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="scope_storage_dialog_title">Zahtevana so dovoljenja</string>
      <string name="scope_storage_operation_btn_1">Shrani</string>
      <string name="scope_storage_operation_btn_2">Dostop do te mape</string>
-     <string name="screen_doodle_talkback_size">Doodle širina črte</string>
+     <string name="screen_doodle_talkback_size">Risba širina črte</string>
      <string name="screen_editor_btn_delete">Izbriši</string>
      <string name="screen_editor_btn_save">Shrani</string>
      <string name="screen_editor_btn_shell_off">Odstrani okvir naprave</string>

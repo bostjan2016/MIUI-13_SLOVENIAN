@@ -223,7 +223,7 @@
      <string name="doodle_brush_pen">Svinčnik</string>
      <string name="doodle_brush_pencil">Kemični svenčnik</string>
      <string name="doodle_brush_watercolor">Flomaster</string>
-     <string name="doodle_feature">Doodles</string>
+     <string name="doodle_feature">Risbe</string>
      <string name="doodle_guide_brush_config_hint">Ponovno tapnite, da prilagodite širino potez in motnost</string>
      <string name="doodle_guide_dialog_confirm">V redu</string>
      <string name="doodle_guide_dialog_skip">Preskoči</string>
@@ -232,8 +232,8 @@
      <string name="doodle_palette">Paleta barv</string>
      <string name="doodle_save_progress_text">Shranjevanje…</string>
      <string name="doodle_saving">Shranjevanje</string>
-     <string name="doodle_setting_show_grid_background">Doodle mrežne črte</string>
-     <string name="doodle_setting_show_grid_background_desc">Pokaži mrežne črte doodle</string>
+     <string name="doodle_setting_show_grid_background">Risba mrežne črte</string>
+     <string name="doodle_setting_show_grid_background_desc">Pokaži mrežne črte risbe</string>
      <string name="doodle_text_click_input_text">Dotaknite se za vnos besedila</string>
      <string name="doodle_tool_background">Zamenjaj ozadje</string>
      <string name="doodle_tool_eraser">Brisalec</string>
