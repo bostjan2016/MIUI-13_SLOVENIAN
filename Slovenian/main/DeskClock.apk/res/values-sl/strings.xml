@@ -69,6 +69,7 @@
      <string name="alarmclock_empty_text">Ni alarmov</string>
      <string name="alarmclock_silent_hint">Alarm je utišan</string>
      <string name="alert">Zvonjenje</string>
+     <string name="alert_page_desc">Pritisnite in pridržite, nato povlecite navzgor, da izklopite alarm</string>
      <string name="alert_ringtone">Melodija zvonjenja alarma</string>
      <string name="alert_vibrate_enable_summary">Vibriraj ko se alarm ugasne</string>
      <string name="alert_volume">Glasnost alarma</string>

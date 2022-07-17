@@ -567,7 +567,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permdesc_read_contacts">Dovolim %1$s dostop do stikov?</string>
      <string name="permdesc_read_mms">Dovolim %1$s branje večpredstavnostnih sporočil?</string>
      <string name="permdesc_read_phone_state">Dovolim %1$s dostop do stanja naprave in informacij o mobilnem omrežju?</string>
-     <string name="permdesc_read_sms">Dovolim %1$s, da bere ali pošilja besedilna in večpredstavnostna sporočila?</string>
+     <string name="permdesc_read_sms">Dovolim %1$s, da bere besedilna in večpredstavnostna sporočila?</string>
      <string name="permdesc_read_storage">Dovolim %1$s dostop do fotografij in datotek shranjenih v napravi?</string>
      <string name="permdesc_recognition">Dovolim %1$s dostop do podatkov o zdravju &amp; aktivnostih?</string>
      <string name="permdesc_send_sms">Dovolim %1$s pošiljanje besedilnih sporočil?</string>

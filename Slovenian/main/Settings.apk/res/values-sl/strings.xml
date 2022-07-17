@@ -12114,7 +12114,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="virtual_sim_global_title">Storitev mob. podatkov</string>
      <string name="virtual_sim_search_title">Navidezni SIM</string>
      <string name="virtual_sim_title">Gostovanje omrežje podatkov</string>
-     <string name="virtual_surround_sound_switch_summary">"Obogati globino zvoka za predvajanje zvoka in videa v slušalkah (ta storitev ne bo delovala, ko se predvaja zvok %.1f)"</string>
+     <string name="virtual_surround_sound_switch_summary">Obogati globino zvoka za predvajanje zvoka in videa v slušalkah</string>
+     <string name="virtual_surround_sound_switch_summary_global">"Obogati globino zvoka za predvajanje zvoka in videa v slušalkah. Ta storitev ne bo delovala, ko je LDAC vklopljen."</string>
      <string name="virtual_surround_sound_switch_title">Virtualni potopni zvok</string>
      <string name="virus_scan">Preverjanje</string>
      <string name="virus_scan_app_continue">Nadaljuj preverjanje</string>

@@ -36,8 +36,8 @@
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
         <item>Za prijavo uporabite pooblaščeno kodo. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
         <item>Koda ni pravilna. Več informacij na https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>LOGIN Uporabnik z napako pri prijavi je onemogočen</item>
-	<item>LOGIN napaka, Nantai vedno bolj pleteni\ufffd</item>
+        <item>LOGIN Napaka pri prijavi uporabnik je suspendiran</item>
+        <item>LOGIN failure, Nantai vedno bolj spletena\ufffd</item>
         <item>LOGIN errno:1423, napaka uporabniškega gesla(sp return:2200019)</item>
         <item>AUTHENTICATIONFAILED LOGIN Neveljavne poverilnice</item>
         <item>Prijava ni uspela. Geslo je napačno ali storitev ni odprta</item>
@@ -57,6 +57,8 @@
         <item>Neveljavna prijava ali geslo</item>
         <item>na črnem seznamu, preklopite svoje omrežje ali se prijavite na  https://mail.sohu.com to setup client ip whitelist</item>
         <item>java.net.UnknownHostException: Gostitelja ni mogoče razrešiti</item>
+        <item>odjemalec onemogočen, spremenite stanje na spletnem mestu https://mail.sohu.com</item>
+        <item>brez začetnega gesla, prijavite se https://mail.sohu.com to generate client password</item>
      </string-array>
      <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčkeno</item>

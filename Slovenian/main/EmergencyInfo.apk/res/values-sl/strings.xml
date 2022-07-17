@@ -278,6 +278,8 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
      <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>
      <string name="convert_to_file_encryption_enabled">Spremeni…</string>
      <string name="copy">Kopiraj</string>
+     <string name="count_down_unit">s</string>
+     <string name="countdown_text_content_description">{sekund_ostalo, množina, =1 {1 sekunda} ostalo {# sekund} }</string>
      <string name="creating_new_user_dialog_message">Ustvarjanje novega uporabnika…</string>
      <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeče – zeleno)</string>
      <string name="daltonizer_mode_disabled">Onemogočeno</string>

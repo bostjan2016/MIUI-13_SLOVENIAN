@@ -104,7 +104,7 @@
      <string name="am">dop.</string>
      <string name="animator_duration_scale_title">Merilo trajanja animacije</string>
      <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
-    <string name="app_name">MIUI Bluetooth</string>
+     <string name="app_name">MIUI Bluetooth</string>
      <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
      <string name="audio_relay_default_device_name">Mi AI zvočniki</string>
      <string name="auto_connect_disable">Samodejno povezovanje je izklopljeno</string>
@@ -286,6 +286,7 @@ Avdio"</string>
      <string name="confignet_app_download">Namesti</string>
      <string name="confignet_cancel">Prekliči</string>
      <string name="confignet_download_title">Namestite Mi Fitness za nadaljevanje</string>
+     <string name="confirm">Potrdi</string>
      <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, storitve za zaščito naprave v tej napravi ne bodo delovale.</string>
      <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
      <string name="connected_to_metered_access_point">Povezano z omrežjem z omejenim prenosom podatkov</string>
@@ -502,8 +503,10 @@ Hitrejši protokol povezave."</string>
      <string name="guest_resetting">Ponastavljanje gosta …</string>
      <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
      <string name="hdcp_checking_title">Preverjanje HDCP</string>
-     <string name="headset_battery_fw_failed">slaba baterija</string>
+     <string name="headset_battery_fw_failed">Slaba baterija</string>
+     <string name="headset_battery_low">Slaba baterija. Napolnite slušalke.</string>
      <string name="headset_connect_device">poveži napravo</string>
+     <string name="headset_connect_timeout">Povezava je potekla. Začnite znova.</string>
      <string name="headset_device_check_failed">ni uspelo</string>
      <string name="headset_device_donot_move">ne premikaj naprave</string>
      <string name="headset_device_enter_upgrade_failed">ni uspelo</string>
@@ -533,6 +536,7 @@ Hitrejši protokol povezave."</string>
      <string name="headset_loss_notify_summary">Kaže, da vsaj ena od vaših slušalk ni v ohišju za polnjenje. Poglejte naokoli!</string>
      <string name="headset_loss_notify_summary1">"Kaže, da slušalke niso v torbici. Vrnite jih, da se napolnijo."</string>
      <string name="headset_loss_notify_title">Manjka opozorilo slušalk</string>
+     <string name="headset_not_in_case">Obe slušalki vstavite v etui in začnite znova</string>
      <string name="headset_read_fw_state">ni uspelo</string>
      <string name="headset_update_failed">ni uspelo</string>
      <string name="headset_update_ok">v redu</string>

@@ -509,6 +509,7 @@
      <string name="if_cancel">Odpovem?</string>
      <string name="image_loading_error">"Ne morem prebrati slike"</string>
      <string name="imm_str_storage">Shramba</string>
+     <string name="import_files_from_old_phones">Uvozi iz stare naprave</string>
      <string name="input_memo_hint">Vnesite dodatne razloge (po izbiri)</string>
      <string name="install_fail">"Ne morem namestiti"</string>
      <string name="installing">Nameščanje…</string>
