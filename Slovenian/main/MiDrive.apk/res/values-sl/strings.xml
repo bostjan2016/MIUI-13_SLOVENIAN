@@ -665,7 +665,9 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="pause_upload">Premor</string>
      <string name="paused">Premor</string>
      <string name="permission_account_desc">Dostop do vseh računov, shranjenih v tej napravi</string>
+     <string name="permission_account_desc_pad">Dostop do vseh računov, shranjenih v tej napravi</string>
      <string name="permission_account_title">Računi</string>
+     <string name="permission_account_title_pad">Dostop do računov</string>
      <string name="permission_accpeted">Odobreno</string>
      <string name="permission_camera_desc">Fotografiranje in snemanje videov</string>
      <string name="permission_camera_title">Kamera</string>
@@ -673,7 +675,9 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="permission_phone_desc">Dostop do telefonske številke in stanja naprave</string>
      <string name="permission_phone_title">Podatki o napravi</string>
      <string name="permission_storage_desc">Dostop in shranjevanje fotografij in datotek v tej napravi</string>
+     <string name="permission_storage_desc_pad">Dostop do fotografij in datotek v napravi</string>
      <string name="permission_storage_title">Pomnilnik</string>
+     <string name="permission_storage_title_pad">Dostop do shrambe</string>
      <string name="petabyteShort">PB</string>
      <string name="phone_bind_too_many">Ta telefonska številka je bila v kratkem času povezana z več Mi računi. Poskusite uporabiti drugo telefonsko številko.</string>
      <string name="phone_hint">Številka telefona</string>

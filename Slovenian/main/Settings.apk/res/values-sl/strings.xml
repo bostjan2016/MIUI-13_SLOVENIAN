@@ -2316,6 +2316,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="captions_category_title">Podnapisi</string>
      <string name="capture_system_heap_dump_title">Zajemi sistemski izvoz kopice</string>
      <string name="capturing_system_heap_dump_message">Zajemanje sistemskega izvoza kopice</string>
+     <string name="card_holder_header_title">Denarnica</string>
      <string name="card_main_hbassistant_title">Rdeča kuverta;Rdeči paket;Denar</string>
      <string name="cards_passes_lower">kreditne in plačilne kartice</string>
      <string name="cards_passes_sentence">Kreditne in plačilne kartice</string>

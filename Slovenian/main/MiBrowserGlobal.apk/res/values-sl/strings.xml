@@ -460,6 +460,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="continue_reading">Nadaljujte z branjem</string>
      <string name="copy">Kopiraj</string>
      <string name="copy_url">Kopiraj povezavo</string>
+     <string name="core_functions_of_browser">Glavne funkcije na dosegu roke</string>
      <string name="could_not_load_data">"Ne morem naložiti podatkov, osvežite in poskusite ponovno"</string>
      <string name="crash_page_button">Poskusite ponovno</string>
      <string name="crash_page_description">Pri prikazovanju te spletne strani je šlo nekaj narobe.</string>
@@ -666,6 +667,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="encrypt_success">Uspešno skrito</string>
      <string name="encrypting">Šifriranje…</string>
      <string name="end_user_license">Licenčna pogodba za končnega uporabnika</string>
+     <string name="enter_bookmark">Zaznamki</string>
      <string name="enter_developer_mode">Vstop v način za razvijalce</string>
      <string name="enter_incongnito_mode">Odpri način brez beleženja zgodovine</string>
      <string name="enter_news_by_pull_down">Spustite, da boste odprli vsebinski tok</string>
@@ -917,6 +919,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="go_me">Profil</string>
      <string name="go_supermarket_button">Začni</string>
      <string name="go_supermarket_title">Več aplikacij, večja hitrost in manjša poraba podatkov v App Store</string>
+     <string name="go_to_tab">Zavihki</string>
      <string name="gold_medals">Zlate medalje</string>
      <string name="googlepay_anonymous_merge_dialog_agree">Prijava</string>
      <string name="googlepay_anonymous_merge_dialog_cancel">Prekliči</string>
@@ -1696,6 +1699,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="per_month">Na mesec</string>
      <string name="permission_agree_service">Prebral/-a sem in se strinjam z naslednjimi pogoji in določili.</string>
      <string name="permission_alert_window">Da boste lahko uporabili to storitev, dovolite prikazovanje pojavnih oken v nastavitvah.</string>
+     <string name="permission_allow">Dovoli</string>
      <string name="permission_contacts">Stiki</string>
      <string name="permission_deeplink_tip_title">Dovolim tej strani, da odpre %s?</string>
      <string name="permission_dialog_msg_camera">%s želi uporabljati vašo kamero</string>
@@ -1719,9 +1723,11 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="permission_open_location">Najprej dovolite Mi brskalniku dostop do vaše lokacije v nastavitvah.</string>
      <string name="permission_open_mic">Najprej dovolite Mi brskalniku dostop do mikrofona v nastavitvah.</string>
      <string name="permission_open_storage">Najprej dovolite Mi brskalniku dostop do notranjega pomnilnika v nastavitvah.</string>
+     <string name="permission_request_contacts">Ta storitev zahteva dovoljenje za dostop do vaših stikov, da lahko normalno deluje.</string>
      <string name="permission_service">Pogoji in določila</string>
      <string name="permission_sound_toast_message">Predvajanje zvoka…</string>
      <string name="permission_storage">Pomnilnik</string>
+     <string name="permission_to_open">Nastavitve</string>
      <string name="permission_unknown">Neznana napaka</string>
      <string name="permission_use">Dovoljenja</string>
      <string name="permisssion_not_ask_again">"Ne sprašuj več"</string>
@@ -2154,6 +2160,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_trending_new">Novo</string>
      <string name="search_trending_title">V trendu</string>
      <string name="search_tupian">Slika</string>
+     <string name="search_using_traceless_mode">Način brez beleženja zgodovine</string>
+     <string name="search_with_browser">Iščite z Mi brskalnikom</string>
      <string name="search_yahoo">Yahoo!</string>
      <string name="search_yicha">Yicha</string>
      <string name="secure_download_in_xiaomi_market">Prenesite iz Xiaomi trgovine</string>
@@ -2208,6 +2216,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>
      <string name="share_video">Deli video</string>
      <string name="shear_plate_permission_name">Dostop do ali shranjevanje stvari v odložišče</string>
+     <string name="shortcut_function">Bližnjice</string>
      <string name="shortcuts_boost_speed">Povečanje hitrosti</string>
      <string name="shortcuts_cleanup_cache">Čistilec</string>
      <string name="shortcuts_cleanup_memory">Počisti predpomnilnik</string>
