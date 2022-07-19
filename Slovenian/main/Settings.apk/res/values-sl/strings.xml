@@ -643,6 +643,7 @@ Povečava ni mogoča na tipkovnici ali v vrstici za krmarjenje."</string>
      <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
      <string name="allow_oaid_used">Uporabi virtualni ID</string>
      <string name="allow_oaid_used_desc">"Programi ne bodo mogli dostopati do nobenega ID-ja, razen če to izrecno dovolite. Nekatere storitve za osebna priporočila morda ne bodo delovale pravilno, če je ta funkcija vklopljena."</string>
+     <string name="allow_ongoing_title">Dovoli trajna obvestila</string>
      <string name="allow_overlay_description">To dovoljenje omogoča aplikaciji prikaz čez druge aplikacije ki jih uporabljate in lahko vpliva na uporabo vmesnika v drugih aplikacijah ali vas zavede pri prikazu drugih aplikacij.</string>
      <string name="allow_sound">Dovoli zvok</string>
      <string name="allow_sound_title">Dovoli zvok</string>

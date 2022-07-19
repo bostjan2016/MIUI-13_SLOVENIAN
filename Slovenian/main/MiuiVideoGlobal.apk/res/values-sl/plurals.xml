@@ -91,6 +91,14 @@ Na voljo samo danes"</item>
         <item quantity="other">"Danes ste gledali %d minut"</item>
         <item quantity="one">"Danes ste gledali %d minuto"</item>
      </plurals>
+     <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Uspešno deljeno. Prislužili ste si %d točk.</item>
+        <item quantity="one">Uspešno deljeno. Prislužili ste si %d točko.</item>
+     </plurals>
+     <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Uspešno naročeno. Prislužili ste si %d točk.</item>
+        <item quantity="one">Uspešno naročeno. Prislužili ste si %d točko.</item>
+     </plurals>
      <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Prislužite si %d točk!</item>
         <item quantity="one">Prislužite si %d točko!</item>

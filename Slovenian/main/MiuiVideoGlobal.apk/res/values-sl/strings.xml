@@ -178,6 +178,7 @@
      <string name="choose">Izberi</string>
      <string name="choose_to_signin">Da</string>
      <string name="choose_to_signup">Ne, ga bom ustvaril</string>
+     <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_to_open_pip">Dotaknite se za preklop na sliko v sliki</string>
      <string name="click_to_play_video_push_context">Tapnite za predvajanje videoposnetka</string>
@@ -296,6 +297,8 @@ Mi Video je pripravljen za posodobitev.
 Posodobite aplikacijo, če si želite ogledati naše nove zanimive storitve!
 Mi Video Team"</string>
      <string name="description">Opis</string>
+     <string name="desktop_widget_local_media">Predstavnosti</string>
+     <string name="desktop_widget_new">Novo</string>
      <string name="detail_select_source">Izberite vir predvajanja</string>
      <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
      <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
@@ -628,6 +631,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="galleryplus_notification_linkvideo_title4">Na stotine videoposnetkov, brezplačnih za omejen čas</string>
      <string name="galleryplus_notification_linkvideo_title5">Brezplačno pretakajte svoje najljubše oddaje</string>
      <string name="galleryplus_notification_try_now_btn">Poskusite</string>
+     <string name="galleryplus_notification_type_link_video">Preklop na lokalne videoposnetke</string>
      <string name="galleryplus_online_cta">Mi Video se mora za normalno delovanje povezati z omrežjem. Se strinjate?</string>
      <string name="galleryplus_online_cta_agree">Strinjam se</string>
      <string name="galleryplus_online_cta_disagree">Ne strinjam se</string>
@@ -741,6 +745,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_exchange">Unovčite</string>
      <string name="incentive_exchange_code">Koda</string>
      <string name="incentive_exchange_code_copy">Kopiraj</string>
+     <string name="incentive_exchange_code_copy_and_start">Uporabi</string>
      <string name="incentive_exchange_details">Podrobnosti</string>
      <string name="incentive_exchange_details_current">Naročilo skupaj</string>
      <string name="incentive_exchange_details_total">Stanje</string>
@@ -766,6 +771,9 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_task_title_novice">Za novince</string>
      <string name="incentive_task_to_get">Začni</string>
      <string name="incentive_task_to_login">Prijava</string>
+     <string name="incentive_toast_share_success_new">Uspešno deljeno</string>
+     <string name="incentive_toast_subscribe_success_new">Uspešno naročeno</string>
+     <string name="incentive_ui_tab_earn_credits">Točke</string>
      <string name="incentive_view_all_prizes">Pokaži vse nagrade</string>
      <string name="incentive_view_details">Podrobnosti</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
@@ -1202,6 +1210,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="notification_recall_desc">Mi Video vas lahko obvesti o popularnih videoposnetkih in vaših naročninah</string>
      <string name="notification_recall_title">Vklopite obvestila</string>
      <string name="notification_tool">Orodja</string>
+     <string name="notification_type_channel_music">Predvajanje glasbe</string>
      <string name="notify_apk_installed">Uspešno preneseno</string>
      <string name="off">[izklj.]</string>
      <string name="off_tip_firework_recommend">Od Fireworka ne boste prejeli prilagojena priporočila vsebine</string>
@@ -1993,7 +2002,7 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
      <string name="year">leto</string>
      <string name="yesterday">Včeraj</string>
-    <string name="yt_subscription_notification_setting_title">Obvestila o naročnini</string>
+     <string name="yt_subscription_notification_setting_title">Obvestila o naročnini</string>
      <string name="ytb_account">Računi</string>
      <string name="ytb_author_video">Videoposnetki</string>
      <string name="ytb_login">Vpišite se</string>

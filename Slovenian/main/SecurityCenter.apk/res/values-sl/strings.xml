@@ -2206,6 +2206,9 @@ Posnemite zaporedja in jih kadar koli uporabite!"</string>
      <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
      <string name="gb_operat_frequently">Ne tako hitro!</string>
      <string name="gb_performace_guide_disable_desc"><Data>"V Game Turbo ni mogoče preklopiti v način Balanced, ko je vklopljen sistemski način Performance. Nastavitve baterije lahko spremenite v Varnost.&lt;br>&lt;a href=\"#\">Odpri Varnost&lt;/a>"</Data></string>
+     <string name="gb_performace_switch_toast">Preklopljeno v način Zmogljivost. Vaša naprava se lahko segreje in porabi več energije.</string>
+     <string name="gb_performace_tips_button">Preklopi</string>
+     <string name="gb_performace_tips_title">Preklopi v način Zmogljivost za boljšo izkušnjo</string>
      <string name="gb_performance_balance">Uravnoteženo</string>
      <string name="gb_performance_balance_tips">"Uravnotežen način varčuje z energijo
 ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
@@ -5486,7 +5489,7 @@ Za uporabo ^1 v tej napravi ga morate najprej vpeti."</string>
      <string name="storage_item_doc_name">Dokumenti</string>
      <string name="storage_item_other_name">Ostalo</string>
      <string name="storage_item_picture_name">Slike</string>
-     <string name="storage_item_system_data">Sistem</string>
+     <string name="storage_item_system_data">Sistemske datoteke</string>
      <string name="storage_item_system_name">Sistem</string>
      <string name="storage_item_video_name">Video</string>
      <string name="storage_menu_mount">Vpni</string>

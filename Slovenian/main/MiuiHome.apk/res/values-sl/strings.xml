@@ -289,6 +289,7 @@
      <string name="default_folder_title_security">Sistem</string>
      <string name="default_folder_title_services">Storitve</string>
      <string name="default_folder_title_tools">Orodja</string>
+     <string name="default_layout_path">postavitev</string>
      <string name="default_screen_preview_title">Nastavi privzeti zaslon</string>
      <string name="delete">Izbriši</string>
      <string name="delete_category_dialog_content">"Če jo izbrišete te kategorije ne boste mogli vrniti. Vseeno izbrišem?"</string>
