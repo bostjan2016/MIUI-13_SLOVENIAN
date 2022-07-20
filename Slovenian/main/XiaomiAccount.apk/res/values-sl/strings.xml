@@ -153,6 +153,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
      <string name="check_apk_update">Preveri za posodobitve</string>
      <string name="checking_phone_num_availible">Preverjanje telefona…</string>
+     <string name="child_account_system_ad_disable_hint">Ta storitev ni na voljo za otroške račune</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="cloud_description_closed">Zasedeno | Sinhr. je izključena</string>
@@ -268,6 +269,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="facebook">Facebook</string>
      <string name="facebook_login">Prijavite se z Facebook računom</string>
      <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
+     <string name="family_service">Družinske storitve</string>
      <string name="family_share">Družinska skupna raba</string>
      <string name="find_device">Najdi napravo</string>
      <string name="find_device_access_denied">"Ne morem dobiti statusa, dostop zavrnjen"</string>
