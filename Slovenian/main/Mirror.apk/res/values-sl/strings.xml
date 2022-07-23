@@ -32,6 +32,8 @@
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
      <string name="app_name">Screen Combo</string>
+     <string name="app_no_storage_permission">Najprej dovolite %1$s dostop do shrambe v Nastavitve > Aplikacije > %2$s > Dovoljenja</string>
+     <string name="app_opened_in_new_window">Aplikacija odprta v novem oknu</string>
      <string name="cancel">Prekliči</string>
      <string name="cast_mcc_tips_button_cancel">Zanemari</string>
      <string name="cast_mcc_tips_button_ok">Nastavitve</string>
@@ -85,7 +87,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -316,6 +318,7 @@ Zaprite to stran in poskusite znova."</string>
      <string name="screen_num_over_limit">"Ne morem odpreti več oken"</string>
      <string name="search_menu_title">Išči</string>
      <string name="send">Pošlji</string>
+     <string name="settings_bluetooth_enable_summary">Vklopite Bluetooth, da boste lahko našli naprave v bližini. Vklopim zdaj?</string>
      <string name="settings_connect">Kako se povezati</string>
      <string name="settings_connect_more_help"><u>Pomoč</u></string>
      <string name="settings_connect_pc_group">Deluje z računalnikom</string>
@@ -342,6 +345,7 @@ Zaprite to stran in poskusite znova."</string>
      <string name="settings_feature_multi_window_title">Odprite več oken</string>
      <string name="settings_feature_pc_edit_files_summary">Z desno miškino tipko kliknite stvari v Galeriji ali Raziskovalcu, če jih želite urediti v računalniku.</string>
      <string name="settings_feature_pc_edit_files_title">Uredite stvari iz telefona na računalniku</string>
+     <string name="settings_handoff_enable_bluetooth">Vklopite Bluetooth, da poiščete naprave v bližini</string>
      <string name="settings_history">Zgodovina povezave</string>
      <string name="settings_history_clear">Očisti</string>
      <string name="settings_history_clear_dialog_title">Očistim zgodovino povezav?</string>

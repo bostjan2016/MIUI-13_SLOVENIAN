@@ -834,7 +834,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="auto_task_condition_number_pick_title">Nastavi stanje baterije</string>
      <string name="auto_task_condition_restore_task_when_charged">Spremeni na predhodni način dela po polnjenju</string>
      <string name="auto_task_condition_time_duration_text">Od %1$s do %2$s</string>
-     <string name="auto_task_condition_time_pick_title">Nastavi timer</string>
+     <string name="auto_task_condition_time_pick_title">Nastavi časovnik</string>
      <string name="auto_task_condition_time_text">V %s</string>
      <string name="auto_task_conncet_to_some_device">Poveži z %s</string>
      <string name="auto_task_create_success">Uspešno ustvarjeno opravilo</string>
