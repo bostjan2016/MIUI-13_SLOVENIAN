@@ -455,6 +455,7 @@ Avdio"</string>
      <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim spremeniti velikost za način z več okni.</string>
      <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
      <string name="force_rtl_layout_all_locales_summary">Vsili smer postavitve na zaslonu od desne proti levi za vse jezike</string>
+     <string name="fraud_toast_message">Preusmeritev klicev lahko urejate v nastavitvah</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>

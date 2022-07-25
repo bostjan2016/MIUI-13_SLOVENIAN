@@ -245,6 +245,10 @@
         <item quantity="other">Izbrano %s stvari</item>
         <item quantity="one">Izbrana %s stvar</item>
      </plurals>
+     <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">Izbrano %d stvari</item>
+        <item quantity="one">Izbrana %d stvar</item>
+     </plurals>
      <plurals name="pa_express_settings_title_2">
         <item quantity="other">"Dodali ste %d tel. številk"</item>
         <item quantity="one">"Dodali ste %d tel. številko"</item>
@@ -252,6 +256,10 @@
      <plurals name="pa_picker_app_list_widget_count">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
+     </plurals>
+     <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Izbrišem %d izbranih stvari?</item>
+        <item quantity="one">Izbrišem %d izbrano stvar?</item>
      </plurals>
      <plurals name="pa_stock_display_list_label">
         <item quantity="other">%1$d podjetij v pripomočku</item>
