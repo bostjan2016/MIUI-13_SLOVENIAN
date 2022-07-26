@@ -86,6 +86,8 @@ nastavitev in aplikacij"</string>
      <string name="backup_items_app_tailer">" x podatki aplikacij"</string>
      <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
      <string name="backup_new">Novo:</string>
+     <string name="backup_notice_content">"Vaše varnostne kopije ne bodo šifrirane, kar pomeni, da lahko do njih dostopajo ali jih spreminjajo aplikacije tretjih oseb. Pojavijo se lahko tudi druga varnostna tveganja. Prepričajte se, da varnostno kopirane elemente hranite v dobro zaščitenem okolju."</string>
+     <string name="backup_notice_title">Pozor</string>
      <string name="backup_notification_title">\"Var. kopiranje\" poteka…</string>
      <string name="backup_progress">Izdelava var. kopije…</string>
      <string name="backup_report">Poglej podrobnosti</string>
@@ -368,7 +370,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="local_main_backup_time">Zadnja var. kopija: %1$s</string>
      <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
      <string name="local_main_encrypt_backup_summary">Šifrirajte stvari za katere delate var. kopijo s pomočjo Mi Računa</string>
-     <string name="local_main_encrypt_backup_title">Šifriraj var. kopijo</string>
+     <string name="local_main_encrypt_backup_title">Za obnovitev stvari preverite račun</string>
      <string name="local_main_latest_backup_time_loading">Samo trenutek…</string>
      <string name="local_no_backup">Ni varnostnih kopij.</string>
      <string name="local_no_backup_data">Ni varnostnih kopij</string>

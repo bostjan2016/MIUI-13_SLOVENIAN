@@ -76,6 +76,7 @@
      <string name="account_token_expired_msg">"Koda za potrditev je potekla, začnite znova ali se odjavite iz ID vašega računa: %s"</string>
      <string name="account_token_expired_title">Preverjanje pristnosti ni uspelo</string>
      <string name="account_user_avatar">Fotografija profila</string>
+     <string name="account_user_avatar_activity_not_found">"Ne morem odpreti Galerije"</string>
      <string name="account_user_avatar_from_album">Izberi fotografijo</string>
      <string name="account_user_avatar_from_camera">Posnemi fotografijo</string>
      <string name="account_user_base_info">Osebni podatki</string>

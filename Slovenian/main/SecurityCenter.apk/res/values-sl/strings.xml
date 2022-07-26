@@ -10,12 +10,18 @@
      <string name="HIPS_Perm_CallLog_Desc">zabeležiti in brisati zgodovino klicev</string>
      <string name="HIPS_Perm_Call_Desc">neposredno klicati telefonske številke</string>
      <string name="HIPS_Perm_Contact_Desc">menjati in brisati vaše stike</string>
+     <string name="HIPS_Perm_External_READ_FILES">Dostop do datotek in dokumentov</string>
+     <string name="HIPS_Perm_External_READ_FILES_Desc">Dostop do datotek in dokumentov, shranjenih v tej napravi</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Dostop do avdio datotek</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Dostop do pesmi in drugih zvočnih datotek, shranjenih v tej napravi</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Dostop do fotografij in videoposnetkov</string>
+     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Dostop do fotografij in videoposnetkov, shranjenih v tej napravi</string>
      <string name="HIPS_Perm_External_Storage">Dostop in shranjevanje v shrambo</string>
      <string name="HIPS_Perm_External_Storage_Desc">Dostop in shranjevanje datotek in slik v notranji pomnilnik</string>
      <string name="HIPS_Perm_External_Storage_Group">Upravljanje dovoljenj za shranjevanje</string>
      <string name="HIPS_Perm_External_Storage_Group_Desc">Izberite, katere aplikacije imajo dostop</string>
      <string name="HIPS_Perm_GetInstall_Desc">Dostop do informacij o aplikacijah, nameščenih v tej napravi</string>
-     <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave"</string>
+     <string name="HIPS_Perm_PhoneID_Desc">"Dostop do številke telefona, IMEI in IMSI vaše naprave"</string>
      <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop do številke telefona in IMSI</string>
      <string name="HIPS_Perm_Read_Call_Log_Desc">brati zgodovino klicev</string>
      <string name="HIPS_Perm_Read_Contact_Desc">brati vaše stike</string>
@@ -1045,7 +1051,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="battery_temperature_title">Temperatura</string>
      <string name="beauty_fc_assistant">Pomočnik za sprednjo kamero</string>
      <string name="beauty_fc_assistant_summary">Uporabi polno svetlobo in Olepšanje s sprednjo kamero</string>
+     <string name="beauty_fc_assistant_summary_common">Uporabite dodatne funkcije s sprednjo kamero</string>
      <string name="beauty_fc_assistant_summary_new">Pokaži možnosti Olepšanje in zapolni svetlobo med uporabo sprednje kamere</string>
+     <string name="beauty_fc_auto_brightness">Samodejno prilagodi svetlost</string>
      <string name="beauty_fc_fill_lamp">Polna svetloba</string>
      <string name="beauty_fc_fill_lamp_new">Sprednja polnilna luč</string>
      <string name="beauty_fc_light">Svetlost polne svetlobe</string>
@@ -1081,7 +1089,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="bill_remind">Opozorilo o stanju telefona</string>
      <string name="bill_reminder_summary">Opomni za dopolnitev, ko je stanje nižje od %1s</string>
      <string name="bill_traffic_reminder_instruction">Pozor</string>
-     <string name="bill_traffic_reminder_instruction_text">Dejanske podrobnosti o načrtih, ki jih zagotavljajo mobilni operaterji, se lahko razlikujejo in lahko pride do zamud pri obračunavanju. Informacije, navedene tukaj, so samo za vašo referenco.</string>
+     <string name="bill_traffic_reminder_instruction_text">Načini zaračunavanja in standardi za izračun podatkov različnih operaterjev se lahko razlikujejo. Lahko pride tudi do zamud pri obračunavanju. Tu navedeni statistični podatki o uporabi so samo za vašo referenco.</string>
      <string name="bind_xiaomi_account_cancel">Prekini</string>
      <string name="bind_xiaomi_account_confirm">Dodaj</string>
      <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga razveljavite. Račun bo samodejno odstranjen če se odjavite."</string>
@@ -1259,6 +1267,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="card_uninstall_button_text">Urejaj</string>
      <string name="card_uninstall_summary">Odstranite redko uporabljene aplikacije, da sprostite prostor za shranjevanje</string>
      <string name="card_uninstall_title_1">Odstranite redko uporabljene aplikacije</string>
+     <string name="category_no_scoped">Ostale aplikacije</string>
+     <string name="category_scoped">Združljive aplikacije</string>
      <string name="cd_back">Nazaj</string>
      <string name="celcius_symbol">℃</string>
      <string name="cellular_data_auto_check">Samodejno preveri</string>
@@ -1703,6 +1713,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="empty_title_virus_list">Ni virusov</string>
      <string name="enable_extreme_power_save_mode">Ekstremno varčevanje baterije</string>
      <string name="enable_network">Najprej vključite omrežno povezavo</string>
+     <string name="enable_notification_title">Dovolim %1$s uporabo obvestil?</string>
      <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
      <string name="every_day">Vsak dan</string>
@@ -2267,6 +2278,7 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_predownload_dialog_message_china"><Data>"Posodobljeno vsebino za to igro lahko samodejno prenesete v to napravo, ko se povežete z WiFi in izklopite zaslon. Tako boste lahko uporabljali novo različico takoj, ko bo izdana.&lt;br>&lt;br>Preberite in se strinjajte z &lt;a href=\"%1$s\">Izjava o posodobitvah v ozadju&lt;/a> pred uporabo."</Data></string>
      <string name="gb_predownload_dialog_title">Posodobitve v ozadju so zdaj na voljo</string>
      <string name="gb_predownload_message">"Posodobite King of Glory, Game for Peace in druge združljive igre v ozadju, medtem ko ne uporabljate te naprave"</string>
+     <string name="gb_predownload_message_new">Samodejno posodobite združljive igre, ko ne uporabljate naprave</string>
      <string name="gb_predownload_noti_message">"%2$1.2f GB posodobljene vsebine je že v tej napravi. Uporabili jo boste lahko takoj, ko bo izšla nova različica."</string>
      <string name="gb_predownload_noti_title">%s uspešno posodobljen v ozadju</string>
      <string name="gb_predownload_title">Posodobitve v ozadju</string>
@@ -3560,6 +3572,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="other_exception_summary">"Ni povezave s spletom"</string>
      <string name="other_exception_title">Kontrola drugih težav</string>
      <string name="other_milink_connect">"Ne morem predvajati. Predvaja se druga vsebina."</string>
+     <string name="over_package_reminder_type">Ko je podatkovni paket porabljen</string>
      <string name="package_change_notification_summary">Tapnite da izveste več.</string>
      <string name="package_change_notification_title">Nastavite omejitev podatkov na samodejno</string>
      <string name="package_setted_error_notification_summary">Tapnite za prikaz podrobnosti o porabi podatkov.</string>
@@ -3730,6 +3743,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="permission_instruction_get_accounts">To dovoljenje aplikacijam omogoča dostop do seznama računov, shranjenih v vaši napravi. Ta seznam lahko vsebuje vse vaše osebne račune, ki so jih ustvarili nameščeni programi, pa tudi račune s platform socialnih medijev in komunikacijskih orodij.</string>
      <string name="permission_instruction_install_shortcuts">To dovoljenje aplikacijam omogoča ustvarjanje bližnjic na začetnem zaslonu.</string>
      <string name="permission_instruction_install_unknown_source">To dovoljenje aplikacijam omogoča namestitev drugih programov v vašo napravo. Zlonamerni programi uporabljajo to dovoljenje za namestitev programov brez vaše potrditve.</string>
+     <string name="permission_instruction_media_audio">To dovoljenje omogoča aplikacijam dostop do skladb in drugih zvočnih datotek, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
+     <string name="permission_instruction_media_files">To dovoljenje omogoča aplikacijam dostop do datotek in dokumentov, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
      <string name="permission_instruction_modify_audio_settings">To dovoljenje aplikacijam omogoča spreminjanje nastavitev zvoka (npr. Prilagajanje glasnosti brez vaše potrditve). Glasnosti v nekaterih aplikacijah morda ne boste mogli prilagoditi, če jim tega ne odobrite.</string>
      <string name="permission_instruction_nfc">To dovoljenje aplikacijam omogoča komunikacijo s karticami in napravami NFC.</string>
      <string name="permission_instruction_notification_adjustment">To dovoljenje omogoča aplikacijam, da zagotavljajo prilagojena in raznolika prilagodljiva obvestila.</string>
@@ -3745,6 +3760,7 @@ To skrajšuje trajanje baterije."</string>
 "</string>
      <string name="permission_instruction_read_contacts">"To dovoljenje aplikacijam omogoča dostop do kontaktnih podatkov, shranjenih v vaši napravi. Te informacije lahko vključujejo pogostost komunikacije z določenimi stiki prek klicev, e-pošte in drugih načinov. To dovoljenje aplikacijam omogoča tudi shranjevanje stikov. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za skupno rabo stikov brez vašega soglasja
 ."</string>
+     <string name="permission_instruction_read_media_pic">To dovoljenje omogoča aplikacijam dostop do fotografij in videoposnetkov, shranjenih v tej napravi. Te stvari lahko vsebujejo osebne podatke.</string>
      <string name="permission_instruction_read_notify_sms">To dovoljenje aplikacijam omogoča branje besedilnih sporočil obvestil, shranjenih v vaši napravi ali na kartici SIM.</string>
      <string name="permission_instruction_read_phone_state">"To dovoljenje aplikacijam omogoča dostop do vaše telefonske številke, IMEI, IMSI in drugih identifikatorjev naprav. Aplikacije običajno uporabljajo to dovoljenje za ugotavljanje, ali so vaši klici preusmerjeni. Če uporabljate navidezni ID naprave, aplikacije ne bodo mogle dostopati do vaših dejanskih identifikatorjev naprave
 ."</string>
@@ -3755,6 +3771,7 @@ To skrajšuje trajanje baterije."</string>
 "</string>
      <string name="permission_instruction_running_background">To dovoljenje omogoča izvajanje aplikacij v ozadju. S tem lahko aplikacije zbirajo podatke in nudijo storitve. Upoštevajte, da takšne dejavnosti povečajo porabo energije.</string>
      <string name="permission_instruction_running_exceed_data">To dovoljenje omogoča aplikacijam da ignorirajo omejitev potrebe mobilnih podatkov.</string>
+     <string name="permission_instruction_scoped">Nov zaščitni mehanizem za shranjevanje vam omogoča boljši nadzor nad tem, kako združljive aplikacije uporabljajo dovoljenja za shranjevanje</string>
      <string name="permission_instruction_send_mms">"To dovoljenje aplikacijam omogoča pošiljanje večpredstavnostnih sporočil, kar lahko povzroči dodatne stroške. Zlonamerne aplikacije lahko to dovoljenje uporabljajo za pošiljanje plačljivih sporočil brez vašega soglasja.
 "</string>
      <string name="permission_instruction_send_payment_sms">To dovoljenje aplikacijam omogoča pošiljanje plačljivih besedilnih sporočil.</string>
@@ -4741,6 +4758,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
      <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
      <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
+     <string name="reach_warning_reminder_type">Ko je dosežena omejitev podatkov</string>
      <string name="read_all_sms">Preberi vse</string>
      <string name="read_and_write_clipboard">Dostop do stvari in shranjevanje v odložišče</string>
      <string name="read_clipboard_ai_action_desc">Prejemajte obvestila, kadar koli je dostop dovoljen ali omejen</string>
@@ -4766,6 +4784,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
      <string name="release_meminfo">Osvobodite %dMB</string>
      <string name="release_memory">Očisti predpomnilnik</string>
+     <string name="reminder_click_to_close_tips">Opozorila o uporabi podatkov lahko vklopite in izklopite v Varnost > Uporaba podatkov > Nastavitve.</string>
      <string name="reminder_once_month">Enkrat mesečno</string>
      <string name="reminder_tips">Pozor</string>
      <string name="reminder_type">Vrsta opozoril</string>
@@ -5513,6 +5532,8 @@ Umaknem soglasje zdaj?"</string>
      <string name="storage_clear_cache_large">Očisti %s</string>
      <string name="storage_clear_more_tools">Več orodij za čiščenje</string>
      <string name="storage_clear_video">Počisti predpomnilnik videoposnetkov</string>
+     <string name="storage_compact_warning">Prilagoditev več dovoljenj</string>
+     <string name="storage_compact_warning_desc">"Ta aplikacija ne podpira prilagajanja dovoljenj za posamezne fotografije, videoposnetke, zvok, datoteke ali dokumente."</string>
      <string name="storage_deepclean_entry">Globinsko čiščenje</string>
      <string name="storage_dialog_unmountable">"Ta ^1 je poškodovan.
 
