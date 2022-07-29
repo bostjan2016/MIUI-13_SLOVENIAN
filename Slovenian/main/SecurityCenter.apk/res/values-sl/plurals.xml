@@ -754,6 +754,14 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">Naprava se bo izključila čez %d sekund</item>
         <item quantity="one">Naprava se bo izključila čez %d sekund</item>
      </plurals>
+     <plurals name="power_battery_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+     </plurals>
      <plurals name="power_center_battery_charge_number">
         <item quantity="other">krat</item>
         <item quantity="one">krat</item>
@@ -837,6 +845,14 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s min ostane</item>
         <item quantity="one">%s min ostane</item>
+     </plurals>
+     <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s min časa zaslona ostalo</item>
+        <item quantity="one">%s min časa zaslona ostala</item>
+     </plurals>
+     <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Vklopite, če želite dodati %s minut časa zaslona</item>
+        <item quantity="one">Vklopite, če želite dodati %s minuto časa zaslona</item>
      </plurals>
      <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Razumem (%ds)</item>

@@ -159,6 +159,14 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="close">Zapri</string>
      <string name="cloud_description_closed">Zasedeno | Sinhr. je izključena</string>
      <string name="cloud_description_normal">Zasedeno</string>
+     <string name="cloud_member">Članstvo</string>
+     <string name="cloud_member_status_expired">Poteklo</string>
+     <string name="cloud_member_status_expired_soon">Kmalu poteče</string>
+     <string name="cloud_member_status_non_vip">Nadgradite</string>
+     <string name="cloud_member_vipname_free">Brezplačno</string>
+     <string name="cloud_member_vipname_mega">Mega</string>
+     <string name="cloud_member_vipname_premium">Premium</string>
+     <string name="cloud_member_vipname_ultra">Ultra</string>
      <string name="cloud_service">Mi Cloud</string>
      <string name="cloud_service_status_backup_not_open">Varnostno kopiranje je izklopljeno</string>
      <string name="cloud_service_status_cloud_not_open">Izklopljeno</string>

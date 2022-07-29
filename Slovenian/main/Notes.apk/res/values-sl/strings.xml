@@ -192,6 +192,7 @@
      <string name="dlg_hide_message">Skrivanje…</string>
      <string name="dlg_info_creating_message">Izdelava sporočila…</string>
      <string name="dlg_info_save_to_gallery_message">Shranjevanje slike v Galerijo…</string>
+     <string name="dlg_info_save_to_local_message">Shranjevanje…</string>
      <string name="dlg_message_password_reset">"Geslo skritih sporočil bo zamenjano z Geslom za zaščito zasebnosti ki zaščiti fotografije, beležke in skrite mape"</string>
      <string name="dlg_message_set_password">Geslo za zaščito zasebnosti zaščiti fotografije, beležke in skrite mape</string>
      <string name="dlg_message_use_privacy_password">Uporabi Geslo za zaščito zasebnosti. Zaščiti fotografije, beležke in skrite mape</string>
@@ -696,7 +697,9 @@ Tapnite + da napravite mapo"</string>
      <string name="permission_phone_state_desc">Za ustavljanje snemanja glasovnih beležk med klicem</string>
      <string name="permission_read_contact_desc">Povezovanje beležk o klicih </string>
      <string name="permission_storage_desc">Za shranjevanje beležk kot slik</string>
-     <string name="permission_storage_desc_pad_v12">Za dodajanje slik v zapiske in shranjevanje zapiskov kot slik</string>
+     <string name="permission_storage_desc_new_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slik</string>
+     <string name="permission_storage_desc_pad_new_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slik</string>
+     <string name="permission_storage_desc_pad_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slik</string>
      <string name="permission_storage_desc_v12">Za dodajanje slik v beležke in shranjevanje beležk kot slike</string>
      <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI bo zbral vaše zvočne posnetke in ID naprave da prepiše zvok in napravi zvočne beležke. Izvedite več v Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
      <string name="permission_xiaoai_desc_new"><Data>Za zagotavljanje storitev prepisovanja govora v besedilo mora Mi AI zbrati zvočni vhod in ID vaše naprave, ki se generira naključno. Preberite in se strinjate z &lt;a href=\"%1$s\">Beležka Izjava o skupni rabi podatkov tretjih oseb&lt;/a> preden nadaljujete. Več lahko izveste tudi z branjem Mi AI &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>.</Data></string>
@@ -788,6 +791,9 @@ Tapnite + da napravite mapo"</string>
      <string name="save_to_gallery_failure_message">"Ne morem shraniti v Galerijo"</string>
      <string name="save_to_gallery_icon_name">Shrani v Galerijo</string>
      <string name="save_to_gallery_success_message">Uspešno shranjeno</string>
+     <string name="save_to_local_failure_message">"Ne morem shraniti"</string>
+     <string name="save_to_local_icon_name">Shrani</string>
+     <string name="save_to_local_success_message">Shranjeno</string>
      <string name="search">Beležke</string>
      <string name="search_hint">Išči beležke</string>
      <string name="search_keyword_notes">Beležke;Memo</string>
@@ -796,6 +802,7 @@ Tapnite + da napravite mapo"</string>
      <string name="search_path_notes">Aplikacije sistema/Beležke</string>
      <string name="search_setting_description">Besedilo v beležki</string>
      <string name="select_account_prompt">Sinh. beležke</string>
+     <string name="select_up_limit_toast">Izberite do %d stvari</string>
      <string name="send">Pošlji</string>
      <string name="set_alarm_description">Nastavi alarm</string>
      <string name="setting_big_screen_layout_columns">Stranska vrstica</string>

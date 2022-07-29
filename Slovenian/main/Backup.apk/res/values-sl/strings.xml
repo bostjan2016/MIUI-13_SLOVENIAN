@@ -116,6 +116,8 @@ nastavitev in aplikacij"</string>
      <string name="cancel_moving_dialog_message">Ste prepričani da želite ustaviti uvoz?</string>
      <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
      <string name="cancel_restore">Ustavi</string>
+     <string name="category_contacts">Stiki</string>
+     <string name="category_message_contacts">Sporočila in stiki</string>
      <string name="check_privacy_policy">Pokaži Pravila o zasebnosti</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_soft_ap_to_link">Izberite hotspot za povezovanje</string>
@@ -247,7 +249,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -599,6 +601,8 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="permission_read_storage_global">Dostop do shrambe</string>
      <string name="permission_read_write_storage">Če želite ustvariti varnostno kopijo stvari, najprej omogočite tej storitvi dostop do pomnilnika.</string>
      <string name="permission_read_write_sys_app">Če želite ustvariti varnostno kopijo in obnoviti sporočila, stike in zgodovino klicev, dovolite tej storitvi, da najprej dostopa do teh stvari.</string>
+     <string name="permission_read_write_sys_app1">Dovolite tej storitvi dostop do vaših sporočil in stikov, da boste lahko varnostno kopirali in obnovili te stvari.</string>
+     <string name="permission_read_write_sys_app2">Dovolite tej storitvi dostop do vaših stikov, da boste lahko varnostno kopirali in obnovili te stvari.</string>
      <string name="permission_related">Dovoljenja</string>
      <string name="permission_restore_calendar">Za obnovo koledarskih dogodkov</string>
      <string name="permission_restore_calendar_desc">Če želite obnoviti koledarske dogodke, dovolite tej aplikaciji, da najprej uredi vaše koledarske dogodke.</string>
@@ -619,7 +623,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="platform_chooser_title">Izberite staro napravo</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
-     <string name="privacy_policy_link"><Data>"Če želite izvedeti več o naših praksah obdelave podatkov in vaših pravicah kot uporabnika, preberite in se strinjate z &lt;a href='%1s'>Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
+     <string name="privacy_policy_link"><Data>"Če želite izvedeti več o naših praksah obdelave podatkov in vaših pravicah kot uporabnika, preberite in se strinjajte z &lt;a href='%1s'>Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="privacy_settings_title">Pravila o zasebnosti</string>
      <string name="private_policy_text">Pravila o zasebnosti</string>

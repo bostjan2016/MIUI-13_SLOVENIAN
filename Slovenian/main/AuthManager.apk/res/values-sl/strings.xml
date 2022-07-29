@@ -160,6 +160,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="HIPS_Perm_NEARBY_DEVICES">Poveži se z napravami v bližini</string>
      <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Odkrij in se poveži z napravami v bližini</string>
      <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Odkrij in se poveži z napravami v bližini preko Bluetooth in WiFi</string>
+     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Odkrij in se poveži z napravami v bližini preko Bluetooth in WiFi</string>
      <string name="HIPS_Perm_Network_Accept">Sprejmem povezavo z %1$s?</string>
      <string name="HIPS_Perm_Network_Connect">Povezano na %1$s</string>
      <string name="HIPS_Perm_Network_Listen">Poslušam na vratih %1$s</string>

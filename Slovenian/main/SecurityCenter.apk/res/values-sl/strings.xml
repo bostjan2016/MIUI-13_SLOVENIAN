@@ -189,6 +189,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="add_miservice_dialog_title">MIUI Service Framework</string>
      <string name="add_to_whitelist_button">Izjeme za podatke v gostovanju</string>
      <string name="add_whitelist">Dodaj v izjeme</string>
+     <string name="added_game_notification_summary">Začnite igrati zdaj</string>
+     <string name="added_game_notification_title">%s je zdaj v načinu Game Turbo</string>
+     <string name="added_game_start_game">Igraj</string>
      <string name="address">Naslov</string>
      <string name="address_choose_hint">%1$s, %2$s, in %3$d drugih lokacij</string>
      <string name="adjust_sms_cmd">"Prilagodi kalibracijo SMS predloge"</string>
@@ -1147,6 +1150,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="btn_text_virus_scan">Preglej</string>
      <string name="bubble_app_empty_page">"V tej napravi ni bilo mogoče najti aplikacij, ki podpirajo oblačke za pogovore"</string>
      <string name="bubble_app_manage">Upravljajte pogovore v oblačkih</string>
+     <string name="bubble_mode_barrage_switch_tips">Vklopite, če želite prikazati oblačke pogovorov za pomanjšane aplikacije kot komentarje na zaslonu</string>
+     <string name="bubble_mode_barrage_tips">Oblački s pogovori za pomanjšane aplikacije bodo prikazani kot komentarji na zaslonu</string>
      <string name="bubble_notification">Pogovori v oblačkih</string>
      <string name="bubble_notification_switch">dovoli pogovore v oblačkih</string>
      <string name="bubble_notification_switch_desc">Ko je aplikacija Sporočila v plavajočem oknu skrita na robu zaslona, prikaži dohodna sporočila v oblačkih</string>
@@ -1538,12 +1543,19 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="diagnostic_attention_dialog_message">"Diagnostika za %1$s je v teku. Počakajte do konca in poskusite ponovno. "</string>
      <string name="dialog_app_roaming_message">"Ko ste v mednarodnem gostovanju podatkovne storitve lahko uporabljajo samo aplikacije ki ste jih dodali na seznam izjem . %1$s ni dodan na seznam dovoljenih."</string>
      <string name="dialog_app_roaming_title">"Gostovanje ni omogočeno za %1$s"</string>
+     <string name="dialog_btn_delete_icon">Odstrani</string>
+     <string name="dialog_btn_no_create_icon">Prekliči</string>
+     <string name="dialog_btn_yes_create_icon">Dodaj</string>
      <string name="dialog_button_ignore">Prezri</string>
      <string name="dialog_button_yes">Da</string>
      <string name="dialog_change_package_type_summary">Sprememba vrste plana podatkov bo vrnila vse nastavitve uporabe podatkov (npr. omejitev podatkov) na njihove privzete vrednosti. Želite zamenjati vrsto plana podatkov?</string>
      <string name="dialog_change_package_type_title">Sprememba vrste plana podatkov</string>
      <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI preprečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
-     <string name="dialog_msg_stop_paysafety_scan">Zaustavim varnostno preverjanje plačila?</string>
+     <string name="dialog_msg_create_icon_content">Dodam bližnjico na začetni zaslon zdaj?</string>
+     <string name="dialog_msg_create_icon_not_remain_anymore">"Ne kaži več"</string>
+     <string name="dialog_msg_delete_icon_content">Varnost vam omogoča brisanje smeti v vaši napravi, iskanje in nevtralizacijo virusov, varčevanje z baterijo, upravljanje dovoljenj in več.</string>
+     <string name="dialog_msg_delete_icon_title">Odstranim to bližnjico na začetnem zaslonu?</string>
+     <string name="dialog_msg_stop_paysafety_scan">Ustavim varnostno preverjanje plačila?</string>
      <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
      <string name="dialog_no_longer_alert">"Ne kaži več”</string>
      <string name="dialog_restrict_all_mobile_summary">%s  Mobilna podatkovna povezava bo omejena za vse aplikacije.</string>
@@ -2159,6 +2171,11 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj med ubijanjem v igri</string>
      <string name="gb_audition_instruction">Pritisnite in držite za snemanje (%1$s-%2$s sek)</string>
      <string name="gb_audition_play_instruction">Za najboljši učinek uporabite slušalke</string>
+     <string name="gb_beauty_cold_light">Hladno</string>
+     <string name="gb_beauty_face">Lepota</string>
+     <string name="gb_beauty_light">Polna svetloba</string>
+     <string name="gb_beauty_nature_light">Naravno</string>
+     <string name="gb_beauty_warm_light">Vroče</string>
      <string name="gb_collimator_color">Barva</string>
      <string name="gb_collimator_size">Velikost</string>
      <string name="gb_collimator_style">Stil</string>
@@ -2889,6 +2906,7 @@ operaterja"</string>
      <string name="manual_handle_title">OPRAVILA NA VOLJO</string>
      <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
      <string name="manual_input_traffic">Nastavi porabo podatkov</string>
+     <string name="manual_item_create_icon_title">Bližnjica na začetnem zaslonu</string>
      <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim stvarim</string>
      <string name="manual_item_white_list_title">Preišči izjeme</string>
      <string name="manual_white_list_header">Izjem: %d</string>
@@ -3856,6 +3874,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_center_battery_detail">Podrobnosti</string>
      <string name="power_center_battery_duration">Preostal čas</string>
      <string name="power_center_battery_duration_format">%1$s %2$s</string>
+     <string name="power_center_battery_duration_screen_on">Preostal čas zaslona</string>
      <string name="power_center_battery_full">"Baterija je napolnjena "</string>
      <string name="power_center_battery_hardware">Strojna oprema %s</string>
      <string name="power_center_battery_health_poor_tip">Kaže, da je stanje baterije slabo. Baterijo preverite v pooblaščenem servisnem centru</string>
@@ -3880,6 +3899,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_center_custom_title">Profili baterije</string>
      <string name="power_center_dialog_msg_bottom">Trajanje baterije lahko povečate do %1$dh %2$dm. Vključim varčevanje baterije?</string>
      <string name="power_center_dialog_msg_title">Vključite da dobite %1$s dodatnega časa. Te stvari bodo narejene za varčevanje baterije:</string>
+     <string name="power_center_dialog_msg_title_screen_on">"Če vklopite to storitev, boste prejeli %1$s časa zaslona. Tukaj so ukrepi, ki bodo prihranili baterijo:"</string>
      <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
      <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
      <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
@@ -4033,6 +4053,8 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_idle">Nedejavnost telefona</string>
      <string name="power_main_battery_last_day_hour">%1$sd %2$sh ostalo</string>
      <string name="power_main_battery_last_hour_minute">%1$sh %2$sm ostalo</string>
+     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ostalo časa zaslona</string>
+     <string name="power_main_open_last_hour_minute_screen_on">Vklopite, če želite dodati %1$s %2$s časa zaslona</string>
      <string name="power_mode_airplane_mode">Način za letalo</string>
      <string name="power_mode_auto_clean_memery_lock_screen">Po %1$d minutah</string>
      <string name="power_mode_auto_clean_memory">Počisti spomin</string>
