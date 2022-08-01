@@ -251,6 +251,9 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="assistant_page_discovery">Odkrij</string>
      <string name="assistant_page_label">Spomini</string>
      <string name="assistant_page_server_error">Preverite omrežne nastavitve</string>
+     <string name="assistant_today_of_year_function_closed_tip">Vključi</string>
+     <string name="assistant_today_of_year_function_no_address_tip">Nazaj v čas</string>
+     <string name="assistant_today_of_year_function_no_photo_tip">Začni</string>
      <string name="associate_face_album">Izberi album</string>
      <string name="asus">Asus</string>
      <string name="asus_phone">Asus</string>
@@ -638,6 +641,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="crossprocess">Premik barv</string>
      <string name="cta_agreement_declare"><Data>Če želite v celoti razumeti vaše pravice kot uporabnika in načine, na katere uporabljamo vaše podatke, preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.</Data></string>
      <string name="cta_network_declare">Za sinhronizacijo fotografij in videoposnetkov z Xiaomi Cloud se mora ta aplikacija povezati s spletom.</string>
+     <string name="cta_screenthrow_declare">"Da bi lahko zaslon te naprave oddali na zunanje monitorje, se mora ta aplikacija povezati s spletom."</string>
      <string name="custom_select_title_deselect_all">Prekliči izbrano</string>
      <string name="custom_select_title_quickly_share">Deli</string>
      <string name="custom_select_title_select_all">Izberi vse</string>
@@ -914,6 +918,7 @@ Napravite več fotografij vaših prijateljev!"</string>
      <string name="facelift">Ten obraza</string>
      <string name="facetan">Zagorel obraz</string>
      <string name="fail_hint">Opravilo spodletelo</string>
+     <string name="fail_reason_migrate">Obdelava… Počakajte minuto ali dve in poskusite znova.</string>
      <string name="fail_to_pick_email">E-pošta je nepravilna</string>
      <string name="fail_to_sync_album">"Albuma ni bilo mogoče sinhronizirati. Preveri svojo podatkovno povezavo in poskusi ponovno."</string>
      <string name="family_member_invitation_text">Ostali člani družine</string>
@@ -1309,6 +1314,8 @@ za fotografije"</string>
      <string name="home_page_empty_action_new">Uvozi iz stare naprave</string>
      <string name="home_page_label">Fotografije</string>
      <string name="home_page_tab_photo">Fotografije</string>
+     <string name="home_sdcard_op_tip_msg">"Tega dejanja nisem mogel dokončati za vse izbrane slike. Odstranite in znova namestite svojo kartico SD."</string>
+     <string name="home_sdcard_tip_msg">Kaže da je vaša SD kartica samo za branje. Odstranite in jo znova namestite v Nastavitve> O telefonu> Shramba.</string>
      <string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
      <string name="homepage_allphotos_tip_dialog_button_positive">V redu</string>
      <string name="homepage_allphotos_tip_dialog_description_all">Vse</string>
@@ -1862,6 +1869,8 @@ za fotografije"</string>
      <string name="ocr_save_to_note">Shrani</string>
      <string name="ocr_save_to_note_new">Shrani v Beležke</string>
      <string name="ocr_send">Skupna raba</string>
+     <string name="ocr_switch_hint">Prepoznaj besedilo, prikazano na slikah, da ga lahko izberete ali ukrepate</string>
+     <string name="ocr_switch_title">Prepoznajte besedilo na slikah</string>
      <string name="ocr_text_copied">Uspešno kopirano</string>
      <string name="ocr_text_copied_selected">Uspešno kopirano</string>
      <string name="ocr_title">Rezultat</string>
@@ -2265,7 +2274,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="projection_cancel">Prekliči</string>
      <string name="projection_checkbox_text">Shrani ta zaslon</string>
      <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
-     <string name="projection_local_mobile">Mobilno</string>
+     <string name="projection_local_mobile">Ta naprava</string>
      <string name="projection_multi_title">Popis naprav</string>
      <string name="projection_screen_project_in_screening">"Zdaj uporabljate svojo napravo za predvajanje"</string>
      <string name="projection_single_title">Predvajaj na %s</string>

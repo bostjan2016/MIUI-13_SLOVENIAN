@@ -432,6 +432,8 @@
      <string name="pm">pop.</string>
      <string name="pm_lable_name">O ROOT dostopu</string>
      <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
+     <string name="power_center_battery_duration_screen_on">Ostalo časa zaslona</string>
+     <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ostalo časa zaslona</string>
      <string name="preference_copied">\"%1$s\" kopiran-o v odložišče.</string>
      <string name="privacy_declare_dialog_title">Pogoji uporabe</string>
      <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>

@@ -73,6 +73,8 @@
      <string name="account_setting_message_body_load_text">Samo telo</string>
      <string name="account_settings_action">Nastavitve računa</string>
      <string name="account_settings_background_attachments_label">Prenesi priponke</string>
+     <string name="account_settings_background_attachments_security_summary">Preveri priloge, ki vsebujejo namestitvene pakete za varnostna tveganja</string>
+     <string name="account_settings_background_attachments_security_title">Preveri priloge za tveganja</string>
      <string name="account_settings_background_attachments_summary">Prenesi priponke nedavnih sporočil preko WiFi omrežja</string>
      <string name="account_settings_background_attachments_summary_inter">Prenesi priponke z uporabo WiFi</string>
      <string name="account_settings_background_attachments_title">Prenesi priponke samodejno</string>
@@ -303,6 +305,10 @@
      <string name="attachment_unknown">%s Datotek</string>
      <string name="attachment_video">Video posnetek</string>
      <string name="attachments_header">Priponke</string>
+     <string name="attachments_security_alert_install_message">Ta priponka je namestitveni paket. Preden jo odprete, se prepričajte, da zaupate viru. Namestim zdaj?</string>
+     <string name="attachments_security_alert_install_title">Pozor</string>
+     <string name="attachments_security_alert_message">To sporočilo vsebuje namestitveni paket. Preden ga odprete, se prepričajte, da zaupate viru.</string>
+     <string name="attachments_security_install">Namesti</string>
      <string name="attendee_needed">Dodajte vsaj enega udeleženca.</string>
      <string name="auto_advance_help_title">"Po brisanju sporočil pokaži…</string>
      <string name="auto_advance_label">Izbriši potek sporočila</string>
@@ -397,6 +403,7 @@
      <string name="click_to_reload">Dotaknite se zaslona za ponovno nalaganje</string>
      <string name="close">Zapri</string>
      <string name="close_custom_folder">Skrij podmape</string>
+     <string name="close_tips">Zapri opomnik</string>
      <string name="collapse_recipient_details">Sesutje prejemnikovih podatkov</string>
      <string name="compose">Sestavi</string>
      <string name="compose_add_attachment_permission_denied">"E -pošte ni mogoče posredovati. Potrebna so dovoljenja za dostop do zunanjega pomnilnika."</string>
@@ -1081,6 +1088,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="message_details_title">Podrobnosti sporočila</string>
      <string name="message_discarded">Osnutek zavržen</string>
      <string name="message_invite_accept">Da</string>
+     <string name="message_invite_calendar_download_prompt">Prenesite koledar, da lahko uporabite to storitev</string>
      <string name="message_invite_calendar_view">Pokaži v koledarju</string>
      <string name="message_invite_decline">Ne</string>
      <string name="message_invite_end_time">Čas konca</string>

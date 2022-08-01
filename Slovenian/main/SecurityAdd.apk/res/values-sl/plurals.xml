@@ -77,6 +77,18 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="power_battery_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+     </plurals>
+     <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s min preostalega časa zaslona</item>
+        <item quantity="one">%s min preostalega časa zaslona</item>
+     </plurals>
      <plurals name="uninstall_game_count_title">
         <item quantity="other">"Ni dodano %d iger"</item>
         <item quantity="one">"Ni dodana %d igra"</item>

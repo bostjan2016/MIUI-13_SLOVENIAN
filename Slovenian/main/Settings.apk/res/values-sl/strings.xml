@@ -4764,7 +4764,7 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="gxzw_quick_open_slow_summary">Pritisnite in držite ikono prstnega odtisa, da odprete meni bližnjic. Če želite uporabiti bližnjico, povlecite.</string>
      <string name="gxzw_quick_open_slow_title">Pritisnite in držite</string>
      <string name="gxzw_quick_open_title">Bližnjice</string>
-     <string name="gxzw_vibrate_summary">Vibriraj, medtem ko se predvaja animacija za odklepanje s prstnim odtisom</string>
+     <string name="gxzw_vibrate_summary">"Vibriranje se ne bo pojavilo, če ni izbrana nobena animacija prstnega odtisa"</string>
      <string name="gxzw_vibrate_title">Vibriraj med odklepanjem</string>
      <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
      <string name="hand_mode_notification_title">Uporabite kontrole roba</string>

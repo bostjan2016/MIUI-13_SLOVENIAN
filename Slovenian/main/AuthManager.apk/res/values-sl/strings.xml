@@ -603,7 +603,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permission_description_summary_sensors">Aplikacije s tem dovoljenjem lahko dostopajo do podatkov senzorja o vaših vitalnih znakih</string>
      <string name="permission_description_summary_sms">Aplikacije s tem dovoljenjem lahko pošiljajo in pregledujejo SMS sporočila</string>
      <string name="permission_description_summary_storage">Aplikacije s tem dovoljenjem lahko dostopajo do fotografij, medijev in datotek v napravi</string>
-     <string name="permission_group_title_charges_related">Telefon</string>
+     <string name="permission_group_title_charges_related">Stroški</string>
      <string name="permission_group_title_media_related">Multimedija</string>
      <string name="permission_group_title_privacy_related">Zasebnost</string>
      <string name="permission_group_title_sensitive_privacy_related">Občutljiva dovoljenja</string>
