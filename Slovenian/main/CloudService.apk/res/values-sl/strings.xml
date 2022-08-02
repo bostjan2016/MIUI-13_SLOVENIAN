@@ -711,7 +711,7 @@ Najdite in zaklenite napravo, če se izgubi."</string>
      <string name="micloud_storage_expires_manually_renewal_sum">"Obnoviti morate naročnino."</string>
      <string name="micloud_storage_expires_soon_title">Prostor na Mi Cloud kmalu poteče</string>
      <string name="micloud_storage_expires_very_soon_title">Prostor na Mi Cloud kmalu poteče</string>
-     <string name="micloud_storage_family_quota">Družinska skupna raba</string>
+     <string name="micloud_storage_family_quota">Skupni prostor</string>
      <string name="micloud_storage_full">Mi Cloud je poln</string>
      <string name="micloud_storage_full_tip">Shramba je polna</string>
      <string name="micloud_storage_normal_tip">%s ostalo</string>

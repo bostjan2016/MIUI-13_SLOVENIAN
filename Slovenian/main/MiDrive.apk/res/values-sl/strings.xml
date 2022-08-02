@@ -94,6 +94,15 @@
      <string name="byteShort">B</string>
      <string name="camera">Kamera</string>
      <string name="cancel">Prekini</string>
+     <string name="cancel_mi_drive">Prekliči storitve</string>
+     <string name="cancel_mi_drive_alert_description">"Počistite vse elemente iz Mi Drive, da boste lahko preklicali storitve. Za brisanje elementov sledite tem korakom:&lt;br />1. Na začetni strani Mi Drive pritisnite in držite stvar, da se prikaže gumb \"Izberi vse\". S tem gumbom izberite do 200 datotek hkrati in jih izbrišite.&lt;br />2. Ko izbrišete vse elemente, počistite vse datoteke iz Nedavno izbrisanih elementov."</string>
+     <string name="cancel_mi_drive_alert_reminder_card_summary">"1. Priporočamo, da varnostno kopirate elemente, preden jih izbrišete. Če želite to narediti, obiščite i.mi.com, kliknite Mi Drive in prenesite svoje stvari v računalnik.&lt;br />2. Vedite da stvari, izbrisanih iz nedavno izbrisanih elementov pozneje ni več mogoče obnoviti."</string>
+     <string name="cancel_mi_drive_confirm_button">Prekliči storitve</string>
+     <string name="cancel_mi_drive_confirm_description">"Če nadaljujete, boste preklicali storitve Mi Drive. Prenehali bomo zbirati vaše osebne podatke, osebni podatki, ki so že zbrani in shranjeni, pa bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če se zahteva drugače."</string>
+     <string name="cancel_mi_drive_confirm_hint">"Preklic storitev Mi Drive ne bo vplival na vašo uporabo drugih izdelkov in storitev Xiaomi. Če želite izbrisati svoj račun Xiaomi, lahko to storite &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>."</string>
+     <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Naslednje stvari bodo po preklicu storitev trajno izbrisane:&lt;/font>&lt;br />1. Vse stvari na Mi Drive, vključno z, vendar ne omejeno na dokumente, zasebne datoteke in izbrisane stvari.&lt;br />2. Device permissions, settings, and other cached content.&lt;br />3. Mi Drive upload and download history.</string>
+     <string name="cancel_mi_drive_success">Preklic storitev uspešen</string>
+     <string name="cancel_mi_drive_title">Prekliči storitve</string>
      <string name="category_document">Dokumenti</string>
      <string name="category_document_title">Dokumenti</string>
      <string name="category_file">Datoteke</string>
@@ -303,7 +312,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -701,8 +710,16 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="preview">Predogled</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_recall_alert_description">"Počistite vse stvari iz Mi Drive, da boste lahko umaknili soglasje. Za brisanje stvari sledite tem korakom:&lt;br />1. Na začetni strani Mi Drive pritisnite in držite stvar, da se prikaže gumb \"Izberi vse\". S tem gumbom izberete do 200 datotek hkrati in jih izbrišete.&lt;br />2. Ko izbrišete vse stvari, počistite vse datoteke iz Nedavno izbrisanih stvari."</string>
+     <string name="privacy_recall_alert_reminder_card_summary">"1. Priporočamo, da varnostno kopirate stvari, preden jih izbrišete. Če želite to narediti, obiščite i.mi.com, kliknite Mi Drive in prenesite svoje stvari v računalnik.&lt;br />2. Upoštevajte, da stvari, izbrisanih iz nedavno izbrisanih stvari, pozneje ni več mogoče obnoviti."</string>
+     <string name="privacy_recall_confirm_button">Preklic soglasja</string>
+     <string name="privacy_recall_confirm_description">"Če nadaljujete, boste umaknili svoje soglasje s Politiko zasebnosti Mi Drive. Prenehali bomo zbirati vaše osebne podatke, osebni podatki, ki so že zbrani in shranjeni, pa bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če se zahteva drugače."</string>
+     <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Naslednje stvari bodo po preklicu soglasja trajno izbrisane:&lt;/font>&lt;br />1. Vsi elementi na Mi Drive, vključno z, vendar ne omejeno na dokumente, zasebne datoteke in izbrisane elemente.&lt;br />2. Dovoljenja naprave, nastavitve in druga predpomnjena vsebina.&lt;br />3. Zgodovina nalaganja in prenosa Mi Drive.</string>
      <string name="privacy_recall_dialog_msg">"Če nadaljujete, boste preklicali privolitev v Politiko zasebnosti družbe Mi Drive. Osebni podatki, ki so že zbrani in shranjeni, bodo v določenem roku izbrisani v skladu z veljavnimi zakoni in drugimi predpisi, razen če ni zahtevano drugače. Ker Mi Drive ponuja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, se vaš umik privolitve šteje za zavrnitev sprejema storitev Mi Drive. Umaknem soglasje zdaj?"</string>
      <string name="privacy_recall_dialog_title">Preklic soglasja</string>
+     <string name="privacy_recall_success">Soglasje uspešno preklicano</string>
+     <string name="privacy_recall_title">Preklic soglasja</string>
+     <string name="privacy_recalling">Preklic soglasja…</string>
      <string name="privacy_update_dialog_msg">Pravila o zasebnosti Mi Drive so bila posodobljena:&lt;br/>%1$s&lt;br/>Preberite in se strinjajte z novo različico &lt;a href=%2$s>&lt;u>Pravila o zasebnosti&lt;/u>&lt;/a> preden nadaljujete.</string>
      <string name="privacy_update_dialog_title">Posodobljena Pravila o zasebnosti</string>
      <string name="privacy_user_notice_dialog_exit_btn_text">Izhod</string>
@@ -715,6 +732,8 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="psw_hint">Geslo</string>
      <string name="psw_sign_in">Prijavite se z geslom</string>
      <string name="ptp_ai_recommend_empty_page">Tu ni samodejno ustvarjenih datotek PDF</string>
+     <string name="query_quota_exception">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="query_quota_searching">Delam…</string>
      <string name="quota_info">Mi Drive: %1$s na voljo, %2$s skupno</string>
      <string name="recent_file">Nedavno</string>
      <string name="recent_jump_to_privacy_fail_notice">Ta datoteka je zasebna. Vrnite se na začetno stran in povlecite navzdol za ogled.</string>
@@ -723,6 +742,7 @@ Prepričajte se, da trenutni Mi račun uporabljate kot račun MIUI sistema."</st
      <string name="refresh_label_refreshing">Osveževanje…</string>
      <string name="refresh_label_release_to_refresh">Spusti za osvežitev</string>
      <string name="release_enter_private">Spusti za ogled zasebnih datotek</string>
+     <string name="reminder_card_title">Pozor</string>
      <string name="remove_success">Uspešno izbrisano</string>
      <string name="rename_alert">"Če spremenite končnico datoteke jo mogoče ne boste mogli odpreti."</string>
      <string name="rename_ext_confirm_dialog_desc">S spremembo vrste datoteke lahko datoteka postane neuporabna</string>

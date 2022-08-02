@@ -592,6 +592,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
      <string name="install_clock">"Ura še ni nameščena. Prenesem zdaj?"</string>
      <string name="install_failed">"Ne morem nanestiti"</string>
+     <string name="install_gallery_content">"Galerije še niste namestili. Prenesem zdaj?"</string>
+     <string name="install_gallery_title">Namesti Galerijo</string>
      <string name="internal_online_precust_gorgeous_black_name">Prekrasna črna</string>
      <string name="internal_online_precust_gorgeous_color_name">Prekrasna barva</string>
      <string name="is_setting_wallpaper_message">Nastavitev slike ozadja…</string>
@@ -662,8 +664,8 @@ Tapnite, da se boste prijavili."</string>
      <string name="miui_clock_city_name_second">Druga ura</string>
      <string name="miui_clock_fancy_colon"></string>
      <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">EEEE dd.MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
+     <string name="miui_lock_screen_date">EEEE dd.MM</string>
+     <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
      <string name="miui_lock_screen_date_two_lines">"EEEE
 dd.MM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE

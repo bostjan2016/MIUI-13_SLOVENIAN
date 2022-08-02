@@ -29,6 +29,14 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Izbrišem %d prenosov?</item>
+        <item quantity="one">Izbrišem %d prenos?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Izbrisano %s prenosov</item>
+        <item quantity="one">Izbrisan %s prenos</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
