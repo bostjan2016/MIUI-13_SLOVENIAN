@@ -219,6 +219,9 @@
      <string name="help_content">"Če ne najdete potrebne naprave, prosite drugo osebo da vključi Mi Share."</string>
      <string name="hisense">Hisense</string>
      <string name="hisense_phone">Hisense</string>
+     <string name="hs_guide_dialog_button_confirm">Razumem</string>
+     <string name="hs_guide_dialog_message">"Ta aplikacija še ni bila optimizirana za novi ležeči način. Namesto tega prekloplljeno na drugo združljivo postavitev."</string>
+     <string name="hs_guide_dialog_title">Pozor</string>
      <string name="icelatte">Ice latte</string>
      <string name="ignore_home_when_fingerprint_enrolling_msg">Postavite vaš prst na gumb Domov</string>
      <string name="incomingmessage">Dohodno sporočilo</string>

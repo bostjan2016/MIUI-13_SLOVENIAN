@@ -622,6 +622,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="start_xunlei_speedup_info">Prijavite se da pohitrite vaše prenose.</string>
      <string name="starting_analysis">Pridobivanje podrobnosti…</string>
      <string name="storage_internal">Notranja shramba</string>
+     <string name="storage_permission_deny">Potrebna so dovoljenja za shrambo</string>
      <string name="storage_sd_card">SD kartica</string>
      <string name="storage_usb">USB pomnilnik</string>
      <string name="subbt_downloading">Prenos…</string>

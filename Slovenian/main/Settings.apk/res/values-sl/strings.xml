@@ -6459,6 +6459,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_ok_device">V redu</string>
      <string name="miheadset_openAnc">Preklic hrupa</string>
      <string name="miheadset_openAnc2">Odpravljanje hrupa</string>
+     <string name="miheadset_open_closeAnc">Vklop/izklop odpravljanja hrupa</string>
      <string name="miheadset_play_pause">predvajaj/premor</string>
      <string name="miheadset_plus">Glasnost gor</string>
      <string name="miheadset_preferences">Nastavitve</string>
