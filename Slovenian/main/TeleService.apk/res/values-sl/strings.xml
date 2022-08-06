@@ -922,7 +922,8 @@ Izključim mobilne podatke?"</string>
 
 Vseeno uporabim mobilne podatke?"</string>
      <string name="data_enabled">Podatki omogočeni</string>
-     <string name="data_interruption_remind">"Videti je, da vaše omrežno okolje ni zanesljivo. Če želite izboljšati povezavo, dovolite svoji napravi uporabo mobilnih podatkov med klici VoLTE na sekundarni kartici SIM."</string>
+     <string name="data_interruption_remind">"Kaže da vaše omrežno okolje ni zanesljivo. Če želite izboljšati povezavo, dovolite svoji napravi uporabo mobilnih podatkov med klici VoLTE na sekundarni kartici SIM."</string>
+     <string name="data_interruption_remind_for_t">"Kaže da vaše omrežno okolje ni zanesljivo. Če želite izboljšati povezavo, dovolite svoji napravi uporabo mobilnih podatkov med klici VoLTE na sekundarni kartici SIM."</string>
      <string name="data_plan">Plan mob. podatkov</string>
      <string name="data_usage_disable_mobile">Želite izključiti mobilne podatke?</string>
      <string name="data_usage_ota">Posodobitve sistema</string>
@@ -3028,6 +3029,9 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="smart_forwarding_settings_menu">Pametno posredovanje</string>
      <string name="smart_forwarding_settings_menu_summary">Če številka ni dosegljiva, vedno posredujte klice na svojo drugo številko.</string>
      <string name="smart_multinetwork_acceleration_title">Pametno večomrežno pospeševanje</string>
+     <string name="smart_switch_dual_sim_prompt">Povezovanje z mobilnim podatkovnim omrežjem s kartico SIM %1$s lahko povzroči dodatne stroške prenosa podatkov. Nastavite omejitev porabe podatkov, da se izognete dodatnim stroškom.</string>
+     <string name="smart_switch_dual_sim_summary">Samodejno preklapljaj med podatkovnimi karticami SIM glede na kakovost omrežne povezave in stanje naprave</string>
+     <string name="smart_switch_dual_sim_title">Preklapljaj med podatkovnimi karticami SIM</string>
      <string name="sms_messages_title">SMS</string>
      <string name="smsc_dialog_message">"Preverite pravilnost vnešene številke, drugače ne boste mogli prejemati in pošiljati SMS. Za potrditev vaše SMSC številke kontaktirajte svojega operaterja."</string>
      <string name="sp_unlock_failed">SIM zahtevek odklepa ponudnika storitev neuspešen.</string>
