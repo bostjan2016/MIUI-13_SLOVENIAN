@@ -311,10 +311,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="hsa_send_again_countdown">Pošlji ponovno (%ds)</string>
      <string name="hsa_send_failed">Pošiljanje kontrolne kode ni uspelo. Poskusite ponovno kasneje.</string>
      <string name="hsa_sending">Pošiljanje…</string>
-     <string name="hsa_tip_message">"1. Če ne morete dobiti kontrolne kode preverite ali ste že prijavljeni v iCloud na vaši Apple napravi.\r
+     <string name="hsa_tip_message">"1. Če ne morete dobiti kontrolne kode preverite ali ste že prijavljeni v iCloud na vaši Apple napravi.r
 2. Če vnos kontrolne kode ne pomaga izključite dvostopenjsko preverjanje."</string>
      <string name="hsa_tip_message_shutdown_hsa">Kako izključiti avtorizacijo z dvema faktorjema</string>
-     <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo je poslano na telefon "%s" povezan z vašim Apple ID.\r
+     <string name="hsa_tip_message_with_device">"1.Sporočilo ki vsebuje kontrolno kodo je poslano na telefon "%s" povezan z vašim Apple ID.r
 2. Izključite dvostopenjsko preverjanje če ne uspete potrditi."</string>
      <string name="hsa_tip_title">Nasveti:</string>
      <string name="hsa_title">Avtorizacija z dvema faktorjema</string>
@@ -324,8 +324,8 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="hsa_verify_shutdown">Izključi</string>
      <string name="iCloud_ID_verification_tip">"Tapnite \"Dovoli\" na vaši Apple napravi da se pojavi kontrolna koda. Tukaj jo vnesite."</string>
      <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
-     <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r
-2.Vključite spremembo za stike in druge stvari.\r
+     <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.r
+2.Vključite spremembo za stike in druge stvari.r
 3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
      <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
      <string name="icloud_how_to_backup_tip_title">Nasveti:</string>
@@ -463,7 +463,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="morning">Jutro</string>
      <string name="multi_select_title">Izbrano: %1$s</string>
      <string name="multi_user_mode_backup_message">"Ne morem uporabiti var. kopijo v večuporabniškem načinu. Izključite večuporabniški način za nadaljevanje."</string>
-     <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite večuporabniki način za nadaljevanje."</string>
+     <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite večuporabniški način za nadaljevanje."</string>
      <string name="multi_user_mode_dialog_title">"Ste v večuporabniškem načinu dela"</string>
      <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
      <string name="never">Nikoli</string>

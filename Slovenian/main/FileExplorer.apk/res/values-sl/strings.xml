@@ -44,6 +44,7 @@
      <string name="add_private">Skrij datoteke</string>
      <string name="add_private_files">Dodaj datoteke</string>
      <string name="add_task">Dodaj opravila</string>
+     <string name="add_to_widget">Dodaj v pripomoček</string>
      <string name="added_category">Dodano</string>
      <string name="adding_upload_tasks">Dodajam opravila</string>
      <string name="afternoon">Popoldne</string>
@@ -275,6 +276,7 @@
      <string name="des_hide_pwd">Skrij geslo</string>
      <string name="des_running_trans">%1$d datotek ni bilo prenešenih.</string>
      <string name="des_show_pwd">Pokaži geslo</string>
+     <string name="dialog_keep_choice">Zapomni si</string>
      <string name="dialog_logout_message">Ali se odjavim?</string>
      <string name="dialog_logout_title">Odjava</string>
      <string name="dialog_select_type">Izberi tip</string>
@@ -1343,6 +1345,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
      <string name="tip">Pozor</string>
+     <string name="tips_add_to_widget">Temu pripomočku lahko dodate do %d datotek. Če dodate več datotek, bodo prej dodane zamenjane.</string>
      <string name="title_album">Albumi</string>
      <string name="title_app_tags">Aplik.</string>
      <string name="title_enable_documentsui">Vključi DocumentsUI</string>
@@ -1590,6 +1593,14 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="welcome_to_my_page">Dobro došli na moji domači strani</string>
      <string name="welcome_to_my_page_1">Spremljajte me!</string>
      <string name="welcome_to_my_page_2">Spremljajte me!</string>
+     <string name="widget_add_files">Dodaj datoteko</string>
+     <string name="widget_added_fail_content">%1$s je že na zač. zaslonu</string>
+     <string name="widget_added_fail_tips">"Ne morem dodati"</string>
+     <string name="widget_added_success_content">Dodano %1$s na zač. zaslon</string>
+     <string name="widget_added_success_tips">Dodano</string>
+     <string name="widget_choose_file">Tapnite za dodajanje</string>
+     <string name="widget_choose_fragment_title">Izberite vrsto datoteke</string>
+     <string name="widget_finish">Končano</string>
      <string name="wifi_state">WiFi omrežje</string>
      <string name="withdraw">Preklic</string>
      <string name="withdraw_consent">Preklic soglasja</string>

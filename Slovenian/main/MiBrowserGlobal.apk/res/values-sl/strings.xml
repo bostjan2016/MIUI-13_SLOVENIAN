@@ -115,6 +115,7 @@
      <string name="adblock_rules_updated_toast">Uspešno posodobljeno</string>
      <string name="adblock_websites_settings_empyt_hint">Niste še blokirali nobene strani.</string>
      <string name="adblock_websites_settings_title">Blokirane strani</string>
+     <string name="add">Dodaj</string>
      <string name="add_bookmark_group">Dodaj skupino</string>
      <string name="add_bookmarks">Zaznamki</string>
      <string name="add_bookshelf_popup_text">Dodano na polico</string>
@@ -131,6 +132,7 @@
      <string name="add_shortcut">Dodaj bližnjico</string>
      <string name="add_shortcut_success">Bližnjica uspešno dodana</string>
      <string name="add_to_bookmark">Zaznamki</string>
+     <string name="add_to_desktop">Dodaj na zač. zaslon</string>
      <string name="add_to_quicklink">Začetna stran</string>
      <string name="add_to_trust_device">To je zaupanja vredna naprava</string>
      <string name="added_to_bookmarks">Dodano med zaznamke</string>
@@ -319,6 +321,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="choose_to_signin">Da</string>
      <string name="choose_to_signup">Ne, ga bom ustvaril</string>
      <string name="choosertitle_sharevia">Delite prek</string>
+     <string name="clear">Izbriši</string>
      <string name="clear_history">Počisti zgodovino</string>
      <string name="clear_most_visited">Nedavno</string>
      <string name="clear_search_history">Počisti zgodovino</string>
@@ -326,6 +329,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="clear_transfer_title">Počistite zastavice za prenos</string>
      <string name="clear_video_download">Izbriši videoposnetke</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
+     <string name="cleared_garbage">Izbrisano %d MB smeti</string>
      <string name="click_always">Tapnite \"Vedno\"</string>
      <string name="click_to_refresh">Tukaj ste zadnjič končali, tapnite za osvežitev</string>
      <string name="clip_dialog_title">Odprem kopirano povezavo?</string>
@@ -531,6 +535,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Delam…</string>
      <string name="dkcommon__web_pull_refresh_view__release_tip">Spustite za osvežitev</string>
      <string name="dkmibrowsershopad__ad_view_video_replay">Ponovi</string>
+     <string name="doc_viewer_label">Bralnik (Mi Brskalnik)</string>
+     <string name="doc_viewer_open_out_file_prompt">Če želite odpreti in si ogledati datoteko, prejeto iz zunanjih virov, mora ta aplikacija najprej ustvariti kopijo datoteke. Nadaljujem?</string>
      <string name="document_download_background_btn">Prenesi v ozadju</string>
      <string name="document_download_cancel_btn">Prekliči</string>
      <string name="document_download_failed">Ne morem prenesti</string>
@@ -793,6 +799,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="file_type">Format: %s</string>
      <string name="filename_empty_alert_message">Vpišite ime datoteke</string>
      <string name="filename_illegal_alert_message">Nepravilni znak je bil odstranjen iz imena datoteke</string>
+     <string name="find_garbage">Najdeno %d MB smeti</string>
      <string name="find_new_version">NOVA POSODOBITEV JE NA VOLJO</string>
      <string name="find_on_page_cancel">Prekliči</string>
      <string name="find_on_page_hint">Najdi na strani</string>
@@ -1098,6 +1105,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="menu_title_resume_all">Zaženi vse</string>
      <string name="messenger_send_button_text">Pošlji</string>
      <string name="mi_browser">Mi brskalnik</string>
+     <string name="mi_browser_clean_up_garbage">Mi brskalnik čisti smeti…</string>
      <string name="midi_permission_name">Upravljanje naprav MIDI</string>
      <string name="midnight">Noč</string>
      <string name="mint_games">Popularne igre</string>
@@ -1753,6 +1761,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="phone_hint">Telefonska številka</string>
      <string name="phone_num_use_for">Telefonska številka se uporablja za:</string>
      <string name="phone_number">Telefonska številka</string>
+     <string name="phone_very_clean">Ni smeti</string>
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="pick_file">Izberite datoteke</string>
      <string name="ping_test_title">Mrežna zakasnitev</string>
@@ -2311,6 +2320,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="subscribe_success">Naročeno uspešno</string>
      <string name="subscription_status_error">"Naročiti se ni bilo mogoče"</string>
      <string name="subscriptions_title">Urejajte svojo naročnino</string>
+     <string name="successfully_added">Dodano</string>
      <string name="suggest_access_appstore">Mi App Store</string>
      <string name="suggest_access_btn_install">Namesti</string>
      <string name="suggest_access_btn_open">Odpri</string>
@@ -2328,6 +2338,10 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="surfing__home_main_discovery">Odkrij</string>
+     <string name="surfing__shared__discovery">Domov</string>
+     <string name="surfing__shared__library">Knjižnica</string>
+     <string name="surfing__shared__me">Profil</string>
      <string name="switchText">DA</string>
      <string name="switch_proxy_dialog_msg">"Zaznana ugrabitev omrežja. Uporabite vgrajeno aplikacijo MIUI Varnost ali to sporočite svojemu mobilnemu operaterju."</string>
      <string name="switch_proxy_dialog_title">Ugrabitev omrežja</string>

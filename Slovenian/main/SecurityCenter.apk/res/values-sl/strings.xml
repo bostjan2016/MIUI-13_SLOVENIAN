@@ -2938,7 +2938,7 @@ operaterja"</string>
      <string name="mark_sell_time_setting">Blokiraj številke ki so večkrat označeni kot trgovci</string>
      <string name="mark_time_setting_dialog_title">Prijavi številko</string>
      <string name="mark_time_text">%d</string>
-     <string name="marked_by_others">"Ostali uporabniki (%d) su ga označili kot "</string>
+     <string name="marked_by_others">"Ostali uporabniki (%d) so ga označili kot "</string>
      <string name="marked_by_user">"označili ste ga kot "</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_selection">Izberite uro</string>
