@@ -731,6 +731,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Ne pozabite očistiti predpomnilnik"</string>
      <string name="application_item_already_permission">Dovoljeno</string>
      <string name="application_item_disable">Omejeno</string>
+     <string name="application_mode_name">Postavitve aplikacij</string>
      <string name="applock_add_account">Dodaj</string>
      <string name="applock_add_account_ignore">Ne zdaj</string>
      <string name="applock_add_account_ignore_with_seconds">Ne zdaj (%ds)</string>
@@ -2006,10 +2007,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="forget_pattern">Pozabljen vzorec</string>
      <string name="forground_network_optimization_summary">Dajte večjo propustnost igram v prvem planu</string>
      <string name="forground_network_optimization_title">Prioriteta propustnosti</string>
-     <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
-     <string name="free_send_net_booster_busniess">Pridobite brezplačno hitrost Xunlei</string>
-     <string name="free_send_net_booster_busniess_tip">Pritisni za sprejem</string>
-     <string name="free_send_net_booster_tip">Uživajte v tekočem igranju z brezplačnim povečanjem hitrosti omrežja.</string>
+     <string name="free_send_net_booster">Preizkusite Game Turbo brezplačno</string>
+     <string name="free_send_net_booster_busniess">Preizkusite Game Turbo brezplačno</string>
+     <string name="free_send_net_booster_busniess_tip">Izboljšajte svojo igralno izkušnjo in osvojite preobleko za igro. Ta ponudba je na voljo samo še danes!</string>
+     <string name="free_send_net_booster_tip">Izboljšajte svojo igralno izkušnjo in osvojite napravo Xiaomi!</string>
      <string name="free_time_traffic">Izklj. maks. omejitev podatkov</string>
      <string name="free_time_traffic_hint">Vnesite Izklj. maks. omejitev podatkov</string>
      <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
@@ -2075,12 +2076,16 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="game_video_net_data">Mobilni podatki</string>
      <string name="game_video_network_eror">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="game_wid_viewpoint_buttom">Napravite kratek premor.</string>
+     <string name="gamebooster_dialog_recover">Obnovi</string>
+     <string name="gamebooster_dialog_start_booster">Začni</string>
      <string name="gamebooster_lowbattery_notification_summary">Napolnite napravo predno se izključi.</string>
      <string name="gamebooster_lowbattery_notification_title">Baterija je na manj kot 5%%</string>
      <string name="gamebooster_main_activity_back">Nazaj</string>
      <string name="gamebooster_network_dialog_cn_message">"Game Turbo ne morete uporabljati, če varnost ni dovoljena za povezavo s spletom in dostop do vaše lokacije. Dovolim zdaj?"</string>
      <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na splet da uporabite vse storitve Game Turbo?</string>
      <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
+     <string name="gamebooster_push_expiring_soon_button">Obnovi</string>
+     <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
      <string name="gamebox_ai_subtitle">AI podnapisi</string>
      <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
      <string name="gamebox_brightness">Svetlost</string>
@@ -2669,6 +2674,7 @@ da se pridružite našemu lovu na jajca!"</string>
      <string name="hot_today">Popularno danes</string>
      <string name="i_know">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
+     <string name="icon_created_settings_preference">Dodano</string>
      <string name="icon_text_size_giga_byte">%.1fGB</string>
      <string name="icon_text_size_max">9.9GB</string>
      <string name="icon_text_size_mega_byte">%dMB</string>
@@ -2884,12 +2890,14 @@ za kalibracijo"</string>
 operaterja"</string>
      <string name="main_tobe_added_desc">Mobilni podatki od ¥0.03/MB</string>
      <string name="main_today_used">Porabljeno danes</string>
+     <string name="main_toolbar_custom_service">Storitve po meri</string>
      <string name="main_toolbar_firewall">Omeji uporabo podatkov</string>
      <string name="main_toolbar_internet_by_mobiledata">Mobilni podatki</string>
      <string name="main_toolbar_internet_by_pc_brige">Splet preko USB-ja</string>
      <string name="main_toolbar_internet_by_wifi">Splet preko WiFi-ja</string>
      <string name="main_toolbar_misim">Mi SIM</string>
      <string name="main_toolbar_purchase">Doplačilo</string>
+     <string name="main_toolbar_recharge_record">Zapis o polnjenju</string>
      <string name="main_toolbar_saving">Prihranek</string>
      <string name="main_toolbar_statistic">Statistika porabe podatkov</string>
      <string name="main_traffic_detail">Uporaba podatkov</string>
@@ -3210,6 +3218,7 @@ Vaša naprava je zdaj %s hitrejša."</string>
      <string name="na_main_card_ad_title">Reklama Mi Fan kartice</string>
      <string name="na_main_card_title_sim">"Kartica "</string>
      <string name="na_open_at_once">Vključi</string>
+     <string name="na_operator_not_support_correction">"Ta operater ne podpira poizvedb o pristojbinah in stanju"</string>
      <string name="na_query_and_correction">Preveri in umeri stanje</string>
      <string name="na_query_and_correction_msg">"Stanje na računu in statistiko mobilnih podatkov lahko preverite in umerite tako, da svojemu operaterju pošljete brezplačno sporočilo SMS. Ta sporočila so šifrirana.
 Sporočila s poizvedbami o stanju niso shranjena v sporočilih in ne bodo prikazana.
@@ -3585,11 +3594,13 @@ To skrajšuje trajanje baterije."</string>
      <string name="optmizingbar_title_clear">Očisti predpomnilnik</string>
      <string name="optmizingbar_title_security">Varnost</string>
      <string name="optmizingbar_title_system">Varnost sistema</string>
+     <string name="order_bh_net_error">Ni omrežja</string>
      <string name="organization">Organizacija</string>
      <string name="other">Ostalo</string>
      <string name="other_exception_summary">"Ni povezave s spletom"</string>
      <string name="other_exception_title">Kontrola drugih težav</string>
      <string name="other_milink_connect">"Ne morem predvajati. Predvaja se druga vsebina."</string>
+     <string name="other_operator_name_virtual_operator">Drugi virtualni operaterji</string>
      <string name="over_package_reminder_type">Ko je podatkovni paket porabljen</string>
      <string name="package_change_notification_summary">Tapnite da izveste več.</string>
      <string name="package_change_notification_title">Nastavite omejitev podatkov na samodejno</string>
@@ -3652,6 +3663,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
+     <string name="pc_endurance_calculation">Računam…</string>
      <string name="pc_fast_charge_notifi_action_text_off">Ustavi</string>
      <string name="pc_fast_charge_notifi_action_text_on">Pospeši</string>
      <string name="pc_fast_charge_notifi_power_threshold_title">Nastavite raven baterije za opomnike</string>
@@ -5169,6 +5181,8 @@ Umaknem soglasje zdaj?"</string>
      <string name="sim_state_exception_summary">Stanje SIM kartice kaže da nekaj ni v redu z njo.</string>
      <string name="sip_phone">SIP Telefon</string>
      <string name="size_byte">B</string>
+     <string name="size_embedded">Paralelna okna</string>
+     <string name="size_full">Cel zaslon</string>
      <string name="size_giga_byte">GB</string>
      <string name="size_kilo_byte">KB</string>
      <string name="size_mega_byte">MB</string>

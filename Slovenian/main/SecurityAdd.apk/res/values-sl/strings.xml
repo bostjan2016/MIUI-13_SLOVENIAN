@@ -146,8 +146,8 @@
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="free_send_net_booster">Brezplačno povečanje hitrosti omrežja</string>
-     <string name="free_send_net_booster_busniess">Pridobite brezplačno Xunlei povečanje hitrosti</string>
-     <string name="free_send_net_booster_busniess_tip">Tapnite za sprejem</string>
+     <string name="free_send_net_booster_busniess">Preizkusite Game Turbo brezplačno</string>
+     <string name="free_send_net_booster_busniess_tip">Izboljšajte svojo igralno izkušnjo in osvojite preobleko za igro. Ta ponudba je na voljo samo še danes!</string>
      <string name="free_send_net_booster_tip">Uživajte v hitrem igranju z brezplačno pohitritvijo omrežja.</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
@@ -165,6 +165,8 @@
      <string name="game_net_text2">Pohitrite povezavo z omrežno igro in omejite hitrost prenosa v ozadju</string>
      <string name="game_net_title">Optimiziraj hitrost povezave</string>
      <string name="game_setting">Nastavitve igre</string>
+     <string name="gamebooster_dialog_recover">Obnovi</string>
+     <string name="gamebooster_dialog_start_booster">Začni</string>
      <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
      <string name="gamebooster_network_dialog_message_pad">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
      <string name="gamebooster_network_dialog_title">"Nekatere storitve niso na voljo"</string>

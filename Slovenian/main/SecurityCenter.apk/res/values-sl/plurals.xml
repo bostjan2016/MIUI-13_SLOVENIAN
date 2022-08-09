@@ -293,6 +293,14 @@
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
      </plurals>
+     <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Vaše članstvo v Game Turbo bo poteklo čez %d dni.</item>
+        <item quantity="one">Vaše članstvo v Game Turbo bo poteklo čez %d dan.</item>
+     </plurals>
+     <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Vaše članstvo v Game Turbo bo poteklo čez %d dni. Obnovite zdaj in uživajte v brezhibnem igranju.</item>
+        <item quantity="one">Vaše članstvo v Game Turbo bo poteklo čez %d dan. Obnovite zdaj in uživajte v brezhibnem igranju.</item>
+     </plurals>
      <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d oseb igra</item>
         <item quantity="one">%1$d oseba igra</item>
@@ -595,8 +603,8 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
-        <item quantity="one">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
+        <item quantity="other">Vaša seja povečanja hitrosti omrežja se bo končala čez %d dni. Morda boste začeli doživljati zakasnitve omrežja. Želite zdaj obnoviti sejo?</item>
+        <item quantity="one">Vaša seja povečanja hitrosti omrežja se bo končala čez %d dan. Morda boste začeli doživljati zakasnitve omrežja. Želite zdaj obnoviti sejo?</item>
      </plurals>
      <plurals name="network_restrict_count">
         <item quantity="other">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d&lt;/font> aplik."</item>
