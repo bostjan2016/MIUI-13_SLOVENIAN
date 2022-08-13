@@ -88,6 +88,7 @@
      <string name="cookies_content_two">"Odločite se, ali želite, da naši zaupanja vredni ponudniki vsebin uporabljajo piškotke za prilagajanje priporočil vsebine in oglasov glede na vaša zanimanja."</string>
      <string name="cookies_title">Prilagojena vsebina in piškotki</string>
      <string name="copy">Kopiraj</string>
+     <string name="create_shortcut">Bližnjica na začetnem zaslonu</string>
      <string name="data_traffic_enable_dialog_title">"Če niste povezani z WiFi bo naprava uporabila mobilne podatke. To lahko povzroči stroške."</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>

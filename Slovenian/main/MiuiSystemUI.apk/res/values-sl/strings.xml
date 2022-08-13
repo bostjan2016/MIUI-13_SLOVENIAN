@@ -2414,7 +2414,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings">Hitre nastavitve</string>
      <string name="quick_settings_autobrightness_label">Samod. svetlost</string>
      <string name="quick_settings_batterysaver_label">Varčevanje baterije</string>
+     <string name="quick_settings_bluetooth_connected_tip">Uspešno vzpostavljena povezava prek Bluetooth</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Ni dostopnih seznanjenih naprav</string>
+     <string name="quick_settings_bluetooth_disconnected_tip">Vse naprave Bluetooth bodo danes ostale odklopljene</string>
      <string name="quick_settings_bluetooth_label">Bluetooth</string>
      <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (št. naprav: %d)</string>
      <string name="quick_settings_bluetooth_off_label">Bluetooth izklopljen</string>

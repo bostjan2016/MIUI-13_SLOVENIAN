@@ -41,6 +41,7 @@
      <string name="channel_complete">Prenos je končan</string>
      <string name="channel_insufficient_space">Premalo prostora</string>
      <string name="channel_waiting">Prenos na čakanju</string>
+     <string name="clear_data">Očisti</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
      <string name="copy">Kopiraj</string>
@@ -95,6 +96,7 @@
      <string name="downloading">Prenos…</string>
      <string name="downloading_empty">Prazno</string>
      <string name="early_morning">Jutro</string>
+     <string name="editmode_menu_delete">Izbriši</string>
      <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>

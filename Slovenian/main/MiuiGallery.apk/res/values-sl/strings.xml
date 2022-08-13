@@ -1254,6 +1254,8 @@ za fotografije"</string>
      <string name="functions_are_being_developed">To bo kmalu na voljo. Ostanite v toku!</string>
      <string name="gallery_setting">Nastavitve</string>
      <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
+     <string name="gallery_uninstall_description_content">"Galerija je sistemska aplikacija, ki vam omogoča ogled, upravljanje in sinhronizacijo fotografij in videoposnetkov v vseh povezanih napravah. Če odstranite Galerijo, boste izgubili stvari, ki ste jih naredili zasebne, prav tako pa vam ne bodo več na voljo druge storitve, povezane z ogledovanjem in izbiranjem elementov Galerije. Vseeno odstranim?"</string>
+     <string name="gallery_uninstall_description_title">Odstranim Galerijo?</string>
      <string name="generate_story_summary">"Naredite dovolj fotografij, priključite polnilnik in izklopite zaslon, da se prikažejo spomini. Že ustvarjeni spomini ne bodo izginili, če izklopite to storitev."</string>
      <string name="generate_story_title">Spomini</string>
      <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
