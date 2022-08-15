@@ -139,6 +139,7 @@
      <string name="adjust_text_zoom_toast">Spreminjanje velikosti besedila lahko povzroči da nekatere strani ne bodo pravilno prikazane</string>
      <string name="afternoon">Večer</string>
      <string name="agree">Sprejmem</string>
+     <string name="agree_label">Sprejmem</string>
      <string name="agree_open">Vključi</string>
      <string name="agree_permissions_request">Dovoli</string>
      <string name="alert_tips">Ta stran predstavlja tveganje</string>
@@ -504,6 +505,7 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
      <string name="deeplink_permission_name_hint">Odpri %s</string>
      <string name="default_account_name">Gost</string>
      <string name="default_likes">Všeč mi je</string>
+     <string name="default_message_body">telo sporočila</string>
      <string name="default_share">Deljenje</string>
      <string name="default_title">"Napisa ni bilo mogoče naložiti. Osvežite stran, da poskusite znova."</string>
      <string name="delete">Izbriši</string>
@@ -1201,6 +1203,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="more_description">Meni</string>
      <string name="more_info">Več o tem</string>
      <string name="more_option">Več možnosti</string>
+     <string name="more_privacy">Več možnosti zasebnosti</string>
      <string name="more_recommend">Več priporočil</string>
      <string name="morning">Jutro</string>
      <string name="most_visited_sites">Najbolj obiskano</string>
@@ -2052,6 +2055,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="refuse_open">Ne zdaj</string>
      <string name="refuse_permissions_request">Omeji</string>
      <string name="regid">RegId(Kliknite Za izvoz)</string>
+     <string name="reject_all_label">Zavrni vse</string>
      <string name="release_to_refresh">Spustite za osvežitev</string>
      <string name="relevant_recommendations">Priporočeno</string>
      <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
@@ -2225,11 +2229,13 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>
      <string name="share_video">Deli video</string>
      <string name="shear_plate_permission_name">Dostop do ali shranjevanje stvari v odložišče</string>
+     <string name="short_cut_name_novel">Brezplačne knjige</string>
      <string name="shortcut_function">Bližnjice</string>
      <string name="shortcuts_boost_speed">Povečanje hitrosti</string>
      <string name="shortcuts_cleanup_cache">Čistilec</string>
      <string name="shortcuts_cleanup_memory">Počisti predpomnilnik</string>
      <string name="shortcuts_security_scan">Varnostni pregled</string>
+     <string name="show_options_label">Pokaži možnosti</string>
      <string name="sign_in">Prijava</string>
      <string name="sign_in_by_others">Drugi načini prijave</string>
      <string name="sign_in_by_xiaommi">Prijavite se z računom Mi</string>
@@ -2371,6 +2377,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="tab_videos">Videoposnetki</string>
      <string name="tab_yellowpage">Priljubljeno</string>
      <string name="tabs_description">Zavihki</string>
+     <string name="tag_undo">Razveljavi</string>
+     <string name="tag_undo_title">Zaprzo %s</string>
      <string name="talk_back_voice_search">Glasovno iskanje</string>
      <string name="temporary_not_available">"Ta storitev še ni na voljo"</string>
      <string name="terms_policy">Pogoji in pravila</string>

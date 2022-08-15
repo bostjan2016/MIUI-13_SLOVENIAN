@@ -161,8 +161,12 @@
         <item quantity="one">Najden %1$s nov video</item>
      </plurals>
      <plurals name="search_head_hint_all">
-        <item quantity="other">Rezultat iskanja (%1$d stvari)</item>
+        <item quantity="other">Rezultatov iskanja (%1$d stvari)</item>
+        <item quantity="zero">Rezultatov iskanja (%1$d stvari)</item>
         <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
+        <item quantity="two">Rezultata iskanja (%1$d stvari)</item>
+        <item quantity="few">Rezultati iskanja (%1$d stvari)</item>
+        <item quantity="many">Rezultatov iskanja (%1$d stvari)</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">Datotek (%2$d) apl. %1$s</item>

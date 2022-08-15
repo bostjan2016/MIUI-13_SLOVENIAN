@@ -50,6 +50,18 @@
         <item quantity="other">Predvajaj naslednji video čez %d sekund</item>
         <item quantity="one">Predvajaj naslednji video čez %d sekundo</item>
      </plurals>
+     <plurals name="bonus_amount">
+        <item quantity="other">%d bonusov</item>
+        <item quantity="one">%d bonus</item>
+     </plurals>
+     <plurals name="bookroom__clear_invalid_book_view__found">
+        <item quantity="other">Našel &lt;font color="#ed6c00">%d&lt;/font> zastarelih stvari</item>
+        <item quantity="one">Našel &lt;font color="#ed6c00">%d&lt;/font> zastarelo stvar</item>
+     </plurals>
+     <plurals name="coin_amount">
+        <item quantity="other">%d kovancev</item>
+        <item quantity="one">%d kovanec</item>
+     </plurals>
      <plurals name="days_ago">
         <item quantity="other">Pred %1$d dnevi</item>
         <item quantity="one">Pred %1$d dnevom</item>
