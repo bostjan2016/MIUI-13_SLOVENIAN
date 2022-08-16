@@ -246,6 +246,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="find_device_success_title">Najdi napravo</string>
      <string name="find_permission_location_summary">Za lociranje naprave</string>
      <string name="find_permission_location_title">Dostop do lokacije</string>
+     <string name="find_permission_phone_sim_info_summary">Za dostop do vaše lokacije prek SMS-a, ko niste povezani v omrežje</string>
+     <string name="find_permission_phone_sim_info_title">Dostop do informacij o napravi</string>
      <string name="find_permission_phone_summary">"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</string>
      <string name="find_permission_phone_title">Dostop do informacij o napravi</string>
      <string name="find_permission_sms_summary">"Za lociranje te naprave, ko ni povezana s spletom"</string>
@@ -258,7 +260,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>

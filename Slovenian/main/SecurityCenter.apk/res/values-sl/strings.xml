@@ -2457,6 +2457,9 @@ vašega igranja"</string>
      <string name="get_phone_num_fail">Neznana telefonska številka</string>
      <string name="get_sys_info">Dobivanje informacij…</string>
      <string name="gigabyteShort">GB</string>
+     <string name="global_satisfaction_notification_button">Ocenite</string>
+     <string name="global_satisfaction_notification_subhead">Povejte nam o svojih izkušnjah</string>
+     <string name="global_satisfaction_notification_title">Ocenite to napravo</string>
      <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
      <string name="global_wa_setting_alert_dialog_title">WhatsApp Čistilec</string>
      <string name="gmscore_support_remind">Vključite to opravilo če imate težave z uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
@@ -5024,7 +5027,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="setting_online_service">Online storitve</string>
      <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
      <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
-     <string name="setting_wireless_reverse_charging_fg_control_summary">Ustavi brezžično polnjenje, ko baterija doseže %s</string>
+     <string name="setting_wireless_reverse_charging_fg_control_summary">Ustavi brezžično polnjenje, ko je baterija nižja od %s</string>
      <string name="setting_wireless_reverse_charging_summary">Na sredino hrbtne strani naprave namestite napravo, ki podpira brezžično polnjenje Qi (npr. telefon ali nosljivo napravo)</string>
      <string name="settings">Nastavitve porabe podatkov</string>
      <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>

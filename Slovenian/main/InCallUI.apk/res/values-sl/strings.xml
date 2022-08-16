@@ -79,6 +79,8 @@
      <string name="call_contacts_deny_permission_msg">"Zavrnili ste dovoljenje za branje stikov. Ne morem prikazati informacij o stikih."</string>
      <string name="call_description_recording">Snemanje…</string>
      <string name="call_extension_conference_mode">Konferenca</string>
+     <string name="call_log_short_in">Ta številka vas je pravkar klicala</string>
+     <string name="call_log_short_out">Pravkar ste poklicali to številko</string>
      <string name="call_not_support_high_frequency_click">"Ne dotikajte se te tipke tako pogosto"</string>
      <string name="call_progress_info_call_forwarding">Klic je preusmerjen</string>
      <string name="call_progress_info_call_rejected">Druga oseba je zdaj zaposlena. Pokličite pozneje</string>

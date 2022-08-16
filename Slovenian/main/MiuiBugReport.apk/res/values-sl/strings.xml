@@ -691,11 +691,11 @@ Pošljite to kodo nadzorniku."</string>
      <string name="phone_number">Telefonska številka</string>
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="please_agree_protocal">Prosimo, da se strinjate s protokolom</string>
-     <string name="please_download_gallery">Prosimo, namestite Galerijo</string>
+     <string name="please_download_gallery">Namestite Galerijo za ogled</string>
      <string name="plus_one_submit_dialog_content">Vaše pov. inf. skupaj z priponkami bodo poslane Mi strežnikom.</string>
      <string name="plus_one_submit_dialog_not_show_again">Zapomni si izbiro</string>
      <string name="pm">pop.</string>
-     <string name="post_miui_bbs_failed">Ne morem objaviti post na MIUI Forum</string>
+     <string name="post_miui_bbs_failed">Ne morem objaviti objave na MIUI Forum</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="privacy_category_title">Zasebnost</string>
      <string name="privacy_policy_title">Pravila o zasebnosti</string>

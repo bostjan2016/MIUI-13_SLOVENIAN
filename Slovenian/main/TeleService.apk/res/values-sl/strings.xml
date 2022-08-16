@@ -1246,6 +1246,7 @@ Aktiviram eSIM?"</string>
      <string name="esim_inactive_notification_message_global">Kartica SIM ni zaznana. Tapnite, da aktivirate eSIM.</string>
      <string name="esim_inactive_notification_title_global">DvojnaSIM &amp; mobilna omrežja</string>
      <string name="esim_inactive_settings_title">Dvojna kartica SIM &amp; mobilna omrežja</string>
+     <string name="esim_is_activating_notification_message_for_o2">Aktiviranje mobilnega načrta…</string>
      <string name="esim_setting_title">eSIM nastavitve</string>
      <string name="evening">Večer</string>
      <string name="exception_error">Napaka omrežja ali SIM kartice.</string>

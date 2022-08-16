@@ -298,7 +298,7 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
      <string name="cit_camera_fast_check_title">Hitro testiranje kamere</string>
      <string name="cit_camera_flash_adjust">Nastavite bliskavico</string>
      <string name="cit_camera_otp_download_title">Preizkus prenosa OTP kamere</string>
-     <string name="cit_camera_rearsub">Poteka preverjanje zadnje sekundarne kamere, počakajte…</string>
+     <string name="cit_camera_rearsub">Poteka preverjanje sekundarne kamere, počakajte…</string>
      <string name="cit_camera_sdcard_error">"Ne morem posneti fotografije. SD kartica je polna."</string>
      <string name="cit_camerasfr_test">Razčlenjevanje slike, počakajte....</string>
      <string name="cit_capture_fail">Fotografiranje ni uspelo</string>
