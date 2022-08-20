@@ -1558,6 +1558,9 @@ Napravite varnostno kopijo stikov."</string>
      <string name="preference_tone_title">Zvoki</string>
      <string name="preference_yellowpage_function_setting">Nastavitve Rumene strani</string>
      <string name="prepare_import">"Uvozi stike"</string>
+     <string name="presentation_payphone">Plačljivi telefon</string>
+     <string name="presentation_private">Skrita številka</string>
+     <string name="presentation_unknown">Neznana številka</string>
      <string name="preview_contact_card_title">"Uvažam stike…"</string>
      <string name="preview_incall_show_entry">Pregled videoposnetka</string>
      <string name="previous">Prejšnja</string>
@@ -1961,6 +1964,7 @@ Napravite varnostno kopijo stikov."</string>
      <string name="video_chat">Video klepet</string>
      <string name="viewContactDesription">Ogled stika</string>
      <string name="viewContactTitle">Podrobnosti stika</string>
+     <string name="view_more_call_logs">Pokaži več</string>
      <string name="view_updates_from_group">Ogled posodobitev</string>
      <string name="voicemail">Glasovna pošta</string>
      <string name="voicemail_buffering">Nalagam...</string>

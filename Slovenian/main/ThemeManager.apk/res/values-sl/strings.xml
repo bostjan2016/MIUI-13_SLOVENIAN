@@ -96,6 +96,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="app_name_pad">Personalizacija</string>
      <string name="application_list_permission_desc">Za prikaz aplikacij, združljivih s prozornimi ozadji</string>
      <string name="application_notify_title">Pozor</string>
+     <string name="apply_4k_video_wallpaper_warning">"Videoposnetkov 4K in 8K ni mogoče uporabiti kot video ozadja."</string>
      <string name="apply_choosen_type_resource">Nastavi izbrane stvari</string>
      <string name="apply_default_font_tip">"Uporabim trenutno sistemsko pisavo?"</string>
      <string name="apply_failed">"Ne morem nastaviti"</string>

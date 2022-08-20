@@ -1598,9 +1598,11 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="widget_added_fail_tips">"Ne morem dodati"</string>
      <string name="widget_added_success_content">Dodano %1$s na zač. zaslon</string>
      <string name="widget_added_success_tips">Dodano</string>
+     <string name="widget_choose_document_please">Izberite dokument</string>
      <string name="widget_choose_file">Tapnite za dodajanje</string>
      <string name="widget_choose_fragment_title">Izberite vrsto datoteke</string>
      <string name="widget_finish">Končano</string>
+     <string name="widget_name">Nedavno ogledane datoteke</string>
      <string name="wifi_state">WiFi omrežje</string>
      <string name="withdraw">Preklic</string>
      <string name="withdraw_consent">Preklic soglasja</string>
