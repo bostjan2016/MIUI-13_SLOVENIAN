@@ -219,6 +219,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="anim_gamebooster_text">Samo trenutek…</string>
      <string name="anti_disturb_msg_detail">Izključi vsa obvestila, razen za dohodne klice</string>
      <string name="anti_disturb_msg_title">DND</string>
+     <string name="antispam_guangdian_card_hint">"Vaša kartica SIM ne podpira preklopa na drugo sporočilo. Za podrobnosti se obrnite na svojega operaterja."</string>
+     <string name="antispam_guangdian_card_title">"Preklapljanje ni podprto"</string>
      <string name="antispam_mms_text">Nastavite sporočila za privzeto aplikacijo za pošiljanje SMS-ov da boste lahko pregledali blokirana sporočila</string>
      <string name="antispam_mms_text_setting">Nastavite sporočila za privzeto aplikacijo za pošiljanje SMS-ov da boste lahko uporabili seznam za blokiranje</string>
      <string name="antispam_mode_details">Podrobnosti seznama blokiranih</string>

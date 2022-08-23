@@ -201,6 +201,14 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> se prenaša</item>
         <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> se prenaša</item>
      </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Nazaj %d sekund</item>
+        <item quantity="one">Nazaj %d sekundo</item>
+     </plurals>
      <plurals name="folder_songs_count">
         <item quantity="other">Skladb: %d</item>
         <item quantity="one">1 skladba</item>

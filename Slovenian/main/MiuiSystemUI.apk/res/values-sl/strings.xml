@@ -2537,6 +2537,11 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_screen_record_label">Snemalec zaslona</string>
      <string name="quick_settings_screen_record_start">Začetek</string>
      <string name="quick_settings_screen_record_stop">Ustavi</string>
+     <string name="quick_settings_screen_rotation_inner_locked">Vrtenje notranjega zaslona izključeno</string>
+     <string name="quick_settings_screen_rotation_inner_unlocked">Vrtenje notranjega zaslona vključeno</string>
+     <string name="quick_settings_screen_rotation_outer_landscape_locked">Zunanji zaslon je zaklenjen v ležečem načinu</string>
+     <string name="quick_settings_screen_rotation_outer_portrait_locked">Zunanji zaslon je zaklenjen v pokončnem načinu</string>
+     <string name="quick_settings_screen_rotation_outer_unlocked">Vrtenje zunanjega zaslona vključeno</string>
      <string name="quick_settings_screenbutton_label">Tipke</string>
      <string name="quick_settings_screenlock_label">Zakl. zaslon</string>
      <string name="quick_settings_screenshot_label">Posnetek zaslona</string>

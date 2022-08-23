@@ -178,6 +178,8 @@
      <string name="choose">Izberi</string>
      <string name="choose_to_signin">Da</string>
      <string name="choose_to_signup">Ne, ga bom ustvaril</string>
+     <string name="chromecast_connecting">Povezovanje s Chromecastom…</string>
+     <string name="chromecast_playing">"Ta videoposnetek gledate s Chromecastom"</string>
      <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_to_open_pip">Dotaknite se za preklop na sliko v sliki</string>
@@ -778,6 +780,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_view_details">Podrobnosti</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
      <string name="init_channels">Ponastavi na privzeto</string>
+     <string name="inline_mute_click_tip">Tapnite za vklop zvoka</string>
      <string name="input_email_address_notice">Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
      <string name="input_size_tips">Lahko vnesete do 1000 znakov</string>
@@ -828,6 +831,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_hide_folder_dialog_title">Skriti videoposnetki</string>
      <string name="local_hide_folder_setting_goto">Nastavitve</string>
      <string name="local_hide_folder_setting_tip">Svoje skrite videoposnetke lahko upravljate v Profil > Nastavitve > Urejanje skritih videoposnetkov.</string>
+     <string name="local_play_end_drag_up_guide">Tapnite ali povlecite navzgor za predvajanje</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
@@ -887,6 +891,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="lp_video_zoom_title">Zoomiraj</string>
      <string name="lv_advance_sound">Izboljšanje zvoka</string>
      <string name="lv_airkan_control_device_des">Za nadzor predvajanja tapnite vrstico spodaj.</string>
+     <string name="lv_airkan_device_my_device">Moja naprava</string>
      <string name="lv_airkan_device_xiaomi_phone">Moj Mi telefon</string>
      <string name="lv_airkan_playing">Oddajanje na %s</string>
      <string name="lv_airkan_tips">Tapnite za oddajanje</string>
@@ -1104,10 +1109,10 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
-     <string name="mr_button_content_description">Gumb za predvajanje</string>
-     <string name="mr_cast_button_connected">Gumb za predvajanje. Povezava je vzpostavljena.</string>
-     <string name="mr_cast_button_connecting">Gumb za predvajanje. Vzpostavljanje povezave.</string>
-     <string name="mr_cast_button_disconnected">Gumb za predvajanje. Povezava je prekinjena.</string>
+     <string name="mr_button_content_description">Predvajanje</string>
+     <string name="mr_cast_button_connected">Predvajanje. Povezava je vzpostavljena.</string>
+     <string name="mr_cast_button_connecting">Predvajanje. Vzpostavljanje povezave.</string>
+     <string name="mr_cast_button_disconnected">Predvajanje. Povezava je prekinjena.</string>
      <string name="mr_cast_dialog_title_view_placeholder">Ni podatkov na voljo</string>
      <string name="mr_chooser_searching">Iskanje naprav</string>
      <string name="mr_chooser_title">Predvajanje preko:</string>
@@ -1124,8 +1129,11 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="mr_controller_stop">Ustavi</string>
      <string name="mr_controller_stop_casting">Ustavi predvajanje</string>
      <string name="mr_controller_volume_slider">Drsnik za glasnost</string>
+     <string name="mr_dialog_default_group_name">Skupina</string>
      <string name="mr_dialog_device_header">Predvajanje na napravi</string>
+     <string name="mr_dialog_groupable_header">Dodaj napravo</string>
      <string name="mr_dialog_route_header">Predvajaj v skupini</string>
+     <string name="mr_dialog_transferable_header">Predvajaj v skupini</string>
      <string name="mr_system_route_name">Sistem</string>
      <string name="mr_user_route_category_name">Naprave</string>
      <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>

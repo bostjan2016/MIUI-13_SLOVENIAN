@@ -549,6 +549,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="ok">V redu</string>
      <string name="perm_action_allow">Dovoli</string>
      <string name="perm_action_deny">Nikoli ne dovoli</string>
+     <string name="perm_educate_post_notification">Obvestila lahko spremljajo zvok in vibriranje, ko se prikažejo v senci obvestil in na ikonah začetnega zaslona. Nastavitve obvestil lahko spremenite v nastavitvah.</string>
      <string name="perm_manager_suggest_operation">Urejanje dovoljenj</string>
      <string name="perm_manager_suggest_title">Prilagodim dovoljenja?</string>
      <string name="perm_modem_location">Dostop do vaše lokacije</string>
@@ -563,6 +564,7 @@ Morate namestiti MIUI Developer verzijo da boste imeli ROOT dovoljenje."</string
      <string name="permdesc_microphone">Dovolim %1$s, da uporablja mikrofon za snemanje zvoka?</string>
      <string name="permdesc_nearby_devices">Dovolim %1$s, da odkrije in se poveže z napravami v bližini?</string>
      <string name="permdesc_out_calls">Nadzirati odhodne klice</string>
+     <string name="permdesc_post_notification">Dovolim %1$s pošiljanje obvestil?</string>
      <string name="permdesc_process_outgoing_call">Dovolim %1$s, da sprejme in konča klice?</string>
      <string name="permdesc_read_calendar">Dovolim %1$s dostop do dogodkov koledarja?</string>
      <string name="permdesc_read_call_log">Dovolim %1$s dostop do zgodovine klicev?</string>

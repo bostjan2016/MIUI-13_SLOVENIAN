@@ -499,6 +499,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
      <string name="second_space_desktop_tips_dialog_title">Pomembna posodobitev</string>
      <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebej uporabljal za vstop v Drugi prostor</string>
      <string name="second_space_finger_printf_title">Prstni odtis za Drugi prostor</string>
+     <string name="second_space_setting_search_label">Zaščita zasebnosti/Zaščita/Storitve za zaščito zasebnosti</string>
      <string name="secondspace_homepage">"Nastavite določeno zakl. zaslona za Drugi prostor.
 Umaknite in zavarujte svoje podatke."</string>
      <string name="select_existed_fingerprint">Izberite prstni odtis</string>
