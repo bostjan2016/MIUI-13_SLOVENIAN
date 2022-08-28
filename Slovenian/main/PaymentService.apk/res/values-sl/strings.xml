@@ -61,6 +61,7 @@
      <string name="account_user_phone">Telefon za obnovitev</string>
      <string name="account_user_region">Regija</string>
      <string name="action_add_phone">Dodajte telefonsko številko</string>
+     <string name="action_settings">Nastavitve</string>
      <string name="action_update_phone">Spremenite telefonsko številko</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="activate_email_notice">V 24 urah aktivirajte svoj račun</string>

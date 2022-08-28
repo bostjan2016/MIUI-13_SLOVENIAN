@@ -29,6 +29,14 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d naprav</item>
+        <item quantity="one">%1$d naprava</item>
+     </plurals>
+     <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d naprav</item>
+        <item quantity="one">%1$d naprava</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -51,6 +59,10 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

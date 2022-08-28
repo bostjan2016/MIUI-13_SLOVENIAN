@@ -397,6 +397,10 @@
      <string name="pc_device_model_name">Računalnik</string>
      <string name="pc_redmi_device_model_name">Redmi prenosnik</string>
      <string name="pc_xiaomi_device_model_name">Xiaomi prenosnik</string>
+     <string name="periodiccacheclear_notification_indefinite">Prostor za shranjevanje je bil samodejno sproščen za vas.</string>
+     <string name="periodiccacheclear_notification_post"> prostora za shranjevanje je bilo samodejno sproščeno za vas.</string>
+     <string name="periodiccacheclear_notification_pre" />
+     <string name="periodiccacheclear_notification_title">Pametno čiščenje</string>
      <string name="perm_send_push_dspt">Dovoli Mi push sporočila</string>
      <string name="perm_send_push_lab">Pošlji Mi push sporočilo</string>
      <string name="permdesc_manageFingerprint">Dovoli aplikaciji, da prikliče metode za dodajanje in brisanje predlog za prstne odtise za uporabo.</string>
