@@ -531,5 +531,6 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
      <string name="wifi_call">VoWifi klic</string>
+     <string name="xiaoai_assistant">Mi AI Pomočnik za klice</string>
      <string name="yesterday">Včeraj</string>
 </resources>

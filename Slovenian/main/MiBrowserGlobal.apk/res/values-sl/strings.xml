@@ -109,6 +109,7 @@
      <string name="ad_mark">Oglas</string>
      <string name="ad_permission_name">Blokiraj oglase</string>
      <string name="ad_sponsored">Sponzorirano</string>
+     <string name="ad_swip_up_tips">Povlecite navzgor, da zaprete oglas</string>
      <string name="adblock_force_updating_rules_toast">Posodobitev Ad blockerja</string>
      <string name="adblock_rules_not_updated_toast">Ne morem posodobiti</string>
      <string name="adblock_rules_restore">Odblokiraj</string>
@@ -148,6 +149,7 @@
      <string name="allow_current">Dovoli enkrat</string>
      <string name="already_add">%s dodan na zač. zaslon</string>
      <string name="am">dop.</string>
+     <string name="app_cache">Predpomnilnik</string>
      <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
      <string name="app_library_category_entertainment">Zabava</string>
      <string name="app_library_category_games">Igre</string>
@@ -671,6 +673,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="empty_history_hint">Zgodovina je prazna</string>
      <string name="empty_snapshot_hint">Prazno</string>
      <string name="enable_geolocation_confirm_message">Izklop lokacijskih storitev bo vplival na priporočila, ki jih prijemate.</string>
+     <string name="enable_miui_lite_plus">Omogoči odpravljanje napak MiuiLite+</string>
      <string name="enable_vpn">Omogoči odpravljanje napak VPN</string>
      <string name="encrypt_success">Uspešno skrito</string>
      <string name="encrypting">Šifriranje…</string>
@@ -772,7 +775,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="featured_this_week">Predstavljeno ta teden</string>
      <string name="feed_content_protection">Zaščita vsebine</string>
      <string name="feedback">Povratne informacije</string>
+     <string name="feedback_bad">Ne</string>
      <string name="feedback_email">Če imate kakršna koli vprašanja o Wonderficu, nam pišite: wonderwebfiction@gmail.com.</string>
+     <string name="feedback_general">Nekako</string>
+     <string name="feedback_good">Da</string>
      <string name="feedback_info_app_package_name">"Ime paketa: "</string>
      <string name="feedback_info_app_version">"Različica aplikacije: "</string>
      <string name="feedback_info_language">"Jezik: "</string>
@@ -781,10 +787,19 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_info_system">"Sistem: "</string>
      <string name="feedback_info_system_version">"Različica sistema: "</string>
      <string name="feedback_send_email_body_extra_info">Ne izbrišite naslednjih informacij. Z njihovo pomočjo bomo locirali težavo.</string>
+     <string name="feedback_thank_you">Hvala za vaše povratne informacije!</string>
+     <string name="feedback_title">Vas ta vsebina zanima?</string>
      <string name="fetch_video">Priprava videoposnetka…</string>
      <string name="fetch_video_fail">"Podatkov ni mogoče pridobiti"</string>
      <string name="fetch_video_ssl_bad_clock">"Kaže da datum in čas, ki sta nastavljena na vaši napravi (%s) nista pravilna. Prilagodite nastavitve in poskusite ponovno."</string>
      <string name="fetching_video">Priprava videoposnetka…</string>
+     <string name="fgh_mask_bottom">Pomaknite se, da premaknete ročico</string>
+     <string name="fgh_mask_top_pull">Potegnite, da izbruhnete!</string>
+     <string name="fgh_mask_top_release">Spustite, da izbruhnete!</string>
+     <string name="fgh_text_game_over">Konec igre</string>
+     <string name="fgh_text_loading">Osveževanje…</string>
+     <string name="fgh_text_loading_failed">Osveževanje ni uspelo</string>
+     <string name="fgh_text_loading_finish">Osveževanje končano</string>
      <string name="file">Datoteke</string>
      <string name="file_dir">Zamenjajte mapo</string>
      <string name="file_info_canread">Berljivo: </string>
@@ -904,6 +919,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="game_news_flow_download_bar_play">Predvajaj</string>
      <string name="game_play">Predvajaj</string>
      <string name="game_played">Nedavno</string>
+     <string name="garbage_details">Podrobnosti</string>
+     <string name="garbage_file">Koš</string>
      <string name="gcm_fallback_notification_channel_label">Razno</string>
      <string name="general__web_window_view__copy">kopiraj naslov</string>
      <string name="general__web_window_view__copy_notify">naslov kopiran</string>
@@ -1024,6 +1041,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="intercept_toast_message_camera">Spletno mesto uporablja kamero…</string>
      <string name="intercept_toast_message_mic">Spletna stran snema zvok…</string>
      <string name="intercept_toast_message_voice">Spletna stran predvaja zvok…</string>
+     <string name="interest_advise_subtitle">"Prikazali vam bomo novice o temah, ki vas zanimajo"</string>
+     <string name="interest_advise_title">Katere vsebine vas zanimajo?</string>
      <string name="interest_card_button">Nadaljuj</string>
      <string name="interest_card_title">Izberite vaše interese</string>
      <string name="into_info_flow_guide">Pokaži več člankov</string>
@@ -1095,6 +1114,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="media_error_video_not_exist">Videoposnetek ne obstaja</string>
      <string name="memory_clear_nothing_result">V predpomnilniku ni ničesar za brisanje</string>
      <string name="memory_clear_result">%1$s očiščeno</string>
+     <string name="memory_usage">Spomin</string>
      <string name="menu_addtodesk">Dodaj na začetni zaslon</string>
      <string name="menu_exit_nightmode">Izhod</string>
      <string name="menu_hv_swap">V/H zaslon</string>
@@ -1108,6 +1128,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="messenger_send_button_text">Pošlji</string>
      <string name="mi_browser">Mi brskalnik</string>
      <string name="mi_browser_clean_up_garbage">Mi brskalnik čisti smeti…</string>
+     <string name="mi_browser_is_scanning">Mi Brskalnik skenira</string>
      <string name="midi_permission_name">Upravljanje naprav MIDI</string>
      <string name="midnight">Noč</string>
      <string name="mint_games">Popularne igre</string>
@@ -1742,6 +1763,12 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="permission_unknown">Neznana napaka</string>
      <string name="permission_use">Dovoljenja</string>
      <string name="permisssion_not_ask_again">"Ne sprašuj več"</string>
+     <string name="person_menu_cleaner">Čistilec</string>
+     <string name="person_menu_cleaner_button">Očisti</string>
+     <string name="person_menu_download">Datoteke</string>
+     <string name="person_menu_game_history">Zgodovina igranja</string>
+     <string name="person_menu_game_recommend">Popularne igre</string>
+     <string name="person_menu_video">Kratki videoposnetki/string>
      <string name="personalized_content_services">Prilagojene vsebinske storitve</string>
      <string name="personalized_service">Prilagojene storitve</string>
      <string name="personalized_services">Prilagojene storitve</string>
@@ -2476,6 +2503,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="undo">Razveljavi</string>
      <string name="uni_search_setting_summary">Iskanje v aplikaciji</string>
      <string name="uni_search_setting_title">Izboljša rezultate iskanja</string>
+     <string name="unload_residue">Ostanki</string>
      <string name="unsecurity_url_toast">Ta spletna stran ni varna</string>
      <string name="up_to_loading_tips">Spustite za osvežitev</string>
      <string name="update">Posodobi</string>
@@ -2594,6 +2622,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="video_unknown_duration">Trajanje neznano</string>
      <string name="video_view_more">Več</string>
      <string name="view_certificate">Pokaži certifikat</string>
+     <string name="view_details">Pokaži podrobnosti</string>
      <string name="view_document_downloaded_files">Pokaži prenesene datoteke v Prenosi</string>
      <string name="voice_check_network">Preverite svoje omrežne nastavitve in poskusite ponovno.</string>
      <string name="voice_connect_network">Povezava z omrežjem ni uspela.</string>

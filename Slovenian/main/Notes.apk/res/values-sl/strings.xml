@@ -629,9 +629,11 @@ Tapnite + da napravite mapo"</string>
      <string name="note_mindnote_entrance_hint_newversion">"Začnite tipkati "</string>
      <string name="note_mindnote_entrance_icon_text">Ustvari miselno mapo</string>
      <string name="note_mindnote_entrance_icon_text_newversion">Ustvari miselno mapo</string>
+     <string name="note_mindnote_not_support_in_phone_model">"V tej napravi ni mogoče urejati miselnih MAP"</string>
      <string name="note_module_name">Beležke</string>
      <string name="note_not_text_stub">Ni besedila</string>
      <string name="note_sort_way">Izberite kako želite razporediti vaše beležke</string>
+     <string name="note_write_hint">zAČNITE PISATI</string>
      <string name="notealert_enter">Poglej</string>
      <string name="notealert_ok">"Zavrzi"</string>
      <string name="notelist_menu_new">Dodaj beležko</string>

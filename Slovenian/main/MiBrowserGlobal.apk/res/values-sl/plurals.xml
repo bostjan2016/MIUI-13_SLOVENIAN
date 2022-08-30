@@ -181,6 +181,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="person_menu_protect_count">
+        <item quantity="other">Zaščiteno %s krat</item>
+        <item quantity="one">Zaščiteno %s krat</item>
+     </plurals>
      <plurals name="players">
         <item quantity="other">%d igralcev</item>
         <item quantity="one">%d igralec</item>
@@ -224,6 +228,10 @@
      <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">%d popularnih pesmi</item>
         <item quantity="one">%d popularna pesem</item>
+     </plurals>
+     <plurals name="tag_count">
+        <item quantity="other">%d zavihkov</item>
+        <item quantity="one">%d zavihek</item>
      </plurals>
      <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d izbrano</item>

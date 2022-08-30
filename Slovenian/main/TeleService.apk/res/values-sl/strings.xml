@@ -3677,6 +3677,7 @@ Shramba poverilnic mogoče ni omogočena"</string>
      <string name="xdivert_setting">Nastavitve X-Divert</string>
      <string name="xdivert_summary">Nastavitve CFNRc</string>
      <string name="xdivert_title">X-Divert</string>
+     <string name="xiaoai_assistant_setting_title">Mi AI Pomočnik za klice</string>
      <string name="yesterday">Včeraj</string>
      <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
      <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej izklopite to nastavitev</string>

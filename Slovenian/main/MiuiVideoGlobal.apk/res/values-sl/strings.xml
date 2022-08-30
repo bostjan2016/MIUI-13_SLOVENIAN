@@ -286,6 +286,7 @@
      <string name="continue_play">Nadaljuj</string>
      <string name="controller_bar_edit">Uredi</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_toast_msg">Povezava je bila kopirana v odložišče</string>
      <string name="current_service_key">storitev</string>
      <string name="data_empty">Ni stvari</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
@@ -453,6 +454,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
      <string name="failed_to_fetch_data">Ne morem naložiti informacij.</string>
      <string name="failure">"Ne morem prenesti"</string>
+     <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+     <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+     <string name="fallback_menu_item_share_link">Deli povezavo</string>
      <string name="favor_movie">Filmi</string>
      <string name="favor_online_video">Videoposnetki</string>
      <string name="favor_playlist">Seznam predvajanja</string>
@@ -750,6 +754,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_exchange_code_copy_and_start">Uporabi</string>
      <string name="incentive_exchange_details">Podrobnosti</string>
      <string name="incentive_exchange_details_current">Naročilo skupaj</string>
+     <string name="incentive_exchange_details_dotask">Zaslužite točke</string>
      <string name="incentive_exchange_details_total">Stanje</string>
      <string name="incentive_exchange_empty_tip">Tukaj še nič. Za začetek unovčite točke.</string>
      <string name="incentive_exchange_expire_tip">Neprevzete točke bodo izginile ob polnoči</string>
@@ -780,6 +785,8 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_view_details">Podrobnosti</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
      <string name="init_channels">Ponastavi na privzeto</string>
+     <string name="inline_auto_play_tip">"Uporaba mobilnih podatkov… "</string>
+     <string name="inline_auto_play_to_set">Nastavitve</string>
      <string name="inline_mute_click_tip">Tapnite za vklop zvoka</string>
      <string name="input_email_address_notice">Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
@@ -815,8 +822,14 @@ za videoposnetke"</string>
      <string name="library_roundedimageview_libraryDescription">Hitri ImageView ki podpira zaobljene kote (in ovale ali kroge) na osnovi originalnega primera Romaina Guya.</string>
      <string name="live_now">V živo</string>
      <string name="live_title">V živo</string>
+     <string name="live_tv_dialog_item_passed">Ta program se je končal. Ujemite ga naslednjič!</string>
+     <string name="live_tv_dialog_subscirbe_button">Naročite se</string>
+     <string name="live_tv_dialog_subscirbe_tips">Naročite se na %1$s in nikoli ne zamudite nobene epizode</string>
      <string name="live_tv_title">TV v živo</string>
+     <string name="live_tv_toast_item_subscirbe">"Na ta program ste že naročeni"</string>
      <string name="loading">Samo trenutek…</string>
+     <string name="local_adjust_zoom_mode_hint">"Gledate na %s"</string>
+     <string name="local_crop_zoom_mode">Slika je obrezana</string>
      <string name="local_diversion_all_local_videos">Vsi videoposnetki v napravi</string>
      <string name="local_diversion_close_recommend">Zapri</string>
      <string name="local_diversion_download_more_video">Več videoposnetkov</string>
@@ -831,11 +844,13 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_hide_folder_dialog_title">Skriti videoposnetki</string>
      <string name="local_hide_folder_setting_goto">Nastavitve</string>
      <string name="local_hide_folder_setting_tip">Svoje skrite videoposnetke lahko upravljate v Profil > Nastavitve > Urejanje skritih videoposnetkov.</string>
+     <string name="local_play_end_close_tip">"Priporočila danes ne bodo več prikazana"</string>
      <string name="local_play_end_drag_up_guide">Tapnite ali povlecite navzgor za predvajanje</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
      <string name="local_push_title">Popularno danes</string>
      <string name="local_push_video_title">Poišči nove lokalne videoposnetke</string>
+     <string name="local_stretch_zoom_mode">Slika je raztegnjena</string>
      <string name="local_subtitle_choose_language_text">Jezik</string>
      <string name="local_subtitle_exemption_hint">Poišči podnapise na opensubtitle.org</string>
      <string name="local_subtitle_input_keyword_text">Išči ključne besede</string>
@@ -861,6 +876,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_video_size">Velikost</string>
      <string name="local_video_space">Zasedeno: %s</string>
      <string name="local_video_time">Trajanje</string>
+     <string name="local_zoom_adjust_button">Zamenjaj način prikaza</string>
      <string name="lock_screen">Zakl. zaslon</string>
      <string name="logging_normal">Normalno</string>
      <string name="logging_verbose">Verbose</string>
@@ -1601,6 +1617,7 @@ Izboljša varnost vašega računa."</string>
      <string name="popup_click_for_download_video">Prenesi video</string>
      <string name="popup_pip_activate_button">Nastavitve</string>
      <string name="popup_pip_not_activated">Najprej dovolite Mi Video, da uporabi sliko v sliki.</string>
+     <string name="popup_recommend_text">"Odkrijte več videoposnetkov, ki vam bodo všeč"</string>
      <string name="popup_window_home_tip">Prenesi spletne videoposnetke</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_agree_subtitle">Soglasje s politiko zasebnosti vam omogoča uporabo vseh storitev Mi Video</string>
@@ -1706,6 +1723,15 @@ Izboljša varnost vašega računa."</string>
      <string name="sending">Pošiljanje…</string>
      <string name="service_error">Napaka na strežniku</string>
      <string name="set_success">Uspešno zamenjano</string>
+     <string name="settings_inline_auto_play">Vedno samodejno predvajanje</string>
+     <string name="settings_inline_auto_play_close">Samodejno predvajanje izklopljeno</string>
+     <string name="settings_inline_auto_play_tip_close_forever">Zmeraj izklopljeno</string>
+     <string name="settings_inline_auto_play_tip_close_month">Izklopljeno za en mesec</string>
+     <string name="settings_inline_auto_play_tip_open">Vklopljeno</string>
+     <string name="settings_inline_auto_play_tip_title">Opomniki uporabe mobilnih podatkov</string>
+     <string name="settings_inline_auto_play_title">Samodejno predvajanje</string>
+     <string name="settings_inline_auto_play_wify">Samodejno predvajanje samo na WiFi</string>
+     <string name="settings_inline_title">Samodejno predvajanje začetne strani</string>
      <string name="settings_manager_hidden_folder">Urejajte skrite videoposnetke</string>
      <string name="share">Podeli</string>
      <string name="share_fail">Ne morem deliti. Preverite vaše omrežne nastavitve in poskusite ponovno.</string>

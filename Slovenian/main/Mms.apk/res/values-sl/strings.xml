@@ -299,6 +299,8 @@ dodana med blokirane"</string>
      <string name="done">Končano</string>
      <string name="download">Prenesi</string>
      <string name="download_later">Trenutno ni bilo mogoče prenesti. Poskusite ponovno kasneje.</string>
+     <string name="download_miui_calendar_detail">Prenesite koledar, da boste lahko dodajali koledarske dogodke in opomnike. Odprem GetApps?</string>
+     <string name="download_miui_calendar_title">Prenesite koledar</string>
      <string name="downloading">Prenašanje</string>
      <string name="downloading_file_can_not_play">Počakajte do konca prenosa</string>
      <string name="draft">Osnutek</string>
@@ -773,6 +775,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
      <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="not_support_audio_forward">"Ne morem posredovati glasovnih sporočil"</string>
+     <string name="notes_not_found">Najprej namestite Beležke</string>
      <string name="notification_ad_content">Dobili ste reklamno sporočilo od %s</string>
      <string name="notification_add_todo">Obvesti me</string>
      <string name="notification_add_todo_content">Koda za prevzem: %s</string>
@@ -1333,6 +1336,7 @@ Oglejte si priporočene!"</string>
      <string name="snippet_picture">[Slika]</string>
      <string name="snippet_red_package">[Rdeči paket]</string>
      <string name="snippet_timed">[Tempirano]</string>
+     <string name="soundrecorder_not_found">Najprej namestite Snemalnik</string>
      <string name="sp_category_all">Vsa storitvena sporočila</string>
      <string name="sp_category_bank">Obvestila o bančnih sporočilih</string>
      <string name="sp_category_title_prefix">%s</string>
