@@ -946,6 +946,7 @@
      <string name="xiaoai_dialog">"Poskusite reči Mi AI
 kaj želite skenirati"</string>
      <string name="xiaoai_text">Tipka</string>
+     <string name="xiaoai_vision">Mi AI skener</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>

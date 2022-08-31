@@ -29,6 +29,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 min</item>
      </plurals>
+     <plurals name="category_limit_notify_content">
+        <item quantity="other">danes ostalo %2$d minut za \"%1$s\"</item>
+        <item quantity="one">danes ostala %2$d minuta za \"%1$s\"</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -64,9 +68,21 @@
         <item quantity="other">"Napravo ste uporabljali %d minut neprekinjeno"</item>
         <item quantity="one">"Napravo ste uporabljali %d minuto neprekinjeno"</item>
      </plurals>
+     <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Počivajte %d minut</item>
+        <item quantity="one">Počivajte %d minuto</item>
+     </plurals>
      <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">"To napravo uporabljate že %d minut"</item>
+        <item quantity="one">"To napravo uporabljate že %d minuto"</item>
+     </plurals>
+     <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Dodate lahko do %d odmorov</item>
+        <item quantity="one">Dodate lahko do %d odmor</item>
      </plurals>
      <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Čas zaslona danes je enak vašemu %d-dnevnemu povprečju</item>

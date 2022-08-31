@@ -4056,6 +4056,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
      <string name="extended_power_menu">Razširjeni meni Vklop</string>
      <string name="exterior">Shema barv</string>
+     <string name="external_auto_rotate_title">Zakleni usmerjenost za zunanji zaslon</string>
      <string name="external_code_size_label">Aplikacija na pogonu USB</string>
      <string name="external_data_size_label">Podatki na pogonu USB</string>
      <string name="external_ram_dialog_btn_cancel">Kasneje</string>
@@ -5152,6 +5153,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="interconnection">Medsebojna povezljivost</string>
      <string name="interesting_text">Realistični otipni občutki naredijo vašo interakcijo z zaslonom jasnejšo.</string>
      <string name="interesting_title">Realistični dotik</string>
+     <string name="internal_auto_rotate_title">Zakleni usmerjenost za notranji zaslon</string>
      <string name="internal_format">Izbriši notranji pomnilnik</string>
      <string name="internal_format_summary">"Izbriši vse podatke v notranjem pomnilniku"</string>
      <string name="internal_media_format_button_text">Izbriši notranji pomnilnik</string>

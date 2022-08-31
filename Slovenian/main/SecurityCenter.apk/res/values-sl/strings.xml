@@ -657,8 +657,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_name">Zaklep. aplikacije</string>
      <string name="app_name_antispam">Seznam blokiranih</string>
      <string name="app_name_na">Uporaba podatkov</string>
+     <string name="app_name_pad">Varnost</string>
+     <string name="app_name_phone">Varnost</string>
      <string name="app_name_securitycenter">Varnost</string>
-     <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
+     <string name="app_not_installed_toast">"Aplikacija ni nameščena v vaši napravi."</string>
      <string name="app_perm_manager_service">Dovoljenja</string>
      <string name="app_permission_use_group_calendar">Koledar</string>
      <string name="app_permission_use_group_calendar_des">Branje in dodajanje informacij koledarja</string>
@@ -1079,6 +1081,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="beauty_fun_screen_light">Luč za polnjenje zaslona</string>
      <string name="beauty_fun_settings_light">Izpolni svetlost svetlobe</string>
      <string name="beauty_fun_video_effect">Olepšanje za video</string>
+     <string name="beauty_portrait_center">Obrazi naj bodo na sredini</string>
+     <string name="beauty_portrait_center_desc">Samodejno prepoznavanje in centriranje obrazov v video klicih in sestankih. Te storitve nekatere aplikacije ne podpirajo.</string>
      <string name="beauty_settings">Nastavitve</string>
      <string name="begin_date">Datum ponastavitve uporabe</string>
      <string name="behavior_widget_get_installed_apps">Dostopane aplikacije</string>
@@ -1557,7 +1561,11 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
      <string name="dialog_msg_create_icon_content">Dodam bližnjico na začetni zaslon zdaj?</string>
      <string name="dialog_msg_create_icon_not_remain_anymore">"Ne kaži več"</string>
      <string name="dialog_msg_delete_icon_content">Varnost vam omogoča brisanje smeti v vaši napravi, iskanje in nevtralizacijo virusov, varčevanje z baterijo, upravljanje dovoljenj in več.</string>
+     <string name="dialog_msg_delete_icon_content_pad">Varnost vam omogoča brisanje smeti v vaši napravi, iskanje in nevtralizacijo virusov, varčevanje z baterijo, upravljanje dovoljenj in več.</string>
+     <string name="dialog_msg_delete_icon_content_phone">Varnost vam omogoča brisanje smeti v vaši napravi, iskanje in nevtralizacijo virusov, varčevanje z baterijo, upravljanje dovoljenj in več.</string>
      <string name="dialog_msg_delete_icon_title">Odstranim to bližnjico na začetnem zaslonu?</string>
+     <string name="dialog_msg_delete_icon_title_pad">Odstranim to bližnjico na začetnem zaslonu?</string>
+     <string name="dialog_msg_delete_icon_title_phone">Odstranim to bližnjico na začetnem zaslonu?</string>
      <string name="dialog_msg_stop_paysafety_scan">Ustavim varnostno preverjanje plačila?</string>
      <string name="dialog_msg_stop_virus_scan">Želite ustaviti varnostno preverjanje?</string>
      <string name="dialog_no_longer_alert">"Ne kaži več”</string>
@@ -1709,6 +1717,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="eletric_identification_unfamiliar_numbers">Prepoznaj neznane številke</string>
      <string name="eletric_identification_unfamiliar_numbers_summary">Pokaži vrsto klicev za neznane številke na podlagi povratnih informacij uporabnikov</string>
      <string name="eletric_key_protect_electric_announcement">Zaščita pred goljufijami</string>
+     <string name="eletric_no_grant_dialog_message_for_phone">Dodelite zahtevana dovoljenja, da lahko prepoznate neznane številke.</string>
+     <string name="eletric_no_grant_dialog_negative_button">Prekliči</string>
+     <string name="eletric_no_grant_dialog_positive_button">Nastavitve</string>
+     <string name="eletric_no_grant_dialog_title">Potrebna so dovoljenja</string>
      <string name="eletric_risk_call_identification">Zaščiti klice</string>
      <string name="eletric_risk_call_identification_announcement">Pokaži obvestila o morebitnih tveganjih pri prejemanju klicev z neznanih številk</string>
      <string name="eletric_status_protecting">Vklopljeno</string>
@@ -3714,6 +3726,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_statistics_battery_use_summary">%s od zadnjega polnjenja</string>
      <string name="pc_statistics_battery_use_title">Poraba baterije</string>
      <string name="pc_to_phone_install">Blokirana namestitev (%s) preko USB-a</string>
+     <string name="pc_xiaoai_create_auto_task">Nova opravila z Mi AI</string>
      <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
      <string name="percent_formatted_text">%s%%</string>
      <string name="percent_symbol">%</string>
@@ -4932,7 +4945,7 @@ Umaknem soglasje zdaj?"</string>
      <string name="safe_result_item_info_wifi_encryption">WiFi šifriran</string>
      <string name="safe_result_item_info_wifi_fake">Ni nepravo</string>
      <string name="safepay_alert_dialog_button_continue">Nadaljuj</string>
-     <string name="safepay_alert_dialog_button_fix">Popravi</string>
+     <string name="safepay_alert_dialog_button_fix">Več o tem</string>
      <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
      <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
      <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
@@ -5226,9 +5239,9 @@ Umaknem soglasje zdaj?"</string>
      <string name="sp_antispam_scan_title">Seznam blokiranih</string>
      <string name="sp_back_title_text_zero">Zaščiti</string>
      <string name="sp_background_risk_dialog_summary">, preglejte in popravite težave s plačili</string>
-     <string name="sp_background_risk_dialog_summary_new">Trenutno plačilno okolje lahko predstavlja varnostno tveganje. Prosimo, vzemite si trenutek za rešitev morebitnih obstoječih težav.</string>
+     <string name="sp_background_risk_dialog_summary_new">Trenutno plačilno okolje lahko predstavlja varnostno tveganje. Prosimo, vzemite si trenutek da izveste več o tem.</string>
      <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste z javnim WiFi omrežjem ki je lahko nevarno. Preverite ali je plačilo varno preden ga dokončate.</string>
-     <string name="sp_background_risk_dialog_title">Pozor</string>
+     <string name="sp_background_risk_dialog_title">MIUI je zaznal tveganje</string>
      <string name="sp_background_risk_dialog_title_wifi_approve">Opozorila javnega WiFi-ja</string>
      <string name="sp_background_risk_type_messaging">Sistemska aplikacija za izmenjavo sporočil je zamenjana</string>
      <string name="sp_background_risk_type_root">Sistem je ROOT-an</string>

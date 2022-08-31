@@ -326,8 +326,10 @@
      <string name="edit_event_label">"Podrobnosti"</string>
      <string name="edit_event_no_reminder_value">"Ne opominjaj"</string>
      <string name="edit_event_reminder_3_days_before">Opomni tudi %d dni prej</string>
+     <string name="edit_event_reminder_3_days_before_time">Opomni tudi %d dni prej</string>
      <string name="edit_event_reminder_summary">Na ta dan ob %1$s</string>
      <string name="edit_event_reminder_summary_3_days_before">%2$d dni prej in na ta dan ob %1$s</string>
+     <string name="edit_event_reminder_summary_3_days_before_today">%1$d dni prej in na ta dan ob %1$s</string>
      <string name="edit_event_reminder_text">Dne %1$s ob %2$s</string>
      <string name="edit_event_reminder_time">Čas opomnika</string>
      <string name="edit_event_reminder_with_another_day_text">Dne %1$s, %2$s ob %3$s</string>
@@ -850,6 +852,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="path_calendar_settings">Sistemske aplikacije/Koledar/Nastavitve</string>
      <string name="permission_accounts">Za prijavo in urejanje računov sistema in združevanje stvari z njim</string>
      <string name="permission_contacts">Za sinhronizacijo rojstnih dni stikov in pošiljanje opmnikov</string>
+     <string name="permission_description">Podrobnosti o dovoljenjih</string>
      <string name="permission_main_purpose">Pregledovanje in urejanje dogodkov iz koledarja, planiranje poti, sprejem opomnikov in predplačilo storitev</string>
      <string name="permission_storage">Za shranjevanje opomnikov in melodij zvonjenja</string>
      <string name="phone_num">Telefon</string>
@@ -922,6 +925,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="premission_description_ringtone">Za nastavljanje melodij zvonjenja</string>
      <string name="premission_description_title">Pregledovanje in urejanje dogovorjenih dogodkov</string>
      <string name="presence_label">Pokaži me kot</string>
+     <string name="privacy_and_permissions">Zasebnost in dovoljenja</string>
      <string name="privacy_card_description">Za dostop do vseh funkcij se strinjajte z Pravila o zasebnosti.</string>
      <string name="privacy_label">"Zasebnost"</string>
      <string name="privacy_policy_dialog_agree">Strinjam se</string>
@@ -1170,6 +1174,10 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="tab_title_day">Dan</string>
      <string name="tab_title_month">Mesec</string>
      <string name="tab_title_week">Teden</string>
+     <string name="tab_view_day">Dan</string>
+     <string name="tab_view_month">Mesec</string>
+     <string name="tab_view_week">Teden</string>
+     <string name="tab_view_year">Leto</string>
      <string name="talk_back_month">Mesec</string>
      <string name="talk_back_read_date">Trenutni datum: %1$s (%2$s po luninem koledarju).</string>
      <string name="talk_back_setting">Nastavitve</string>

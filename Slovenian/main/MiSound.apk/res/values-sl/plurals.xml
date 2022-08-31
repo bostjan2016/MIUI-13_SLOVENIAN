@@ -72,6 +72,10 @@
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Tukaj lahko vnesete do %d znakov</item>
+        <item quantity="one">Tukaj lahko vnesete do %d znak</item>
+     </plurals>
      <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d namest. paketov (%3$s) od %1$s</item>
         <item quantity="one">%2$d namest. paket (%3$s) od %1$s</item>

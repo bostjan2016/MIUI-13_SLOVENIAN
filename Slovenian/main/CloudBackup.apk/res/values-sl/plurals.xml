@@ -84,6 +84,14 @@
         <item quantity="other">Vračanje datotek: %d</item>
         <item quantity="one">Vračanje %d datoteke</item>
      </plurals>
+     <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Var. kopirano %d aplikacij</item>
+        <item quantity="one">Var. kopirana %d aplikacija</item>
+     </plurals>
+     <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Vrnjeno %d aplikacij</item>
+        <item quantity="one">Vrnjena %d aplikacija</item>
+     </plurals>
      <plurals name="session_time_remain">
         <item quantity="other">Ostalo še približno %s minut</item>
         <item quantity="one">Ostala še približno %s minuta</item>

@@ -3009,6 +3009,7 @@ Telefon lahko postane prevroč ob:
      <string name="tip_close_flares">"Med to sejo ne boste prejemali obvestil o obnašanju aplikacije"</string>
      <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
      <string name="title_usb_accessory">Dodatek USB</string>
+     <string name="toast_for_first_use_three_gesture">Za preklapljanje med aplikacijami povlecite vodoravno s štirimi prsti</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="torch_activity_hint">Držite [ikono] da vklopite svetilko na zakl. zaslonu</string>

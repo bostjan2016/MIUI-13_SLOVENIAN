@@ -65,6 +65,7 @@
      <string name="australian_magpie">Avstralska sraka</string>
      <string name="authorization_btn_text">Začni</string>
      <string name="authorization_tips">Potrebna so dovoljenja</string>
+     <string name="avalible_per_day">Trajanje seje</string>
      <string name="baboon_info">Oljčni pavijan živi v skupinah z razvitim socialnim rangom, odvisno od prevlade vsakega posameznika.</string>
      <string name="back">Nazaj</string>
      <string name="bear_info">Medvedi so največje kopenske zveri. Živijo v hladnih predelih in so znani po svojem ostrem vonju.</string>
@@ -114,6 +115,9 @@
      <string name="canada_goose">Kanadska gos</string>
      <string name="capybara">Kapibara</string>
      <string name="capybara_info">Kapibare so povodni rastlinojedi glodalci, ki lahko zadržijo dih pod vodo do pet minut naenkrat.</string>
+     <string name="category_limit_notify_title">Opozorilo časa zaslona</string>
+     <string name="category_list_expand">Več</string>
+     <string name="category_list_packup">Skrij</string>
      <string name="category_other">Ostalo</string>
      <string name="chacma_baboon">Chacma babun</string>
      <string name="cheetah">Gepardi</string>
@@ -128,8 +132,10 @@
      <string name="color_gamut">Razpon barv</string>
      <string name="common_brushtail">Čopič oposum</string>
      <string name="common_ostrich">Noj</string>
+     <string name="compulsor_tip">Začetni zaslon</string>
      <string name="contact_description">Tapnite bližjico zač. zaslona za klicanje</string>
      <string name="contact_title">Bližnjica stikov</string>
+     <string name="continue_time">Trajanje seje</string>
      <string name="contrast_ratio">Kontrast</string>
      <string name="control_center_title">Čas zaslona danes</string>
      <string name="control_center_title_new">Uporabljeno danes</string>
@@ -161,7 +167,9 @@
      <string name="desktop_widget_not_support">"Statistike časa zaslona
 niso ustvarjene v drugem prostoru"</string>
      <string name="desktop_widget_screen_use_time">Čas zaslona</string>
-     <string name="devices_type_pad">pad</string>
+     <string name="device_limit_enable">Vklj.</string>
+     <string name="device_limit_un_enable">Izklj.</string>
+     <string name="devices_type_pad">tablica</string>
      <string name="devices_type_phone">telefon</string>
      <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
      <string name="display_title">Večje stvari</string>
@@ -295,6 +303,9 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_mode_timer_pick_dialog_title">Vnesite trajanje</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
      <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
+     <string name="force_rest">Uporabite odmore</string>
+     <string name="force_rest_summary">Vzemite si obvezne odmore, ko seje dosežejo nastavljeno omejitev</string>
+     <string name="force_rest_time">Trajanje odmora</string>
      <string name="fps_high">Visoko</string>
      <string name="fps_nature_summary">Maksimalna hitrost osveževanja naredi vse ostro in jasno</string>
      <string name="fps_nature_title">Maksimalna</string>
@@ -327,6 +338,16 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="green_peafowl">Zeleni pav</string>
      <string name="green_warbler_finch">Zelena petelinka</string>
      <string name="grey_headed_flying_fox">Sivoglava leteča lisica</string>
+     <string name="guard_item_app_summary">Odstranite aplikacije na daljavo</string>
+     <string name="guard_item_app_title">Urejajte aplikacije</string>
+     <string name="guard_item_browser_summary">Nadzirajte dostop do aplikacij in vsebine</string>
+     <string name="guard_item_browser_title">Omejitve</string>
+     <string name="guard_item_call_summary">Dovolite določenim stikom, da kličejo</string>
+     <string name="guard_item_call_title">Komunikacija</string>
+     <string name="guard_item_eye_protect_summary">Spremljajte držo</string>
+     <string name="guard_item_eye_protect_title">Udobje za oči</string>
+     <string name="guard_range_from">Od</string>
+     <string name="guard_range_to">Za</string>
      <string name="harp_seal">Harp tjulenj</string>
      <string name="harpy_eagle">Orel harpi</string>
      <string name="has_applied">Nastavljeno</string>
@@ -335,10 +356,12 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="high_fps_description">Visoka hitrost osveževanja zaslona. Večja poraba energije.</string>
      <string name="high_fps_tip_footer">Z višjo hitrostjo osveževanja je gledanje bolj gladko, vendar porabi več energije.</string>
      <string name="hippopotamus">Nilski konj</string>
+     <string name="holiday_limit">Prosti dnevi</string>
      <string name="hsv_space_color">HSV prostor barv</string>
      <string name="hsv_space_color_hue">Niansa</string>
      <string name="hsv_space_color_saturation">Saturacija</string>
      <string name="hsv_space_color_value">Vrednost</string>
+     <string name="in_forbidden_period">Uporaba je zdaj omejena</string>
      <string name="intelligent_radio_btn_summary">Hitrost osveževanja dinamično prilagodite glede na scenarije, da uravnotežite zmogljivost s porabo energije</string>
      <string name="intelligent_radio_btn_title">Privzeto (priporočeno)</string>
      <string name="intelligent_recognition_item_summary">Uporabi označeno melodijo zvonjenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
@@ -379,6 +402,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="less_than_one">&lt; %d</string>
      <string name="lion">Lev</string>
      <string name="lion_info">Levi so močni in močni plenilci. Živijo v skupinah in imajo močan občutek za ozemlje.</string>
+     <string name="loading_error">"Ne morem naložiti"</string>
      <string name="lock_summary">Zaščitite svoje osebne podatke</string>
      <string name="long_tai1ed_iaeger">Dolgorepi jaeger</string>
      <string name="low_flicker_mode">Medla svetloba</string>
@@ -497,6 +521,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="nature_mix_summary">Napravite prilagojeni miks</string>
      <string name="nazca_booby">Nazca booby</string>
      <string name="network_error">Omrežna napaka, poskusite ponovno</string>
+     <string name="next_day">"(Naslednji dan) "</string>
      <string name="night">Noč</string>
      <string name="nine_banded_armadillo">Armadillo</string>
      <string name="no_matching">"Ne najdem aplikacije za to"</string>
@@ -607,6 +632,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="steady_on_screen_notification_title">Odložite telefon in se spočijte</string>
      <string name="steady_on_screen_notification_title_pad">Odložite napravo in se spočijte</string>
      <string name="steady_on_screen_notify">Obvesti o neprekinjeni uporabi</string>
+     <string name="steady_on_screen_notify_new">Naredite počitek</string>
+     <string name="steady_on_screen_ntf_msg">Vse storitve bodo ponovno na voljo čez %1$s</string>
      <string name="steady_on_screen_setting">Časovna omejitev za neprekinjene seje</string>
      <string name="steady_on_screen_summary">Časovna omejitev za neprekinjene seje</string>
      <string name="stop_app_timer">Onemogoči čas zaslona</string>
@@ -627,6 +654,12 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
+     <string name="time_over_back_home">Začetni zaslon</string>
+     <string name="time_over_delayed_use">Zanemari</string>
+     <string name="time_over_not_delayed_use">Razumem</string>
+     <string name="time_over_today">"Za danes ni ostalo
+več časa"</string>
+     <string name="time_over_today_use">"Današnja uporaba: "</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
@@ -654,6 +687,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="tuesday_shortest">T</string>
      <string name="two_toed_sloths">Dvoprsti lenivec</string>
      <string name="two_toed_sloths_info">Dvoprsti lenuhi zlahka potujejo od drevesa do drevesa v krošnjah deževnega gozda.</string>
+     <string name="unavailable_per_day">Počitki</string>
      <string name="unlock_times_per_day">"Dnevno povprečje: "</string>
      <string name="unlock_times_per_hour">"Odklepanj na uro: "</string>
      <string name="usage_agree">Strinjam se</string>
@@ -689,8 +723,10 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="usage_device_limit_app_prolong_time3">Dodaj 60 minut</string>
      <string name="usage_device_limit_app_prolong_time4">"Danes ne omejuj"</string>
      <string name="usage_device_limit_app_prolong_time5">Dodaj čas enkrat</string>
+     <string name="usage_device_limit_forbidden_period">Uporaba je omejena med %1$s in %2$s</string>
      <string name="usage_device_limit_notifation_summary_start">"Dosegli boste svoj limit čez %1$s"</string>
      <string name="usage_device_limit_notifation_title">Preostalo časa danes</string>
+     <string name="usage_device_limit_start_forbidden_period">Uporaba bo omejena med %1$s in %2$s (%3$s ostalo)</string>
      <string name="usage_device_limit_time_over">"Dosegli ste današnjo omejitev (%1$s)"</string>
      <string name="usage_exit">Izhod</string>
      <string name="usage_focus_focus_premission_main_summary">Ta aplikacija mora dostopiti do podatkov vašega računa da bo zabeležila statistiko uporabe vašega načina fokusiranja.</string>
@@ -723,6 +759,8 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
      <string name="usage_home_premission_second_summary_double_link_prefix">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona."</string>
      <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
      <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke v skladu z relevantnimi zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj za vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izključi čas zaslona. Več informacij na privacy@xiaomi.com."</string>
+     <string name="usage_new_category_limit_summary">Nastavite dnevne omejitve uporabe za vse aplikacije v tej kategoriji</string>
+     <string name="usage_new_category_limit_title">Omejite uporabo za kategorijo aplikacij</string>
      <string name="usage_new_home_app_limit_summary">Nastavite dnevno omejitev zaslona za to aplikacijo</string>
      <string name="usage_new_home_app_limit_title">Omeji čas zaslona</string>
      <string name="usage_new_home_average">"Povpr. "</string>
@@ -947,6 +985,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
      <string name="willow_grouse_info">Barjanski snežni jereb je večino svojega življenja rastlinojed in zavzema predvsem subalpske in subarktične habitate.</string>
      <string name="wolf">Volk</string>
      <string name="wombat">Vombat</string>
+     <string name="workday_limit">Delovniki</string>
      <string name="yellow_necked_spurfowl">Rumenovrati frankolin</string>
      <string name="yellow_throated_marten">Kuna rumenogrla</string>
      <string name="yesterday">Včeraj</string>

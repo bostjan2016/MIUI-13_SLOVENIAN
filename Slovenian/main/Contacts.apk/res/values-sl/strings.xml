@@ -415,6 +415,7 @@
      <string name="callrecordview_menu_show_stranger">Klici neznanih številk</string>
      <string name="callrecordview_menu_show_title">Pokaži zgodovino klicev</string>
      <string name="callrecordview_menu_voip">VoIP</string>
+     <string name="callrecordview_menu_xiaoaiphone">Mi AI Pomočnik za klice</string>
      <string name="calls_voip_prompt">VOIP</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_confirmation_dialog_message">Zavržem spremembe?</string>
