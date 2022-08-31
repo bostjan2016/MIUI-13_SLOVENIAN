@@ -621,6 +621,9 @@ Pošljite to kodo tehnikom."</string>
      <string name="start_download">Prenesi</string>
      <string name="start_xunlei_speedup_info">Prijavite se da pohitrite vaše prenose.</string>
      <string name="starting_analysis">Pridobivanje podrobnosti…</string>
+     <string name="storage_dialog_content">Dovolite Prenosom dostop do pomnilnika naprave, da lahko uporabljate njegove funkcije.</string>
+     <string name="storage_dialog_go">Nastavitve</string>
+     <string name="storage_dialog_title">Dostop do pomnilnika naprave</string>
      <string name="storage_internal">Notranja shramba</string>
      <string name="storage_permission_deny">Potrebna so dovoljenja za shrambo</string>
      <string name="storage_sd_card">SD kartica</string>
