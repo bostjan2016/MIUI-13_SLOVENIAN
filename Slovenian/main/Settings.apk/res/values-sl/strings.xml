@@ -2473,6 +2473,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="close_gesture">Premik za zapiranje</string>
      <string name="close_hotspot_hint">Izključi hotspot pred predvajanjem</string>
      <string name="close_install_and_connect">Ne, hvala</string>
+     <string name="close_lid_display_settings_title">Po zlaganju</string>
      <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
      <string name="close_optimization_message">Morda bo vplivalo na videz besedila, račune in ostale dele MIUI-ja po izklopu te storitve.</string>
      <string name="close_optimization_option">Izključi</string>
@@ -5122,6 +5123,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
      <string name="intelligence_suppression_summary">Dinamično prilagodite velikost območja ob robovih, kjer se nenamerni dotiki ne bodo upoštevali glede na vaš oprijem</string>
      <string name="intelligence_suppression_title">Samodejno (priporočeno)</string>
+     <string name="intelligent_keep_screen_on">Obdrži zaslon ko je to potrebno</string>
+     <string name="intelligent_keep_screen_on_summary">"Zunanji zaslon naj bo vključen, ko je obrnjen navzgor"</string>
      <string name="intent_sender_account_label">Račun:</string>
      <string name="intent_sender_action_label">Opravilo:</string>
      <string name="intent_sender_data_label">Podatki:</string>
@@ -5183,7 +5186,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="kddi_nfc_secure_settings_title">Zakleni na zaklenjenem zaslonu</string>
      <string name="kddi_nfc_secure_toggle_summary">Dovoli funkcijo NFC / Osaifu-keitai, ko je zaslon odklenjen</string>
      <string name="keep_legacy_fingerprint">Obdrži</string>
-     <string name="keep_screen_on">Brez izklopa zaslona</string>
+     <string name="keep_screen_on">Obdrži zaslon</string>
      <string name="keep_screen_on_after_folding_off_summary">Med klici ali med uporabo fotoaparata naj bo zunanji zaslon vklopljen, ko ga zložite</string>
      <string name="keep_screen_on_after_folding_on_summary">Po zlaganju naj bo zunanji zaslon vklopljen, da nadaljujete s trenutnimi opravili</string>
      <string name="keep_screen_on_after_folding_text">Po zlaganju naj bo zunanji zaslon vklopljen, da nadaljujete s trenutnimi opravili</string>
@@ -5729,6 +5732,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="lock_screen_notifs_show_all">Pokaži pogovore, privzeto in tiho</string>
      <string name="lock_screen_notifs_show_none">Ne kaži obvestil</string>
      <string name="lock_screen_notifs_title">Obvesti na zaklenjenem zaslonu</string>
+     <string name="lock_screen_now">Zaklenjeni zaslon</string>
      <string name="lock_screen_password_skip_biometrics_message">"Za nastavitev odklepanja z obrazom in prstnim odtisom je potrebno geslo.
 
 Geslo ščiti telefon, če ga izgubite ali vam ga ukradejo."</string>
@@ -10940,6 +10944,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="swipe_direction_ltr">Povlecite desno za opustitev ali levo za prikaz menija</string>
      <string name="swipe_direction_rtl">Povlecite levo za opustitev ali desno za prikaz menija</string>
      <string name="swipe_direction_title">Dejanja vlečenja</string>
+     <string name="swipe_up_to_continue_using">Za nadaljevanje povlecite navzgor</string>
+     <string name="swipe_up_to_continue_using_summary">Zakleni po %d sekundah nedejavnosti</string>
      <string name="swipe_up_to_switch_apps_suggestion_summary">Vklop nove poteze za preklop aplikacij</string>
      <string name="swipe_up_to_switch_apps_suggestion_title">Preskus novega gumba za začetni zaslon</string>
      <string name="swipe_up_to_switch_apps_summary">Če želite preklopiti med aplikacijami, povlecite navzgor po gumbu za začetni zaslon. Znova povlecite navzgor, da prikažete vse aplikacije. To deluje na katerem koli zaslonu. Gumb »Pregled« ne bo več prikazan v spodnjem desnem delu zaslona.</string>
