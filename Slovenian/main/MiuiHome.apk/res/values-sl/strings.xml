@@ -90,6 +90,7 @@
      <string name="all_apps_setting_drawer_tips_desc">Predal aplikacij lahko odprete s potegom gor na zač. zaslonu. Zamenjava zač. zaslona z predalom bo onemogočila iskanje. Vseeno zamenjam?</string>
      <string name="all_apps_setting_drawer_tips_title">Z uporabo predala aplikacij</string>
      <string name="all_apps_setting_drawer_title">Z predalom aplikacij</string>
+     <string name="all_apps_setting_jeejen_title">Lahki način</string>
      <string name="all_apps_setting_letter_scrollbar">A-Z</string>
      <string name="all_apps_setting_min_category_limit">Izberite najmanj 1 kategorijo</string>
      <string name="all_apps_setting_original_scrollbar">Originalni razpored</string>
@@ -491,6 +492,9 @@
      <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
      <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
      <string name="item_view_role_description">Zavihek</string>
+     <string name="jeejen_description">"Večji elementi uporabniškega vmesnika.
+Bolj dostopno klicanje.
+Izboljšana varnost."</string>
      <string name="key_shortcut_settings_title">Bližnjice tipk</string>
      <string name="label">Oznaka</string>
      <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
@@ -566,6 +570,7 @@
      <string name="menu_more">Več</string>
      <string name="menu_no_word">"Ne kaži besedila"</string>
      <string name="menu_no_word_setting_tip" formatted="false">Uporabi %d×%d postavitev brez besedila</string>
+     <string name="menu_only_widget_no_word">Odstrani besedilo iz pripomočkov</string>
      <string name="menu_picktheme">Izberi temo</string>
      <string name="menu_reset_scene">Ponastavi na prevzeto nastavitev</string>
      <string name="menu_search">Išči</string>
@@ -771,6 +776,9 @@
      <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati os. asistenta (delnice, bližnjice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
      <string name="open_personal_assistant_dialog_title">Izključi os. asistenta</string>
      <string name="open_personal_assistant_settings">Nastavitve os. asistenta</string>
+     <string name="open_personal_assistant_settings_off">Izklj.</string>
+     <string name="open_personal_assistant_settings_on">Vklj.</string>
+     <string name="open_personal_assistant_settings_simplified">Meni bližnjic</string>
      <string name="open_personal_assistant_title">Vključi os. asistenta</string>
      <string name="ota_layout_adjustment_button_text">Razumem</string>
      <string name="ota_layout_adjustment_content">Notranja in zunanja postavitev začetnega zaslona sta bili sinhronizirani v novi različici.</string>

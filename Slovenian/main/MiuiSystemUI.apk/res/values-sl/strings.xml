@@ -2900,6 +2900,7 @@ morda nadzira"</string>
      <string name="storage_is_connecting">%1$s je povezan</string>
      <string name="stream_accessibility">Opravila za ljudi s posebnimi potrebami</string>
      <string name="stream_alarm">Opozorilo</string>
+     <string name="stream_assistant">Pomočnik</string>
      <string name="stream_bluetooth_sco">Bluetooth</string>
      <string name="stream_dtmf">DTMF</string>
      <string name="stream_music">Predstavnost</string>
