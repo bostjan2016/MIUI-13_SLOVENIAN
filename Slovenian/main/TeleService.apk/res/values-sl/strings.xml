@@ -3030,6 +3030,10 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="smart_forwarding_settings_menu">Pametno posredovanje</string>
      <string name="smart_forwarding_settings_menu_summary">Če številka ni dosegljiva, vedno posredujte klice na svojo drugo številko.</string>
      <string name="smart_multinetwork_acceleration_title">Pametno večomrežno pospeševanje</string>
+     <string name="smart_switch_dual_sim_diag_cancel">Prekliči</string>
+     <string name="smart_switch_dual_sim_diag_message">"Kaže da vaša trenutna podatkovna kartica SIM ne zagotavlja stabilne omrežne povezave. Samodejno preklapljanje med podatkovnimi karticami SIM lahko izboljša kakovost povezave. To storitev lahko vklopite v nastavitvah."</string>
+     <string name="smart_switch_dual_sim_diag_ok">Nastavitve</string>
+     <string name="smart_switch_dual_sim_diag_title">Pozor</string>
      <string name="smart_switch_dual_sim_prompt">Povezovanje z mobilnim podatkovnim omrežjem s kartico SIM %1$s lahko povzroči dodatne stroške prenosa podatkov. Nastavite omejitev porabe podatkov, da se izognete dodatnim stroškom.</string>
      <string name="smart_switch_dual_sim_summary">Samodejno preklapljaj med podatkovnimi karticami SIM glede na kakovost omrežne povezave in stanje naprave</string>
      <string name="smart_switch_dual_sim_title">Preklapljaj med podatkovnimi karticami SIM</string>

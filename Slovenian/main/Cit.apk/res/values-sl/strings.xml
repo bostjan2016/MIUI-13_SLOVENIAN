@@ -183,6 +183,9 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
      <string name="cit_audio_check_title">Audio Info</string>
      <string name="cit_audio_get_temp_fail">Pridobivanje podatkov Neuspešno!</string>
      <string name="cit_audio_hdset_plug">"Število priklopov slušalk: "</string>
+     <string name="cit_audio_hw_check_summary">Test preverjanja zvočne strojne opreme</string>
+     <string name="cit_audio_hw_check_tips">Test v teku</string>
+     <string name="cit_audio_hw_check_title">Test preverjanja zvočne strojne opreme</string>
      <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje zadnjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>

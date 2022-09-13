@@ -3667,7 +3667,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
      <string name="dsda_close_toast">Dvojni aktivni način je izklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
      <string name="dsda_open_toast">Dvojni aktivni način je vklopljen. Znova zaženite napravo, da uveljavite spremembe.</string>
-     <string name="dsda_switch_summary">Dovoli obema karticama SIM, da uporabljata mobilne podatke in hkrati opravljata klice</string>
+     <string name="dsda_switch_summary">Ko ste v omrežnem okolju 5G, dovolite obema karticama SIM sočasno uporabo mobilnih podatkov in klicanje</string>
      <string name="dsda_switch_title">Dvojni aktivni način</string>
      <string name="dsds_activation_failure_body_msg1">Kartico SIM odstranite in jo znova vstavite. Če s tem ne odpravite težave, znova zaženite napravo.</string>
      <string name="dsds_activation_failure_body_msg2">Poskusite znova vklopiti kartico SIM. Če s tem ne odpravite težave, znova zaženite napravo.</string>
@@ -3770,6 +3770,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
      <string name="empty_title_auto_start_list">Ni aplik. z samod. zagonom</string>
      <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
      <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
+     <string name="emulate_sd_data">Emulirani podatki kartice SD</string>
      <string name="enable_2g_summary">Uporaba mobilnih spletnih povezav 2G. Za klice v sili se vedno vklopi povezava 2G.</string>
      <string name="enable_2g_title">Omogočenje 2G</string>
      <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
@@ -5458,6 +5459,11 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="last_time_used_label">Zadnjič uporabljeno</string>
      <string name="later">Kasneje</string>
      <string name="lattice_smartcover_title">Rešetkasti sprednji pokrov</string>
+     <string name="launch_accessibility_environmental_speech_recognition">Prepoznavanje okoljskih zvokov</string>
+     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto podnapisi</string>
+     <string name="launch_accessibility_talkback">TalkBack</string>
+     <string name="launch_accessibility_voice_control">Glasovne kontrole</string>
      <string name="launch_ai_shortcut">Mi AI bližnjica</string>
      <string name="launch_alipay_health_code">Zdravstvena koda Alipay</string>
      <string name="launch_alipay_health_code_auto_close">Bližnjica do zdravstvene kode Alipay ni več na voljo. Lahko preklopite na drugo bližnjico.</string>

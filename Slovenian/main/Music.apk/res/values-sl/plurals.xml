@@ -300,6 +300,10 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">Bledenje zvoka med pesmimi: %d sek.</item>
         <item quantity="one">Bledenje zvoka med pesmimi: %d sek.</item>
      </plurals>
+     <plurals name="task_guide">
+        <item quantity="other">Zaslužite danes %1$d kovancev</item>
+        <item quantity="one">Zaslužite danes %1$d kovanec</item>
+     </plurals>
      <plurals name="video_count">
         <item quantity="other">Videoposnetki</item>
         <item quantity="one">Videoposnetek</item>

@@ -45,6 +45,10 @@
         <item quantity="other">Beležke: %d</item>
         <item quantity="one">%d beležka</item>
      </plurals>
+     <plurals name="family_service_member_count">
+        <item quantity="other">%d oseb</item>
+        <item quantity="one">%d oseba</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>

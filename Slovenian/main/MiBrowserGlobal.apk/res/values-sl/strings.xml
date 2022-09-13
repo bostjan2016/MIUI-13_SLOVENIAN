@@ -261,6 +261,8 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="branch_shortcuts">Bližnjice</string>
      <string name="branch_show_more">Več</string>
      <string name="branch_terms_condition">Pogoji in pravila</string>
+     <string name="branch_trending_google_news">Google Novice</string>
+     <string name="branch_trending_youtube_news">YouTube</string>
      <string name="browser">Brskalnik</string>
      <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
@@ -334,6 +336,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="cleared_garbage">Izbrisano %d MB smeti</string>
      <string name="click_always">Tapnite \"Vedno\"</string>
+     <string name="click_clean">Očisti</string>
      <string name="click_to_refresh">Tukaj ste zadnjič končali, tapnite za osvežitev</string>
      <string name="clip_dialog_title">Odprem kopirano povezavo?</string>
      <string name="clipboard_title_text">Kopirano besedilo</string>
@@ -534,6 +537,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_game_banner">Poglejte popularne igre!</string>
      <string name="dialog_game_close">Prekliči</string>
      <string name="dialog_game_play">Igraj</string>
+     <string name="display__quick_entry_of_search">Pokaži bližnjice funkcij v plošči obvestil</string>
      <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Povlecite navzdol za osvežitev</string>
      <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Uspešno osveženo</string>
      <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Delam…</string>
@@ -674,6 +678,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="empty_snapshot_hint">Prazno</string>
      <string name="enable_geolocation_confirm_message">Izklop lokacijskih storitev bo vplival na priporočila, ki jih prijemate.</string>
      <string name="enable_miui_lite_plus">Omogoči odpravljanje napak MiuiLite+</string>
+     <string name="enable_notification_permission_in_settings">Če želite uporabljati to storitev, v nastavitvah dovolite obvestila.</string>
      <string name="enable_vpn">Omogoči odpravljanje napak VPN</string>
      <string name="encrypt_success">Uspešno skrito</string>
      <string name="encrypting">Šifriranje…</string>
@@ -919,6 +924,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="game_news_flow_download_bar_play">Predvajaj</string>
      <string name="game_play">Predvajaj</string>
      <string name="game_played">Nedavno</string>
+     <string name="garbage_cleaning">Čistilec</string>
      <string name="garbage_details">Podrobnosti</string>
      <string name="garbage_file">Koš</string>
      <string name="gcm_fallback_notification_channel_label">Razno</string>
@@ -985,15 +991,18 @@ Pošljite to kodo nadzorniku."</string>
      <string name="home_list_item_click">Kliknite domači seznam stvari</string>
      <string name="home_nf">Vsebinski tok</string>
      <string name="home_nf_recommend_on">Priporočeno za vas</string>
+     <string name="home_page_simple">Preprosto</string>
+     <string name="homepage_default">Privzeto</string>
      <string name="homepage_delete_card_menu">Izbriši</string>
      <string name="homepage_get_location">Dobivanje lokacije</string>
      <string name="homepage_get_location_failed">Ne morem dobiti lokacije, izberite mesto</string>
      <string name="homepage_more_cards">Več storitev</string>
      <string name="homepage_more_sites">Več spletnih strani</string>
      <string name="homepage_search_hint">Preišči</string>
+     <string name="homepage_setting">Nastavitve začetne strani</string>
      <string name="homepage_top_card_menu">Na vrh</string>
      <string name="hot_games">Priljubljeno</string>
-     <string name="i_know">OK</string>
+     <string name="i_know">V redu</string>
      <string name="identity">Identifikacija</string>
      <string name="if_cancel">Želite preklicati to opravilo?</string>
      <string name="ignore_add_game_center_dialog_this_week">Ne kaži ta teden</string>
@@ -1058,6 +1067,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="js_dialog_permission_name">Pokaži pojavna pogovorna okna</string>
      <string name="js_disable_confirm_message">Onemogočanje JavaScript-a lahko povzroči, da se nekatere strani ne prikažejo pravilno.</string>
      <string name="js_disable_confirm_title">Želite onemogočiti JavaScript?</string>
+     <string name="junk_files_found">Najdene smeti</string>
      <string name="just_a_second">Samo trenutek…</string>
      <string name="just_now">Pravkar</string>
      <string name="keep_intrercept">Ustavi</string>
@@ -1590,6 +1600,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="noti_no_permission_record">Tukaj ni ničesar.</string>
      <string name="noti_web_allow">Dovoljeno</string>
      <string name="noti_web_push">Obvestila spletne strani</string>
+     <string name="notice_bar_shortcut_entry">Bližnjice za obvestila</string>
      <string name="notif_install_successful">Prenos končan</string>
      <string name="notification_category_browser">Brskalnik</string>
      <string name="notification_category_downloads">Prenosi</string>
@@ -2039,6 +2050,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="pwa_hint_added_success">Uspešno dodano</string>
      <string name="qr_code_title">QR koda</string>
      <string name="qr_description">Skeniraj QR kodo</string>
+     <string name="quick_search_and_access_to_functions">Hitro iskanje vam omogoča enostaven dostop do storitev, ki jih največ uporabljate.</string>
      <string name="quicklink_bookmark_save">Shrani v</string>
      <string name="quicklink_cannot_save_url">Ta povezava se ne more dodati.</string>
      <string name="quicklink_folder_text">Najboljše aplikacije</string>
@@ -2278,6 +2290,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="signin_tips_3">"- Svoje kovance boste lahko uporabljali na vseh svojih napravah."</string>
      <string name="signin_with_facebook">Vpis z Facebook</string>
      <string name="signin_with_google">Vpis z Google</string>
+     <string name="simple_page_toast">Na privzeto lahko preklopite v Nastavitve > Nastavitve začetne strani</string>
      <string name="skip">Preskoči</string>
      <string name="skip_button_label">Preskoči</string>
      <string name="skip_current_version">Preskoči to verzijo</string>
@@ -2743,6 +2756,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="web_permission_setting_page_title">Nastavitve spletnega mesta</string>
      <string name="web_permission_setting_page_web_enhance_desc">Izklopite, če želite ustaviti blokiranje oglasov na tem spletnem mestu</string>
      <string name="web_permission_setting_page_web_enhance_sub_title">Blokiraj oglase</string>
+     <string name="web_tag_desc">Prikaži sličice predhodno obiskanih strani</string>
+     <string name="web_tag_tips">Tapnite tukaj, da ponovno obiščete stran</string>
+     <string name="web_tag_title">Sličice spletnih strani</string>
      <string name="web_video_accelerate">Hitrost</string>
      <string name="web_video_download">Prenos</string>
      <string name="web_video_download_no_access">Za prenos stvari so zahtevana dovoljenja</string>

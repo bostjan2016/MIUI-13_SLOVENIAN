@@ -168,6 +168,11 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="cloud_member_vipname_premium">Premium</string>
      <string name="cloud_member_vipname_ultra">Ultra</string>
      <string name="cloud_service">Mi Cloud</string>
+     <string name="cloud_service_cloud_open">Vključi</string>
+     <string name="cloud_service_space_full">Shramba polna</string>
+     <string name="cloud_service_space_not_enough">Pomanjkanje prostora</string>
+     <string name="cloud_service_space_used">Zasedeno</string>
+     <string name="cloud_service_state_error">"Ne morem naložiti"</string>
      <string name="cloud_service_status_backup_not_open">Varnostno kopiranje je izklopljeno</string>
      <string name="cloud_service_status_cloud_not_open">Izklopljeno</string>
      <string name="cloud_service_status_storage_full">Pomnilnik je poln</string>
@@ -260,6 +265,8 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa ."</string>
      <string name="diagnosis_log_sent_format">"Dnevniki pregledov so poslani.
 ID:%s
 Pošljite to kodo našemu tehniku."</string>
+     <string name="dind_device_service_not_open">Izključeno</string>
+     <string name="dind_device_service_opened">Vključeno</string>
      <string name="download_file">Prenos %s…</string>
      <string name="early_morning">Jutro</string>
      <string name="empty_device_list_notice">Ni naprave</string>
@@ -279,6 +286,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="facebook_login">Prijavite se z Facebook računom</string>
      <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
      <string name="family_service">Družinske storitve</string>
+     <string name="family_service_not_open">Povabite člane</string>
      <string name="family_share">Družinska skupna raba</string>
      <string name="find_device">Najdi napravo</string>
      <string name="find_device_access_denied">"Ne morem dobiti statusa, dostop zavrnjen"</string>
@@ -1045,6 +1053,7 @@ ki ste ga prejeli v vaš poštni predal
      <string name="wipe_data_dialog_msg_separator">, </string>
      <string name="wipe_data_dialog_title">"Nekatere stvari niso bile sinhronizirane"</string>
      <string name="xiao_mi_vip">Mi VIP</string>
+     <string name="xiaomi_cloud_service">Xiaomi oblak</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Ne zdaj</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">Posodobi</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Na voljo je posodobitev</string>
