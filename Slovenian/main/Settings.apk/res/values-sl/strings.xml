@@ -12099,6 +12099,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="uwb_settings_title">Izjemno širok pas (UWB)</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="var_font_switch_dialog_summary">Za spremembo te nastavitve morate znova zagnati napravo.</string>
+     <string name="var_font_switch_dialog_title">Ponovni zagon?</string>
      <string name="var_font_switch_title">Sistemsko spremenljiva pisava</string>
      <string name="verify_applications">Potrdi aplikacije</string>
      <string name="verify_applications_summary">Onemogoči namestitev zlonamernih aplikacij ali opozori na njih</string>

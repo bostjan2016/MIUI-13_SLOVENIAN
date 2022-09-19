@@ -291,6 +291,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="global_privacy_main">"Predmete predvajajte z zaslona telefona na večji zunanji zaslon."</string>
      <string name="global_privacy_negative">"Ne strinjam se"</string>
      <string name="global_privacy_positive">Strinjam se</string>
+     <string name="global_privacy_screencast">Med snemanjem ali predvajanjem lahko storitev, ki ponuja to funkcijo, zajame vse občutljive informacije, ki so prikazane na vašem zaslonu ali predvajane iz vaše naprave, vključno z občutljivimi informacijami, kot so zvok, gesla, podatki o plačilu, fotografije in sporočila..</string>
      <string name="global_privacy_tip"><Data>Zbrati moramo potrebne osebne podatke, da vam zagotovimo osnovne storitve in optimiziramo postopek oddajanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=%1$s>Pravila o zasebnosti&lt;/a>. Soglasje za pravilnik o zasebnosti lahko kadar koli umaknete v Nastavitvah.</Data></string>
      <string name="hang_up">Predvajaj ko je ekran izključen</string>
      <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
@@ -507,6 +508,8 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="privacy_permission_nfc_desc">Za seznanjanje naprav ki uporabljajo NFC</string>
      <string name="privacy_permission_optional">Dodatna dovoljenja</string>
      <string name="privacy_permission_optional_desc">"Uporablja se za dodatne storitve med uporabo"</string>
+     <string name="privacy_permission_screencast">Dostop do informacij na zaslonu</string>
+     <string name="privacy_permission_screencast_desc">Med snemanjem ali predvajanjem lahko storitev, ki ponuja to funkcijo, zajame vse občutljive informacije, ki so prikazane na vašem zaslonu ali predvajane iz vaše naprave, vključno z občutljivimi informacijami, kot so zvok, gesla, podatki o plačilu, fotografije in sporočila.</string>
      <string name="privacy_permission_wlan">Vklop in izklop WiFi-ja</string>
      <string name="privacy_permission_wlan_china">Vklop in izklop WiFi-ja</string>
      <string name="privacy_permission_wlan_desc">Iskanje naprav v bližini</string>

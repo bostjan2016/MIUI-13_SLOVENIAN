@@ -78,6 +78,8 @@
      <string name="back">Nazaj</string>
      <string name="bind_sign_in_title">Dodaj Mi Račun</string>
      <string name="btn_send">Pošlji</string>
+     <string name="bugreport_dialog_informed_consent_content">"Zaznali smo napako v zvezi z vašim geslom za zaklenjen zaslon. Pošljete lahko dnevnike svoje naprave, da nam pomagate poiskati in rešiti težavo. Dnevniški podatki bodo naloženi anonimno, uporabljeni bodo samo za odpravljanje težav in bodo izbrisani, ko bo odpravljanje težav končano."</string>
+     <string name="bugreport_dialog_informed_consent_title">Informirana privolitev</string>
      <string name="bugreport_dialog_not_show_again">Ne kaži več</string>
      <string name="bugreport_dialog_submit_content">&lt;Data&gt;Od tega trenutka naprej na vašo napravo shranjujete zapise programske opreme. Zapisi lahko vsebujejo osebne informacije in vaše podatke o lokaciji. Če ne želite, da bodo vaše informacije razkrite, ne delite vaših zapisov z nikomer drugim. Z izbiro \"Strinjam se\" potrjujete da ste prebrali in se strinjate z &lt;a href=\"%1$s\"&gt;Pravila o zasebnosti&lt;/a&gt; in &lt;a href=\"%2$s\"&gt;Pogoji uporabe&lt;/a&gt;.&lt;/Data&gt;</string>
      <string name="bugreport_dump_complete_notification_summary">Dotaknite se za pregled.</string>
