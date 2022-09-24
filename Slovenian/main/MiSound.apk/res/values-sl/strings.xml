@@ -305,8 +305,8 @@
      <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, slušalke, in druge nastavitve zvoka</string>
      <string name="music_audio_effect_settings">Nastavitve efektov</string>
      <string name="music_audio_visual_wake_lock">Imejte zaslon vključen</string>
-     <string name="music_audio_visual_wake_lock_summary">"Ne isključij zaslon kada se prikazuju vizualni efekti"</string>
-     <string name="music_below_thirty_years">Do 30 let</string>
+     <string name="music_audio_visual_wake_lock_summary">"Ne izključi zaslona ko se predvajajo vizualni efekti"</string>
+     <string name="music_below_thirty_years">Do %d let</string>
      <string name="music_customized_sound_summary">Prilagodite glasnost slušnemu dojemanju</string>
      <string name="music_customized_sound_title">Nastavljanje glasnosti</string>
      <string name="music_delete">Izbriši</string>
@@ -456,12 +456,9 @@
      <string name="sound_id_function_description">Prilagodite krivuljo EQ glede na svoje želje</string>
      <string name="sound_id_function_name">Prilagojen zvok</string>
      <string name="sound_id_headset_status">Trenutne slušalke</string>
-     <string name="sound_id_hz_high">"Visoki toni
-%d Hz"</string>
-     <string name="sound_id_hz_low">"Basi
-%d Hz"</string>
-     <string name="sound_id_hz_media">"Srednji toni
-%d Hz"</string>
+     <string name="sound_id_hz_high">"Visoki toni %d Hz"</string>
+     <string name="sound_id_hz_low">"Basi %d Hz"</string>
+     <string name="sound_id_hz_media">"Srednji toni %d Hz"</string>
      <string name="sound_id_music_one_description">Lahko | %ds</string>
      <string name="sound_id_music_one_title">Deževno mesto</string>
      <string name="sound_id_music_three_description">Melodično | %ds</string>
@@ -511,8 +508,8 @@
      <string name="sound_transmission_start">Začetek</string>
      <string name="sound_transmission_stop">Premor</string>
      <string name="sound_transmission_title">Brezžični mikrofon</string>
-     <string name="spatial_audio">Sledi gibanju glave</string>
-     <string name="spatial_audio_summary">Prilagodi prostorski zvok glede na gibanje glave</string>
+     <string name="spatial_audio">Poglobljen zvok</string>
+     <string name="spatial_audio_summary">Izkusite potopitev in občutek prostora, ko se zvok predvaja prek slušalk</string>
      <string name="speaker_scenario_resume">Obnovi izvirne efekte</string>
      <string name="speaker_scenario_selection">Zvok zvočnikov</string>
      <string name="speaker_scenario_selection_another">Original</string>

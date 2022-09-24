@@ -2131,6 +2131,8 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
      <string name="bt_lhdc_open_dialog_title">Vključim LHDC?</string>
      <string name="bt_lhdc_pre_title">LHDC</string>
      <string name="bt_lhdc_property">Lastnosti</string>
+     <string name="bt_low_energy_audio_summary">Uživajte v visokokakovostnem zvoku nizke porabe z zmanjšano zakasnitvijo</string>
+     <string name="bt_low_energy_audio_title">Bluetooth LE Avdio</string>
      <string name="bt_plugin_current_version">Trenutna verzija</string>
      <string name="bt_plugin_new_version">Posodobi</string>
      <string name="bt_plugin_preference_button">Posodobi</string>
@@ -6358,8 +6360,10 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_ancLow">Pisarna</string>
      <string name="miheadset_ancMedium">Dnevno</string>
      <string name="miheadset_ancMild">Lahko</string>
+     <string name="miheadset_ancMode">Način odpravljanja hrupa</string>
      <string name="miheadset_anc_indicate">Priključite in seznanite slušalke</string>
      <string name="miheadset_anc_manual">Ročno</string>
+     <string name="miheadset_atuo_download_title">Samodejni prenos</string>
      <string name="miheadset_audio_mode">Kakovost zvoka</string>
      <string name="miheadset_audio_mode_high">Visoko</string>
      <string name="miheadset_audio_mode_listen">Nizko</string>
@@ -6372,7 +6376,9 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_auto_ack_mode">Ko nosite slušalke, samodejno sprejmite klice</string>
      <string name="miheadset_auto_ack_mode_summary">Samodejno sprejmite klice</string>
      <string name="miheadset_auto_answer_call">Samodejno odgovorite na klice</string>
+     <string name="miheadset_auto_download_summary">Samodejno prenesi najprimernejše različice</string>
      <string name="miheadset_auto_upgrade_reminder">Izklopite samodejne posodobitve in znova preverite, ali so na voljo posodobitve</string>
+     <string name="miheadset_automatic">Samodejno</string>
      <string name="miheadset_bluetooth_audio_title">LC3plus hitrost vzorčenja zvoka Bluetooth</string>
      <string name="miheadset_bright">svetlo</string>
      <string name="miheadset_call_assist">pokliči pomoč</string>
@@ -6463,6 +6469,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_local_ota">Lokalno</string>
      <string name="miheadset_low_latency">Nizka latenca</string>
      <string name="miheadset_manual">O napravi</string>
+     <string name="miheadset_manual_operation">Ročno</string>
      <string name="miheadset_minus">Glasnost dol</string>
      <string name="miheadset_moreSettingsInAi">Dodatne nastavitve</string>
      <string name="miheadset_multi_connect_mode">Večtočkovno</string>
@@ -6677,6 +6684,8 @@ Nadaljujte k dodatnim nastavitvam."</string>
      <string name="miui_special_feature">Posebne storitve</string>
      <string name="miui_touch_filtered_touchassistant_warning">Dialoški okvir dovoljenj je pokrit z menijem bližnjic. Premaknite ga ali izključite to storitev.</string>
      <string name="miui_touch_filtered_warning">Če aplikacija blokira pogovorno okno za dovoljenje potegnite stvar ki se preklapa ali zaprite aplikacijo.</string>
+     <string name="miui_type_style_summary">Slog tipkanja se uporabi, ko je vklopljen bralnik zaslona</string>
+     <string name="miui_type_style_title">Slog tipkanja</string>
      <string name="miui_updater">Posodabljanje</string>
      <string name="miui_userguide">Uporabniški vodič</string>
      <string name="miui_wifi_wakeup_summary">WiFi se samodejno vklopi, ko naprava zazna shranjena omrežja v bližini, in se po 15 minutah izklopi, če povezava ni vzpostavljena</string>
@@ -10323,7 +10332,7 @@ Umaknem privolitev %s zdaj?"</string>
      <string name="sound_dashboard_summary">Glasnost, vibriranje, ne moti</string>
      <string name="sound_effects_enable_title">Zvoki ob dotiku</string>
      <string name="sound_haptic_settings">Zvok &amp; dotik</string>
-     <string name="sound_mode">Tihi način</string>
+     <string name="sound_mode">Možnosti zvoka</string>
      <string name="sound_settings">Zvok</string>
      <string name="sound_settings_example_summary">Glasnost zvonjenja: 80 %</string>
      <string name="sound_settings_summary">Glasnost zvonjenja: %1$s</string>
@@ -10819,6 +10828,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
      <string name="stylus_language_summary">Prepoznaj številke in ročno napisano besedilo v angleščini in še enem izbranem jeziku</string>
      <string name="stylus_language_title">Jezik</string>
      <string name="stylus_not_connect_message">"Pisalo ni povezano"</string>
+     <string name="stylus_not_connect_message_new">Za seznanitev pritrdite pisalo</string>
      <string name="stylus_ota_check_failed_battery">"Ni bilo mogoče preveriti. Baterija vašega pisala je skoraj prazna."</string>
      <string name="stylus_ota_check_failed_info">"Različice vdelane programske opreme ni bilo mogoče preveriti. Spet pritrdite pisalo."</string>
      <string name="stylus_ota_check_update">Preveri za posodobitve</string>

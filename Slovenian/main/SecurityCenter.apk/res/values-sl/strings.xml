@@ -2061,10 +2061,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
      <string name="function_oncall_not_close_network">"Ne prekini povezave zaradi klicev"</string>
      <string name="function_oncall_not_close_network_detail">"O tej storitvi
- %1$d. Ta storitev vam omogoča, da ostanete na spletu med igralnimi sejami, ne da bi vas prekinili dohodni klici, ko je ta naprava povezana z določenimi omrežji 5G.
- %2$d. Če nobena od vaših kartic SIM ni povezana z omrežjem 5G, bo vaša primarna kartica SIM samodejno zavrnila dohodne klice..
- %3$d. Ta storitev je podprta samo v celinski Kitajski.
- %4$d. Ta storitev deluje samo v omrežjih 5G-SA."</string>
+%1$d. Ta storitev vam omogoča, da ostanete na spletu med igralnimi sejami, ne da bi vas prekinili dohodni klici, ko je ta naprava povezana z določenimi omrežji 5G.
+%2$d. Če nobena od vaših kartic SIM ni povezana z omrežjem 5G, bo vaša primarna kartica SIM samodejno zavrnila dohodne klice..
+%3$d. Ta storitev je podprta samo v celinski Kitajski.
+%4$d. Ta storitev deluje samo v omrežjih 5G-SA."</string>
      <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
      <string name="function_shield_eye_shield">Izključi način branja</string>
      <string name="function_shield_pull_notification_bar">"Ne odpiraj ploščo obvestil"</string>

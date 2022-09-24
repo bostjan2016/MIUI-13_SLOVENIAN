@@ -1712,7 +1712,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="show_password">Pokaži geslo</string>
      <string name="show_server_cet">Pokaži certifikat</string>
      <string name="shrink">Strni</string>
-     <string name="sign_in_dialog_outlook_enterprise">Outlook za podjetja (brez koledarja)</string>
+     <string name="sign_in_dialog_office365">Office365 osebna izdaja</string>
+     <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
      <string name="sign_in_dialog_outlook_exchange">EXCHANGE (z koledarjem)</string>
      <string name="sign_in_dialog_outlook_imap">IMAP (brez koledarja)</string>
      <string name="sign_in_graph_error">"Prijavite se lahko z uporabo protokolov IMAP ali EXCHANGE za prijavo samo, če vaša organizacija ni spremenila splošne konfiguracije strežnika. Če organizacija prilagodi naslov vašega strežnika ali so povezani protokoli onemogočeni, se prijavite z novim Microsoftovim protokolom."</string>

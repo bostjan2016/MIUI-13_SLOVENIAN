@@ -468,6 +468,8 @@ Avdio"</string>
      <string name="bt_hci_snoop_log_summary">Posnemi Bluetooth pakete. (Vključi Bluetooth po tej spremembi)</string>
      <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
      <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
+     <string name="business_hall_settings_summary">Nadzorujte svoje klice in porabo podatkov</string>
+     <string name="business_hall_settings_title">Nastavitve načrta operaterja</string>
      <string name="button_convert_fbe">Izbriši in pretvori…</string>
      <string name="cached_apps_freezer_device_default">Privzeta naprava</string>
      <string name="cached_apps_freezer_disabled">Onemogočeno</string>
@@ -489,7 +491,7 @@ Avdio"</string>
      <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila možnosti telefona za gostovanje.</string>
      <string name="callFailed_cdma_call_limit">Preveč aktivnih klicev. Prekinite ali združite obstoječe klice pred vzponastavitvijo novega klica.</string>
      <string name="callFailed_channel_unacceptable">Kanal nesprejemljiv</string>
-     <string name="callFailed_concurrent_calls_not_possible">Klic je končan zaradi hkratnih klicev.</string>
+     <string name="callFailed_concurrent_calls_not_possible">"Klic je končan. Sočasni klici niso podprti."</string>
      <string name="callFailed_conditional_IE_error">Pogojna IE napaka</string>
      <string name="callFailed_congestion">Omrežje je zasedeno</string>
      <string name="callFailed_data_disabled">Klic je končan ker so mobilni podatki onemogočeni.</string>
@@ -954,11 +956,14 @@ Vseeno uporabim mobilne podatke?"</string>
      <string name="debug_networking_category">Umreženja</string>
      <string name="debug_view_attributes">Omogoči pregled atributa prikaza</string>
      <string name="default_carrier_mmi_msg_title">Sporočilo operaterja</string>
+     <string name="default_data_title">Podatki</string>
      <string name="default_notification_description">Privzeti zvok (%1$s)</string>
      <string name="default_preference_summary">Ni nastavljeno</string>
      <string name="default_preference_summary_domain_address">Ni nastavljeno</string>
      <string name="default_preference_summary_password">Ni nastavljeno</string>
      <string name="default_preference_summary_username">Ni nastavljeno</string>
+     <string name="default_sim_setting">Privzeta SIM kartica</string>
+     <string name="default_voice_title">Klici</string>
      <string name="delete">Izbriši</string>
      <string name="deleteAllSimEntries">Izbriši vse SIM stike</string>
      <string name="deleteSimContacts">Brišem...</string>
@@ -2445,6 +2450,9 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
      <string name="power_suggestion_battery_run_out">Energije baterije lahko zmanjka do %1$s</string>
      <string name="power_suggestion_extend_battery">Podaljšanje časa delovanja akumulatorja za dlje kot %1$s</string>
+     <string name="pref_sim_entries_item1">SIM 1</string>
+     <string name="pref_sim_entries_item2">SIM 2</string>
+     <string name="pref_sim_item_no_default">Ni privzete</string>
      <string name="prefered_network_type_3g_promp">Preden izberete 3G kot prednostno omrežje morate izključiti VoLTE. Izključim zdaj?</string>
      <string name="preference_auto_ip_summary_disable">Izključeno</string>
      <string name="preference_category_ringtone">Zvonjenje in vibriranje</string>
@@ -2957,6 +2965,7 @@ Vmesnik UT: %5$s"</string>
      <string name="sim_no_activated">"Ne morem potrditi SIM kartice"</string>
      <string name="sim_roaming_settings_summary">Poveži se mobilnimi podatkovnim omrežji v gostovanju</string>
      <string name="sim_roaming_settings_title">Mi gostovanje</string>
+     <string name="sim_select_dialog_title">Izberite SIM kartico</string>
      <string name="sim_selection_required_pref">Izbira je obvezna</string>
      <string name="sim_service_setting">Mi SIM &amp; Mi gostovanje</string>
      <string name="sim_unknown">Neznano</string>
