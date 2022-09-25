@@ -274,7 +274,6 @@
      <string name="date_jump_hint">Skoči naravnost na določeni dan</string>
      <string name="date_jump_title">Skoči na datum</string>
      <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
-     <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="date_today">" (danes) "</string>
      <string name="date_view">Datum</string>
