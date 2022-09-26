@@ -120,6 +120,7 @@ dodana med blokirane"</string>
      <string name="bookmark_empty">Ni  sporočil</string>
      <string name="bookmark_list_title">Priljubljeno</string>
      <string name="button_close">Zapri</string>
+     <string name="button_copy">Kopiraj</string>
      <string name="button_emoji_creature">Živalski emoji</string>
      <string name="button_emoji_lifestyle">Življenje</string>
      <string name="button_emoji_smiley">Obrazi</string>
@@ -875,6 +876,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam ga 
      <string name="pref_summary_show_recent_contacts">Pokaži nedavne stike ko pišete novo besedilno sporočilo</string>
      <string name="pref_summary_switch_aim_card">Pokaži sporočila, ki vsebujejo videoposnetke, slike in zapleteno oblikovanje, kot vizitke</string>
      <string name="pref_summary_voice_report">Vključite za branje sporočil na glas ko jih dobite. Pritisnite tipko za glasnost ali tipko za vklop/izklop za ustavitev predvajanja.</string>
+     <string name="pref_summary_voice_report_disable">Namestite Govorni mehanizem Mi AI, da boste lahko uporabljali to storitev</string>
      <string name="pref_summary_wake_up_screen">Vključi zaslon vsakič ko je prejeto novo sporočilo</string>
      <string name="pref_switch_sdk_setting">Zamenjaj smart SMS storitev operaterja</string>
      <string name="pref_system_title">Sistem</string>

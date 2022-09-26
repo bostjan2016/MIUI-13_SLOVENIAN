@@ -129,6 +129,7 @@
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_to_save">Tapnite \"Končano\" da nastavite splošni ton zvonjenja.</string>
      <string name="close">Zapri</string>
+     <string name="closed_high_refresh_options">Aplikacije ne uporabljajo visoke stopnje osveževanja</string>
      <string name="color_gamut">Razpon barv</string>
      <string name="common_brushtail">Čopič oposum</string>
      <string name="common_ostrich">Noj</string>
@@ -147,6 +148,8 @@
      <string name="created_successfully">Uspešno narejeno</string>
      <string name="crowned_hornbill">Okronani rogač</string>
      <string name="cu_confirm">Nastavi</string>
+     <string name="customize_high_refresh_summary">Ta storitev podpira hitrost osveževanja do %d Hz. Ustrezno hitrost osveževanja je mogoče samodejno izbrati glede na nastavitve naprave.</string>
+     <string name="customize_high_refresh_title">Aplikacije uporabljajo visoko stopnjo osveževanja</string>
      <string name="customize_radio_btn_summary">Prednostno izbrana hitrost osveževanja</string>
      <string name="customize_radio_btn_title">Po meri</string>
      <string name="dall_sheep">Dolga ovca</string>
@@ -302,6 +305,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min</string>
      <string name="focus_mode_timer_pick_dialog_title">Vnesite trajanje</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
+     <string name="follow_apps_settings">Na podlagi nastavitev aplikacije</string>
      <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
      <string name="force_rest">Uporabite odmore</string>
      <string name="force_rest_summary">Vzemite si obvezne odmore, ko seje dosežejo nastavljeno omejitev</string>
@@ -355,6 +359,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="helmeted_guineafowl">Pegatke</string>
      <string name="high_fps_description">Visoka hitrost osveževanja zaslona. Večja poraba energije.</string>
      <string name="high_fps_tip_footer">Z višjo hitrostjo osveževanja je gledanje bolj gladko, vendar porabi več energije.</string>
+     <string name="high_refresh_options_title">Podprte aplikacije</string>
      <string name="hippopotamus">Nilski konj</string>
      <string name="holiday_limit">Prosti dnevi</string>
      <string name="hsv_space_color">HSV prostor barv</string>
@@ -521,6 +526,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="nature_mix_summary">Napravite prilagojeni miks</string>
      <string name="nazca_booby">Nazca booby</string>
      <string name="network_error">Omrežna napaka, poskusite ponovno</string>
+     <string name="new_customize_high_refresh_title">Visoka stopnja osveževanja</string>
      <string name="next_day">"(Naslednji dan) "</string>
      <string name="night">Noč</string>
      <string name="nine_banded_armadillo">Armadillo</string>
@@ -537,6 +543,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="notification_sound">Zvoki obvestil</string>
      <string name="ocelot">Ocelot</string>
      <string name="olive_baboon">Oljčni pavijan</string>
+     <string name="opened_high_refresh_options">Aplikacije uporabljajo visoko stopnjo osveževanja</string>
      <string name="orange_winged_amazon">Amazonka z oranžnimi krili</string>
      <string name="orca">Kit morilec</string>
      <string name="ostrich_info">Noji so velike afriške ptice, ki ne letijo in odlagajo največja jajčeca katere koli žive kopenske živali.</string>
@@ -602,6 +609,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="sea_otter">Morska vidra</string>
      <string name="seal_info">Tjulnji so morski sesalci, ki se lahko hitro gibljejo v globoki vodi in se hranijo z ribami in kozicami.</string>
      <string name="search_app_name">Išči aplikacije</string>
+     <string name="search_app_tips">Išči aplikacije</string>
      <string name="search_empty">Ne najdem nobene aplikacije</string>
      <string name="search_menu_title">Išči</string>
      <string name="send">Pošlji</string>

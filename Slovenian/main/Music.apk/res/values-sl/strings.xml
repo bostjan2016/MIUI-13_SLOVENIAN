@@ -164,6 +164,8 @@
      <string name="apk_filter">APK</string>
      <string name="app_description_content">"Glasba je sistemska aplikacija, ki vsebuje zvočni predvajalnik in omogoča upravljanje zvočnih datotek. Če odstranite bližnjico na začetnem zaslonu, boste lahko še vedno predvajali zvočne datoteke."</string>
      <string name="app_description_title">Odstranim \"Glasba\" iz začetnega zaslona?</string>
+     <string name="app_disable_description_content">Mi Music je sistemska aplikacija. Če jo onemogočite, lahko to vpliva na vašo uporabo drugih aplikacij. Vseeno onemogočim?</string>
+     <string name="app_disable_description_title">Onemogočim sistemsko aplikacijo?</string>
      <string name="app_downloads">%s prenosov</string>
      <string name="app_label">Prenosi</string>
      <string name="app_permission_confirm">Razumem</string>
@@ -2055,6 +2057,14 @@ Bodite Happy"</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="turn_off_xunlei_tips">Xunlei pospešen prenos je izključen</string>
+     <string name="ucrop_crop">Obreži</string>
+     <string name="ucrop_error_input_data_is_absent">Določiti je treba tako vhodni kot izhodni Url</string>
+     <string name="ucrop_label_edit_photo">Uredi fotografijo</string>
+     <string name="ucrop_label_original">Original</string>
+     <string name="ucrop_menu_crop">Obreži</string>
+     <string name="ucrop_mutate_exception_hint">Zato preglasite barvni vir (ucrop_color_toolbar_widget) v svoji aplikaciji, da bo delovala na napravah pred L</string>
+     <string name="ucrop_rotate">Zavrti</string>
+     <string name="ucrop_scale">Višje</string>
      <string name="ultra_high_quality">Višje</string>
      <string name="unknown_album_name">Neznan album</string>
      <string name="unknown_artist_name">Neznan izvajalec</string>

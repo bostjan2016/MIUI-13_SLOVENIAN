@@ -4070,6 +4070,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="external_ram_dialog_icon_title">Razširitev pomnilnika je vklopljena</string>
      <string name="external_ram_dialog_message">Ponovni zagon naprave za uporabo sprememb.</string>
      <string name="external_ram_dialog_title">Ponovni zagon naprave</string>
+     <string name="external_ram_intro">"Ustvarite dodaten RAM z uporabo prostora za shranjevanje. To storitev uporabite le, če je v vaši napravi dovolj prostora za shranjevanje."</string>
      <string name="external_ram_remind_toast">Prostora za shranjevanje primanjkuje. Zaenkrat sem izklopil razširitev pomnilnika.</string>
      <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a z uporabo shrambe. Uporabite to storitev samo, če je v vaši napravi na voljo dovolj prostora za shranjevanje."</string>
      <string name="external_ram_title">Razširitev pomnilnika</string>
@@ -5408,6 +5409,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="keywords_wifi_notify_open_networks">Obvestilo za WiFi, obvestilo za wifi</string>
      <string name="keywords_write_settings">zapisovanje spreminjanje sistemske nastavitve</string>
      <string name="keywords_zen_mode_settings">ne moti, razpored, obvestila, blokirati, utišati, vibriranje, spanje, delo, zbranost, izklopiti zvok, dan, delavnik, vikend, noč med tednom, dogodek</string>
+     <string name="kid_space_forbidden_set_unlock_password_msg">"V prostoru za otroke ni mogoče nastaviti ali spremeniti gesla"</string>
      <string name="kid_space_settings">Otroški prostor</string>
      <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">KB/s</string>
