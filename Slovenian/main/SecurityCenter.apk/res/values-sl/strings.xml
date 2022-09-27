@@ -613,6 +613,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
  
  Ne boste izgubili podatkov aplikacije."</string>
      <string name="app_manager_reset_app_preferences_title">Ponastavim nastavitve aplikacije?</string>
+     <string name="app_manager_restricted_settings_title">Dovoli omejene nastavitve</string>
      <string name="app_manager_search_prompt">"Rezultatov ni mogoče najti? Poskusite prikazati rezultate vseh aplikacij."</string>
      <string name="app_manager_show_all_apps">Pokaži vse aplikacije</string>
      <string name="app_manager_show_all_apps_opened">Prikaz rezultatov vseh aplikacij…</string>
@@ -2199,12 +2200,14 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_audition_instruction">Pritisnite in držite za snemanje (%1$s-%2$s sek)</string>
      <string name="gb_audition_play_instruction">Za najboljši učinek uporabite slušalke</string>
      <string name="gb_barrage_chat_desc">Vedno verjemite, da se bo zgodilo nekaj čudovitega</string>
+     <string name="gb_barrage_chat_pre_desc">Predogled</string>
      <string name="gb_barrage_chat_text_color">Barva</string>
      <string name="gb_barrage_chat_text_size">Velikost besedila</string>
      <string name="gb_barrage_chat_text_size_big">Veliko</string>
      <string name="gb_barrage_chat_text_size_small">Majhno</string>
      <string name="gb_barrage_chat_text_speed">Hitrost</string>
      <string name="gb_barrage_chat_text_speed_faster">Hitro</string>
+     <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
      <string name="gb_barrage_chat_text_speed_slow">Počasi</string>
      <string name="gb_beauty_cold_light">Hladno</string>
      <string name="gb_beauty_face">Lepota</string>
@@ -4088,6 +4091,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_dialog_delete_dialog_delete">Izbriši ta profil baterije?</string>
      <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
      <string name="power_dialog_ok">V redu</string>
+     <string name="power_dialog_performance_mode_checkbox">Preklopi na frekvenco osveževanja 120 Hz</string>
      <string name="power_dialog_screen_brightness_automatic">Samodejno prilagodi osvetlitev</string>
      <string name="power_dialog_screen_brightness_automatic_off">Osvetlitev zaslona bo ostala nespremenjena v vseh pogojih</string>
      <string name="power_dialog_screen_brightness_automatic_on">Osvetlitev zaslona se spreminja glede na svetlobo v vaši okolici</string>

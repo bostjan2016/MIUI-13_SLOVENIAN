@@ -111,6 +111,10 @@
      <string name="caller_info_name_delimiter">" ali "</string>
      <string name="caller_manage_header">Konferenčni klic %s</string>
      <string name="calling_via_template">Klicanje preko %s</string>
+     <string name="camera_on">Druga oseba želi vklopiti vašo kamero.</string>
+     <string name="camera_on_agree">Dovoli</string>
+     <string name="camera_on_refuse">"Ne dovoli"</string>
+     <string name="camera_on_title">Kamera</string>
      <string name="can_not_call_oneself">"Ne morem poklicati te številke"</string>
      <string name="can_not_use">"Ne morem uporabiti"</string>
      <string name="cancel">Prekliči</string>
@@ -435,6 +439,10 @@
      <string name="onscreen_change_to_video">Videoklic</string>
      <string name="onscreen_change_to_voice">Glasovni klic</string>
      <string name="onscreen_close_preview_camera">Zapri</string>
+     <string name="onscreen_collapsed">Strni</string>
+     <string name="onscreen_collapsed_dialpad">Pokaži številčnico</string>
+     <string name="onscreen_expand">Razširi</string>
+     <string name="onscreen_expand_dialpad">Skrij številčnico</string>
      <string name="onscreen_hold_text">Zadrži</string>
      <string name="onscreen_merge_calls_text">Spoji klice</string>
      <string name="onscreen_message_text">Sporočila</string>
@@ -476,6 +484,11 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
+     <string name="screen_share">Pomoč na daljavo</string>
+     <string name="screen_share_agree">Dovoli</string>
+     <string name="screen_share_connecting">Povezujem…</string>
+     <string name="screen_share_message">Dovolite drugi osebi, da si ogleda vaš zaslon v realnem času?</string>
+     <string name="screen_share_refuse">Prekliči</string>
      <string name="search_menu_title">Išči</string>
      <string name="select_audio_dialog_title">Izberite način odgovora</string>
      <string name="select_one_sim_title">Uporabim lahko le SIM %1$d</string>

@@ -907,6 +907,8 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="permission_status_allow">Dovoljeno</string>
      <string name="permission_status_deny">Ni dovoljeno</string>
      <string name="permission_status_loading">Dostop do stanja naprave…</string>
+     <string name="phone_guarantee_service_description" formatted="false">Zaščito pred poškodbami zaslona in nesrečami lahko kupite v %d dneh po aktivaciji. Podaljšano garancijo je mogoče kupiti v %d dneh po aktivaciji.</string>
+     <string name="phone_guarantee_service_name">Garancija na napravo</string>
      <string name="phone_number_may_required_dspt_provision">"Ta storitev lahko zahteva vašo telefonsko številko."</string>
      <string name="phone_number_required_dspt_provision">"Ta storitev zahteva vašo telefonsko številko."</string>
      <string name="photo">Fotografije</string>
@@ -1286,7 +1288,7 @@ Z uporabo te storitve se strinjate z "</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
      <string name="wipe_data_dialog_button_check_sync">Preveri, če je sinhronizirano</string>
-     <string name="wipe_data_dialog_msg">"Nekatere stvari %s niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
+     <string name="wipe_data_dialog_msg">"Nekatere stvari (%s) niso sinhronizirane. Shranjene bodo v napravi in ne bodo izbrisane."</string>
      <string name="wipe_data_dialog_msg_and_on">, in nekatere druge stvari</string>
      <string name="wipe_data_dialog_msg_separator">,</string>
      <string name="wipe_data_dialog_title">"Stvari niso sinhronizirane"</string>
