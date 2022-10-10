@@ -4852,12 +4852,14 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="headset_find_disconnect">Ni povezano</string>
      <string name="headset_find_handle_tip">Dotaknite se za predvajanje alarma</string>
      <string name="headset_find_left">Levo</string>
+     <string name="headset_find_left_tip">Kaže da je leva slušalka v etuiju ali v ušesu</string>
      <string name="headset_find_notify_connected">Povezano</string>
      <string name="headset_find_notify_disconnect">Ni povezano. Povežite in poskusite znova.</string>
      <string name="headset_find_play_warning">Kaže, da je vsaj ena od slušalk v ušesu. Predvajanje alarma lahko poškoduje vaš sluh. Pred nadaljevanjem odstranite slušalke iz ušes.</string>
      <string name="headset_find_playing">Predvajanje…</string>
      <string name="headset_find_query_play">Predvajaj</string>
      <string name="headset_find_right">Desno</string>
+     <string name="headset_find_right_tip">Kaže da je desna slušalka v etuiju ali v ušesu</string>
      <string name="headset_find_tip">Slušalke naj bodo v bližini in povezane s to napravo, da jih boste lahko našli. Predvajanje alarma, ko je vsaj ena od slušalk v ušesu, lahko poškoduje vaš sluh.</string>
      <string name="headset_find_tip_title">Pozor</string>
      <string name="headset_find_title">Poiščite svoje slušalke</string>
@@ -5558,6 +5560,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="list_bg_header_text">"Če omejite povezovanje v ozadju se nove aplikacije po namestitvi ne bodo mogle povezati na splet. Po tem ne boste mogli sprejemati sporočila ali prenesti vsebine."</string>
      <string name="list_empty_text">Prazno</string>
      <string name="list_footer_tip_title">Nasveti:</string>
+     <string name="lite_font_weight_title">Teža pisave</string>
      <string name="live_caption_summary">Samodejni napisi predstavnosti</string>
      <string name="live_caption_title">Samodejni podnapisi</string>
      <string name="load_networks_progress">Iskanje …</string>
@@ -6391,6 +6394,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_codec_sample_rate">Hitrost vzorčenja zvoka Bluetooth</string>
      <string name="miheadset_common_problem">Pogosta vprašanja</string>
      <string name="miheadset_connectHeadsetForFw">Priključite slušalke, da si ogledate različico vdelane programske opreme</string>
+     <string name="miheadset_connect_device_hfp">Priključite slušalke in se prepričajte, da je dovoljeno predvajanje zvoka za telefonske klice</string>
      <string name="miheadset_connect_play_music">Predvajanje se začne samodejno, ko so priključene slušalke</string>
      <string name="miheadset_connect_toast_tips">Najprej priključite slušalke</string>
      <string name="miheadset_custom_sound">Zvok po meri</string>
@@ -6416,6 +6420,7 @@ Tega ne morete povrniti!"</string>
      <string name="miheadset_feedback">Povratne informacije</string>
      <string name="miheadset_feedback_summary">Če želite oddati dnevnike, vstavite obe slušalki v polnilni kovček in pustite pokrov odprt.</string>
      <string name="miheadset_feedback_title">Pošlji dnevnike</string>
+     <string name="miheadset_firmware_version_update">Posodobi vdelano programsko opremo</string>
      <string name="miheadset_fitness_check">Fitnes kontrola</string>
      <string name="miheadset_fitness_check_checking">Odkrivanje</string>
      <string name="miheadset_fitness_check_continue">Nadaljuj</string>
@@ -6843,6 +6848,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="more_account_settings_title">Ostali računi</string>
      <string name="more_dangerous_option_hint">Stvari visokega tveganja, vključno \"%1$s\" so omogočene. Tapni za spremembo nastavitev.</string>
      <string name="more_dark_mode_settings">Več možnosti temnega načina</string>
+     <string name="more_font_pref_title">Več pisav</string>
      <string name="more_installed_services_title">Več storitev prenosa</string>
      <string name="more_settings_button">Več nastavitev</string>
      <string name="morning">Jutro</string>

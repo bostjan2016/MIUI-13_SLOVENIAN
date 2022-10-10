@@ -401,6 +401,7 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="fold_pair_install_shortcut_launcher_success">Uspešno ustvarjeno</string>
      <string name="fold_pair_install_shortcut_long_click">Pritisnite in držite, da dodate na začetni zaslon</string>
      <string name="fold_pair_installed_shortcut_launcher">Ta bližnjica že obstaja</string>
      <string name="folder_name">Mapa</string>
@@ -835,6 +836,8 @@ Izboljšana varnost."</string>
      <string name="quick_search_guide_quick_search">Hitro iskanje</string>
      <string name="quick_search_guide_title">Izberite privzeti način</string>
      <string name="recent_apps">Nedavno</string>
+     <string name="recent_menu_item_add_pair">Ustvarite bližnjico na začetnem zaslonu za to kombinacijo razdeljenega zaslona</string>
+     <string name="recent_menu_item_add_pair_first_toast">Ustvarite bližnjico na začetnem zaslonu za to kombinacijo razdeljenega zaslona</string>
      <string name="recent_menu_item_info">Info</string>
      <string name="recent_menu_item_lock">Zakleni</string>
      <string name="recent_menu_item_multi_window">Razdeli</string>

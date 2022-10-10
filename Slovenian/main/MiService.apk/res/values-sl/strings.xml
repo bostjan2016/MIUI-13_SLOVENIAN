@@ -220,6 +220,10 @@ E-pošta: service.jp@xiaomi.com"</string>
      <string name="miui_main_control_center_desc">Ali pa preklopite na staro različico v Nastavitve &gt; Obvestila &amp; Center za kontrolo</string>
      <string name="miui_main_control_center_open">Novi Center za kontrolo</string>
      <string name="miui_main_control_center_title">Povlecite za preklop med ploščo obvestil in centrom za kontrolo</string>
+     <string name="miui_main_icon_callback">Bližnjica na domačem zaslonu</string>
+     <string name="miui_main_icon_callback_create">Ustvari</string>
+     <string name="miui_main_icon_callback_desc">Ustvarim bližnjico na domačem zaslonu?</string>
+     <string name="miui_main_icon_callback_nocreate">Prekliči</string>
      <string name="miui_main_mirror_tab_desc1">Povežite se samodejno</string>
      <string name="miui_main_mirror_tab_desc2">Preglejte slike na večjem zaslonu</string>
      <string name="miui_main_mirror_tab_desc3">Deljenje datotek v trenutku</string>

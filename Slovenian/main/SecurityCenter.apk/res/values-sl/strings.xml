@@ -6517,7 +6517,7 @@ Poskusite povečati ločljivost!"</string>
      <string name="virus_engine_split_text">", "</string>
      <string name="virus_ignore_dialog_content">"Če se odločite ignorirati morebitna tveganja, ki jih predstavlja aplikacija, o njih ne boste več obveščeni. Ne pozabite pa, da to ne pomeni, da so takšna tveganja nevtralizirana."</string>
      <string name="virus_ignore_dialog_no_remind">"Ne kaži več"</string>
-     <string name="virus_ignore_dialog_title">Ignoriranih tveganj</string>
+     <string name="virus_ignore_dialog_title">Ignoriranje tveganj</string>
      <string name="virus_info_title">Opis</string>
      <string name="virus_list_header_title">Najdeno virusov (%d)</string>
      <string name="virus_news_title">Povezane informacije</string>
