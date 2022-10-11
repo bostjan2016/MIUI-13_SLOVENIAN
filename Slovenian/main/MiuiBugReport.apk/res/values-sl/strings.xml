@@ -532,7 +532,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
-     <string nam ">Prekliči</string>
+     <string name="net_diag_cancel">Prekliči</string>
      <string name="net_diag_continue">Nadaljuj</string>
      <string name="net_diag_dialog_msg">Testiranje omrežja vam bo pomagalo odkriti težave in izboljšati povezavo.</string>
      <string name="net_diag_dialog_no">Ne</string>
