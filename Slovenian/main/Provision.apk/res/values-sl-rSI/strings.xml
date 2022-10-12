@@ -469,6 +469,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
      <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
      <string name="preference_copied">\"%1$s\" kopiran v odložišče.</string>
+     <string name="preinstall_tips">Pripravljanje…</string>
      <string name="privacy_content_one">"Priporočila za Wallpaper Carousel poganja Taboola, naš zaupanja vreden ponudnik vsebine tretjih oseb. Za zagotavljanje te vsebine mora Taboola dostopati in shranjevati neosebne podatke iz vaše naprave, vključno z jezikom vašega sistema in vrsto brskalnika. Kako Taboola uporablja zbrane podatke, se lahko naučite v Taboola &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a>. Preden nadaljujete, preberite in se strinjajte s pravili in pogoji, navedenimi v teh dokumentih. Če se ne strinjate, bodo storitve Wallpaper Carousel deaktivirane."</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_provision_more">Izvedite več o zaščiti zasebnosti</string>

@@ -166,6 +166,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="disable_find_device_error">"Ne morem izklopiti opravila Najdi napravo. %1$s"</string>
      <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
      <string name="do_not_merge">Prekliči</string>
+     <string name="download_gallery_data_summary">Pojdite na i.mi.com, da prenesete sinhronizirane fotografije in videoposnetke v svojo napravo.</string>
+     <string name="download_gallery_data_title">Prenesite stvari v svojo napravo</string>
      <string name="due_date_format">dd.MM.yyyy</string>
      <string name="early_morning">Jutro</string>
      <string name="enableAll">Sinhroniziraj vse</string>
@@ -312,6 +314,13 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="gallery_auto_sync_fail_noti_content">V oblaku ni dovolj prostora za shranjevanje. Nadgradite načrt prostora za shranjevanje za sinhronizacijo fotografij in videoposnetkov.</string>
+     <string name="gallery_data_transfer_ddl">Rok: %s</string>
+     <string name="gallery_data_transfer_summary">"Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud. Priporočamo, da fotografije in videoposnetke, ki ste jih sinhronizirali z oblakom, prenesete v Google Foto in uporabite njihove storitve za varnostno kopiranje svojih stvari."</string>
+     <string name="gallery_data_transfer_title">Prenesite sinhronizirane fotografije in videoposnetke v Google Foto</string>
+     <string name="gallery_service_termination_announcement">Obvestilo: Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud</string>
+     <string name="gallery_service_termination_announcement_title">"Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud. Priporočamo, da fotografije in videoposnetke, ki ste jih sinhronizirali z oblakom, prenesete v Google Photos ali obiščete i.mi.com, da prenesete sinhronizirane fotografije in videoposnetke v svojo napravo. Storitve prenosa in prenosa bodo na voljo do %s, takrat pa bodo vsi elementi galerije, sinhronizirani z vašim računom Xiaomi Cloud, trajno izbrisani."</string>
+     <string name="gallery_service_termination_btn_continue">Nadaljuj</string>
+     <string name="gallery_service_termination_more_info">Za več podrobnosti glejte \"%s\"</string>
      <string name="get_first_month_gb">Pridobi %s brezplačnega prostora</string>
      <string name="get_this_month_gb">Pridobi %s brezplačnega prostora ta mesec</string>
      <string name="google_100gb">100GB</string>
@@ -415,6 +424,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="member_menu_vipname_ultra">Ultra</string>
      <string name="menu_add_feedback">Povratna inf.</string>
      <string name="menu_add_short_cut">Napravi bližnjico na začetnem zaslonu</string>
+     <string name="menu_migrate_to_google_photos">Prenesite podatke v Google Foto</string>
      <string name="merge">Združi</string>
      <string name="mi_drive_not_publish_toast">Mi Drive bo kmalu na voljo</string>
      <string name="mi_drive_summary">Dostopajte do dokumentov iz Xiaomi Clouda na več napravah</string>
@@ -1137,6 +1147,7 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="special_func_title">Posebne storitve</string>
      <string name="starred_contact">Priljubljeno</string>
      <string name="start_micloud">Začni</string>
+     <string name="start_transfer_gallery_data">Prenesi podatke</string>
      <string name="storage">Prostor za shranjevanje</string>
      <string name="storage_manage_cloud_data_title">Poglejte stvari v Cloudu</string>
      <string name="storage_manage_expansion">Nabavite več</string>
