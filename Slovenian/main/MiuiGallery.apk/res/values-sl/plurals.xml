@@ -548,6 +548,42 @@
         <item quantity="other">Sprejem %2$d arhivov (%3$s) od %1$s…</item>
         <item quantity="one">Sprejem %2$d arhiva (%3$s) od %1$s…</item>
      </plurals>
+     <plurals name="share_album_detail_photo_count">
+        <item quantity="other">Naloženo %d fotografij</item>
+        <item quantity="one">Naložena %d fotografija</item>
+     </plurals>
+     <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d sob</item>
+        <item quantity="one">%1$d soba</item>
+     </plurals>
+     <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d zaslonov</item>
+        <item quantity="one">%1$d zaslon</item>
+     </plurals>
+     <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d deljenih zaslonov</item>
+        <item quantity="one">%1$d deljeni zaslon</item>
+     </plurals>
+     <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d razpoložljiva okolja pametnega doma</item>
+        <item quantity="one">%1$d razpoložljivo okolje pametnega doma</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d stvari je prevelikih za sinhronizacijo</item>
+        <item quantity="one">%d stvar je prevelika za sinhronizacijo</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">"Ne morem sinhronizirati %d stvari. Nadgradite svoj paket prostora za shranjevanje."</item>
+        <item quantity="one">"Ne morem sinhronizirati %d stvar. Nadgradite svoj paket prostora za shranjevanje."</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">"Ne morem sinhronizirati %d stvari. Poskusite znova."</item>
+        <item quantity="one">"Ne morem sinhronizirati %d stvar. Poskusite znova."</item>
+     </plurals>
+     <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">"Ne morem sinhronizirati %d stvari. Lastniku tega albuma je zmanjkalo prostora za shranjevanje v oblaku."</item>
+        <item quantity="one">"Ne morem sinhronizirati %d stvar. Lastniku tega albuma je zmanjkalo prostora za shranjevanje v oblaku."</item>
+     </plurals>
      <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>

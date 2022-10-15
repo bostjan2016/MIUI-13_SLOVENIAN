@@ -2187,6 +2187,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_bar_hint_content">Iskanje aplikacij in vsebine </string>
      <string name="search_bing">Bing</string>
      <string name="search_button_text">Pojdi</string>
+     <string name="search_card_online_rec_app">GetApps</string>
+     <string name="search_card_online_rec_app_install">Namesti</string>
      <string name="search_dianping">Cate</string>
      <string name="search_easou">Easou</string>
      <string name="search_empty_view_hint">Ni rezultatov</string>

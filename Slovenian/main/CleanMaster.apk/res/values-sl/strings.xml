@@ -787,7 +787,7 @@
      <string name="notification_garbage_clean_size_new">Osvobodite %s prostora za shranjevanje</string>
      <string name="notification_garbage_cleanup_summary">Dosežena je velikost smeti %s</string>
      <string name="notification_garbage_cleanup_title">Očisti datoteke smeti</string>
-     <string name="notification_installed_clean_size">Sproščeno %2$s po namestitvi %1$s</string>
+     <string name="notification_installed_clean_size">Sprostite %2$s po namestitvi %1$s</string>
      <string name="notification_low_memory_button_text">Popravi</string>
      <string name="notification_low_memory_cache_summary">Na voljo manj kot 1,5 GB prostora za shranjevanje</string>
      <string name="notification_low_memory_cache_title">Očisti predpomnilnik</string>

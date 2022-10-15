@@ -457,7 +457,7 @@ Spisek naprav najdete na naši spletni strani. Če je vaš prenosnik na seznamu,
      <string name="vivo_phone">vivo</string>
      <string name="wait_receive_file">Čakam na sprejem…</string>
      <string name="wait_remote_receive_tips">"Prepričajte se, da sta zaslona obeh naprav vklopljena in da imata vklopljena WiFi in Bluetooth."</string>
-     <string name="wait_remote_receive_tips_china">"Prepričajte se, da sta zaslona obeh naprav vklopljena in da imata vklopljena Wi-Fi in Bluetooth."</string>
+     <string name="wait_remote_receive_tips_china">"Prepričajte se, da sta zaslona obeh naprav vklopljena in da imata vklopljena WiFi in Bluetooth."</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>

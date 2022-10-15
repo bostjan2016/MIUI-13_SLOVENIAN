@@ -906,6 +906,7 @@ Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene."</string
      <string name="personalize_notify_ringtone_title">Obvestila</string>
      <string name="personalize_notify_style_title">Učinki</string>
      <string name="personalize_recommend_switch_desc">Prejemajte prilagojena priporočila glede vsebine na podlagi ID-ja naprave</string>
+     <string name="personalize_second_space_not_support_buy_widget">"Pripomočkov v drugem prostoru ni mogoče kupiti"</string>
      <string name="personalize_second_space_not_support_set_font">"Pisave v drugem prostoru ni mogoče spremeniti"</string>
      <string name="personalize_theme_entrance">Teme</string>
      <string name="personalize_third_font">Fonti</string>
@@ -1622,6 +1623,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="update_no_net">Napaka omrežja. Poskusite ponovno..</string>
      <string name="update_title">Posodobitev je na voljo</string>
      <string name="use_hint">Pozor</string>
+     <string name="use_now">Dodaj</string>
      <string name="using_theme_has_update_tips">Na voljo je posodobitev te teme.</string>
      <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
      <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je naprava zaklenjena</string>

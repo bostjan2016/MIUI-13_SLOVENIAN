@@ -387,10 +387,10 @@ za nadaljevanje"</string>
      <string name="sunday_shortest">N</string>
      <string name="switch_wlan_action">Poveži</string>
      <string name="switch_wlan_failed">"Ni bilo mogoče vzpostaviti povezave"</string>
-     <string name="switch_wlan_failed_desc">"Ni bilo mogoče samodejno vzpostaviti povezave s tem omrežjem Wi-Fi. Poskusite se povezati ročno v nastavitvah."</string>
+     <string name="switch_wlan_failed_desc">"Ni bilo mogoče samodejno vzpostaviti povezave s tem omrežjem WiFi. Poskusite se povezati ročno v nastavitvah."</string>
      <string name="switch_wlan_success">Povezano</string>
      <string name="switch_wlan_tips">Poveži se z istim omrežjem</string>
-     <string name="switch_wlan_tips_desc">Za boljšo izkušnjo se lahko povežete z istim omrežjem Wi-Fi kot druga naprava. Povežem zdaj?</string>
+     <string name="switch_wlan_tips_desc">Za boljšo izkušnjo se lahko povežete z istim omrežjem WiFi kot druga naprava. Povežem zdaj?</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

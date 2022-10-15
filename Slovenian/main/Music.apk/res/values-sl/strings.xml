@@ -952,7 +952,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="hungama_category_playlist">Seznam predvajanja</string>
      <string name="hungama_category_radio">Radio</string>
      <string name="hungama_category_video">Video</string>
-     <string name="hungama_category_vip">Pro</string>
+     <string name="hungama_category_vip">Gold</string>
      <string name="hungama_download_subscription_toast">Za prenos te pesmi se naročite na Hungama Music</string>
      <string name="hungama_free_download_out_summary">Ne morete prenesti več brezplačnih pesmi. Želite pridobiti članstvo v programu PRO za neomejen prenos?</string>
      <string name="hungama_free_download_out_summary_toast">Prenesli ste že %d pesmi. Naročite se za prenos več.</string>
@@ -961,7 +961,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
      <string name="hungama_privacy_tips_content">Da dobite dostop do online vsebine se morate strinjati z &lt;a href="/link/click"&gt;Pravila o zasebnosti za Hungama&lt;/a&gt;.</string>
      <string name="hungama_privacy_tips_title">Pravila o zasebnosti za Hungama</string>
-     <string name="hungama_pro">Hungama Pro</string>
+     <string name="hungama_pro">Hungama Gold</string>
      <string name="hungama_subscribe_message">Kupi PRO članstvo za prenos glasbe visoke kvalitete.</string>
      <string name="hungama_subscribe_positive_button">Kupi PRO članstvo</string>
      <string name="hungama_subscribe_title">PRO članstvo</string>
@@ -1982,6 +1982,7 @@ Bodite Happy"</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
      <string name="time_to_upgrade">Posodobitev na voljo</string>
+     <string name="tips_click_here_to_continue">Tapnite za nadaljevanje predvajanja</string>
      <string name="title_command_mode">Ukazni način</string>
      <string name="title_online_artist">Izvajalci v trendu</string>
      <string name="title_online_billboard">Lestvice</string>

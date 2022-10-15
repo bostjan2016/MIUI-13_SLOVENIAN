@@ -412,23 +412,41 @@ Pošljite to kodo nadzorniku."</string>
      <string name="evening">Večer</string>
      <string name="exceed_binded_phone_times_notice">Ta številka telefona je že povezana z drugim Mi Računom.</string>
      <string name="exit">Izhod</string>
+     <string name="exo_controls_cc_disabled_description">Omogoči podnapise</string>
+     <string name="exo_controls_cc_enabled_description">Onemogoči podnapise</string>
      <string name="exo_controls_fastforward_description">Previjanje naprej</string>
      <string name="exo_controls_fullscreen_description">Celozaslonski način</string>
+     <string name="exo_controls_fullscreen_enter_description">Vstop v celozaslonski način</string>
+     <string name="exo_controls_fullscreen_exit_description">Izhod iz celozaslonskega načina</string>
+     <string name="exo_controls_hide">Skrij kontrolnike predvajalnika</string>
      <string name="exo_controls_next_description">Naslednja skladba</string>
+     <string name="exo_controls_overflow_hide_description">Skrij dodatne nastavitve</string>
+     <string name="exo_controls_overflow_show_description">Pokaži dodatne nastavitve</string>
      <string name="exo_controls_pause_description">Zaustavitev</string>
      <string name="exo_controls_play_description">Predvajanje</string>
+     <string name="exo_controls_playback_speed">Hitrost</string>
+     <string name="exo_controls_playback_speed_normal">Normalno</string>
      <string name="exo_controls_previous_description">Prejšnja skladba</string>
      <string name="exo_controls_repeat_all_description">Ponavljanje vseh</string>
      <string name="exo_controls_repeat_off_description">Brez ponavljanja</string>
      <string name="exo_controls_repeat_one_description">Ponavljanje ene</string>
      <string name="exo_controls_rewind_description">Previjanje nazaj</string>
+     <string name="exo_controls_seek_bar_description">Napredek predvajanja</string>
+     <string name="exo_controls_settings_description">Nastavitve</string>
+     <string name="exo_controls_show">Prikaži kontrolnike predvajalnika</string>
      <string name="exo_controls_shuffle_description">Naključno predvajanje</string>
+     <string name="exo_controls_shuffle_off_description">Naključno predvajanje izključeno</string>
+     <string name="exo_controls_shuffle_on_description">Naključno predvajanje vključeno</string>
      <string name="exo_controls_stop_description">Ustavi</string>
+     <string name="exo_controls_vr_description">VR način</string>
      <string name="exo_download_completed">Prenos je končan</string>
      <string name="exo_download_description">Prenos</string>
      <string name="exo_download_downloading">Prenašanje</string>
      <string name="exo_download_failed">Prenos ni uspel</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
+     <string name="exo_download_paused">Prenosi zaustavljeni</string>
+     <string name="exo_download_paused_for_network">Prenosi čakajo na omrežje</string>
+     <string name="exo_download_paused_for_wifi">Prenosi čakajo na WiFi</string>
      <string name="exo_download_removing">Odstranjevanje prenosov</string>
      <string name="exo_item_list">%1$s, %2$s</string>
      <string name="exo_media_action_repeat_all_description">Ponovi vse</string>
@@ -437,6 +455,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_track_bitrate">%1$.2f Mb/s</string>
      <string name="exo_track_mono">Mono</string>
      <string name="exo_track_resolution">%1$d × %2$d</string>
+     <string name="exo_track_role_alternate">Nadomestno</string>
+     <string name="exo_track_role_commentary">Komentar</string>
+     <string name="exo_track_role_supplementary">Dopolnilno</string>
      <string name="exo_track_selection_auto">Samodejno</string>
      <string name="exo_track_selection_none">Nič</string>
      <string name="exo_track_selection_title_audio">Zvočni posnetki</string>
@@ -457,6 +478,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
      <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
      <string name="fallback_menu_item_share_link">Deli povezavo</string>
+     <string name="fast_channel_popular">Popularni kanali</string>
      <string name="favor_movie">Filmi</string>
      <string name="favor_online_video">Videoposnetki</string>
      <string name="favor_playlist">Seznam predvajanja</string>
@@ -469,6 +491,18 @@ Pošljite to kodo nadzorniku."</string>
      <string name="fcm_fallback_notification_channel_label">Razno</string>
      <string name="fcm_no_args">Niz brez argumentov</string>
      <string name="fcm_push_title">Popularni videoposnetki</string>
+     <string name="fcmpts_dialog_continue">Glejte</string>
+     <string name="fcmpts_dialog_not_interested">Ne, hvala</string>
+     <string name="fcmpts_dialog_two" formatted="false">Oglejte si še %d sekund še %d videa in si prislužite kupon za trgovino Mi Store</string>
+     <string name="fcmpts_popup_final">Uspešno zahtevano! Tapnite za unovčenje nagrad.</string>
+     <string name="fcmpts_popup_final_redeem">Odkupi</string>
+     <string name="fcmpts_popup_four" formatted="false">Uspešno zahtevano! Oglejte si %d sekund še %d videoposnetka in si prislužite kupon za trgovino Mi Store.</string>
+     <string name="fcmpts_popup_one" formatted="false">Danes si oglejte %d videoposnetkov in si prislužite kupon za trgovino Mi Store z %d točkami</string>
+     <string name="fcmpts_popup_one_cts">Glejte</string>
+     <string name="fcmpts_popup_three" formatted="false">Gledano %d sekund. Prislužili ste si %d točk!</string>
+     <string name="fcmpts_popup_three_claim">Zahtevek</string>
+     <string name="fcmpts_popup_three_login_claim">Prijava</string>
+     <string name="fcmpts_popup_two" formatted="false">Glejte ta videoposnetek %d sekund, da si prislužite %d točk</string>
      <string name="feedback">Povratne informacije</string>
      <string name="feedback_activity_title">Povratne informacije</string>
      <string name="feedback_contact_empty">Vnesite kontaktne informacije</string>
@@ -1608,9 +1642,10 @@ Izboljša varnost vašega računa."</string>
      <string name="plus_shortcut_existed">Ta bližnjica že obstaja</string>
      <string name="plus_sort_title">Razvrsti po</string>
      <string name="plus_sort_type_default">Privzeto</string>
-     <string name="plus_sort_type_name">Imenu</string>
-     <string name="plus_sort_type_size">Velikosti</string>
-     <string name="plus_sort_type_time">Času</string>
+     <string name="plus_sort_type_duration">Dolžina</string>
+     <string name="plus_sort_type_name">Ime</string>
+     <string name="plus_sort_type_size">Velikost</string>
+     <string name="plus_sort_type_time">Čas</string>
      <string name="plus_tab_gallery">Mape</string>
      <string name="plus_tab_time">Časovnica</string>
      <string name="pm">pop.</string>
@@ -1655,6 +1690,7 @@ Izboljša varnost vašega računa."</string>
      <string name="recommend_online_switch_open_time">Storitev se bo samodejno vklopila %s</string>
      <string name="recommend_online_tips">Vklopite, če želite prejemati spletna priporočila glede videoposnetkov</string>
      <string name="recommend_page_replay">PONOVNO PREDVAJANJE</string>
+     <string name="recommend_slide_to_more">Podrsajte za več</string>
      <string name="recommend_switch_alert">Da boste odstranili ta del pojdite na nastavitve v Mi Video</string>
      <string name="recommend_to_you">Priporočeno za vas</string>
      <string name="reload_sub_title">Tapnite za ponovni poskus.</string>

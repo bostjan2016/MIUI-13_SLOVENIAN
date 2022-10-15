@@ -553,8 +553,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="net_diag_toast_cellular_data">Če želite preizkusiti omrežje, najprej izklopite mobilne podatke.</string>
      <string name="net_diag_toast_other_networks">Če želite preizkusiti omrežje, se povežite na WiFi in najprej prekinite povezavo z drugimi omrežji.</string>
      <string name="net_diag_toast_other_networks_china">Če želite preizkusiti omrežje, se povežite na WiFi in najprej prekinite povezavo z drugimi omrežji.</string>
-     <string name="net_diag_toast_wifi_disconnected">Če želite preizkusiti omrežje, se najprej povežite z Wi-Fi.</string>
-     <string name="net_diag_toast_wifi_disconnected_china">Če želite preizkusiti omrežje, se najprej povežite z Wi-Fi.</string>
+     <string name="net_diag_toast_wifi_disconnected">Če želite preizkusiti omrežje, se najprej povežite z WiFi.</string>
+     <string name="net_diag_toast_wifi_disconnected_china">Če želite preizkusiti omrežje, se najprej povežite z WiFi.</string>
      <string name="net_error_info">Ni omrežne povezave, tapnite tukaj, da odprete Nastavitve</string>
      <string name="network_err">"Ne morem se povezati na omrežje."</string>
      <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>

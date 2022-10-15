@@ -602,15 +602,16 @@ Tapnite + da napravite mapo"</string>
      <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
      <string name="new_audio_create_done_talkback_des">Napravljeno</string>
      <string name="new_audio_create_guide_tip">Pritisnite in držite za ustvarjanje zvočne beležke</string>
-     <string name="new_audio_create_talkback_des">Pritisnite za ustvarinje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
+     <string name="new_audio_create_talkback_des">Pritisnite za ustvarjanje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
      <string name="new_data_empty_note">Tu ni ničesar</string>
+     <string name="new_lite_audio_create_talkback_des">Tapnite, da ustvarite beležko</string>
      <string name="night">Noč</string>
      <string name="no_network">"Ne morem se povezati na omrežje"</string>
      <string name="noon">Poldne</string>
      <string name="not_now">Ne zdaj</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="note_alert_expired">Pretečeno</string>
-     <string name="note_description_content">Aplikacija beležke je izvrstno orodje za snemanje vaših idej. Ima vgrajene opmnike in sinhronizira vaše stvari v Mi Cloud tako da lahko dostopite do njih kadarkoli in kjerkoli.</string>
+     <string name="note_description_content">Aplikacija Beležke je izvrstno orodje za snemanje vaših idej. Ima vgrajene opmnike in sinhronizira vaše stvari v Mi Cloud tako da lahko dostopite do njih kadarkoli in kjerkoli.</string>
      <string name="note_description_title">O Beležkah</string>
      <string name="note_dual_screen_dialog_content">"Videti je, da zdaj urejate Beležke v računalniku. Če se želite izogniti nasprotujočim si urejanjem, zaprite Beležke v računalniku."</string>
      <string name="note_dual_screen_dialog_title">Uporaba Combo zaslona…</string>
@@ -1033,6 +1034,9 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="welcome_note_for_cm">"In še veliko možnosti! 
   - Sinhronizacija z MiCloud   
   - Nastavitev opomnika"</string>
+     <string name="widget_all_notes_name">Vse beležke</string>
+     <string name="widget_all_todo_name">Vsi opomniki</string>
+     <string name="widget_click_check">Tapnite za ogled</string>
      <string name="widget_content_loading">Nalagam…</string>
      <string name="widget_create_select_size">Izberite velikost</string>
      <string name="widget_empty_content">Tapnite za izbiro beležke</string>

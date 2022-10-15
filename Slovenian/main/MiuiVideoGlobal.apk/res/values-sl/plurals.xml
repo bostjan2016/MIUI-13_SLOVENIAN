@@ -37,6 +37,18 @@
         <item quantity="other">Izbranih je %s zvezdic</item>
         <item quantity="one">Izbrana je %s zvezdica</item>
      </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Previj nazaj %d sekund</item>
+        <item quantity="one">Previj nazaj %d sekundo</item>
+     </plurals>
+     <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Oglejte si še %s sekund videoposnetka, da si prislužite točke in unovčite nagrade</item>
+        <item quantity="one">Oglejte si še %s sekundo videoposnetka, da si prislužite točke in unovčite nagrade</item>
+     </plurals>
      <plurals name="feed_back_home">
         <item quantity="other">Odhod na začetni zaslon čez %1$d sekund…</item>
         <item quantity="one">Odhod na začetni zaslon čez %1$d sekundo…</item>
@@ -186,6 +198,10 @@ Na voljo samo danes"</item>
         <item quantity="other">%d novih obvestil</item>
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
+     <plurals name="music_playlist_title_count">
+        <item quantity="other">%d pesmi</item>
+        <item quantity="one">%d pesem</item>
+     </plurals>
      <plurals name="new_incentive_toast_share_success">
         <item quantity="other">"Uspešno deljeno. Prislužili ste si %d točk. Zahtevajte v Točkovnem centru."</item>
         <item quantity="one">"Uspešno deljeno. Prislužili ste si %d točko. Zahtevajte v Točkovnem centru."</item>
@@ -269,6 +285,10 @@ Na voljo samo danes"</item>
      <plurals name="toast_bookmark_max_size">
         <item quantity="other">Dodaj do %d zaznamkov</item>
         <item quantity="one">Dodaj do %d zaznamek</item>
+     </plurals>
+     <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Skrijem %d izbranih datotek?</item>
+        <item quantity="one">Skrijem %d izbrano datoteko?</item>
      </plurals>
      <plurals name="video_like_text">
         <item quantity="other">%s všečkov</item>
