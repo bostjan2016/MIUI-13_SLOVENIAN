@@ -494,7 +494,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="dialog_my_playlist_set_to_public">Delite ta seznam predvajanja z vsemi uporabniki Mi Music in Hungama glasbe</string>
      <string name="dialog_queued_body">Ta datoteka je v čakalni vrsti za prenos.</string>
      <string name="dialog_renew_failure">Žal mi je, akcija ni uspela</string>
-     <string name="dialog_renew_free_end">Brezplačna uporaba je končana. Se boste naročili na Hungama PRO?</string>
+     <string name="dialog_renew_free_end">Brezplačna uporaba je končana. Se boste naročili na Hungama Gold?</string>
      <string name="dialog_renew_positive_text">DA, ŽELIM ROCK KOT PROFESIONALEC</string>
      <string name="dialog_renew_success">Hvala za vašo potrditev</string>
      <string name="dialog_score_btn_good">Oceni</string>
@@ -655,7 +655,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="english_female">Ženski izvajalci (US/Europe)</string>
      <string name="english_group">Skupine (US/Europe)</string>
      <string name="english_male">Moški izvajalci (US/Europe)</string>
-     <string name="enjoy_hungama_pro">Uživajte Hungama PRO</string>
+     <string name="enjoy_hungama_pro">Uživajte Hungama Gold</string>
      <string name="enroll_in">Vpišite se</string>
      <string name="enter_garbage_clean">Očistite notranji pomnilnik.</string>
      <string name="entertainment">Zabava</string>
@@ -946,7 +946,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="home_tab_yandex">Yandex.Glasba</string>
      <string name="hot_icon_in_fast_indexer">H</string>
      <string name="hungama">Hungama</string>
-     <string name="hungama_batch_download_alert_summary">Samo člani PRO lahko prenesejo več pesmi. Želite pridobiti članstvo za PRO?</string>
+     <string name="hungama_batch_download_alert_summary">Samo člani Gold lahko prenesejo več pesmi. Želite pridobiti članstvo za Gold?</string>
      <string name="hungama_batch_download_alert_summary_toast">Naročite se za prenos celega seznama predvajanja.</string>
      <string name="hungama_category_chart">Lestvice</string>
      <string name="hungama_category_playlist">Seznam predvajanja</string>
@@ -954,7 +954,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="hungama_category_video">Video</string>
      <string name="hungama_category_vip">Gold</string>
      <string name="hungama_download_subscription_toast">Za prenos te pesmi se naročite na Hungama Music</string>
-     <string name="hungama_free_download_out_summary">Ne morete prenesti več brezplačnih pesmi. Želite pridobiti članstvo v programu PRO za neomejen prenos?</string>
+     <string name="hungama_free_download_out_summary">Ne morete prenesti več brezplačnih pesmi. Želite pridobiti članstvo v programu Gold za neomejen prenos?</string>
      <string name="hungama_free_download_out_summary_toast">Prenesli ste že %d pesmi. Naročite se za prenos več.</string>
      <string name="hungama_playlist_category">Kategorije seznama predvajanja</string>
      <string name="hungama_privacy_desc">Pravila o zasebnosti za Hungama (izbirno)</string>
@@ -962,11 +962,11 @@ To kodo pošljite nadzorniku."</string>
      <string name="hungama_privacy_tips_content">Da dobite dostop do online vsebine se morate strinjati z &lt;a href="/link/click"&gt;Pravila o zasebnosti za Hungama&lt;/a&gt;.</string>
      <string name="hungama_privacy_tips_title">Pravila o zasebnosti za Hungama</string>
      <string name="hungama_pro">Hungama Gold</string>
-     <string name="hungama_subscribe_message">Kupi PRO članstvo za prenos glasbe visoke kvalitete.</string>
-     <string name="hungama_subscribe_positive_button">Kupi PRO članstvo</string>
-     <string name="hungama_subscribe_title">PRO članstvo</string>
+     <string name="hungama_subscribe_message">Kupite Gold članstvo za prenos glasbe visoke kvalitete.</string>
+     <string name="hungama_subscribe_positive_button">KupiKupite Gold članstvo</string>
+     <string name="hungama_subscribe_title">Gold članstvo</string>
      <string name="i_know">V redu</string>
-     <string name="icon">ikona</string>
+     <string name="icon">Ikona</string>
      <string name="icon_content_description">Ikona pogovornega okna</string>
      <string name="id_namespace">hungama</string>
      <string name="identity">Identifikacija</string>
@@ -1410,7 +1410,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="online_switch_confirm_title">Z izklopom storitve online vsebine vam bodo vse online storitve nedostopne. Vseeno izključim?</string>
      <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP storitve in priporočila. Vseeno izključim?</string>
      <string name="online_switch_setting">Nastavitve online vsebine</string>
-     <string name="only_pro_can_choose_hd_sound_quality">HD je na voljo samo PRO članom</string>
+     <string name="only_pro_can_choose_hd_sound_quality">HD je na voljo samo Gold članom</string>
      <string name="open_online_service">Vključiti morate uslugo online glasbe, jo vključim?</string>
      <string name="open_service">Vključi</string>
      <string name="open_settings">Nastavitve</string>
@@ -1548,7 +1548,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="paused_waiting_for_network">Čakanje na omrežje</string>
      <string name="paused_waiting_to_retry">Čakam na nov poskus</string>
      <string name="pay_now">Plačaj zdaj</string>
-     <string name="payment_success_message">Hvala! Plačilo je uspelo. Uživajte v PRO storitvah.</string>
+     <string name="payment_success_message">Hvala! Plačilo je uspelo. Uživajte v Gold storitvah.</string>
      <string name="payment_success_title">Čestitamo!</string>
      <string name="pending_apk">Na čakanju…</string>
      <string name="permission_declaration_message">Dovolite dostop do pomnilnika v Varnost &gt; Dovoljenja &gt; Dovoljenja &gt; Shranjevanje &gt; Glasba da aplikacija Glasba dela normalno.</string>
@@ -1557,6 +1557,8 @@ To kodo pošljite nadzorniku."</string>
      <string name="permission_declaration_title">Dovoli dostop</string>
      <string name="permission_open">Dovoli</string>
      <string name="permission_required">Potrebno je dovoljenje</string>
+     <string name="phone_auto_login_register_with_local_number">Ustvarite račun</string>
+     <string name="photoPickerNotFoundText">Ni fotografij.</string>
      <string name="pick_favorite_song">Priljubljeno</string>
      <string name="pick_local_song">Lokalne pesmi</string>
      <string name="pick_recent_song">Nedavno predvajano</string>
@@ -1623,7 +1625,7 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešek prenosa? Povetava lastnika prenosa bo prenešena na Xunlei strežnik. Podrobnosti vašega Mi Računa bodo prenešene zaradi kontrole naročenine na storitev."</string>
      <string name="privacy_tip_ok">V redu</string>
      <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
-     <string name="pro_member">PRO član</string>
+     <string name="pro_member">Gold član</string>
      <string name="project_device">Mi Telefon</string>
      <string name="project_device_mobile">Mobilna naprava</string>
      <string name="prompt_grant_write_settings_permission">Iskanje nastavitev dovoljenj</string>
@@ -1811,13 +1813,13 @@ Bodite Happy"</string>
      <string name="sleep_mode_canceled">Časovnik izključen</string>
      <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
      <string name="sleep_mode_title">Časovnik</string>
-     <string name="sliding_pro_center">PRO center</string>
+     <string name="sliding_pro_center">Hungama Gold</string>
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
      <string name="solar_term_cold_dews">Hladna rosa</string>
-     <string name="solar_term_grain_buds">Grain Buds</string>
-     <string name="solar_term_grain_in_ear">Grain in Ear</string>
+     <string name="solar_term_grain_buds">Žitni popki</string>
+     <string name="solar_term_grain_in_ear">Zrno v klasju</string>
      <string name="solar_term_grain_rain">Dež</string>
      <string name="solar_term_great_cold">Velika zmrzal</string>
      <string name="solar_term_great_heat">Velika vročina</string>
@@ -2006,8 +2008,8 @@ Bodite Happy"</string>
      <string name="toast_download_in_process">Prenos poteka</string>
      <string name="toast_favorite_has_been_added">Uspešno dodano na seznam predvajanja</string>
      <string name="toast_follow_success">Sledeno uspešno</string>
-     <string name="toast_hungama_vip_song">Ta pesem je na voljo samo članom PRO. Pridobite naročnino za prenos te pesmi.</string>
-     <string name="toast_is_pro">Ste že PRO član.</string>
+     <string name="toast_hungama_vip_song">Ta pesem je na voljo samo članom Gold. Pridobite naročnino za prenos te pesmi.</string>
+     <string name="toast_is_pro">Ste že Gold član.</string>
      <string name="toast_login_cancel">Prijava preklicana</string>
      <string name="toast_login_fail">"Ni se bilo mogoče prijaviti"</string>
      <string name="toast_my_playlist_illegal_name">Naslov seznama predvajanja ni veljaven. Preimenujte ga.</string>
@@ -2132,7 +2134,7 @@ Bodite Happy"</string>
      <string name="vip_renew_notification_title">Naročnina poteče jutri</string>
      <string name="vip_renew_title">Naročnina potekla</string>
      <string name="vip_required">Kupite Premium naročnino za predvajanje te pesmi.</string>
-     <string name="vip_required_with_song">%s je na voljo samo članom PRO. Pesem preskočena.</string>
+     <string name="vip_required_with_song">%s je na voljo samo članom Gold. Pesem preskočena.</string>
      <string name="voice_search_first_hint">Poskusite glasovno iskanje!</string>
      <string name="watch_video">Oglejte si video</string>
      <string name="wednesday">Sreda</string>

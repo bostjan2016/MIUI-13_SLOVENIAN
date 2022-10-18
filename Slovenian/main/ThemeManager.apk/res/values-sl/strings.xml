@@ -216,6 +216,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="component_title_settings_video_wallpaper">Slike ozadja s posebnimi efekti</string>
      <string name="component_title_video_wallpaper">Filmi</string>
      <string name="component_title_wallpaper">Slika za ozadje</string>
+     <string name="component_title_widget_suit">Pripomočki</string>
      <string name="concentration_old_period">Več</string>
      <string name="configure_success_not_enable_aod">Uspešno uporabljeno. Vklopite Vedno na zaslonu, da bo tema začela veljati.</string>
      <string name="copy">Kopiraj</string>
@@ -895,6 +896,7 @@ Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene."</string
      <string name="pad_fold_no_permission">Potrebna so dovoljenja za shrambo</string>
      <string name="pad_fold_no_permission_detail">Če želite spremeniti nastavitve prilagajanja in shraniti prenesene stvari, najprej dovolite tej storitvi dostop do prostora za shranjevanje.</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="paying">Plačujem…</string>
      <string name="personalize">Personalizacija</string>
      <string name="personalize_alarm_ringtone_title">Alarmi</string>
      <string name="personalize_aod_title">AOD</string>
@@ -1340,6 +1342,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="search_sort_news">Najprej najnovjše</string>
      <string name="search_sort_synthesize">Splošno</string>
      <string name="search_sort_top">Najprej popularno</string>
+     <string name="search_view_description_clear">Počisti iskanje</string>
      <string name="selected_resource_file_invalid">"Ne morem uporabljati izbrano datoteko virov"</string>
      <string name="send">Pošlji</string>
      <string name="server_internal_error">Napaka strežnika. Počakajte trenutek ali dva in poskusite ponovno.</string>

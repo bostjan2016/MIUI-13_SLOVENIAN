@@ -821,6 +821,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="file_type">Format: %s</string>
      <string name="filename_empty_alert_message">Vpišite ime datoteke</string>
      <string name="filename_illegal_alert_message">Nepravilni znak je bil odstranjen iz imena datoteke</string>
+     <string name="files_stored_in_the_phone">Datoteke, shranjene v tej napravi</string>
      <string name="find_garbage">Najdeno %d MB smeti</string>
      <string name="find_new_version">NOVA POSODOBITEV JE NA VOLJO</string>
      <string name="find_on_page_cancel">Prekliči</string>
@@ -1089,6 +1090,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="loading_tips">Povlecite navzdol za osvežitev</string>
      <string name="local_apps">Lokalne aplikacije</string>
      <string name="local_bookmarks">Mi</string>
+     <string name="local_file">Lokalne datoteke</string>
      <string name="location_permission_name">Dostop do lokacije</string>
      <string name="lockpattern_continue_button_text">Naprej</string>
      <string name="lockpattern_need_to_confirm">Potrdite vzorec za odklepanje</string>
@@ -1231,6 +1233,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
+     <string name="more_convenient_features_and_content">Oglejte si, katera nova orodja in vsebine ponuja brskalnik!</string>
      <string name="more_description">Meni</string>
      <string name="more_info">Več o tem</string>
      <string name="more_option">Več možnosti</string>
@@ -1546,7 +1549,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="next_button_label">Naprej</string>
      <string name="nf_choose_reason">Opišite težavo</string>
      <string name="nf_content_gif_label">GIF</string>
-     <string name="nf_content_promo_label">ПРОМО</string>
+     <string name="nf_content_promo_label">Реклама</string>
      <string name="nf_detail_collection">Dodaj med priljubljene</string>
      <string name="nf_dislike">Me ne zanima</string>
      <string name="nf_feed_list_exit_toast">Tapnite ponovno, da boste zaprli vsebinski tok</string>
@@ -2050,6 +2053,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="pwa_hint_added_success">Uspešno dodano</string>
      <string name="qr_code_title">QR koda</string>
      <string name="qr_description">Skeniraj QR kodo</string>
+     <string name="quick_access_to_common_functions">Hitro dostopajte do priljubljenih funkcij</string>
      <string name="quick_search_and_access_to_functions">Hitro iskanje vam omogoča enostaven dostop do storitev, ki jih največ uporabljate.</string>
      <string name="quicklink_bookmark_save">Shrani v</string>
      <string name="quicklink_cannot_save_url">Ta povezava se ne more dodati.</string>
@@ -2187,8 +2191,9 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_bar_hint_content">Iskanje aplikacij in vsebine </string>
      <string name="search_bing">Bing</string>
      <string name="search_button_text">Pojdi</string>
-     <string name="search_card_online_rec_app">GetApps</string>
+     <string name="search_card_online_rec_app">Trgovine aplikacij</string>
      <string name="search_card_online_rec_app_install">Namesti</string>
+     <string name="search_card_online_rec_app_open">Odpri</string>
      <string name="search_dianping">Cate</string>
      <string name="search_easou">Easou</string>
      <string name="search_empty_view_hint">Ni rezultatov</string>
@@ -2265,6 +2270,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="setting_sms_content">SMS vsebina</string>
      <string name="setting_swipe_up">Povlecite navzgor na začetnem zaslonu</string>
      <string name="settings">Nastavitve</string>
+     <string name="settings_search_online_apps">Trgovine aplikacij</string>
+     <string name="settings_search_online_apps_desc">Vsebina iz trgovin aplikacij</string>
      <string name="share_image_text">Poglej, kaj sem delil! @MIUI</string>
      <string name="share_page_text">Poglej, kaj sem delil: %1$s @MIUI| %2$s</string>
      <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>
@@ -2765,6 +2772,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="web_video_download">Prenos</string>
      <string name="web_video_download_no_access">Za prenos stvari so zahtevana dovoljenja</string>
      <string name="web_video_enable_long_click_toast">Predvajanje z %dX hitrostjo</string>
+     <string name="web_video_float_drag_msg">Povlecite, da prilagodite velikost</string>
      <string name="web_video_list_more">Več</string>
      <string name="web_video_list_playing">Predvajanje</string>
      <string name="web_video_list_replay">Ponovno predvajaj</string>
