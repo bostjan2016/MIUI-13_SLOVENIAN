@@ -1006,7 +1006,7 @@ Prosimo, pošljite to kodo tehnikom."</string>
      <string name="pa_accessibility_picker_home_title">Dodaj pripomoček</string>
      <string name="pa_accessibility_picker_home_widget_replace">Izbrano %s. Preklapljanje pripomočkov.</string>
      <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Pripomoček: %s. Dvakrat tapnite gumb pod njim, da ga zamenjate z drugim pripomočkom.</string>
-     <string name="pa_accessibility_picker_home_widget_slected">Izbrano %1$s, Velikost: %2$s, Stanje namestitve: %3$s, Vrstica %4$d, Številka %5$d, tapnite dvakrat za podrobnosti, tapnite dvakrat in pridržite za premikanje.</string>
+     <string name="pa_accessibility_picker_home_widget_slected">Izbrano %1$s, Velikost: %2$s, Stanje namestitve: %3$s, tapnite dvakrat za podrobnosti, tapnite dvakrat in pridržite za premikanje.</string>
      <string name="pa_accessibility_picker_home_widget_with_add_slected">Izbrano %1$s, vrstica %2$d, številka %3$d. Dvakrat se dotaknite za ogled podrobnosti.</string>
      <string name="pa_accessibility_picker_search_cancel">Vrstica za iskanje pripomočkov. Dvakrat se dotaknite za preklic.</string>
      <string name="pa_accessibility_picker_search_clear">Izbriši besedilo</string>
@@ -1114,6 +1114,7 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_express_settings_phone_item_desc_1">SIM %d</string>
      <string name="pa_express_settings_phone_item_desc_2">SIM %d (ni dodana)</string>
      <string name="pa_express_settings_phone_unbind">Odstrani</string>
+     <string name="pa_express_widget_search">Išči</string>
      <string name="pa_filter_accessibility_filter_item">Izbrano %s. Dvakrat se dotaknite, da filtrirate druge izbire.</string>
      <string name="pa_filter_accessibility_filter_popup_item_selected">Dvakrat tapnite, da izberete %s.</string>
      <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Dvakrat tapnite, da izberete.</string>
@@ -1171,6 +1172,8 @@ Hitro dostavo lahko spremljate tudi na uradnih spletnih mestih kurirskih služb.
      <string name="pa_olympic_label">Medalje</string>
      <string name="pa_olympic_medal_count">Skupaj medalj</string>
      <string name="pa_olympic_medals_description">Preveri uvrstitev olimpijskih medalj</string>
+     <string name="pa_open_personal_assistant_dialog_desc">"Če izklopite Meni aplikacij, ne boste mogli uporabljati pripomočkov ali do njih dostopati tako, da na začetnem zaslonu povlečete desno. Vseeno izklopim?"</string>
+     <string name="pa_open_personal_assistant_dialog_title">Izklopim Meni aplikacij?</string>
      <string name="pa_operation_switch_summary">Pokaži nedavne priljubljene pripomočke</string>
      <string name="pa_operation_switch_title">Priljubljene promocije</string>
      <string name="pa_pad_privacy_text">Pripomočki za začetni zaslon</string>
@@ -1331,6 +1334,7 @@ za prikaz pripomočkov."</string>
      <string name="pa_setting_privacy_revoke_positive">Razumem</string>
      <string name="pa_setting_privacy_third_parties">Izjava o izmenjavi podatkov s tretjimi osebami</string>
      <string name="pa_setting_privacy_view_priv">Pokaži Pravila o zasebnosti</string>
+     <string name="pa_setting_simplify_title_bar">Meni aplikacij</string>
      <string name="pa_setting_version">Različica：%1$s</string>
      <string name="pa_shortcut_accessibility_description">"Meni aplikacij ponuja bližnjice za izbrane aplikacije tretjih oseb. Te bližnjice ne bodo delovale, če izklopite storitev."</string>
      <string name="pa_shortcut_accessibility_service">Meni aplikacij</string>
