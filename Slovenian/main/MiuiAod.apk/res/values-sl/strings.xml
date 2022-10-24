@@ -343,6 +343,8 @@ dd.MM"</string>
      <string name="select_notification_animation_style">Izberite posebni efekt</string>
      <string name="select_notification_notify_style">Izberite efekt obvestil</string>
      <string name="send">Pošlji</string>
+     <string name="settings_view_btn_check_off">Izklj.</string>
+     <string name="settings_view_btn_check_on">Vklj.</string>
      <string name="share">Deli</string>
      <string name="share_to_community">Deli na Mi Community</string>
      <string name="show_battery">Pokaži status baterije</string>

@@ -48,8 +48,12 @@
      <plurals name="days_ago">
         <item quantity="other">pred %1$d dnevi</item>
         <item quantity="one">pred %1$d dnevom</item>
-    </plurals>
-    <plurals name="delete_files">
+     </plurals>
+     <plurals name="delete_cloud_files">
+        <item quantity="other">Želite izbrisati %1$d datotek iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+        <item quantity="one">Želite izbrisati %1$d datoteko iz vseh svojih naprav in oblaka? Datoteke Mi Drive je mogoče obnoviti iz nedavno izbrisanih stvari.</item>
+     </plurals>
+     <plurals name="delete_files">
         <item quantity="other">Izbrišem %1$d datotek?</item>
         <item quantity="one">Izbrišem %1$d datoteko?</item>
      </plurals>
@@ -108,11 +112,11 @@
      <plurals name="items_picture">
         <item quantity="other"> (%1$d stvari)</item>
         <item quantity="one"> (%1$d stvar)</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
+     </plurals>
+     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
-    </plurals>
-    <plurals name="mins_ago">
+     </plurals>
+     <plurals name="mins_ago">
         <item quantity="other">Pred %1$d min</item>
         <item quantity="one">Pred %1$d min</item>
      </plurals>
@@ -127,6 +131,14 @@
      <plurals name="mtrl_badge_content_description">
         <item quantity="other">Nova obvestila: %d</item>
         <item quantity="one">%d novo obvestilo</item>
+     </plurals>
+     <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">"Ne morem sinhronizirati %1$s datotek"</item>
+        <item quantity="one">"Ne morem sinhronizirati %1$s datoteke"</item>
+     </plurals>
+     <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"Sinhronizirano %1$s datotek | "</item>
+        <item quantity="one">"Sinhronizirana %1$s datoteka | "</item>
      </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">Izbrano %1$d stvari</item>
