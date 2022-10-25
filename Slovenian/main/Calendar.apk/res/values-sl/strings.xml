@@ -27,7 +27,7 @@
      <string name="abc_searchview_description_submit">Pošlji zahtevo</string>
      <string name="abc_searchview_description_voice">Glasovno iskanje</string>
      <string name="abc_shareactionprovider_share_with">Skupna raba z</string>
-     <string name="abc_shareactionprovider_share_with_application">Skupna raba z: %s</string>
+     <string name="abc_shareactionprovider_share_with_application">Skupna raba z %s</string>
      <string name="abc_toolbar_collapse_description">Stisni</string>
      <string name="accessbility_suggestion_dropdown_closed">Ni predlogov na voljo</string>
      <string name="accessbility_suggestion_dropdown_opened">Predlogi stikov odprti</string>

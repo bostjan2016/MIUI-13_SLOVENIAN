@@ -1386,6 +1386,10 @@ Napravite varnostno kopijo stikov."</string>
      <string name="notification_action_voicemail_play">Predvajaj</string>
      <string name="notification_click_detail">Tapnite za prikaz podrobnosti</string>
      <string name="notification_micloudsync_delete_contact">Mi Cloud želi izbrisati nekatere vaše stike</string>
+     <string name="notification_missedCallTitle">Zgrešen klic</string>
+     <string name="notification_missedCall_call_back">Pokliči nazaj</string>
+     <string name="notification_missedCall_message">Pošlji SMS</string>
+     <string name="notification_missedCallsTitle">Zgrešeni klici</string>
      <string name="notification_new_voicemail_ticker">Nova glasovna pošta od %1$s</string>
      <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
      <string name="openDialKeyboard">Številčnica</string>

@@ -1359,6 +1359,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="confirm_open">Vključi</string>
      <string name="confirm_open_shut_down_password_content">Pred vklopom potrditve izklopa nastavite zaklepanje zaslona.</string>
      <string name="confirm_open_shut_down_password_title">Nastavite zaklepanje zaslona</string>
+     <string name="confirm_package_type">Potrdite svoj podatkovni paket</string>
      <string name="confirm_prompt_all_permission">Iščem dovoljenja za vse aplikacije?</string>
      <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te storitve?</string>
      <string name="confirm_take">Pridobi</string>
@@ -1809,6 +1810,9 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="exo_download_downloading">Prenos…</string>
      <string name="exo_download_failed">"Ne morem prenesti"</string>
      <string name="exo_download_notification_channel_name">Prenosi</string>
+     <string name="exo_download_paused">Prenosi zaustavljeni</string>
+     <string name="exo_download_paused_for_network">Prenosi čakajo na omrežje</string>
+     <string name="exo_download_paused_for_wifi">Prenosi čakajo na WiFi</string>
      <string name="exo_download_removing">Odstrani prenose</string>
      <string name="exo_track_mono">Mono</string>
      <string name="exo_track_role_alternate">Nadomestno</string>
@@ -2129,6 +2133,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gamebox_func_switch_simcard_immersion">"SIM kartice se ne morejo zamenjati v interaktivnem načinu"</string>
      <string name="gamebox_func_wlan_close">WiFi je zdaj izključen</string>
      <string name="gamebox_func_wlan_open">WiFi je zdaj vključen</string>
+     <string name="gamebox_game_center_app_not_find">Najprej namestite Igre</string>
      <string name="gamebox_hangup">Izključi zaslon</string>
      <string name="gamebox_hangup_tips_content">Ta storitev vam omogoča da izključite zaslon, a obdržite igro v ozadju. Samodejno se izključi po odklepu naprave.</string>
      <string name="gamebox_hangup_tips_title">Vključi zaslon</string>
@@ -2141,7 +2146,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gamebox_mem_clean">Očisti spomin</string>
      <string name="gamebox_milink">Predvajanje</string>
      <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
-     <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
+     <string name="gamebox_qq_not_find">Namestite QQ in poskusite ponovno.</string>
      <string name="gamebox_recent_task_expand_fail">"Aplikacije ki delajo z bližnjicami niso nameščene"</string>
      <string name="gamebox_screenrecord">Posnetek</string>
      <string name="gamebox_screenshot">Posnetek zaslona</string>
@@ -2209,6 +2214,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_barrage_chat_text_speed_faster">Hitro</string>
      <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
      <string name="gb_barrage_chat_text_speed_slow">Počasi</string>
+     <string name="gb_barrage_dnd_conflict_toast">Če želite uporabljati komentarje na zaslonu, najprej izklopite Ne moti</string>
      <string name="gb_beauty_cold_light">Hladno</string>
      <string name="gb_beauty_face">Lepota</string>
      <string name="gb_beauty_light">Polna svetloba</string>
@@ -2238,6 +2244,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_dialog_record_way_setting_tip_two">Konflikti z drugimi snemalniki zaslona</string>
      <string name="gb_dialog_record_way_setting_tips">Opomba: Snemanje vaših sej igranja zahteva večjo porabo energije.</string>
      <string name="gb_dialog_record_way_title">Izberite način snemanja</string>
+     <string name="gb_dnd_barrage_conflict_toast">"Ko je vklopljeno Ne moti, ne boste mogli uporabljati komentarjev na zaslonu"</string>
      <string name="gb_first_guide_function_shiled_title">Izključi storitve sistema ko je Game Turbo vključen</string>
      <string name="gb_first_guide_gamebox_des">Med igranjem uporabite bližnjice</string>
      <string name="gb_first_guide_handsfree_des">Odgovorite na klice v ozadju</string>
@@ -2327,6 +2334,7 @@ ob zniževanju hitrosti osveževanja in temperaturnih omejitev"</string>
      <string name="gb_performance_mode">Način igre</string>
      <string name="gb_performance_tips">"Če dolgo uporabljate zmogljivi način delovanja
 lahko izprazni baterijo in povzroči pregrevanje"</string>
+     <string name="gb_predownload_check">Oglejte si nagrade</string>
      <string name="gb_predownload_dialog_cancel">Ne, hvala</string>
      <string name="gb_predownload_dialog_checked">"Ne kaži več"</string>
      <string name="gb_predownload_dialog_confirm">Vklopi</string>
@@ -2336,6 +2344,8 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_predownload_message_new">Samodejno posodobite združljive igre, ko ne uporabljate naprave</string>
      <string name="gb_predownload_noti_message">"%2$1.2f GB posodobljene vsebine je že v tej napravi. Uporabili jo boste lahko takoj, ko bo izšla nova različica."</string>
      <string name="gb_predownload_noti_title">%s uspešno posodobljen v ozadju</string>
+     <string name="gb_predownload_receive">Pridobite nagrade</string>
+     <string name="gb_predownload_receive_tips">Vklopite posodobitve v ozadju, da dobite nagrade</string>
      <string name="gb_predownload_title">Posodobitve v ozadju</string>
      <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
      <string name="gb_shoulder_guide_message1">Premaknite [L] v kateri koli funkcionalni položaj, da ga uporabite prek pojavnega sprožilca</string>
@@ -4091,7 +4101,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="power_dialog_delete_dialog_delete">Izbriši ta profil baterije?</string>
      <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
      <string name="power_dialog_ok">V redu</string>
-     <string name="power_dialog_performance_mode_checkbox">Preklopi na frekvenco osveževanja 120 Hz</string>
+     <string name="power_dialog_performance_mode_checkbox">Preklopi na frekvenco osveževanja %d Hz</string>
      <string name="power_dialog_screen_brightness_automatic">Samodejno prilagodi osvetlitev</string>
      <string name="power_dialog_screen_brightness_automatic_off">Osvetlitev zaslona bo ostala nespremenjena v vseh pogojih</string>
      <string name="power_dialog_screen_brightness_automatic_on">Osvetlitev zaslona se spreminja glede na svetlobo v vaši okolici</string>
@@ -5278,6 +5288,8 @@ Umaknem soglasje zdaj?"</string>
      <string name="sp_eew_summary">Opozorila o prihajajočih potresih</string>
      <string name="sp_eew_title">Opozorila o potresih</string>
      <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
+     <string name="sp_family_guard_summary">Zagotovite pomoč na daljavo</string>
+     <string name="sp_family_guard_title">Družinska zaščita</string>
      <string name="sp_find_device_summary">Poiščite svojo napravo na daljavo</string>
      <string name="sp_find_device_title">Najdi napravo</string>
      <string name="sp_guard_summary">Urejajte naprave svojih prijateljev in družine</string>
@@ -5982,6 +5994,23 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
      <string name="tc_web_correct_error">"Ne morem kalibrirati"</string>
      <string name="temperature_formatted_text">%s℃</string>
      <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
+     <string name="terminal_privacy">Zaščita zasebnosti v napravi</string>
+     <string name="terminal_privacy_ability">Lastnosti in mehanizmi</string>
+     <string name="terminal_privacy_ability_img">Obdelava slik</string>
+     <string name="terminal_privacy_ability_img_summary">Pametno urejanje in prepoznavanje fotografij in videoposnetkov v kameri, galeriji in Taplus</string>
+     <string name="terminal_privacy_ability_model">Prepoznavanje interakcije vaše naprave z okoljem</string>
+     <string name="terminal_privacy_ability_model_summary">Števec korakov, pametni gibi, žepni način in samodejna svetlost</string>
+     <string name="terminal_privacy_ability_others">Drugi mehanizmi</string>
+     <string name="terminal_privacy_ability_others_summary">Deljenje zaslona, testiranje plačilnega okolja, prepoznavanje prstnih odtisov in obrazov</string>
+     <string name="terminal_privacy_ability_suggest">Priporočila</string>
+     <string name="terminal_privacy_ability_suggest_summary">Priporočila in predlogi iz Raziskovalca, stranske vrstice, Mi AI in Mi denarnice</string>
+     <string name="terminal_privacy_ability_summary">*Storitve in mehanizmi za zaščito zasebnosti v napravi se lahko razlikujejo glede na model naprave</string>
+     <string name="terminal_privacy_ability_txt">Besedilo</string>
+     <string name="terminal_privacy_ability_txt_summary">Urejanje besedila, pametni podnapisi, Taplus, sporočila in deljeno odložišče</string>
+     <string name="terminal_privacy_ability_voice">Prepoznavanje govora</string>
+     <string name="terminal_privacy_ability_voice_summary">Mi AI glasovni ukazi in pametni podnapisi</string>
+     <string name="terminal_privacy_instruction">Zaščita zasebnosti v napravi vključuje storitve, ki poskrbijo, da se vaši osebni podatki hranijo v tej napravi, namesto da se naložijo v oblak</string>
+     <string name="terminal_privacy_summary">Obdelujte osebne podatke v tej napravi</string>
      <string name="terms_and_conditions_content"><Data>"Ta storitev vam omogoča opozarjanje na potres. Obveščala vas bo o prihajajočih potresih in predvajala opozorilni zvok. Poiskali boste lahko najbližje zavetišče, poklicali stik za nujne primere in po potrebi predložili svojo zdravstveno izkaznico. &lt;br>Vaše osebne podatke bomo zaščitili v skladu z ustreznimi zakoni, predpisi in politikami zasebnosti. &lt;br>Za normalno delovanje ta storitev zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov: &lt;br>• Podatki o lokaciji: &lt;br>Za dostop do vaše lokacije in zagotavljanje natančnih opozoril o potresu. &lt;br>Če se ne strinjate s podelitvijo takih dovoljenj ali deljenjem in nalaganjem svojih osebnih podatkov, ne boste mogli uporabljati te storitve. V takih primerih lahko to storitev izklopite ali ne vklopite. &lt;br>Pred uporabo te storitve morate prebrati naš &lt;a href=%s>Pravilnik o zasebnosti&lt;/a> in se strinjati z njim."</Data></string>
      <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
      <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
