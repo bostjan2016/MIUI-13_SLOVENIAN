@@ -968,7 +968,7 @@ Izbor"</string>
      <string name="doze_brightness_sensor_type" />
      <string name="doze_pickup_subtype_performs_proximity_check" />
      <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
-     <string name="drag_to_rearrange_tiles">Zadržite i povucite da biste premjestili pločice</string>
+     <string name="drag_to_rearrange_tiles">Držite in povlecite da boste premestili ploščice</string>
      <string name="drag_to_remove_disabled">Potrebno je vsaj %1$d ploščic</string>
      <string name="drag_to_remove_tiles">Podrsajte tu za odstranitev</string>
      <string name="drive_mode_tip">"Ste v načinu avta"</string>

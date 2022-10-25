@@ -10,7 +10,7 @@
   <string name="activate_voip_call">Brezplačen voip klic</string>
   <string name="activate_voip_description">Tvoj prijatelj uporablja VOIP klice, lahko aktivirate VOIP in kličete</string>
   <string name="activating">Aktiviranje</string>
-  <string name="address_choose_hint">%1$s, %2$s, i %3$d ostale lokacije</string>
+  <string name="address_choose_hint">%1$s, %2$s, in %3$d ostale lokacije</string>
   <string name="all_address_choose_hint">Vse številke v tej pokraini</string>
   <string name="app_name">Mi Voice</string>
   <string name="app_name_which_call">Aplikacija:%s</string>

@@ -11793,7 +11793,7 @@ Izklop te storitve ne vpliva na zmožnost naprave, da pošlje podatke, potrebne 
      <string name="usage_state_channel_week">Zadnjih 7 dni</string>
      <string name="usage_state_date">dd.MM</string>
      <string name="usage_state_device_noti_today_tip_title" formatted="false">Obvesti med %d:00 in %d:00</string>
-     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odklenjena naprava med %d:00 i %d:00</string>
+     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odklenjena naprava med %d:00 in %d:00</string>
      <string name="usage_state_friday">Pet</string>
      <string name="usage_state_go_more">Več aplikacij</string>
      <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
