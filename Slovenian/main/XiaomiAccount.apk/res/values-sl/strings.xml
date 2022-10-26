@@ -1025,16 +1025,24 @@ ki ste ga prejeli v vaš poštni predal
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_instruction_all_purpose">Dobrodošli v računu Mi! S svojim računom lahko dostopate do storitev, ki jih ponujajo Xiaomi in z njim povezana podjetja, kot so Mi.com, Xiaomi Cloud in GetApps. Lahko dobite Mi Coins, kupite virtualno blago in uživate v storitvah z dodano vrednostjo, vključno z igrami, temami in e-knjigami.</string>
      <string name="user_instruction_tip">Če se želite prijaviti, preberite in se strinjajte s pravili in pogoji.</string>
-     <string name="user_license_with_3rd_app"><Data>"S prijavo s svojim računom Mi potrjujem, da sem prebral in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
-     <string name="user_license_with_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji China Mobile storitve preverjanja&lt;/a>."</Data></string>
-     <string name="user_license_with_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
-     <string name="user_license_with_3rd_app_telcom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji eSurfing račun storitve preverjanja&lt;/a>."</Data></string>
-     <string name="user_license_with_3rd_app_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pravila in pogoji China Unicom storitve preverjanja&lt;/a>."</Data></string>
-     <string name="user_license_with_out_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> and &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
-     <string name="user_license_without_3rd_app"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
-     <string name="user_license_without_3rd_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji China Mobile storitve preverjanja&lt;/a>."</Data></string>
-     <string name="user_license_without_3rd_telcom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji eSurfing račun storitve preverjanja&lt;/a>."</Data></string>
-     <string name="user_license_without_3rd_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji China Unicom storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app"><Data>"S prijavo v svoj račun Xiaomi potrjujem, da sem prebral in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Xiaomi Račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_with_3rd_app_mobile"><Data>"Prebral sem in se strinjam z aplikacijinimi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, in &lt;a href=%5$s>Pogoji uporabe China Mobile Authentication&lt;/a>.
+"</Data></string>
+     <string name="user_license_with_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z aplikacijinimi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Xiaomi Račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>.
+"</Data></string>
+     <string name="user_license_with_3rd_app_telcom"><Data>"Prebral sem in se strinjam z aplikacijinimi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, in &lt;a href=%5$s>Pogoji uporabe China Telecom Authentication&lt;/a>.
+"</Data></string>
+     <string name="user_license_with_3rd_app_unicom"><Data>"Prebral sem in se strinjam z aplikacijinimi &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, in &lt;a href=%5$s>Pogoji uporabe China Unicom Authentication&lt;/a>.
+"</Data></string>
+     <string name="user_license_with_out_3rd_app_no_operator"><Data>"Prebral sem in se strinjam z Xiaomi Račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>.
+"</Data></string>
+     <string name="user_license_without_3rd_app"><Data>"Prebral sem in se strinjam z Xiaomi Račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_license_without_3rd_mobile"><Data>"Prebral sem in se strinjam z Xiaomi Račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe China Mobile Authentication&lt;/a>.
+"</Data></string>
+     <string name="user_license_without_3rd_telcom"><Data>"Prebral sem in se strinjam z Xiaomi Račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe China Telecom Authentication&lt;/a>.
+"</Data></string>
+     <string name="user_license_without_3rd_unicom"><Data>"Prebral sem in se strinjam z Xiaomi Račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in &lt;a href=%3$s>Pogoji uporabe China Unicom Authentication&lt;/a>.
+"</Data></string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="verified_apps">Preverjene aplikacije</string>
