@@ -206,6 +206,7 @@
      <string name="clockin_success">Uspšno prijavljen</string>
      <string name="clockin_use">Osvojite nagrado</string>
      <string name="close">Zapri</string>
+     <string name="cloud_copy_to_local_title">Shrani v…</string>
      <string name="cloud_drive_files">Datoteke Mi Drive</string>
      <string name="cloud_drive_not_login_summary">Niste prijavljeni</string>
      <string name="cloud_drive_settings">Mi Drive nastavitve</string>
@@ -268,6 +269,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="data_capacity">Podatki %1$s</string>
      <string name="data_consume_dialog_message">"Trenutno uporabljate mobilne podatke. Če nadaljujete, bo to porabilo %s podatkov."</string>
      <string name="data_consume_dialog_title">Uporabim mobilne podatke?</string>
+     <string name="data_consume_dialog_upload_title">Nalaganje z mobilnimi podatki</string>
      <string name="data_consumption_cancel">Izhod</string>
      <string name="data_consumption_checkbox_hint">"Ne kaži več"</string>
      <string name="data_consumption_confirm">V redu</string>
@@ -551,6 +553,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="hot_video_load_more">Več &gt;</string>
      <string name="hot_video_title">Popularni videoposnetki</string>
      <string name="hottest_sticker_str">Popularno</string>
+     <string name="hybrid_provider">Ponuja %1$s</string>
      <string name="icon_content_description">Pogovorna ikona</string>
      <string name="if_cancel">Odpovem?</string>
      <string name="image_loading_error">"Ne morem prebrati slike"</string>
@@ -913,6 +916,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="no_login_tip">Delite videoposnetke popularnih tem za osvajanje nagrad</string>
      <string name="no_message">Ni sporočil</string>
      <string name="no_more_space">Ni dovolj prostora.</string>
+     <string name="no_network">"Ne morem se povezati na omrežje"</string>
      <string name="no_network_error_message">Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="no_network_error_title">"Ne morem se povezati na omrežje"</string>
      <string name="no_network_retry">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno."</string>
@@ -1020,6 +1024,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="operation_moving_detail">Premikam (%1$d/%2$d)</string>
      <string name="operation_new_folder">Napravi mapo</string>
      <string name="operation_no_network_err">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
+     <string name="operation_not_support_directory_rename">"Te mape ni mogoče preimenovati."</string>
      <string name="operation_not_support_err">"Tega dejanja ni bilo mogoče dokončati."</string>
      <string name="operation_open">Odpri</string>
      <string name="operation_open_mode">Odpri z</string>
@@ -1061,6 +1066,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="operation_upload_error_title">"Ne morem naložiti"</string>
      <string name="operation_upload_retry">Poskusi znova</string>
      <string name="operation_upload_save_to_local">Shrani v…</string>
+     <string name="operation_upload_use_data">Naloži</string>
      <string name="optional_change_wifi">Za daljinsko urejanje datotek preko WiFi-ja</string>
      <string name="original_user_desc">Redno prenašajte originalne videoposnetke da dobite status avtorja vsebin</string>
      <string name="original_user_qq_group">Pridružite se QQ skupini Talent team</string>
@@ -1696,6 +1702,9 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="waiting">Čakam</string>
      <string name="wangpan_root_path">Moj Drive</string>
      <string name="wb_btn_bind">Weibo</string>
+     <string name="web_sso_login_fail">Ponovno se morate prijaviti</string>
+     <string name="web_sso_login_message">Prijava…</string>
+     <string name="webview_reload">Poskusi znova</string>
      <string name="wechat_btn_bind">WeChat</string>
      <string name="wechat_btn_str">WeChat</string>
      <string name="wechat_login_btn_str">WeChat</string>

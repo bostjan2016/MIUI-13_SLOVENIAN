@@ -247,7 +247,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_edit_popup_window_related_title">To bi lahko bilo važno</string>
      <string name="feedback_empty_report_list">Še ni prijav</string>
      <string name="feedback_evaluation_btn_content">Ocenite</string>
-     <string name="feedback_evaluation_expired_hint">Kaže da je ta ocena potekla</string>
+     <string name="feedback_evaluation_expired_hint">"Te stvari ne morem več oceniti"</string>
      <string name="feedback_evaluation_hint_dialog_content">Vaše povratne informacije nam pomagajo izboljšati naše izdelke in storitve.</string>
      <string name="feedback_evaluation_hint_dialog_title">Je bil ta problem rešen?</string>
      <string name="feedback_evaluation_invitation_content">Ocenite svojo izkušnjo, da nam pomagate izboljšati obdelavo povratnih informacij v prihodnosti.</string>

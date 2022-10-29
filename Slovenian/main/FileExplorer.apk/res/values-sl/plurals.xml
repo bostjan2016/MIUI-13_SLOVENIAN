@@ -140,6 +140,10 @@
         <item quantity="other">"Sinhronizirano %1$s datotek | "</item>
         <item quantity="one">"Sinhronizirana %1$s datoteka | "</item>
      </plurals>
+     <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Čakanje na omrežno povezavo. %1$s preostalih datotek.</item>
+        <item quantity="one">Čakanje na omrežno povezavo. %1$s preostala datoteka.</item>
+     </plurals>
      <plurals name="numSelectedFile">
         <item quantity="other">Izbrano %1$d stvari</item>
         <item quantity="one">Izbrana %1$d stvar</item>
