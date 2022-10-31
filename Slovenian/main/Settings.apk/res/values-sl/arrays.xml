@@ -477,6 +477,11 @@
         <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
      </string-array>
+     <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Nešifrirano (ni varno)</item>
+        <item>4 mestni pin (nizka varnost)</item>
+        <item>16 mestni pin (visoka varnost)</item>
+     </string-array>
      <string-array name="bluetooth_map_version_values">
         <item>map12</item>
         <item>map13</item>
@@ -952,6 +957,10 @@
         <item>Omrežje je počasno zaradi slabega signala</item>
         <item>Premeščanje…</item>
      </string-array>
+     <string-array name="nfc_payment_favor">
+        <item>Zmeraj</item>
+        <item>Razen ko je odprta druga plačilna aplikacija</item>
+     </string-array>
      <string-array name="notch_battery_indicator_style_entries">
         <item>Grafika</item>
         <item>Odstotek (v ikoni)</item>
@@ -1318,6 +1327,17 @@
      <string-array name="status_bar_style_entries">
         <item>Kombinirano</item>
         <item>Ločeno</item>
+     </string-array>
+     <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Nikoli</item>
+        <item>Čez 1 minuto</item>
+        <item>Čez 5 minut</item>
+     </string-array>
+     <string-array name="tare_modifiers_subfactors">
+        <item>Polnjenje</item>
+        <item>Dremanje</item>
+        <item>Način varčevanja z energijo</item>
+        <item>Stanje procesa</item>
      </string-array>
      <string-array name="time_format_entries">
         <item>12-urni format 1:00 pop.</item>

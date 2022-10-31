@@ -51,6 +51,7 @@
      <string name="back_double_tap">Dvojni dotik zadaj</string>
      <string name="back_tap">Dotik zadaj</string>
      <string name="back_triple_tap">Trojni dotik zadaj</string>
+     <string name="backup_suspend_hint">Za to aplikacijo se trenutno izvaja varnostno kopiranje. Počakajte, da se varnostno kopiranje konča in poskusite znova.</string>
      <string name="battery_authentic_failed_button">Razumem</string>
      <string name="battery_authentic_failed_title">Pozor</string>
      <string name="beep">Bip</string>
@@ -191,6 +192,7 @@
      <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
      <string name="freeform_exchange_tip">Odpri plavajoče okno v celozaslonskem načinu</string>
      <string name="freeform_exchange_tip2">Povlecite v kot da prenehate</string>
+     <string name="freeform_exchange_tip3">Odpri plavajoče okno v celozaslonskem načinu</string>
      <string name="frenchchic">Chic</string>
      <string name="frequent_email">Pogosti naslovi e-pošte</string>
      <string name="frequent_phrases">Pogosti izrazi</string>
@@ -459,6 +461,9 @@
      <string name="relaunch_unfold_notification_content">Ta aplikacija morda ni pravilno prikazana na tem zaslonu. Znova zaženite aplikacijo, da prilagodite postavitve.</string>
      <string name="remain">Ostalo: %s</string>
      <string name="replace">Zamenjaj</string>
+     <string name="rescueparty_package_tips">Zaznana je okvara sistemske storitve {0}</string>
+     <string name="rescuepartyplus_config_reset_context">Nekateri podatki so morda izbrisani. Tapnite za ogled podrobnosti.</string>
+     <string name="rescuepartyplus_config_reset_title">Popravilo sistema končano</string>
      <string name="resolver_app_recommend_flag">Priporočeno</string>
      <string name="resolver_checkbox_always">Zmeraj</string>
      <string name="resolver_checkbox_once">Enkrat</string>
