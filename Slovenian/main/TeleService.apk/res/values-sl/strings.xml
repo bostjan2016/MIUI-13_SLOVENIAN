@@ -248,8 +248,16 @@
      <string name="alarms_and_reminders_title">Alarmi in opomniki</string>
      <string name="alert_dialog_close">Zapri profil</string>
      <string name="alert_dialog_dismiss">Zavrni</string>
+     <string name="alert_dialog_exit_ecm">{count, plural, =1 {Telefon bo eno minuto v načinu povratnega klica v sili. V tem načinu ni mogoče uporabljati nobenih aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zdaj zapustiti?} other {Telefon bo v načinu povratnega klica v sili %s minut. V tem načinu ni mogoče uporabljati nobenih aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zdaj zapustiti?} }</string>
+     <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Telefon bo eno minuto v načinu povratnega klica v sili.
+Ali želite zdaj zapustiti?} other {Telefon bo v načinu povratnega klica v sili %s minut.
+Ali želite zdaj zapustiti?} }"</string>
+     <string name="alert_dialog_exit_scm">Telefon je v načinu SMS povratnega klica. V tem načinu ni mogoče uporabljati nobenih aplikacij, ki uporabljajo podatkovno povezavo. Ali želite zdaj zapustiti?</string>
      <string name="alert_dialog_in_ecm_call">Izbrano dejanje ni na voljo med klicem v sili.</string>
+     <string name="alert_dialog_in_scm_call">"Izbrano dejanje ni na voljo med klicem v sili."</string>
      <string name="alert_dialog_no">Ne</string>
+     <string name="alert_dialog_not_avaialble_in_ecm">"{count, plural, =1 {Izbrano dejanje ni na voljo v načinu za povratni klic v sili. Telefon bo v tem načinu eno minuto. Ali želite zdaj zapustiti?} other {Izbrano dejanje ni na voljo v načinu za povratni klic v sili. Telefon bo v tem načinu %s minut. Ali želite zdaj zapustiti?} }"</string>
+     <string name="alert_dialog_not_avaialble_in_scm">"Izbrano dejanje ni na voljo v načinu povratnega klica SMS. Ali želite zdaj zapustiti?"</string>
      <string name="alert_dialog_ok">V redu</string>
      <string name="alert_dialog_yes">Da</string>
      <string name="alertdialogtitle">Rezultati</string>
@@ -471,6 +479,10 @@ Avdio"</string>
      <string name="business_hall_settings_summary">Nadzorujte svoje klice in porabo podatkov</string>
      <string name="business_hall_settings_title">Nastavitve načrta operaterja</string>
      <string name="button_convert_fbe">Izbriši in pretvori…</string>
+     <string name="c_iwlan_exit_notification_description">Onemogočanje lahko pomagate pridobiti storitev.</string>
+     <string name="c_iwlan_exit_notification_negative_button">OPUSTI</string>
+     <string name="c_iwlan_exit_notification_positive_button">ODPRI NASTAVITVE</string>
+     <string name="c_iwlan_exit_notification_title">Glas prek mobilnega spleta ni na voljo</string>
      <string name="cached_apps_freezer_device_default">Privzeta naprava</string>
      <string name="cached_apps_freezer_disabled">Onemogočeno</string>
      <string name="cached_apps_freezer_enabled">Omogočeno</string>
@@ -554,6 +566,7 @@ Avdio"</string>
      <string name="callFailed_requested_facility_not_subscribed">Iskani objekt ni predplačan</string>
      <string name="callFailed_resources_unavailable_or_unspecified">Viri niso na voljo, nedorečeno</string>
      <string name="callFailed_resp_to_status_enquiry">Odgovor na STATUS ENQUIRY</string>
+     <string name="callFailed_secure_mode">V varnem načinu ni mogoče opraviti klica, ki ni nujen.</string>
      <string name="callFailed_semantically_incorrect_message">Semantično netočno sporočilo</string>
      <string name="callFailed_server_error">Napaka strežnika: poskusite znova pozneje.</string>
      <string name="callFailed_server_unreachable">Strežnik ni dosegljiv</string>
@@ -1597,6 +1610,7 @@ Tega klica ni mogoče dokončati. Poskusite znova, ko se telefon ohladi.
      <string name="labelCDMAMore">CDMA klicne nastavitve</string>
      <string name="labelCF">Posredovanje klica</string>
      <string name="labelCFB">Posreduj ko je zasedeno</string>
+     <string name="labelCFNL">Ko ni prijavljen</string>
      <string name="labelCFNRc">Posreduj ko je nedosegljivo</string>
      <string name="labelCFNRy">Posreduj ko je neodgovorjeno</string>
      <string name="labelCFType">Nastavitve preusmeritve klica</string>
@@ -1803,6 +1817,7 @@ za uporabo doplačila"</string>
      <string name="menu_dial">Klicanje stikov</string>
      <string name="menu_edit">Uredi stik</string>
      <string name="messageCFB">Številka v primeru zasedenosti</string>
+     <string name="messageCFNL">Številka v primeru neprijavljenosti</string>
      <string name="messageCFNRc">Številka v primeru nedostopnosti</string>
      <string name="messageCFNRc_kr_kt">"Omrežna storitev, ki preusmerja vse dohodne klice in SMS-e na določeno številko, če ne morete odgovoriti na klice (na primer, ko ste zasedeni ali ko je vaša naprava izključena). Morate se naročiti na to storitev. Obrnite se na Uporabniški center (114+ [Pošlji]) za naročanje ali odjavo. Vnesite *72+ [številka za posredovanje klicev] [Pošlji] da boste omogočili ali *720 [Pošlji] da boste onemogočili.
 
@@ -2372,11 +2387,15 @@ Poskusite ponovno ali pokličite podporo"</string>
      <string name="phone_accounts_selection_header">Računi telefona</string>
      <string name="phone_accounts_settings_header">Nastavitve</string>
      <string name="phone_entered_ecm_text">Vstop v način za povratni klic v sili</string>
+     <string name="phone_entered_scm_text">Vstop v način povratnega klica SMS</string>
      <string name="phone_in_ecm_call_notification_text">Podatkovna povezava je izklopljena</string>
      <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">Telefon je v načinu za povratni klic v sili</string>
      <string name="phone_in_ecm_notification_complete_time">Ni podatkovne povezave do %s</string>
      <string name="phone_in_ecm_notification_complete_time_without_data_restriction_hint">Do %s</string>
      <string name="phone_in_ecm_notification_title">Način za povratni klic v sili</string>
+     <string name="phone_in_scm_call_notification_text_without_data_restriction_hint">Telefon je v načinu SMS povratnega klica</string>
+     <string name="phone_in_scm_notification_complete_time">Od %s</string>
+     <string name="phone_in_scm_notification_title">Način povratnega klica SMS</string>
      <string name="phone_index_label">Izberite indeks telefona</string>
      <string name="phone_info_label">Informacije o telefonu</string>
      <string name="phone_number_hint_text">Telefonska številka</string>
@@ -2535,11 +2554,13 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_restrict_network_changed_incall">"Mobilnega omrežja ni možno spremeniti med klicem"</string>
      <string name="preferred_network_type_3g_only_warning">Vaša SIM kartica mora podpirati 3G za povezavo z omrežjem</string>
      <string name="preferred_network_type_cdma">CDMA</string>
+     <string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Prednostno omrežje 3G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prednostno omrežje 3G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_jp_sb">3G/GSM</string>
-     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM auto</string>
+     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM samod.</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G Prednostno)</string>
+     <string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Prednostno omrežje LTE</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prednostno omrežje 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred_custom">Prednostno 4G</string>
@@ -2588,6 +2609,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="profile_connect_timeout_subtext">Težava pri povezovanju. Napravo izklopite in znova vklopite.</string>
      <string name="profile_info_settings_title">Podatki za profil</string>
      <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
+     <string name="progress_dialog_exiting_scm">Izhod iz načina povratnega klica SMS</string>
      <string name="prompt_to_suggest_no_call_service_notification_content">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za vašo SIM kartico (China Telecom)."</string>
      <string name="prompt_to_suggest_no_call_service_notification_content2">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za %d SIM kartico (China Telecom)."</string>
      <string name="prompt_to_suggest_no_call_service_notification_title">"Ne morem klicati in sprejemati klice"</string>
@@ -2695,6 +2717,7 @@ Vmesnik UT: %5$s"</string>
      <string name="radio_info_nr_available">Razpoložljivo za NR:</string>
      <string name="radio_info_nr_frequency">Frekvenca NR:</string>
      <string name="radio_info_nr_state">Stanje NR:</string>
+     <string name="radio_info_override_network_type_label">Override Network Type:</string>
      <string name="radio_info_phone_number_label">Telefonska številka:</string>
      <string name="radio_info_phy_chan_config">Konfiguracija fizičnega kanala LTE:</string>
      <string name="radio_info_ping_hostname_v4">Preverjanje imena gostitelja (www.google.com) za IPv4:</string>
@@ -2757,6 +2780,7 @@ Vmesnik UT: %5$s"</string>
      <string name="remain_minutes">Čas pogovora</string>
      <string name="remain_minutes_summary">Različne države, različne cene; Snemanje klica vpliva na konačni račun .</string>
      <string name="remaining_length_format">Še %1$s</string>
+     <string name="removable_esim_string">Nastavi odstranljivo kartico eSIM kot privzeto</string>
      <string name="remove">Izbriši</string>
      <string name="remove_ims_account">Odstrani račun</string>
      <string name="remove_sip_account">Odstrani račun</string>
@@ -3083,6 +3107,8 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="sum_cdma_call_settings">Dodatne nastavitve le CDMA klica</string>
      <string name="sum_cfb_disabled">Izklop</string>
      <string name="sum_cfb_enabled">Posredujem do {0}</string>
+     <string name="sum_cfnl_disabled">Izključeno</string>
+     <string name="sum_cfnl_enabled">Posredujem do {0}</string>
      <string name="sum_cfnrc_disabled">Izklop</string>
      <string name="sum_cfnrc_enabled">Posredujem do {0}</string>
      <string name="sum_cfnry_disabled">Izklop</string>
@@ -3351,6 +3377,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="username_title">Uporabniško ime</string>
      <string name="ussdRunning">Koda USSD se izvaja ...</string>
      <string name="ussd_dialog_sep">----------</string>
+     <string name="ussdinitiated_title">USSD sprožen</string>
      <string name="ut_not_support">UT ni na voljo</string>
      <string name="ut_unavailable_to_set_video_cf_toast">UT ni na voljo za nastavljanje posredovanja klica za video, zaprite to stran.</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
@@ -3366,6 +3393,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="vibrating_for_outgoing_call_accepted_summary">Omogočite način vibriranja za sprejeti odhodni klic</string>
      <string name="vibrating_for_outgoing_call_accepted_title">Vibracija za odhodni klic je sprejeta</string>
      <string name="vice_card_data_in_use_alert">Lahko se generirajo dodatni stroški.</string>
+     <string name="vice_slot_volte_data_dialog_message"><Data>Kaže da je vaša trenutna omrežna povezava nestabilna. Poskusite lahko samodejno preklapljati med podatkovnimi karticami SIM. &lt;font color=#ff0000>&lt;b>Uporaba te storitve lahko povzroči dodatne stroške operaterja&lt;/b>&lt;/font>.</Data></string>
+     <string name="vice_slot_volte_data_dialog_open">Vključi</string>
      <string name="vice_slot_volte_data_switch_prompt">Naprava se bo povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne SIM kartice med VoLTE klicem. To lahko povzroči dodatne stroške za podatke. Kontaktirajte operaterja za podrobnosti.</string>
      <string name="vice_slot_volte_data_switch_summary">Med VoLTE klicem se bo naprava povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne SIM kartice</string>
      <string name="vice_slot_volte_data_switch_title">Uporabi mobilne podatke med VoLTE klicem na sekundarni SIM kartici</string>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Previj nazaj %d sekund</item>
+        <item quantity="one">Previj nazaj %d sekundo</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
+     </plurals>
      <plurals name="permission_delete_audio">
         <item quantity="other">Dovolim ^1 da izbriše ^2 zvočnih datotek?</item>
         <item quantity="one">Dovolim ^1 da izbriše to zvočno datoteko?</item>

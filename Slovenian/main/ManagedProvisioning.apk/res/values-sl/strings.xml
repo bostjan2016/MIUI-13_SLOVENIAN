@@ -124,6 +124,9 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="error_icon_content_description">Napaka</string>
      <string name="error_installation_failed">Skrbniške aplikacije ni bilo mogoče namestiti</string>
      <string name="error_package_invalid">Skrbniške aplikacije ni mogoče uporabljati. Manjkajo ji komponente ali pa je poškodovana. Za pomoč se obrnite na skrbnika za IT.</string>
+     <string name="error_role_holder_download_install_failed">Poskusite znova pozneje ali za pomoč prosite skrbnika IT</string>
+     <string name="error_role_holder_hash_mismatch">"Naprave ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Neveljavna kontrolna vsota\"."</string>
+     <string name="error_role_holder_package_invalid">"Naprave ni mogoče nastaviti. Obrnite se na skrbnika IT in navedite \"Manjkajoče ali poškodovane komponente\"."</string>
      <string name="error_wifi">Ni bilo mogoče vzpostaviti povezave z omrežjem WiFi</string>
      <string name="expand">Razširi</string>
      <string name="expand_button_title">Dodatno</string>
@@ -222,6 +225,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
      <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="navigation_button_description">Pomik navzgor</string>
      <string name="next">Naprej</string>
      <string name="not_set">Ni nastavljeno</string>
@@ -265,6 +269,7 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="section_heading">Naslov razdelka %1$s.</string>
      <string name="set_up_everything_else">Nastavitev vsega ostalega</string>
      <string name="set_up_your_device">Nastavitev naprave</string>
+     <string name="setting_up">Nastavljanje…</string>
      <string name="setting_up_workspace">Nastavitev delovnega profila…</string>
      <string name="setup_device">Nastavitev vaše naprave</string>
      <string name="setup_device_encryption">Nastavitev naprave. Šifriranje.</string>

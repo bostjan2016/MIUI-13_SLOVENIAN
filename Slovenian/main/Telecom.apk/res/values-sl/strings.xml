@@ -710,13 +710,15 @@ Avdio"</string>
      <string name="outgoing_call_not_allowed_user_restriction">Dovoljeno je samo opravljanje klicev v sili.</string>
      <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
-    <string name="phone_settings_call_blocking_txt">Blokiranje klicev</string>
+     <string name="phone_settings_call_blocking_txt">Blokiranje klicev</string>
      <string name="phone_settings_number_not_in_contact_summary_txt">Blokiraj številke, ki niso na seznamu vaših stikov</string>
      <string name="phone_settings_number_not_in_contact_txt">Številke, ki niso v stikih</string>
      <string name="phone_settings_payphone_summary_txt">Blokiraj klice iz telefonskih govorilnic</string>
      <string name="phone_settings_payphone_txt">Telefonska govorilnica</string>
      <string name="phone_settings_private_num_summary_txt">"Blokiraj klicatelje, ki ne razkrijejo številke"</string>
      <string name="phone_settings_private_num_txt">Zasebno</string>
+     <string name="phone_settings_unavailable_summary_txt">Blokiraj klice, kjer številka ni na voljo</string>
+     <string name="phone_settings_unavailable_txt">Ni na voljo</string>
      <string name="phone_settings_unknown_summary_txt">Blokiranje klicev neznanih klicateljev</string>
      <string name="phone_settings_unknown_txt">Neznano</string>
      <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Blokiranje klicev je onemogočeno</string>

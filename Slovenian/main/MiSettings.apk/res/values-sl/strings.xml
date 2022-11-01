@@ -191,8 +191,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="ermine">Hermelin</string>
      <string name="evening">Večer</string>
      <string name="exit_easymode">Izključi Lite način</string>
-     <string name="exo_controls_cc_disabled_description">Omogoči naslove</string>
-     <string name="exo_controls_cc_enabled_description">Onemogoči naslove</string>
+     <string name="exo_controls_cc_disabled_description">Omogoči podnapise</string>
+     <string name="exo_controls_cc_enabled_description">Onemogoči podnapise</string>
      <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
      <string name="exo_controls_fastforward_by_amount_description">Hitro naprej %d sek.</string>
      <string name="exo_controls_fastforward_description">Hitro naprej</string>
