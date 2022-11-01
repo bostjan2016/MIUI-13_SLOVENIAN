@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="a11y_action_pip_move_done">končano</string>
+     <string name="a11y_action_pip_move_down">Premik navzdol</string>
+     <string name="a11y_action_pip_move_left">Premik levo</string>
+     <string name="a11y_action_pip_move_right">Premik desno</string>
+     <string name="a11y_action_pip_move_up">Premik navzgor</string>
+     <string name="a11y_pip_menu_entered">Slika v sliki menu.</string>
+     <string name="abbrev_month_day_no_year">d. MMMM</string>
      <string name="abbrev_wday_month_day_no_year">EEEE, d. MMMM</string>
      <string name="abbrev_wday_month_day_no_year_alarm">EEE, d. MMM</string>
      <string name="abc_action_bar_home_description">Krmarjenje domov</string>
@@ -165,10 +172,10 @@
      <string name="accessibility_floating_button_docking_tooltip">Če želite gumb začasno skriti, ga premaknite ob rob.</string>
     <string name="accessibility_floating_button_migration_tooltip">"Gumb za funkcije za ljudi s posebnimi potrebami je zamenjal pripadajočo potezo
 
-"<annotation id="link">Pokaži nastavitve</annotation></string>
+"<annotation id="link">Pokaži nastavitve</annotation>"</string>
     <string name="accessibility_floating_button_switch_migration_tooltip">"Iz poteze za ljudi s posebnimi potrebami lahko preklopite na gumb
 
-"<annotation id="link">Nastavitve</annotation></string>
+"<annotation id="link">Nastavitve</annotation>"</string>
      <string name="accessibility_gps_acquiring">Pridobivanje GPS-a.</string>
      <string name="accessibility_gps_enabled">GPS je omogočen.</string>
      <string name="accessibility_home">Domov</string>
@@ -220,6 +227,7 @@
      <string name="accessibility_phone_signal_full">Telefon: poln signal.</string>
      <string name="accessibility_phone_three_bars">Telefon: tri črtice.</string>
      <string name="accessibility_phone_two_bars">Telefon: dve črtice.</string>
+     <string name="accessibility_qr_code_scanner_button">Skener kod QR</string>
      <string name="accessibility_qs_edit_add_tile_label">%1$s. Dvakrat tapnite za dodajanje.</string>
      <string name="accessibility_qs_edit_move_tile">Premesti %1$s</string>
      <string name="accessibility_qs_edit_position">Položaj %1$d</string>
@@ -415,6 +423,8 @@
      <string name="adb_wireless_verifying_qrcode_text">Seznanjanje naprave …</string>
      <string name="adbwifi_warning_message">Brezžično odpravljanje napak je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
      <string name="adbwifi_warning_title">Ali dovolite brezžično odpravljanje napak?</string>
+     <string name="add">Dodaj</string>
+     <string name="add_guest_failed">Novega gosta ni bilo mogoče ustvariti</string>
      <string name="add_tile">Dodajanje ploščice</string>
      <string name="add_user_failed">Ustvarjanje novega uporabnika ni uspelo.</string>
      <string name="adjust_button_width">Prilagodite širino gumba</string>
@@ -428,8 +438,11 @@
      <string name="alarms_and_reminders_label">Alarmi in opomniki</string>
      <string name="alarms_and_reminders_switch_title">Dovoli nastavljanje alarmov in opomnikov</string>
      <string name="alarms_and_reminders_title">Alarmi in opomniki</string>
+     <string name="all_network_unavailable">Na voljo ni omrežij</string>
      <string name="allow_mock_location">Dovoli lažne lokacije</string>
      <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
+     <string name="allow_turn_screen_on">Dovoli vklop zaslona</string>
+     <string name="allow_turn_screen_on_description">Dovolite aplikaciji, da vklopi zaslon. Če je odobreno, lahko aplikacija kadar koli vklopi zaslon brez vašega izrecnega namena.</string>
      <string name="always_use_accessory">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
      <string name="always_use_device">Zmeraj odpri aplikacijo %1$s ko se poveže naprava %2$s</string>
      <string name="am">dop.</string>
@@ -476,7 +489,11 @@
      <string name="available_via_app">Na voljo prek aplikacije %1$s</string>
      <string name="available_via_carrier">Na voljo preko %1$s</string>
      <string name="available_via_passpoint">Na voljo preko %1$s</string>
+     <string name="avatar_picker_title">Izberite profilno sliko</string>
      <string name="back">Nazaj</string>
+     <string name="back_navigation_animation">Predvidevanje animacij za nazaj</string>
+     <string name="back_navigation_animation_dialog">Ta nastavitev omogoča sistemske animacije za predvideno animacijo potez. V datoteki manifesta zahteva nastavitev enableOnBackInvokedCallback za posamezno aplikacijo na true.</string>
+     <string name="back_navigation_animation_summary">Omogoči sistemske animacije za predvidevanje nazaj.</string>
      <string name="band_24G">" (2.4 GHz)"</string>
      <string name="band_5G">" (5 GHz)"</string>
      <string name="basic_status">Odprt pogovor</string>
@@ -492,10 +509,13 @@
      <string name="battery_info_status_charging_wireless">Brezžično polnjenje</string>
      <string name="battery_info_status_discharging">Ne polni se</string>
      <string name="battery_info_status_full">Napolnjeno</string>
+     <string name="battery_info_status_full_charged">Popolnoma napolnjeno</string>
      <string name="battery_info_status_not_charging">Vključeno, trenutno se ne more polniti</string>
      <string name="battery_info_status_unknown">Neznano</string>
      <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
      <string name="battery_low_button_open_power_save">Vključi</string>
+     <string name="battery_low_description">Imate še %s baterije. Varčevanje z energijo baterije vklopi temno temo, omeji dejavnost v ozadju in zakasni obvestila.</string>
+     <string name="battery_low_intro">Varčevanje z energijo baterije vklopi temno temo, omeji dejavnost v ozadju in zakasni obvestila.</string>
      <string name="battery_low_percent_format">%s ostalo</string>
      <string name="battery_low_percent_format_hybrid" formatted="false">Ostalo je %s, še približno %s na osnovi vaše porabe</string>
      <string name="battery_low_percent_format_hybrid_short" formatted="false">Ostalo je %s, še približno %s</string>
@@ -510,6 +530,7 @@
      <string name="battery_saver_confirmation_ok">Vključi</string>
      <string name="battery_saver_confirmation_title">Želite vključiti varčevanje baterije?</string>
      <string name="battery_saver_confirmation_title_generic">O varčevanju baterije</string>
+     <string name="battery_saver_dismiss_action">Ne, hvala</string>
      <string name="battery_saver_notification_action_text">Izključi varčevanje baterije</string>
      <string name="battery_saver_notification_text">Zmanjša količino dela in podatke v ozadju</string>
      <string name="battery_saver_notification_title">Varčevanje baterije je vključeno</string>
@@ -541,6 +562,7 @@ Poskusite znova čez %d s."</string>
      <string name="biometric_dialog_last_pin_attempt_before_wipe_user">Če pri naslednjem poskusu vnesete napačno kodo PIN, bo ta uporabnik izbrisan.</string>
      <string name="biometric_dialog_now_wiping_dialog_dismiss">Opusti</string>
      <string name="biometric_dialog_tap_confirm">Za dokončanje se dotaknite »Potrdite«</string>
+     <string name="biometric_dialog_tap_confirm_with_face">Odklenjeno z obrazom. Za nadaljevanje pritisnite ikono za odklepanje.</string>
      <string name="biometric_dialog_try_again">Poskusi znova</string>
      <string name="biometric_dialog_use_password">Uporabi geslo</string>
      <string name="biometric_dialog_use_pattern">Uporabi vzorec</string>
@@ -565,6 +587,8 @@ Poskusite znova čez %d s."</string>
      <string name="bluetooth_active_no_battery_level">Aktivno</string>
      <string name="bluetooth_battery_level">baterija %1$s</string>
      <string name="bluetooth_battery_level_untethered">L: baterija %1$s, D: baterija %2$s</string>
+     <string name="bluetooth_bc_profile_summary_connected">Povezan s strežnikom BA</string>
+     <string name="bluetooth_bc_profile_summary_use_for">Uporabi za BA</string>
      <string name="bluetooth_connected">Povezano %1$s</string>
      <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
      <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
@@ -589,9 +613,12 @@ Poskusite znova čez %d s."</string>
      <string name="bluetooth_enable_page_scan_summary">onemogoči / omogoči iskanje strani za preskus Bluetooth</string>
      <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
      <string name="bluetooth_headset_profile_summary_use_for">Uporablja za telefonski zvok</string>
+     <string name="bluetooth_hearing_aid_left_active">Aktivno, samo levo</string>
+     <string name="bluetooth_hearing_aid_left_and_right_active">Aktivno, levo in desno</string>
      <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano s slušnim aparatom</string>
      <string name="bluetooth_hearing_aid_profile_summary_use_for">Uporabi za Slušni aparat</string>
-     <string name="bluetooth_hearingaid_left_battery_level">Leva strana – %1$s baterije</string>
+     <string name="bluetooth_hearing_aid_right_active">Aktivno, samo desno</string>
+     <string name="bluetooth_hearingaid_left_battery_level">Leva stran – %1$s baterije</string>
      <string name="bluetooth_hearingaid_left_pairing_message">Seznanitev levega slušnega aparata…</string>
      <string name="bluetooth_hearingaid_right_battery_level">Desna stran – %1$s baterije</string>
      <string name="bluetooth_hearingaid_right_pairing_message">Seznanitev desnega slušnega aparata…</string>
@@ -620,6 +647,8 @@ Poskusite znova čez %d s."</string>
      <string name="bluetooth_profile_a2dp">Medijski zvok</string>
      <string name="bluetooth_profile_a2dp_high_quality">HD avdio: %1$s</string>
      <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD avdio</string>
+     <string name="bluetooth_profile_bc">BC Profil</string>
+     <string name="bluetooth_profile_broadcast">Oddajanje</string>
      <string name="bluetooth_profile_dun">Klicni dostop do omrežja</string>
      <string name="bluetooth_profile_headset">Telefonski klici</string>
      <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
@@ -632,6 +661,7 @@ Poskusite znova čez %d s."</string>
      <string name="bluetooth_profile_pbap">Deljenje stikov</string>
      <string name="bluetooth_profile_pbap_summary">Uporabi za deljenje stikov</string>
      <string name="bluetooth_profile_sap">Pristop SIM kartici</string>
+     <string name="bluetooth_profile_vcp">Nadzor glasnosti</string>
      <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM kartice</string>
      <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov po vzorcu za Bluetooth Audio</string>
@@ -659,6 +689,7 @@ Izbor"</string>
      <string name="bluetooth_show_devices_without_names_summary">Pokazala se bo Bluetooth naprava brez imena (samo MAC naslov)</string>
      <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
      <string name="bluetooth_talkback_computer">Računalnik</string>
+     <string name="bluetooth_talkback_group">Skupinske naprave</string>
      <string name="bluetooth_talkback_headphone">Slušalke</string>
      <string name="bluetooth_talkback_headset">Slušalke z mikrofonom</string>
      <string name="bluetooth_talkback_imaging">Snemanje</string>
@@ -672,6 +703,10 @@ Izbor"</string>
      <string name="bt_hci_snoop_log">Dnevniki za Bluetooth HCI</string>
      <string name="bt_hci_snoop_log_summary">Pridobite pakete Bluetooth. (Po spremembi te nastavitve vklopite Bluetooth)</string>
      <string name="bt_is_off">Bluetooth je izključen</string>
+     <string name="bt_le_audio_broadcast_dialog_different_output">Spremenite izhod</string>
+     <string name="bt_le_audio_broadcast_dialog_sub_title">Če oddajate %1$s ali spremenite izhod, se bo vaše trenutno oddajanje ustavilo</string>
+     <string name="bt_le_audio_broadcast_dialog_switch_app">Oddajanje %1$s</string>
+     <string name="bt_le_audio_broadcast_dialog_title">Ustavim oddajanje %1$s?</string>
      <string name="btn_camera">Vnesite obraz</string>
      <string name="bubble_accessibility_action_add_back">Dodaj nazaj</string>
      <string name="bubble_accessibility_action_move">Premakni</string>
@@ -705,6 +740,11 @@ Izbor"</string>
      <string name="call_status_dialing">Klicanje</string>
      <string name="call_status_holding">Na čakanju</string>
      <string name="call_status_ringing">Zvonjenje</string>
+     <string name="camera_compat_dismiss_button_description">Ni težav s kamero? Tapnite za opustitev.</string>
+     <string name="camera_compat_treatment_applied_button_description">"Ni popravljeno?
+Tapnite za povrnitev"</string>
+     <string name="camera_compat_treatment_suggested_button_description">"Težave s kamero?
+Tapnite za ponovno namestitev"</string>
      <string name="camera_hint">Podrsajte z prstom od ikone za kamero</string>
      <string name="camera_key_action_app_title">"Odpri aplikacijo"</string>
      <string name="camera_key_action_category_title">"Uporabi če aplikacija kamera ni odprta"</string>
@@ -753,6 +793,21 @@ Izbor"</string>
      <string name="click_to_return_multi_window">Pritisni za vrnitev v Deljeni zaslon</string>
      <string name="click_to_return_multi_window_of_notch">Vrnitev v deljeni zaslon</string>
      <string name="clipboard">Odložišče</string>
+     <string name="clipboard_content_copied">Vsebina je kopirana</string>
+     <string name="clipboard_dismiss_description">Opusti kopirano besedilo</string>
+     <string name="clipboard_edit">uredi</string>
+     <string name="clipboard_edit_image_description">Uredi kopirano sliko</string>
+     <string name="clipboard_edit_source">Od %1$s</string>
+     <string name="clipboard_edit_text_description">Uredi kopirano besedilo</string>
+     <string name="clipboard_edit_text_done">Končano</string>
+     <string name="clipboard_editor">Urejevalnik odložišča</string>
+     <string name="clipboard_image_copied">Slika je kopirana</string>
+     <string name="clipboard_image_preview">Predogled slike</string>
+     <string name="clipboard_overlay_text_copied">Kopirani</string>
+     <string name="clipboard_overlay_window_name">Odložišče</string>
+     <string name="clipboard_send_nearby_description">Pošlji v bližnjo napravo</string>
+     <string name="clipboard_text_copied">Besedilo je kopirano</string>
+     <string name="clipboard_text_hidden">Tapnite za ogled</string>
      <string name="clock">Ura</string>
      <string name="clock_12hr_format">hm</string>
      <string name="clock_24hr_format">Hm</string>

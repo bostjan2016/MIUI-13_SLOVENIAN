@@ -737,6 +737,7 @@
      <string name="saveDone">Uspešno shranjeno</string>
      <string name="save_as_PDF">Shrani kot PDF</string>
      <string name="save_as_picture">Shrani kot sliko</string>
+     <string name="save_documents_ui">Shranjeno v Raziskovalca</string>
      <string name="save_excel_result_title">Shrani</string>
      <string name="save_excel_title">Shrani Excel datoteko</string>
      <string name="save_fail">"Ne morem skenirati kode"</string>

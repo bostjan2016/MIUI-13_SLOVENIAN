@@ -40,6 +40,7 @@
      <string name="accessibility_ambilight_panel_on">Odpri ploščo Daljša ekspozicija</string>
      <string name="accessibility_audio_shutter_bg">Ozadje zvoka sprožilca</string>
      <string name="accessibility_back_preview_status">Pregled zadnje kamere</string>
+     <string name="accessibility_beauty_compare">Oglejte si sliko z ali brez funkcije Olepšaj</string>
      <string name="accessibility_beauty_function_button">Olepšaj</string>
      <string name="accessibility_beauty_function_panel_on">Plošča Olepšaj</string>
      <string name="accessibility_beauty_panel_closed">Meni Olepšaj je skrit</string>
@@ -563,6 +564,8 @@ in samodejno prilagodi nastavitve"</string>
      <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
      <string name="beauty_fragment_tab_name_makeup">Napredno</string>
      <string name="beauty_fragment_tab_name_makeups">Makeup</string>
+     <string name="beauty_fx_makeup">Obdelava</string>
+     <string name="beauty_fx_makeup_cv">Retuširanje</string>
      <string name="beauty_lens">Velika zaslonka</string>
      <string name="beauty_lens_1">Ljudje</string>
      <string name="beauty_lens_1_description">Ustvarite bokeh profesionalnega razreda in svoje posnetke spremenite v izjemne portrete.</string>
@@ -592,6 +595,8 @@ in samodejno prilagodi nastavitve"</string>
      <string name="beauty_mo_fe">Naravno</string>
      <string name="beauty_mo_ma">Klasično</string>
      <string name="beauty_mo_or">Original</string>
+     <string name="beauty_mo_pr">Tekstura</string>
+     <string name="beauty_mo_pr_cv">Teksture</string>
      <string name="beauty_mode_reset_toast">Efekti remodeliranja odstranjeni</string>
      <string name="beauty_mutex_toast_tip">&lt;a href=>Najprej izključi&lt;/a> učinke makeupa</string>
      <string name="beauty_ne">Original</string>
@@ -609,6 +614,8 @@ in samodejno prilagodi nastavitve"</string>
      <string name="beauty_skincolor_wheat">Pšenica</string>
      <string name="beauty_skincolor_white">Slonokoščeno</string>
      <string name="beauty_sm_or">Koža</string>
+     <string name="beauty_sm_texture">Koža</string>
+     <string name="beauty_sm_texture_cv">Koža</string>
      <string name="beauty_tab_name_live_beauty">Olepšaj</string>
      <string name="beauty_tab_name_live_filter">Filtri</string>
      <string name="bg_replacement_message">"Postavite napravo na stabilno površino
@@ -620,6 +627,7 @@ in za trenutek zapustite pregled"</string>
      <string name="button_normal_video_title">Posnemi videoposnetek</string>
      <string name="camcorder_tip_8k_max_video_duration">Lahko posnamete do %1$d minut v 8K</string>
      <string name="camcorder_tip_current_max_video_duration">Lahko posnamete do %d minut videa v trenutni resoluciji</string>
+     <string name="camcorder_tip_isp_super_night_video_max_video_duration">Snemate lahko do %d minut</string>
      <string name="camcorder_tip_super_night_video_4k_max_video_duration">Posnamete lahko do %d minut v ločljivosti 4K</string>
      <string name="camera_disabled">Kamera je onemogočena</string>
      <string name="camera_error_title">Napaka kamere</string>
@@ -636,6 +644,7 @@ in za trenutek zapustite pregled"</string>
      <string name="camera_newcta_message">"Dobrodošli v kameri! To aplikacijo lahko uporabite za fotografiranje in snemanje videoposnetkov. "</string>
      <string name="camera_newcta_other_message">"Za zagotavljanje dodatnih storitev med uporabo aplikacije bomo morda potrebovali dovoljenja za dostop do vaše lokacije."</string>
      <string name="camera_newcta_storage_message">Za shranjevanje in prikazovanje fotografij in videov</string>
+     <string name="camera_newcta_storage_message_1">Za shranjevanje in prikaz slik, videoposnetkov in datotek</string>
      <string name="camera_setting">Kamera</string>
      <string name="camera_settings_category_development">Poskusne storitve</string>
      <string name="camera_settings_label">Kamera</string>
@@ -688,6 +697,7 @@ in za trenutek zapustite pregled"</string>
      <string name="clone_video_mode">Videoposnetek</string>
      <string name="close">Zapri</string>
      <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
+     <string name="close_flash_toast">"Ne morem uporabiti bliskavice zaradi prazne baterije"</string>
      <string name="close_front_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
      <string name="close_night_algo_toast_low_power">Napolnite napravo, da bo lahko nastavila osvetlitev</string>
      <string name="close_night_algo_toast_thermal">Ohladite napravo, da lahko nastavite osvetlitev</string>
@@ -812,6 +822,15 @@ in za trenutek zapustite pregled"</string>
      <string name="custom_watermark_words">Lastna oznaka</string>
      <string name="custom_watermark_words_input_hint">Vnesite tekst</string>
      <string name="custom_watermark_words_save_success">Uspešno shranjeno</string>
+     <string name="cv_lens_black_white">Črno &amp; belo</string>
+     <string name="cv_lens_msg">Posnemite osupljive fotografije z objektivi Pro</string>
+     <string name="cv_lens_rotary_focus">Vrtinčast bokeh</string>
+     <string name="cv_lens_soft_focus">Mehki fokus</string>
+     <string name="cv_lens_title">Objektivi Pro</string>
+     <string name="cvtype_btn_select">Uporabi \"%1$s\"</string>
+     <string name="cvtype_hint_title">Izberite slog</string>
+     <string name="cvtype_item_title1">Naravno in realistično</string>
+     <string name="cvtype_item_title2">Sveže in živahno</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="dd_f_t">Za snemanje zaprite telefon</string>
@@ -1018,6 +1037,7 @@ Dvojno snemanje s telefonom omogoča tudi povezavo z drugo napravo in ustvarjanj
      <string name="film_video_c">Zamrznitev časa</string>
      <string name="film_video_d">Nočni časovni zamik</string>
      <string name="film_video_e">Vzporedni svet</string>
+     <string name="film_video_f">Nazaj v čas</string>
      <string name="film_video_tip">Uporabite stojalo</string>
      <string name="find_cloud_album">Najdi QR kodo Cloud albuma</string>
      <string name="find_market_qrcode">Najdi QR kodo Marketa</string>
@@ -1112,6 +1132,7 @@ Dvojno snemanje s telefonom omogoča tudi povezavo z drugo napravo in ustvarjanj
      <string name="group_by_time">Čas</string>
      <string name="groupshot_mode_use_hint">"Več fotografij bo izbrano za najboljši
 izraz obraza ki bo sintetiziran v fotografijo"</string>
+     <string name="guide_pop_window_msg_cv_lens">Tapnite, če želite preizkusiti leče Pro</string>
      <string name="hand_gesture_open_tip">Pokažite dlan v kamero da zaženete časovnik</string>
      <string name="hand_gesture_tip">Slikanje z dlanjo</string>
      <string name="hand_night_exit_button_text">Izhod iz Ročni mrak</string>
@@ -1239,6 +1260,7 @@ Natisnite kopijo brezžično na papir A4."</string>
      <string name="location_permission_not_ask_again_go_to_settings">Dovoli</string>
      <string name="locations">Lokacije</string>
      <string name="longitude_text">Zem. dolž.</string>
+     <string name="low_battery_to_save_video">"Kaže da je baterija vaše naprave zdaj prenizka. Ustavite snemanje in shranite video, preden se naprava izklopi."</string>
      <string name="lpl_dialog_item_name_burst">Pritisnite in držite za hitro snemanje</string>
      <string name="lpl_dialog_item_name_record">Pritisnite in držite za snemanje</string>
      <string name="lpl_dialog_title">Izberite opravilo za sprožilec</string>
@@ -1452,6 +1474,9 @@ zgledali večji na fotografijah"</string>
      <string name="module_name_video">Video</string>
      <string name="module_name_vlog">VLOG</string>
      <string name="moiton_detection_tip">xxxmd poteka</string>
+     <string name="moiton_detection_video_electric_quantity_tip">Napolnite svojo napravo, da boste lahko uporabljali to storitev</string>
+     <string name="moiton_detection_video_temperature_stop_tip">Vaša naprava je pregreta. Snemanje se bo ustavilo čez %d sekund.</string>
+     <string name="moiton_detection_video_temperature_tip">Ohladite svojo napravo, da boste lahko uporabljali to storitev</string>
      <string name="moive_frame">Okvir filma</string>
      <string name="monday">Ponedeljek</string>
      <string name="monday_short">Pon</string>
@@ -1605,6 +1630,7 @@ pritisnite sprožilec"</string>
      <string name="pic_flaw_cover">Kaže da je leča delno prekrita</string>
      <string name="pixel_ai_108">AI 100 miljonov ultra vivid</string>
      <string name="pixel_ai_108_close">Zapri AI 100 miljonov ultra vivid</string>
+     <string name="pixel_mode_capture_hint">Poskrbite da je okolje dobro osvetljeno</string>
      <string name="pm">pop.</string>
      <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
      <string name="popup_tips_near_range_mode">Način zapiranja</string>
@@ -1745,6 +1771,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_coloreffect_title">Filtri</string>
      <string name="pref_camera_common_settings">Dodatne nastavitve</string>
      <string name="pref_camera_contrast_title">Kontrast</string>
+     <string name="pref_camera_crop_preferred_description">Uporabite pametno obrezovanje, da izboljšate kompozicijo slik v super ločljivosti</string>
      <string name="pref_camera_debug_info_as_watermark_title">Vključi odpravo napak oznake</string>
      <string name="pref_camera_default_suffix">(Privzeto)</string>
      <string name="pref_camera_delay_capture_10s">%ds zamik</string>
@@ -1885,6 +1912,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_hdr_type_title">HDR vrsta</string>
      <string name="pref_camera_heic_image_format_description">"Fotografije v formatu slikovnih datotek visoke učinkovitosti zavzemajo manj prostora za shranjevanje, a nekatere aplikacije jih ne podpirajo"</string>
      <string name="pref_camera_heic_image_format_description2">"Format slikovnih datotek visoke učinkovitosti (HEIF) zavzemajo manj prostora za shranjevanje, a nekatere aplikacije jih ne podpirajo. Ne morete fotografirati v živo in odstranjevati vodne žige v HEIF-u"</string>
+     <string name="pref_camera_heic_image_format_description_global">"Visoko učinkovit format slikovne datoteke prihrani prostor za shranjevanje, vendar ga nekatere aplikacije tretjih oseb ne podpirajo. V HEIF ne morete odstraniti vodnih žigov."</string>
      <string name="pref_camera_heic_image_format_title">HEIF Format</string>
      <string name="pref_camera_hfr_entry_2x">60</string>
      <string name="pref_camera_hfr_entry_3x">90</string>
@@ -2083,6 +2111,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_stereo_default">5</string>
      <string name="pref_camera_stereo_mode_title">Nastavitev fokusa</string>
      <string name="pref_camera_super_resolution_title">Vključi SR</string>
+     <string name="pref_camera_suspend_shutter_button_summary">Povlecite gumb zaklopa navzgor, da ustvarite dodatno plavajočo loputo</string>
+     <string name="pref_camera_suspend_shutter_button_title">Dodatna loputa</string>
      <string name="pref_camera_tap_shoot_summary">Dotaknite se zaslona za predogled, da posnamete fotografijo</string>
      <string name="pref_camera_tap_shoot_title">Dotaknite se, da posnamete fotografijo</string>
      <string name="pref_camera_tilt_shift_entry_circle">Krog</string>
@@ -2125,6 +2155,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_camera_volumekey_function_entry_timer_new">Časovnik (%ds)</string>
      <string name="pref_camera_volumekey_function_entry_volume">Zvok</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Povečava</string>
+     <string name="pref_camera_volumekey_function_entryvalue_timer">časovnik</string>
      <string name="pref_camera_volumekey_function_title">Opravilo tipk za glasnost</string>
      <string name="pref_camera_watermark_title">Dodaj oznako časa na fotografijo</string>
      <string name="pref_camera_whitebalance_entry_auto">Samodejno</string>
@@ -2166,6 +2197,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_custom_tint_title">Barve</string>
      <string name="pref_customization_style">Slog po meri</string>
      <string name="pref_customization_title">Prilagodi</string>
+     <string name="pref_cv_watermark_location_title">Koordinate</string>
+     <string name="pref_cv_watermark_summary">Predogledi so na voljo samo kot referenca. Vodni žig Leica bo prikazan na fotografijah, posnetih v načinih \"Foto\" in \"Pro\".</string>
+     <string name="pref_cv_watermark_time_title">Čas</string>
+     <string name="pref_cv_watermark_title">Leica vodni žig</string>
      <string name="pref_document_mode">Dokumenti</string>
      <string name="pref_dual_camera_video">Sprednja &amp; zadnja</string>
      <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
@@ -2206,11 +2241,13 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
      <string name="pref_lens_dirty_detect_title">Obvesti o umazani leči</string>
      <string name="pref_live_duration_title">Trajanje v živo</string>
+     <string name="pref_live_volumekey_function_default">glasnost</string>
      <string name="pref_manual_exposure_title">Čas eksp.</string>
      <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
      <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
      <string name="pref_module_settings">Načini</string>
      <string name="pref_more_mode_style_title">Načini kamere</string>
+     <string name="pref_motioon_detection">Zaznavanje gibanja</string>
      <string name="pref_multi_camera_dual_video_front">Sprednja kamera</string>
      <string name="pref_multi_camera_dual_video_remote">Snemanje z dvema telefonoma</string>
      <string name="pref_n_s_a">Nastavitve glasnosti</string>
@@ -2231,6 +2268,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_privacy_watermark_edit">Besedilo po meri</string>
      <string name="pref_privacy_watermark_edit_clear_history">Izbriši zgodovino</string>
      <string name="pref_privacy_watermark_edit_history">Zgodovina</string>
+     <string name="pref_privacy_watermark_edit_title">Uredi vodni žig</string>
      <string name="pref_privacy_watermark_entry">Zaščitni vodni žig</string>
      <string name="pref_privacy_watermark_switch">Pokaži stikalo za vodni žig</string>
      <string name="pref_pro_video_volumekey_function_default">sprožilec</string>
@@ -2269,6 +2307,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_smart_guide_title">Pametni predlogi</string>
      <string name="pref_super_night_se_summary">Zaznaj pogoje šibke svetlobe in samodejno izboljšaj kakovost slike</string>
      <string name="pref_super_night_se_title">Samod. nočni način dela</string>
+     <string name="pref_true_colour_video_mode_description">Snemajte videoposnetke z Dolby Vision, da zajamete realistične podrobnosti, osupljive barve in osupljiv kontrast (ta storitev morda ni združljiva z nekaterimi aplikacijami tretjih oseb)</string>
+     <string name="pref_true_colour_video_mode_introduction">Osupljiva vizualna izkušnja, realistične podrobnosti in osupljiv kontrast</string>
      <string name="pref_userdefine_watermark_title">Lastna oznaka</string>
      <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
      <string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvok</string>
@@ -2345,6 +2385,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_video_time_lapse_frame_interval_entry_90">90X (%d-sekundni interval)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_900">900X (%d-sekundni interval)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Interval časovnega zamika</string>
+     <string name="pref_video_volumekey_function_default">sprožilec</string>
      <string name="pref_watermark_off">Izklj.</string>
      <string name="pref_watermark_on">Vklj.</string>
      <string name="pref_watermark_style_entry_dualcamera">Dvojna kamera</string>
@@ -2372,6 +2413,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="professional_shortcut_short">Pro</string>
      <string name="qq_details">QQ podrobnosti:</string>
      <string name="qr_code_details">Podrobnosti QQ kode:</string>
+     <string name="qvga_shelter_tip_text">"Ne prekrivajte objektiva"</string>
      <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
      <string name="recommend_macro_mode">Poskusite Macro način</string>
      <string name="recommend_portrait">Poskusite Portretni način</string>
@@ -2383,10 +2425,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="remote_online_disconnect_confirmation">Prekličem povezavo z %1$s?</string>
      <string name="remote_online_exit_confirmation">Izklopim snemanje z dvema telefonoma?</string>
      <string name="remote_online_exit_connecting">Prekličem povezavo in izklopim snemanje z dvema telefonoma?</string>
-    <string name="remote_online_guide">Vklopite snemanje dvojnega telefona na drugi napravi s preklopom Nadzornega centra.</string>
+     <string name="remote_online_guide">Vklopite snemanje dvojnega telefona na drugi napravi s preklopom Nadzornega centra.</string>
      <string name="remote_online_interrupted">Povezava prekinjena. Ponovno se povežite za nadaljevanje.</string>
      <string name="remote_online_introduction_i">"Snemanje z dvema telefonoma omogoča kombiniranje virov iz dveh različnih naprav v en video. V tej napravi boste lahko predogledali vire in končni video. Upoštevajte, da bo zvok snemala samo ta naprava."</string>
-     <string name="remote_online_introduction_ii">Da ta funkcija deluje, mora druga naprava Mi ali Redmi podpirati snemanje z dvema telefonoma. Vklopite ga lahko v Centru za kontrolo.</string>
+     <string name="remote_online_introduction_ii">Da ta storitev deluje, mora druga naprava Mi ali Redmi podpirati snemanje z dvema telefonoma. Vklopite ga lahko v Centru za kontrolo.</string>
      <string name="remote_online_permission">"Spremenite dovoljenje za lokacijo kamere v \"Dovoli samo med uporabo aplikacije\", če želite uporabljati snemanje z dvojnim telefonom."</string>
      <string name="remote_online_searching">Iskanje naprav…</string>
      <string name="remote_online_service_name">Snemanje z dvema telefonoma</string>
@@ -2484,6 +2526,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="start_capture">V redu</string>
      <string name="sticker_tab1">Sladko</string>
      <string name="sticker_tab2">Smešno</string>
+     <string name="stop_save_low_battery">Shrani (%ds)</string>
      <string name="subtitle_network_exception_tips">"Ne morem se povezati na omrežje zato ne morete iskati podnapise."</string>
      <string name="success_message_import_from_account">Uvoženo</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -2561,6 +2604,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="too_low_battery">Nizka baterija</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
@@ -2654,6 +2698,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
      <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
      <string name="video_hdr10_tip">HDR10</string>
      <string name="video_hdr10plus_tip">HDR10+</string>
+     <string name="video_low_battery_tip_content">Nižja hitrost sličic zaradi nizke baterije</string>
      <string name="video_overheat_tip_content">Kaže da je vaša naprava prevroča. Poskusite posneti video v nižji ločljivosti.</string>
      <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
      <string name="video_shortcut_long">Video</string>
@@ -2669,6 +2714,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
      <string name="vv_hint">VLOG lahko posnamete samo načinu pokrajina</string>
      <string name="vv_mode_menu_item_name">VLOG</string>
      <string name="vv_stability_hint">Držite napravo mirno</string>
+     <string name="vv_stability_newTip">Shranjujem…</string>
      <string name="vv_start">Posnemi VLOG</string>
      <string name="vv_use_hint_text_body">"VLOG način vam omogoča
 snemanje in urejanje videoposnetkov v gibanju"</string>
@@ -2696,6 +2742,15 @@ snemanje in urejanje videoposnetkov v gibanju"</string>
      <string name="wideselfie_rotate_to_front">Obrnite telefon naprej</string>
      <string name="wideselfie_rotate_to_left_slowly">Obrnite telefon levo</string>
      <string name="wideselfie_rotate_to_right_slowly">Obrnite telefon desno</string>
+     <string name="widget_camera_filter_description">Štirje kompleti filtrov Leica</string>
+     <string name="widget_camera_filter_talk_back">Leica filtri</string>
+     <string name="widget_camera_label">Leica filtri</string>
+     <string name="widget_camera_lens_35mm_description">Petintrideset milimetrov</string>
+     <string name="widget_camera_lens_50mm_description">Petdeset milimetrov</string>
+     <string name="widget_camera_lens_90mm_description">Devetdeset milimetrov</string>
+     <string name="widget_camera_lens_description">Poskus z goriščno razdaljo</string>
+     <string name="widget_camera_lens_none_description">Petdesetmilimetrski objektiv za portrete</string>
+     <string name="widget_camera_lens_talk_back">Pro leče</string>
      <string name="width">Dolžina</string>
      <string name="wifi_connect_current_connetion">"Povezani ste na WiFi"</string>
      <string name="wifi_connect_fail">Čas povezave je potekel</string>

@@ -123,6 +123,9 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -131,6 +134,9 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -164,11 +170,15 @@
         <item>Onemogočeno</item>
         <item>Filtrirano</item>
         <item>Omogočeno</item>
+        <item>Omogočeno glave filtrirane</item>
+        <item>Omogočeno Media Pkts filtrirano</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
         <item>filtrirano</item>
         <item>polno</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
      </string-array>
      <string-array name="clock_options">
         <item>Pokaži ure, minute in sekunde</item>

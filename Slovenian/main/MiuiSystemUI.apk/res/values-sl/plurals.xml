@@ -68,6 +68,10 @@
         <item quantity="other">"Skrijem obvestila aplik:  %d?"</item>
         <item quantity="one">"Skrijem obvestilo aplik:  %d?"</item>
      </plurals>
+     <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplikacij aktivnih</item>
+        <item quantity="one">%s aplikacija aktivna</item>
+     </plurals>
      <plurals name="fold_tips_title">
         <item quantity="other">%d nevažnih obvestil</item>
         <item quantity="one">%d nevažno obvestilo</item>
