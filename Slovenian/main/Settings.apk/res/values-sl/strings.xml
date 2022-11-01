@@ -3050,7 +3050,7 @@ Začnite z napolnjeno baterijo in telefon mora biti priključen ves čas.
      <string name="custom_color">Po meri</string>
      <string name="custom_gesture_title">Lastni gibi</string>
      <string name="custom_wifi_name_title">Uredi ime WiFi-ja</string>
-     <string name="customize_button_title">Customize</string>
+     <string name="customize_button_title">Prilagodi</string>
      <string name="customize_function">Vzorci na voljo</string>
      <string name="customize_knock_gesture">Poteze s prsti po meri</string>
      <string name="cutout_mode_always">Zmeraj pokaži</string>
@@ -8810,7 +8810,7 @@ Sočasno pritisnite gumba za vklop in povečanje glasnosti."</string>
      <string name="privacy_thumbnail_blur_progress_message">Samo trenutek…</string>
      <string name="privacy_thumbnail_blur_title">Zamegljeni pregledi aplikacij</string>
      <string name="private_dns_broken">Do zasebnega strežnika DNS ni mogoče dostopati</string>
-     <string name="private_dns_help_message">annotation id="url">Več</annotation> o funkcijah zasebnega DNS-ja</string>
+     <string name="private_dns_help_message"><annotation id="url">Več</annotation> o Zasebni DNS</string>
      <string name="private_dns_mode_off">Izklopljeno</string>
      <string name="private_dns_mode_on">Vklopljeno</string>
      <string name="private_dns_mode_opportunistic">Samodejno</string>
