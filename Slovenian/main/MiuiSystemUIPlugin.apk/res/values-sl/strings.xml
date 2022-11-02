@@ -30,8 +30,10 @@
      <string name="accessibility_airplane_mode">Letalski način.</string>
      <string name="accessibility_back">Nazaj</string>
      <string name="accessibility_brightness">Svetlost zaslona</string>
+     <string name="accessibility_desc_add">Dodaj</string>
      <string name="accessibility_desc_close">Zapri</string>
      <string name="accessibility_desc_edit">Uredi</string>
+     <string name="accessibility_desc_remove">Odstrani</string>
      <string name="accessibility_description_hours">Ur</string>
      <string name="accessibility_description_minutes">Minut</string>
      <string name="accessibility_description_seconds">Sekund</string>

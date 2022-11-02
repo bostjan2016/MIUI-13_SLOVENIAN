@@ -47,6 +47,22 @@
      <string name="download_failed">"Ne morem prenesti"</string>
      <string name="early_morning">Jutro</string>
      <string name="earth_id">Zemlja</string>
+     <string name="earth_position_content_0">"Naravni park Rt Kamenjak na Hrvaškem je dom nedvomno najbolj dih jemajočih razgledov na sredozemski obali. Impresivne geološke formacije tukaj spremenijo ta kraj v raj za potapljače. Vsako poletje bleščeče sonce in tople sredozemske vode privabijo nešteto navdušencev na prostem."</string>
+     <string name="earth_position_content_1">"Terasasta polja so rezultat človekovega delovanja, hkrati pa so tudi izjemna naravna razgledna točka.
+Na Kitajskem se riževe terase večinoma nahajajo južno od reke Jangce, kjer je pogosto deževje in kjer je veliko gorskih verig. Terase Longji obstajajo že več kot 700 let, v bližnjih vaseh pa je kar nekaj zgodovinskih spomenikov."</string>
+     <string name="earth_position_content_2">Ilulissat se nahaja na zahodu Grenlandije, 200 kilometrov severno od arktičnega kroga. Čudovit 56-kilometrski ledeni fjord Ilulissat se nahaja tik ob ledeniku Jakobshavn Isbræ. Ker je največji ledenik na severni polobli, vsako leto proizvede 2 milijardi ton ledenih gora. Po kratkem ovinku proti severu zavijejo proti jugu in se izlijejo v Atlantski ocean.</string>
+     <string name="earth_position_content_3">"Navagio je ena najlepših plaž na obali Zakintosa, na Jonskih otokih v Grčiji. To naj bi bilo dom slavnega brodoloma, zato se plaža imenuje tudi \"Zaliv tihotapcev\"."</string>
+     <string name="earth_position_content_4">Dolomiti so gorovje v severovzhodni Italiji. Gora Seceda je res eno najbolj slikovitih krajev tam.</string>
+     <string name="earth_position_title_0">"Hrvaška
+Rt Kamenjak"</string>
+     <string name="earth_position_title_1">"Guangxi, Kitajska
+Terasasta polja Longji"</string>
+     <string name="earth_position_title_2">"Grenlandija
+Ilulissat"</string>
+     <string name="earth_position_title_3">"Grčija
+Obala Navagio"</string>
+     <string name="earth_position_title_4">"Italija
+Dolomiti"</string>
      <string name="earth_summary">Zemlja je zibelka človeške civilizacije</string>
      <string name="earth_super_wallpaper_label">zemlja</string>
      <string name="earth_title">Planet Zemlja</string>
@@ -125,17 +141,27 @@ NASA/JPL/University of Arizona"</string>
      <string name="mars_position_content_2">"Mawrth Vallis je starodavni drenažni kanal s svetlo modrimi kamninami, bogatimi z glino. Glineni minerali zlahka ohranjajo mikroskopsko življenje na Zemlji, zato so na Mawrthu našli najdbe antičnega življenja.
 
 NASA/JPL/University of Arizona"</string>
+     <string name="mars_position_content_3">"Te slike so bile posnete, ko je marsovski rover Curiosity raziskoval hribovje Pahrump v kraterju Gale. To območje vsebuje sedimentne kamnine, za katere znanstveniki menijo, da so nastale v prisotnosti vode. Temnejša območja so pesek.
+
+NASA/JPL/University of Arizona"</string>
+     <string name="mars_position_content_4">"Bahram Vallis je enosmerna rečna dolina z nazobčanimi stenami na nekaterih mestih. Prisotnost poenostavljenih erozijskih elementov na njegovem dnu kaže, da je pri njegovem nastanku sodelovala tekočina.
+
+NASA/JPL/University of Arizona"</string>
      <string name="mars_position_title_0">"Regija
 Nilosyrtis Mensae"</string>
      <string name="mars_position_title_1">"Krater Gale"</string>
      <string name="mars_position_title_2">"Krater v
 Mawrth Vallis"</string>
+     <string name="mars_position_title_3">Pahrump Hills</string>
+     <string name="mars_position_title_4">Bahram Vallis</string>
      <string name="mars_summary">Številne puščave na Marsu so človeštvo vedno držale v strahu</string>
      <string name="mars_super_wallpaper_label">mars</string>
      <string name="mars_title">Rdeči planet</string>
      <string name="mars_view_height_0">287.3 km</string>
      <string name="mars_view_height_1">256.7 km</string>
      <string name="mars_view_height_2">286.2 km</string>
+     <string name="mars_view_height_3">268.0 km</string>
+     <string name="mars_view_height_4">283.8 km</string>
      <string name="mi_wallpaper_loading">Nalaganje…</string>
      <string name="mi_wallpaper_title"> Mi ozadje</string>
      <string name="midnight">Polnoč</string>

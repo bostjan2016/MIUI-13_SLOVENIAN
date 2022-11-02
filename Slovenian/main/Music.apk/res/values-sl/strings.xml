@@ -1585,6 +1585,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="playlist_type_my">Seznam pesmi</string>
      <string name="playlist_type_recommend">Poudarjeni seznam pesmi</string>
      <string name="playlist_unavailable">"Seznam ni dostopen. Za izbris pritisnite in držite, potem pa izberite \"Izbriši\"."</string>
+     <string name="please_agree_protocal">Prosimo, da se strinjate s protokolom</string>
      <string name="please_download_first">Skladbo morate najprej prenesti preden jo lahko uporabite za zvonjenje</string>
      <string name="please_search_or_select">Išči ali izberi polje</string>
      <string name="please_select_song">Izberite pesem</string>
@@ -1626,12 +1627,16 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="privacy_tip_ok">V redu</string>
      <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
      <string name="pro_member">Gold član</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="project_device">Mi Telefon</string>
      <string name="project_device_mobile">Mobilna naprava</string>
      <string name="prompt_grant_write_settings_permission">Iskanje nastavitev dovoljenj</string>
+     <string name="protocal_dialog_confirm">Strinjam se</string>
+     <string name="protocal_dialog_title">Pozor</string>
      <string name="pulluprefreshrecyclerview_loading_error">"Ne morem naložiti"</string>
      <string name="pulluprefreshrecyclerview_loading_finished">Nalaganje končano</string>
      <string name="pulluprefreshrecyclerview_loading_running">Nalaganje…</string>
+     <string name="qq_login_btn_content_description">Prijava z QQ</string>
      <string name="queue_is_empty">Čakalna vrsta je prazna.</string>
      <string name="radar">ACRCloud</string>
      <string name="radar_click_to_retry">Kliknite za ponovni poskus</string>
@@ -1641,7 +1646,11 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="radar_possible_result">Možne pesmi</string>
      <string name="radar_retry">Poskusi ponovno</string>
      <string name="radar_searching_state">Iskanje…</string>
-     <string name="radar_support_by">Powered by ACRCloud</string>
+     <string name="radar_support_by">Ponuja ACRCloud</string>
+     <string name="read_and_agree_hungama_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_joox_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_mi_protocol"><Data>"Prebral sem in se strinjam z Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_protocol">Preden nadaljujete preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti.</string>
      <string name="ready_to_play">Naprej</string>
      <string name="really_pay">Plačati zdaj?</string>
      <string name="recently_played">Nedavno predvajano</string>
@@ -1666,6 +1675,8 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="recommend_songs_when_playing_audio_files">Dobite priporočila pesmi med poslušanjem</string>
      <string name="recommended_file_size_download_in_mobile">Uporabim %s mobilnih podatkov za prenos te datoteke?</string>
      <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilno podatkovno povezavo za prenos datoteke?</string>
+     <string name="register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="register_by_local_phone_short_text">Ustvari račun</string>
      <string name="remaining">Ostalo še ta mesec:</string>
      <string name="remove">Odstrani</string>
      <string name="remove_download">Odstrani</string>
@@ -1676,14 +1687,25 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="renew">Obnovi:</string>
      <string name="renew_1">Obnovi</string>
      <string name="renew_dialog_title">"Dobite Pro
-Bodite Happy"</string>
+Bodite srečni"</string>
      <string name="renew_period">"Poteče: "</string>
      <string name="repeat_all_notif">Ponovi vse pesmi.</string>
      <string name="repeat_current_notif">Ponovi trenutno pesem.</string>
+     <string name="request_agree">Dovoli</string>
+     <string name="request_camera_permission_message">"Vaše osebne podatke bomo varovali v skladu z veljavnimi zakoni in predpisi. Ta aplikacija za normalno delovanje potrebuje naslednja dovoljenja:&lt;br>&lt;br>&lt;b>Uporaba kamere (za nastavitev fotografije profila)&lt;/b>&lt;br>&lt;br>Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati nekaterih funkcij te aplikacije; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. Dovoljenja lahko kadar koli omejite ali prekličete pooblastilo v nastavitvah."</string>
+     <string name="request_cancel">Prekliči</string>
+     <string name="request_error_invalid_token">"Ne morem preveriti"</string>
+     <string name="request_error_network">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
+     <string name="request_gallery_permission_message">Dovoli dostop do galerije:&lt;br />Za nastavitev profilnih fotografij</string>
      <string name="request_overlay_permission_desc">Dovoli Mi Music da pokaže plavajoča okna za uporabe te storitve.</string>
      <string name="request_privacy_permission_title">Za dostop do vseh naših storitev preberite spodnje pogoje in pogoje.</string>
      <string name="request_share_info">Samo trenutek…</string>
      <string name="request_subscription_status">Samo trenutek…</string>
+     <string name="resend_active_email">Ponovno pošlji</string>
+     <string name="resend_email_reach_limit_message">"Zahtevali ste preveč potrditvenih e-poštnih sporočil. Prepričajte se, da potrditveno e-poštno sporočilo ni v mapi »Vsiljena pošta« v mapi »Prejeto«.."</string>
+     <string name="resend_email_reach_limit_title">Preveč poskusov</string>
+     <string name="resend_email_success">Poslano</string>
      <string name="restart_download">Ponovno zaženi</string>
      <string name="restart_immediate">Ponovno zaženi</string>
      <string name="resume_download">Nadaljuj</string>
@@ -1705,6 +1727,7 @@ Bodite Happy"</string>
      <string name="s5">Izdelaj dogodek koledarja</string>
      <string name="s6">Dovolim oglasu da izdela dogodek v koledarju?</string>
      <string name="s7">Testni oglas</string>
+     <string name="same_new_and_old_pwd">"Ne more biti enako trenutnemu geslu"</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
@@ -1809,11 +1832,15 @@ Bodite Happy"</string>
      <string name="similar_songs">Podobne pesmi</string>
      <string name="similar_videos">Podobni videoposnetki</string>
      <string name="skip">Preskoči</string>
+     <string name="skip_query_account">Preskoči</string>
      <string name="sleep_mode">Časovnik</string>
      <string name="sleep_mode_canceled">Časovnik izključen</string>
      <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
      <string name="sleep_mode_title">Časovnik</string>
      <string name="sliding_pro_center">Hungama Gold</string>
+     <string name="sns_access_token_expired_warning">Seja je potekla. Znova se prijavite, da znova povežete ta račun.</string>
+     <string name="sns_bind_limit">Preveč poskusov. Poskusite se prijaviti na druge načine.</string>
+     <string name="sns_sign_in">Drugi načini prijave</string>
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
@@ -1868,6 +1895,7 @@ Bodite Happy"</string>
      <string name="storage_cloned_app">Shramba za dvojne aplikacije</string>
      <string name="storage_internal">Notranji pomnilnik</string>
      <string name="storage_sd_card">SD kartica</string>
+     <string name="storage_space_permissions_for_display">Dostop do pomnilnika naprave: za skeniranje, prikazovanje in predvajanje lokalnih datotek</string>
      <string name="storage_usb">USB shramba</string>
      <string name="stream_normal">Predvajaj v standardni kvaliteti</string>
      <string name="stream_quality">Kvaliteta streama</string>
@@ -1885,6 +1913,7 @@ Bodite Happy"</string>
      <string name="switch_success">Uspešno zamenjano</string>
      <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>
      <string name="sync_only_in_wifi_summary">Sinhronizirajte svojo glasbo na vseh napravah z Mi Cloudom. Uporaba mobilne podatkovne povezave za sinhronizacijo glasbe bo povečala uporabo podatkov. Vaš operater vam to lahko računa.</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="tab_album">Albumi</string>
      <string name="tab_album_list">Albumi</string>
      <string name="tab_artist">Izvajalci</string>
@@ -1932,6 +1961,11 @@ Bodite Happy"</string>
      <string name="talkback_show_navigation_draw">Pokaži predal</string>
      <string name="talkback_unlike">Ni mi všeč</string>
      <string name="task_already_exist">Naloga že obstaja</string>
+     <string name="task_card_button_exchange">Unovči</string>
+     <string name="task_card_message_received_successfully">"Današnje naloge ste opravili. Unovčite svoje kovance zdaj!"</string>
+     <string name="task_card_title_received_successfully">Uspešno zahtevano</string>
+     <string name="telephone_permissions_for_push">Dovoljenja za klic: za zagotavljanje Googlovih storitev potisnih obvestil</string>
+     <string name="temporary_not_available">"Ta storitev še ni na voljo"</string>
      <string name="terms_of_service">Pogoji uporabe</string>
      <string name="test_mode">Način testiranja</string>
      <string name="text_separator">|</string>
@@ -2106,7 +2140,22 @@ Bodite Happy"</string>
      <string name="upload_playlist_to_hungama_title">Sinhronizirajte spletne pesmi z Hungamo, da boste lahko dostopali do njih v drugih napravah, kjer uporabljate svoj Mi račun.</string>
      <string name="upload_playlist_to_hungama_toast">Spletne pesmi bodo sinhronizirane z Hungamo</string>
      <string name="user_agreement">Pogoji uporabe</string>
+     <string name="user_agreement_hint_3rd_app"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji in pravila China Mobile Storitve preverjanja&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji in določila storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default_1"><Data>Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a></Data></string>
+     <string name="user_agreement_hint_default_extra"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a> Prva prijava bo samodejno ustvarila račun Xiaomi"</Data></string>
+     <string name="user_agreement_hint_first_login">"Če svojo telefonsko številko uporabljate prvič, bomo samodejno ustvarili račun."</string>
+     <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji in določila storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z to Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
+     <string name="user_avatar_update_title">Change profile photo</string>
+     <string name="user_avatar_uploading">Just a sec…</string>
      <string name="user_experience_program_open">Zaradi omejitev avtorskih pravic se morate vpisati v program uporabniške izkušnje, da boste lahko predvajali prenesene pesmi. To lahko storite v Nastavitve > Gesla &amp; varnost > Zasebnost > Včlanite se v program uporabniške izkušnje.</string>
+     <string name="user_name_phone_number">Telefonska številka</string>
      <string name="user_playlist_plaza">Seznam predvajanja</string>
      <string name="user_privacy_dialog_negative_text">Prekliči</string>
      <string name="user_privacy_dialog_positive_count_down_text">Preklic (%ss)</string>
@@ -2140,6 +2189,8 @@ Bodite Happy"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="weibo_login_btn_content_description">Prijava z Weibo</string>
+     <string name="weixin_login_btn_content_description">Prijava z WeChat</string>
      <string name="welcome_to_entertainment">Oglejte si novo storitev Zabava za glasbene igre in še več</string>
      <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe</string>
      <string name="wifi_required_body" formatted="false">"Uporabite WiFi da dokončate prenos %s . 
