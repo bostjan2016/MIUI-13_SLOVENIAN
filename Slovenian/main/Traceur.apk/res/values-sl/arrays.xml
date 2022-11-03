@@ -133,6 +133,11 @@
         <item>filtrirano</item>
         <item>polno</item>
      </string-array>
+     <string-array name="cached_apps_freezer_values">
+        <item>privzeto</item>
+        <item>omogočeno</item>
+        <item>onemogočeno</item>
+     </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
         <item>Naravne barve, kot jih vidimo s prostim očesom</item>
@@ -273,7 +278,7 @@
         <item>PTP (protokol za prenos slik)</item>
         <item>RNDIS (Ethernet USB)</item>
         <item>Vir zvoka</item>
-        <item>MIDI</item>
+        <item>midi</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>

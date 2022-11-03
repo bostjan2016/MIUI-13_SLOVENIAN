@@ -775,7 +775,7 @@ Tapnite za ponovno namestitev"</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Presežena omejitev števila znakov %1$d od %2$d</string>
      <string name="character_counter_pattern">%1$d / %2$d</string>
-     <string name="charge_length_format">pred %1$s</string>
+     <string name="charge_length_format">Pred %1$s</string>
      <string name="chip_text">Chip tekst</string>
      <string name="chooseUsbActivity">"Izberi aplikacijo za USB napravo"</string>
      <string name="choose_clock_dual_clock_hint_text">"Ob vklopljeni dvojni uri ni mogoče spremeniti oblike"</string>
@@ -3349,7 +3349,7 @@ Ta aplikacija nima dovoljenja za snemanje, lahko pa prejema zvok prek te naprave
      <string name="use_system_language_to_select_input_method_subtypes">Uporaba sistemskih jezikov</string>
      <string name="user_add_profile_item_summary">Dostop do aplikacij in vsebine iz vašega računa lahko omejite</string>
      <string name="user_add_profile_item_title">Omejen profil</string>
-     <string name="user_add_user">Dodajanje uporabnika</string>
+     <string name="user_add_user">Dodaj uporabnika</string>
      <string name="user_add_user_item_summary">Uporabniki imajo svoje aplikacije in vsebino</string>
      <string name="user_add_user_item_title">Uporabnik</string>
      <string name="user_add_user_message_long">"To napravo lahko delite z drugimi tako, da ustvarite dodatne uporabnike. Vsak ima svoj prostor, ki ga lahko prilagodi z aplikacijami, ozadji in drugim. Uporabniki lahko tudi prilagodijo nastavitve naprave, ki vplivajo na vse, na primer nastavitve omrežja WiFi.
