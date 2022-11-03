@@ -2151,7 +2151,6 @@ Bodite srečni"</string>
      <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji in določila storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z to Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
-     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
      <string name="user_avatar_update_title">Change profile photo</string>
      <string name="user_avatar_uploading">Just a sec…</string>
      <string name="user_experience_program_open">Zaradi omejitev avtorskih pravic se morate vpisati v program uporabniške izkušnje, da boste lahko predvajali prenesene pesmi. To lahko storite v Nastavitve > Gesla &amp; varnost > Zasebnost > Včlanite se v program uporabniške izkušnje.</string>
