@@ -67,6 +67,10 @@
      <string name="account_user_phone">Telefon</string>
      <string name="account_user_region">Regija</string>
      <string name="action_add_phone">Dodaj številko telefona</string>
+     <string name="action_setting_ab_playing">Zankanje…</string>
+     <string name="action_setting_ab_reset">Ponastavi</string>
+     <string name="action_setting_ab_set_end">Nastavi končno točko</string>
+     <string name="action_setting_ab_set_start">Nastavi začetno točko</string>
      <string name="action_update_phone">Zamenjaj številko telefona</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="activate_email_notice">Poskrbite za aktivacijo uporabniškega računa v roku 24 ur</string>
@@ -77,6 +81,7 @@
      <string name="ad_buy">Nakup</string>
      <string name="ad_download">Prenos</string>
      <string name="ad_join">Pridružitev skupnosti</string>
+     <string name="ad_left_time">sekund do konca reklame</string>
      <string name="ad_more">Več</string>
      <string name="add_local_shortcut_add">Dodaj</string>
      <string name="add_local_shortcut_des">Dodaj \"Moj video\" na začetni zaslon za dostop do lokalnih video datotek z enim dotikom.</string>
@@ -106,9 +111,15 @@
      <string name="alert_dialog_download_progress">"Prenašanje aplikacije: "</string>
      <string name="all">Pokaži vse</string>
      <string name="am">dop.</string>
+     <string name="apk_download_click_resume">Tapnite za nadaljevanje prenosa</string>
+     <string name="apk_download_finish">Prenos končan</string>
+     <string name="apk_download_finish_title">Vaša igra/aplikacija</string>
+     <string name="apk_download_no_permission_title">Te storitve ni mogoče uporabiti, ker dovoljenje za shranjevanje ni omogočeno. Pojdite v nastavitve, da omogočite</string>
      <string name="app_description_content">"Mi Video je sistemska aplikacija, ki vsebuje lokalni video predvajalnik. Ko odstranite bližnjico na začetnem zaslonu, boste še vedno lahko predvajali video datoteke."</string>
      <string name="app_description_title">Odstranim \"Mi Video\" iz zač. zaslona?</string>
+     <string name="app_inner_open">Odpri v aplikaciji</string>
      <string name="app_name">Mi Video</string>
+     <string name="area_self">Samodejno</string>
      <string name="auth_again">Strinjam se</string>
      <string name="auth_fail_warning">Čas potekel. Ponovno se prijavite.</string>
      <string name="auto_play_next_off">Samodejno predvajanje je izklopljeno</string>
@@ -170,6 +181,7 @@
      <string name="cast_tracks_chooser_dialog_ok">V redu</string>
      <string name="cast_tracks_chooser_dialog_subtitles">Podnapisi</string>
      <string name="cast_unmute">Vklop zvoka</string>
+     <string name="chang_definition_failed">Preklop definicije ni uspel, poskusite znova pozneje~</string>
      <string name="change_activate_email">Spremeni naslov e-pošte</string>
      <string name="change_password">Spremeni geslo</string>
      <string name="character_counter_content_description">Prekoračena omejitev števila znakov %1$d od %2$d</string>
@@ -178,6 +190,7 @@
      <string name="choose">Izberi</string>
      <string name="choose_to_signin">Da</string>
      <string name="choose_to_signup">Ne, ga bom ustvaril</string>
+     <string name="choose_upload">Izberite datoteke, ki jih želite naložiti</string>
      <string name="chromecast_connecting">Povezovanje s Chromecastom…</string>
      <string name="chromecast_playing">"Ta videoposnetek gledate s Chromecastom"</string>
      <string name="clear_text_end_icon_content_description">Izbriši besedilo</string>
@@ -255,6 +268,7 @@
      <string name="comment_model_send_forbid_desc">Objavili ste več komentarjev, ki vsebujejo stvari, ki ne upoštevajo standardov naše skupnosti. Vaš račun je zdaj trajno blokiran. Na našo odločitev se lahko pritožite v povratnih informacijah v aplikaciji.</string>
      <string name="comment_model_send_forbid_tips">Račun začasno ustavljen</string>
      <string name="comment_model_send_success">Uspešno poslano</string>
+     <string name="commit_str">Predloži</string>
      <string name="common_cancel">Prekliči</string>
      <string name="common_copyright_unsupported_audio">"Zvočnega posnetka ni mogoče predvajati zaradi omejitev avtorskih pravic"</string>
      <string name="common_copyright_unsupported_video">"Tega videoposnetka ni mogoče predvajati zaradi omejitev avtorskih pravic"</string>
@@ -302,6 +316,7 @@ Mi Video Team"</string>
      <string name="description">Opis</string>
      <string name="desktop_widget_local_media">Predstavnosti</string>
      <string name="desktop_widget_new">Novo</string>
+     <string name="detail">pODROBNOSTI</string>
      <string name="detail_select_source">Izberite vir predvajanja</string>
      <string name="diagnosis_log_send_failed">Ne morem poslati poročila. Poskusite ponovno.</string>
      <string name="diagnosis_log_sent_format">"Poročila so bila uspešno poslana.
@@ -378,6 +393,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_delete_title">Izbriši</string>
      <string name="download_guide_click_icon_to_website_or_enter_url">Dotaknite se bližnjice, da odprete spletno mesto, ali vnesite URL</string>
      <string name="download_guide_known">Razumem</string>
+     <string name="download_is_caching">Prenos se predpomni</string>
+     <string name="download_no_permission_cancel">ni podprto</string>
+     <string name="download_no_permission_sure">Pojdite na nastavitev</string>
      <string name="download_paused">Premor</string>
      <string name="download_pending">Čakanje…</string>
      <string name="download_power_off_tips">"Ta storitev trenutno ni na voljo"</string>
@@ -391,6 +409,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="empty_channels">Urejanje kanalov</string>
      <string name="empty_subscribe">"Še niste naročeni na nič."</string>
      <string name="enable_background_audio">Predvajaj v ozadju</string>
+     <string name="error_change_video">Oprostite! Napaka pri predvajanju podatkov， poskusite z drugim videoposnetkom！</string>
      <string name="error_details">Nepričakovana napaka</string>
      <string name="error_drm_not_supported">Zaščitena vsebina ni podprta na API nivojih pod 18</string>
      <string name="error_drm_unknown">Prišlo je do neznane DRM napake</string>
@@ -513,12 +532,14 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_hint_text">Opišite težavo na katero ste naleteli.</string>
      <string name="feedback_input_tip">Tukaj lahko opišete probleme ali nam kaj predložite.</string>
      <string name="feedback_net_error">Ne morem poslati. Preverite omrežne nastavitve in poskusite ponovno.</string>
+     <string name="feedback_problem">Pov. informacije</string>
      <string name="feedback_sent">Pošlji</string>
      <string name="feedback_success">Uspešno poslano</string>
      <string name="feedback_success_toast">Uspešno posredovano. Hvala za vašo povratno informacijo!</string>
      <string name="feedback_tag_title">Kategorija</string>
      <string name="feedback_text_empty_toast">Najprej vnesite povratno informacijo.</string>
      <string name="file_cant_rename">Datoteka z imenom %1$s že obstaja. Prosimo preimenujte</string>
+     <string name="file_not_exists">datoteka ne obstaja</string>
      <string name="file_space_not_enough_tip">Ni dovolj prostora za shranjevanje. Sprostite vsaj %d MB in ponovno zaženite aplikacijo.</string>
      <string name="find_psw">Pozabljeno geslo</string>
      <string name="finish">Končano</string>
@@ -819,6 +840,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="incentive_view_details">Podrobnosti</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
      <string name="init_channels">Ponastavi na privzeto</string>
+     <string name="init_error">Inicializacija ni uspela</string>
      <string name="inline_auto_play_tip">"Uporaba mobilnih podatkov… "</string>
      <string name="inline_auto_play_to_set">Nastavitve</string>
      <string name="inline_mute_click_tip">Tapnite za vklop zvoka</string>
@@ -826,6 +848,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
      <string name="input_size_tips">Lahko vnesete do 1000 znakov</string>
      <string name="input_size_tips_new">Vnesete lahko največ %d znakov</string>
+     <string name="introduction">Uvod</string>
      <string name="isornot_your_mi_account">Je to vaš Mi Račun?</string>
      <string name="issue">Problem</string>
      <string name="item_card_all_replies">Vsi odgovori</string>
@@ -861,6 +884,8 @@ za videoposnetke"</string>
      <string name="live_tv_dialog_subscirbe_tips">Naročite se na %1$s in nikoli ne zamudite nobene epizode</string>
      <string name="live_tv_title">TV v živo</string>
      <string name="live_tv_toast_item_subscirbe">"Na ta program ste že naročeni"</string>
+     <string name="load_failed">Nalaganje ni uspelo</string>
+     <string name="load_failed_retry">Nalaganje ni uspelo, poskusite znova~</string>
      <string name="loading">Samo trenutek…</string>
      <string name="local_adjust_zoom_mode_hint">"Gledate na %s"</string>
      <string name="local_crop_zoom_mode">Slika je obrezana</string>
@@ -878,7 +903,10 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_hide_folder_dialog_title">Skriti videoposnetki</string>
      <string name="local_hide_folder_setting_goto">Nastavitve</string>
      <string name="local_hide_folder_setting_tip">Svoje skrite videoposnetke lahko upravljate v Profil > Nastavitve > Urejanje skritih videoposnetkov.</string>
+     <string name="local_play_end_camera_title">Oglejte si več videoposnetkov</string>
      <string name="local_play_end_close_tip">"Priporočila danes ne bodo več prikazana"</string>
+     <string name="local_play_end_download_drag_up_guide">Tapnite ali povlecite za prenos</string>
+     <string name="local_play_end_download_title">Poskusite prenesti svoje najljubše videoposnetke</string>
      <string name="local_play_end_drag_up_guide">Tapnite ali povlecite navzgor za predvajanje</string>
      <string name="local_play_tip">Predvajanje lokalnega videoposnetka</string>
      <string name="local_push_setting_power_tag">Obvestila o lokalnih videoposnetkih</string>
@@ -923,6 +951,8 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="long_video_no_more_content">"To je za zdaj vse"</string>
      <string name="long_video_watch_on">Glej</string>
      <string name="long_video_you_may_also_like">Morda vam bo všeč tudi</string>
+     <string name="look_look_agin">Priporočila</string>
+     <string name="look_main">Ogled</string>
      <string name="lp_base_folder">SD kartica</string>
      <string name="lp_play_mode_list_loop">Ponavljaj vse</string>
      <string name="lp_play_mode_pause">Predvajaj enega</string>
@@ -1072,6 +1102,13 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="material_timepicker_text_input_mode_description">Za vnos časa preklopite na način vnosa besedila.</string>
      <string name="mediation_ad">REKLAME</string>
      <string name="mediation_ad_can_not_share">"Tega videa ni mogoče deliti"</string>
+     <string name="message_notify">Obvestilo o novem sporočilu</string>
+     <string name="mgplayer_continue_play">Nadaljuj</string>
+     <string name="mgplayer_error_message">Strežnik je zaseden, poskusite znova pozneje</string>
+     <string name="mgplayer_lock_tip">Odklenite zaslon！</string>
+     <string name="mgplayer_locked">zakljenjeno</string>
+     <string name="mgplayer_unlocked">odklenjeno</string>
+     <string name="mgplayer_wifi_tip">Predvajanje videa bo uporabljalo vaše podatke, nadaljujem?</string>
      <string name="mi_video">Mi Video</string>
      <string name="mi_video_pip_mode">Slika v sliki</string>
      <string name="midnight">Noč</string>
@@ -1158,6 +1195,7 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
      <string name="more">Več</string>
+     <string name="more_goto_manguotv">Pojdite na Mango TV，odklenite več vsebine</string>
      <string name="morning">Jutro</string>
      <string name="mr_button_content_description">Predvajanje</string>
      <string name="mr_cast_button_connected">Predvajanje. Povezava je vzpostavljena.</string>
@@ -1241,8 +1279,11 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="no_account">Niste prijavljeni</string>
      <string name="no_app_found_error">"Aplikacije ni bilo mogoče najti"</string>
      <string name="no_history">Tu ni ničesar</string>
+     <string name="no_kandan">Ni seznama ogledov</string>
      <string name="no_longer_prompt">"Ne kaži več"</string>
      <string name="no_more_content">"To je za zdaj vse"</string>
+     <string name="no_more_data">Ni več podatkov</string>
+     <string name="no_network">Omrežja niso na voljo; poskusite znova</string>
      <string name="no_network_tips">Trenutno ni mogoče uporabiti te storitve. Dostop do omrežja je omejen.</string>
      <string name="no_phone">Ni številke telefona</string>
      <string name="no_recommend_data">Trenutno ni priporočenih videoposnetkov</string>
@@ -1270,8 +1311,10 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="notification_tool">Orodja</string>
      <string name="notification_type_channel_music">Predvajanje glasbe</string>
      <string name="notify_apk_installed">Uspešno preneseno</string>
+     <string name="notify_tool">orodje za obveščanje</string>
      <string name="off">[izklj.]</string>
      <string name="off_tip_firework_recommend">Od Fireworka ne boste prejeli prilagojena priporočila vsebine</string>
+     <string name="offline_ad_free">Oglasi brez povezave</string>
      <string name="offline_notification_text">Tapnite za oglase</string>
      <string name="offline_notification_title">Oglejte si oglas, ki ste ga shranili, ko ste bili brez povezave</string>
      <string name="offline_opt_in_confirm">V redu</string>
@@ -1387,6 +1430,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
      <string name="ovp_video_plugin_installation">Nameščanje %1$s…</string>
      <string name="ovp_video_plugin_installation_failure">Ne morem namestiti %1$s</string>
      <string name="ovp_video_plugin_installation_two">Samo trenutek…</string>
+     <string name="page_empty">Prazno</string>
      <string name="page_title_language">Jezikovne nastavitve</string>
      <string name="passport_access_denied">Dostop zavrnjen</string>
      <string name="passport_account_label">Mi Račun</string>
@@ -1482,6 +1526,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
      <string name="passport_wrong_vcode">Koda, ki ste jo vnesli je nepravilna</string>
      <string name="passport_wrong_voice">Vnešena koda je napačna</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
+     <string name="pay_d">VIP osebe imajo izključno pravico do predpomnilnika videoposnetka te definicije</string>
      <string name="permission_continue">Nadaljuj</string>
      <string name="permission_info">"Mi Video potrebuje dostop do IMEI številke vaše naprave, da lahko stori sledeče:
  
@@ -1700,6 +1745,7 @@ Izboljša varnost vašega računa."</string>
      <string name="reminder">Pozor</string>
      <string name="rename">Preimenuj</string>
      <string name="rename_word_out">To ime datoteke je predolgo</string>
+     <string name="repeat_play">Ponovi predvajanje</string>
      <string name="report">Prijavi</string>
      <string name="report_content_dislike">Nasilje ali neprimereno obnašanje</string>
      <string name="report_content_fakement">Spam ali prevara</string>
@@ -1814,10 +1860,19 @@ Izboljša varnost vašega računa."</string>
      <string name="srl_header_release">Spustite za osvežitev</string>
      <string name="srl_header_secondary">Sprostite za drugo nadstropje</string>
      <string name="srl_header_update">"'Zadnja posodobitev' dd.MM HH:mm"</string>
+     <string name="ssp_common_cancel">Prekliči</string>
+     <string name="ssp_common_confim">Da</string>
+     <string name="ssp_common_continue">nadaljuj</string>
+     <string name="ssp_confim_leave">Storitev ogleda？</string>
+     <string name="ssp_ssl_error">Nevarno potdilo spletnega mesta</string>
+     <string name="start_download">Downloading</string>
      <string name="start_download_tip">Dodano v vrsto. Preverite napredek v Profil &gt; Prenosi.</string>
      <string name="storage_external_sdcard">SD kartica</string>
      <string name="storage_internal_sdcard">Notranji pomnilnik</string>
      <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
+     <string name="str_donwload">Prenesi</string>
+     <string name="str_downloading">Prenašam</string>
+     <string name="str_retry_download">Ni uspelo, poskusite znova!</string>
      <string name="submit">Pošlji</string>
      <string name="subscribe">NAROČI SE</string>
      <string name="subscribe_author_recommend_btn">Naročite se</string>
@@ -1834,6 +1889,7 @@ Izboljša varnost vašega računa."</string>
      <string name="subscriptions">Naročnine</string>
      <string name="subtitle_add_subtitle_failed">Ne morem dodati podnapisov. Prepričajte se, da datoteka ni poškodovana.</string>
      <string name="subtitle_manual_add_sub">Podnapisi so bili uspešno dodani</string>
+     <string name="subtitle_none">Ni podnapisov</string>
      <string name="subtitle_offset_normal">Ne premikaj podnapisov</string>
      <string name="subtitle_padding_default_hint">Prilagajanje podnapisov…</string>
      <string name="suggested_publishers">Priporočeni računi</string>
@@ -1914,6 +1970,7 @@ Izboljša varnost vašega računa."</string>
      <string name="tip_subscribe_guide_hint_b">"Oglejte si posodobitve kanalov YouTube, na katere ste naročeni brez oglasov"</string>
      <string name="tip_tap_download_button">%d. Tapnite \"Prenos\"</string>
      <string name="tip_topic_click">Tapnite, da boste našli več videoposnetkov iste teme</string>
+     <string name="title_ab_loop">A-B zanka</string>
      <string name="title_bookmarks">Zaznamki</string>
      <string name="title_continue_to_borwser">Odpri v brskalniku</string>
      <string name="title_download_setting">Nastavitve prenosov</string>
@@ -1922,6 +1979,7 @@ Izboljša varnost vašega računa."</string>
      <string name="title_history">Zgodovina</string>
      <string name="title_mangotv_history_sub" formatted="false">%s (Epizoda %d)</string>
      <string name="title_mangotv_subtitle_language">Jezik podnapisov</string>
+     <string name="title_more_wonderful_smallvideo">Več kratkih videov</string>
      <string name="title_publisher">Ustvarjalci</string>
      <string name="title_select_directory">Izberite mapo</string>
      <string name="title_selected">Izbrano</string>
@@ -1956,6 +2014,8 @@ Izboljša varnost vašega računa."</string>
      <string name="top_bar_game_title">Kanal za igre</string>
      <string name="trending_history_continue_watching">Nadaljujte ogled</string>
      <string name="trending_scroll_load_more">Povlecite navzgor za več videoposnetkov</string>
+     <string name="try_look">Nadaljujte z brezplačnim ogledom</string>
+     <string name="trylook_end">Brezplačno gledanje se je končalo</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
@@ -2011,6 +2071,7 @@ Izboljša varnost vašega računa."</string>
      <string name="v_symbol_rmb">¥</string>
      <string name="v_txt_login">Prijavite se za sinhronizacijo vaših priljubljenih</string>
      <string name="v_update">Posodobitev</string>
+     <string name="version_update_install_apk_fail">Namestitev ni uspela</string>
      <string name="video_already_download_tip">"To ste že prenesli"</string>
      <string name="video_download_btn">Prenos</string>
      <string name="video_download_fail">"Ne morem prenesti videoposnetka"</string>
@@ -2035,6 +2096,7 @@ Izboljša varnost vašega računa."</string>
      <string name="video_noyet_download_tip">Ta video se še zmeraj prenaša</string>
      <string name="video_offline">Ta stvar ni več na voljo</string>
      <string name="view">Pokaži</string>
+     <string name="vip_skip">Če želite preskočiti oglase, se prijavite za VIP</string>
      <string name="vk_video_tab">Za vas</string>
      <string name="vp_VideoView_error_button">V redu</string>
      <string name="vp_VideoView_error_text_unknown">Prišlo je do napake</string>

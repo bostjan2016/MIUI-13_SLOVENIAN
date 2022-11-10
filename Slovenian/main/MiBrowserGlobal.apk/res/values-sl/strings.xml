@@ -1091,6 +1091,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="local_apps">Lokalne aplikacije</string>
      <string name="local_bookmarks">Mi</string>
      <string name="local_file">Lokalne datoteke</string>
+     <string name="local_video_player_label">Video predvajalnik (Mi brskalnik)</string>
      <string name="location_permission_name">Dostop do lokacije</string>
      <string name="lockpattern_continue_button_text">Naprej</string>
      <string name="lockpattern_need_to_confirm">Potrdite vzorec za odklepanje</string>

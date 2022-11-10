@@ -60,6 +60,10 @@
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
+     <plurals name="hint_local_guide_views">
+        <item quantity="other">%s ogledov</item>
+        <item quantity="one">%s ogled</item>
+     </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
