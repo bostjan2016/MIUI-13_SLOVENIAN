@@ -233,6 +233,18 @@ Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
         <item quantity="other">čez %d minut</item>
         <item quantity="one">čez 1 minuto</item>
      </plurals>
+     <plurals name="ktv_card_message_your_turn">
+        <item quantity="other">Naslednji pevec lahko začne peti čez %1$ss</item>
+        <item quantity="one">Naslednji pevec lahko začne peti čez %1$ss</item>
+     </plurals>
+     <plurals name="ktv_people_queue">
+        <item quantity="other">%1$s ljudi v vrsti</item>
+        <item quantity="one">%1$s oseba v vrsti</item>
+     </plurals>
+     <plurals name="ktv_sung_before_members">
+        <item quantity="other">%1$s ljudi je pelo</item>
+        <item quantity="one">%1$s oseba je pela</item>
+     </plurals>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>

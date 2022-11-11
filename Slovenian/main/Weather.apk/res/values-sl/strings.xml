@@ -79,7 +79,7 @@
      <string name="aqi_alert_channel_name">AQI opozorila</string>
      <string name="aqi_data_source">Ponuja Colorful Clouds</string>
      <string name="aqi_desc">Indeks kakovosti zraka</string>
-     <string name="aqi_detail_24_hours">24-urna napoved</string>
+     <string name="aqi_detail_24_hours">%d-urna napoved</string>
      <string name="aqi_detail_5_days">5-dnevna napoved</string>
      <string name="aqi_detail_co">CO</string>
      <string name="aqi_detail_co_unit">Enota: mg/m³</string>
@@ -591,7 +591,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="share_weather_desc">\#MIUI Vreme#Danes %1$s %2$s</string>
      <string name="share_weather_desc_split">,</string>
      <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>
-     <string name="shortcut_short_label_24_hour_forecast">24-urna napoved</string>
+     <string name="shortcut_short_label_24_hour_forecast">%d-urna napoved</string>
      <string name="shortcut_short_label_recent_forecast">Preveri vreme</string>
      <string name="some_where_on_earth">Nekje na Zemlji</string>
      <string name="suggestion_for_blizzard">Segrejte se in potujte varno</string>
@@ -659,7 +659,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="unit">Enota</string>
      <string name="unit_temperature">Enota temperature</string>
      <string name="unit_wind">Enota hitrosti vetra</string>
-     <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med 23:00 in 07:00</string>
+     <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med %1$s in %1$s</string>
      <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
      <string name="update_notification_info">Posodabljanje podatkov v ozadju…</string>
      <string name="update_setting_title_text">Posodobite vremenske podatke</string>
