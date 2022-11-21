@@ -37,13 +37,13 @@
      <string name="airplane_error_title">Način za letalo</string>
      <string name="am">dop.</string>
      <string name="app_name">Bluetooth deljenje</string>
-     <string name="aptx_notification_aptx">Ta naprav podpira Qualcomm® aptX™</string>
-     <string name="aptx_notification_aptx_adaptive">Ta naprav podpira Qualcomm® aptX™ Adaptive</string>
-     <string name="aptx_notification_aptx_hd">Ta naprav podpira Qualcomm® aptX™ HD</string>
+     <string name="aptx_notification_aptx">Ta naprava podpira Qualcomm® aptX™</string>
+     <string name="aptx_notification_aptx_adaptive">Ta naprava podpira Qualcomm® aptX™ Adaptive</string>
+     <string name="aptx_notification_aptx_hd">Ta naprava podpira Qualcomm® aptX™ HD</string>
      <string name="aptx_notification_title">Bluetooth</string>
      <string name="auth_notif_message">Vpiši šifro seje za %1$s</string>
      <string name="auth_notif_ticker">Obex zahteva za avtentikacijo</string>
-     <string name="auth_notif_title">Zvezni ključ</string>
+     <string name="auth_notif_title">Ključ seje</string>
      <string name="avrcp_cover_art_default_image_type">slika</string>
      <string name="ble_device_address">Bluetooth Smart naprava MAC</string>
      <string name="ble_device_profile">Profil Bluetooth naprave</string>
@@ -53,10 +53,10 @@
      <string name="bluetooth_a2dp_sink_queue_name">Zdaj se predvaja</string>
      <string name="bluetooth_advanced_feat_description">Storitev Bluetooth naprednega pregledovanja</string>
      <string name="bluetooth_broadcast_status">Oddajanje vklj.</string>
-     <string name="bluetooth_connected">Seznanjeno</string>
+     <string name="bluetooth_connected">Zvok Bluetooth je povezan</string>
      <string name="bluetooth_connecting">Seznanjanje…</string>
      <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
-     <string name="bluetooth_disconnected">Ni seznanjeno</string>
+     <string name="bluetooth_disconnected">Zvok Bluetooth ni povezan</string>
      <string name="bluetooth_disconnecting">Prekinitev povezave…</string>
      <string name="bluetooth_in_airplane_mode">Pri Načinu za letalo</string>
      <string name="bluetooth_map_remote_advance_feature_support">Podprte so storitve dostopa do naprednih sporočil</string>
@@ -78,7 +78,7 @@
      <string name="bluetooth_rc_feat_subtext">Ponovno seznanite iz peer-a za omogočanje</string>
      <string name="bluetooth_rc_feat_title">Pregledovanje Bluetooth predstavnosti</string>
      <string name="bluetooth_sap_notif_disconnect_button">Prekini povezavo</string>
-     <string name="bluetooth_sap_notif_disconnecting">Čakanje da klient prekine povezavo.</string>
+     <string name="bluetooth_sap_notif_disconnecting">Čakam, da odjemalec prekine povezavo.</string>
      <string name="bluetooth_sap_notif_force_disconnect_button">Prisilno prekini povezavo</string>
      <string name="bluetooth_sap_notif_message">Želite nastaviti zahtevo klientu da naj prekine povezavo?</string>
      <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
@@ -193,7 +193,7 @@
      <string name="inbound_history_title">Dohodni prenosi</string>
      <string name="inbound_noti_title">Bluetooth deljenje: Prejete datoteke</string>
      <string name="incoming_file_confirm_Notification_caption">Želite prejeti to datoteko?</string>
-     <string name="incoming_file_confirm_Notification_content">%1$s lahko pošlje datoteko %2$s</string>
+     <string name="incoming_file_confirm_Notification_content">%1$s je pripravljen za pošiljanje %2$s</string>
      <string name="incoming_file_confirm_Notification_title">Dohodna datoteka</string>
      <string name="incoming_file_confirm_cancel">Zavrni</string>
      <string name="incoming_file_confirm_content">Sprejmem dohodno datoteko?</string>
@@ -226,8 +226,8 @@
      <string name="mi_key_take_photo">Posnemi fotografijo</string>
      <string name="midnight">Polnoč</string>
      <string name="miui_transfer_history_title">Bluetooth prenosi</string>
-     <string name="miui_transfer_inbound_title">Vhodni</string>
-     <string name="miui_transfer_outbound_title">Izhodni</string>
+     <string name="miui_transfer_inbound_title">Vhodno</string>
+     <string name="miui_transfer_outbound_title">Izhodno</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -247,7 +247,7 @@
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uspešno osveženo</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je za zdaj vse"</string>
@@ -316,7 +316,7 @@
      <string name="notification_sent_fail">Bluetooth deljenje: Datoteka %1$s ni poslana</string>
      <string name="notify_device_lose_connection_text">Dotaknite se za prekinitev povezave z %1$s.</string>
      <string name="notify_device_lose_connection_title">Izgubljena povezava z %1$s</string>
-     <string name="notify_server">Obvesti TCP server</string>
+     <string name="notify_server">Obvesti TCP strežnik</string>
      <string name="ok_button">V redu</string>
      <string name="opp_notification_group">Bluetooth skupna raba</string>
      <string name="outbound_history_title">Izhodni prenosi</string>
@@ -331,7 +331,7 @@
      <string name="permdesc_bluetoothShareManager">Aplikaciji omogoča dostop do upravitelja za Bluetooth deljenje in njegovo uporabo za prenos datotek.</string>
      <string name="permdesc_bluetoothWhitelist">Omogoča da aplikacija začasno dovoli Bluetooth napravi da pošilja datoteke brez uporabnikove potrditve.</string>
      <string name="permdesc_handoverStatus">Omogoča prejemanje informacij o stanju prenosov Bluetooth-a.</string>
-     <string name="permlab_bluetoothAcceptlist">Sprejmi dostop do naprave Bluetooth.</string>
+     <string name="permlab_bluetoothAcceptlist">Seznam sprejemljivih dostopov do naprave bluetooth.</string>
      <string name="permlab_bluetoothAvrcpDataManager">Pristop avrcp metadata.</string>
      <string name="permlab_bluetoothMap">Pristop do ponudnika vsebine.</string>
      <string name="permlab_bluetoothShareManager">Odpri upravitelja za prenos.</string>
@@ -362,7 +362,7 @@
      <string name="snapdragon_sound_notification_content">Ta naprava podpira Snapdragon Sound™ tehnologijo</string>
      <string name="snapdragon_sound_notification_title">Bluetooth</string>
      <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
-     <string name="start_server">Zaženi TCP server</string>
+     <string name="start_strežnik">Zaženi TCP strežnik</string>
      <string name="status_canceled">Prenos preklican s strani uporabnika.</string>
      <string name="status_connection_error">Povezava neuspešna.</string>
      <string name="status_file_error">Težava s pomnilnikom.</string>

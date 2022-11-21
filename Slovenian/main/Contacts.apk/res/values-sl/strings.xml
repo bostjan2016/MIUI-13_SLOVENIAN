@@ -684,7 +684,7 @@ Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do i
      <string name="device_import_progress_toast">%1$d stikov uvoženih</string>
      <string name="device_import_title">Uvozi</string>
      <string name="device_list_title">Izberi telefon</string>
-     <string name="device_other_guide">"Druga naprav podpira Bluetooth?"</string>
+     <string name="device_other_guide">"Druga naprava podpira Bluetooth?"</string>
      <string name="device_other_title">Uvozi iz drugega telefona</string>
      <string name="device_paired_dialog_message">Pridobivanje stikov…</string>
      <string name="device_paired_dialog_title">Pridobivanje stikov…</string>

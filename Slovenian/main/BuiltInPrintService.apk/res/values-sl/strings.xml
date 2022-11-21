@@ -18,7 +18,7 @@
      <string name="find_wifi_direct">Najdi tiskalnike z direktnim WiFi</string>
      <string name="fix">Poglej dovoljenja</string>
      <string name="forget">Pozabi</string>
-     <string name="hostname_or_ip">Naziv hosta ali IP naslov</string>
+     <string name="hostname_or_ip">Ime gostitelja ali naslov IP</string>
      <string name="media_size_4x6in">4x6 in</string>
      <string name="media_size_54x86mm">54x86 mm</string>
      <string name="media_size_5x7in">5x7 in</string>
@@ -50,7 +50,7 @@
      <string name="searching">Iskanje</string>
      <string name="security">Varnost</string>
      <string name="title_activity_add_printer">Dodaj tiskalnik</string>
-     <string name="unreadable_input">Dokument se ne more prebrati</string>
+     <string name="unreadable_input">Dokumenta ni možno prebrati</string>
      <string name="waiting_to_send">Čaka se pošiljanje</string>
      <string name="wifi_direct">WiFi Direct</string>
      <string name="wifi_direct_location_rationale">Privzeta storitev tiskanja potrebuje lokacijske storitve, ki omogočajo iskanje naprav v bližini.</string>

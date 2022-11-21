@@ -348,7 +348,7 @@ Te stvari bomo obdelali, preden jih bomo delili, da preprečimo, da bi vas neodv
      <string name="detection_wait_generate_report_detail">Vrnite se kasneje</string>
      <string name="device_data_manage">Urejaj naprave</string>
      <string name="device_data_sync">Sinhroniziraj podatke</string>
-     <string name="device_description">"Naprav je povezana z Mi Računom %s. Če ne najdete željene naprave, jo najprej dodajte v Mi Fit ali Xiaomi Wear."</string>
+     <string name="device_description">"Naprava je povezana z Mi Računom %s. Če ne najdete željene naprave, jo najprej dodajte v Mi Fit ali Xiaomi Wear."</string>
      <string name="device_list_origin_description">"Naprave so povezane z Mi računom %1$s. Če tukaj ne najdete potrebne naprave, se prepričajte, da ste jo že dodali v ustrezno aplikacijo."</string>
      <string name="device_off_sync_description">"Zdravstveni podatki, ustvarjeni na tej napravi ne bodo sinhronizirani z Mi zdravje"</string>
      <string name="device_unbound_from_account">Ta naprava ni več povezana z vašim računom</string>

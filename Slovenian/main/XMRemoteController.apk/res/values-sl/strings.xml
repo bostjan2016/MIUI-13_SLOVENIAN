@@ -144,7 +144,7 @@
   <string name="catalyst_jsload_error">"Ne morem prevzeti JS paket iz dev strežnika.
 
 Poskusite naslednje da  rešite problem:
-• Preverite ali je pakiratelj serverja zagnan
+• Preverite ali je pakiratelj strežnika zagnan
 • Preverite ali je naprava/emulator povezana z vašo napravo in omogočeno USB odpravljanje napak - zaženite 'adb devices' da boste videli seznam povezanih naprav
 • Če ste na fizični napravi povezani na isti stroj, zaženite 'adb reverse tcp:8081 tcp:8081' za pošiljanje zahteve iz vaše naprave
 • Če je vaša naprava v istem WiFi omrežju, nastavite 'Gostitelja strežnika za odpravljanje napak &amp; port za napravo' v 'Dev nastavitvah' na IP naslov vaše naprave in na priključek lokalnega dev strežnika - npr. 10.0.1.1:8081"</string>

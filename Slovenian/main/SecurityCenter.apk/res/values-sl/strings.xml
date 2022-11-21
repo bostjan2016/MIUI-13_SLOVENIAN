@@ -3541,10 +3541,10 @@ vašo napravo"</string>
      <string name="om_lock_app_tip_msg">Tapni za zaklep</string>
      <string name="om_lock_app_unlocked_app">Odklenjeno</string>
      <string name="om_locked_apps_summary">Zaklenjene aplikacije bodo prezrte zaradi povečanja hitrosti.</string>
-     <string name="om_media_scan_time_warn_title">"Medijski server deluje v ozadju.
+     <string name="om_media_scan_time_warn_title">"Medijski strežnik deluje v ozadju.
 To skrajšuje trajanje baterije."</string>
-     <string name="om_media_scan_timeout_proc_detail">Medijski server deluje v ozadju. Lahko omejite njegovo aktivnost.</string>
-     <string name="om_media_scan_timeout_proc_name">Medijski server</string>
+     <string name="om_media_scan_timeout_proc_detail">Medijski strežnik deluje v ozadju. Lahko omejite njegovo aktivnost.</string>
+     <string name="om_media_scan_timeout_proc_name">Medijski strežnik</string>
      <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
      <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
      <string name="om_not_finish_speedboost">Potrebno je povečanje hitrosti</string>
