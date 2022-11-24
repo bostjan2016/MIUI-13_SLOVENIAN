@@ -3458,7 +3458,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
      <string name="device_description_cpu">CPU</string>
      <string name="device_description_ram">RAM</string>
      <string name="device_description_resolution">Resolucija</string>
-     <string name="device_description_screen">Velikost zaslona</string>
+     <string name="device_description_screen">Zaslon</string>
      <string name="device_details_title">Podrobnosti o napravi</string>
      <string name="device_display_layout_title">Opravila</string>
      <string name="device_edit_title">Preimenuj telefon</string>
