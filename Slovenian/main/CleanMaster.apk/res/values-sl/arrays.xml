@@ -26,7 +26,7 @@
         <item>Vsakih 15 dni</item>
      </string-array>
      <string-array name="auto_process_mode">
-        <item>Obvestila</item>
+        <item>Obvesti</item>
         <item>Počisti</item>
         <item>Počisti in obvesti</item>
      </string-array>

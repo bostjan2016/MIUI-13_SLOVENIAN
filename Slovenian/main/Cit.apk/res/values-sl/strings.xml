@@ -1209,7 +1209,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="radio_info_current_network_label">Trenutno omrežje:</string>
      <string name="radio_info_data_connected">Povezano</string>
      <string name="radio_info_data_connecting">Povezovanje</string>
-     <string name="radio_info_data_disconnected">Ni povezano</string>
+     <string name="radio_info_data_disconnected">Povezava prekinjena</string>
      <string name="radio_info_data_network_type_label">Vrsta podatkovnega omrežja:</string>
      <string name="radio_info_data_suspended">Začasno ustavljeno</string>
      <string name="radio_info_display_asu">asu</string>
@@ -1384,6 +1384,6 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
 Prosimo, izberite pravi gumb glede na različne načine vibracij"</string>
      <string name="wait_test">Počakaj test</string>
      <string name="waiting">Počakajte 4s.</string>
-     <string name="warm_light_title">Vroča luč</string>
+     <string name="warm_light_title">Topla svetloba</string>
      <string name="yes">Da</string>
 </resources>

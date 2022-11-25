@@ -64,32 +64,32 @@
         <item quantity="one">Napravite %1$d korak za osvoboditev %2$s</item>
      </plurals>
      <plurals name="dc_item_summary_apk">
-        <item quantity="other">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> namestitvenih paketov</item>
-        <item quantity="one">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> namestitveni paket</item>
+        <item quantity="other">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> namestitvenih paketov&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> namestitveni paket&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_app_data">
-        <item quantity="other">Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacij</item>
-        <item quantity="one">Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacijo</item>
+        <item quantity="other">&lt;Data>Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacij&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko izbrišete podatke za &lt;font color=#0097FF>%d&lt;/font> aplikacijo&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_app_reset">
         <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacij porabi veliko prostora za shranjevanje&lt;/Data></item>
         <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> aplikacija porabi veliko prostora za shranjevanje&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_image">
-        <item quantity="other">Lahko izbrišete  &lt;font color=#0097FF>%d&lt;/font> nepotrebnih fotografij</item>
-        <item quantity="one">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> nepotrebno fotografijo</item>
+        <item quantity="other">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> nepotrebnih fotografij&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> nepotrebno fotografijo&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_large_file">
-        <item quantity="other">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> velikih datotek</item>
-        <item quantity="one">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> veliko datoteko</item>
+        <item quantity="other">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> velikih datotek&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> veliko datoteko&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_uninstall_app">
-        <item quantity="other">Lahko odstranite &lt;font color=#0097FF>%d&lt;/font> redko uporabljenih aplikacij</item>
-        <item quantity="one">Lahko odstranite &lt;font color=#0097FF>%d&lt;/font> redko uporabljeno aplikacijo</item>
+        <item quantity="other">&lt;Data>Lahko odstranite &lt;font color=#0097FF>%d&lt;/font> redko uporabljenih aplikacij&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko odstranite &lt;font color=#0097FF>%d&lt;/font> redko uporabljeno aplikacijo&lt;/Data></item>
      </plurals>
      <plurals name="dc_item_summary_video">
-        <item quantity="other">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> videoposnetkov</item>
-        <item quantity="one">Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> videoposnetek</item>
+        <item quantity="other">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> videoposnetkov&lt;/Data></item>
+        <item quantity="one">&lt;Data>Lahko izbrišete &lt;font color=#0097FF>%d&lt;/font> video&lt;/Data></item>
      </plurals>
      <plurals name="deepclean_apk_summary">
         <item quantity="other">Najdeno aplikacij: %d, lahko izbrišete nepotrebne.</item>
@@ -155,7 +155,7 @@
         <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="hint_similar_image_header_left">
-        <item quantity="other">Skupin: %d</item>
+        <item quantity="other">%d skupin</item>
         <item quantity="one">%d skupina</item>
      </plurals>
      <plurals name="hour">
@@ -258,12 +258,12 @@
         <item quantity="one">%d aplikacija z predpomnjenimi videoposnetki</item>
      </plurals>
      <plurals name="view_num">
-        <item quantity="other">%1$s pregledov</item>
-        <item quantity="one">%1$s pregled</item>
+        <item quantity="other">%1$s ogledov</item>
+        <item quantity="one">%1$s ogled</item>
      </plurals>
      <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"Ne morem kopirati %d videoposnetkov. Osvobodite nekaj prostora in poskusite ponovno."</item>
-        <item quantity="one">"Ne morem kopirati %d videoposnetek. Osvobodite nekaj prostora in poskusite ponovno."</item>
+        <item quantity="other">"%d videoposnetkov ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova."</item>
+        <item quantity="one">"%d videoposnetka ni bilo mogoče izvoziti. Sprostite prostor in poskusite znova."</item>
      </plurals>
      <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d praznih datotek)</item>
@@ -275,10 +275,10 @@
      </plurals>
      <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s:</item>
+        <item quantity="one">%1$s</item>
      </plurals>
      <plurals name="whatsapp_delete_files">
-        <item quantity="other">Izbrišem stvari: %1$d?</item>
+        <item quantity="other">Izbrišem %1$d stvari?</item>
         <item quantity="one">Izbrišem %1$d stvar?</item>
      </plurals>
      <plurals name="whatsapp_file_audio_dec">

@@ -12,7 +12,7 @@
      <string name="debug_tool_delete_button">Izbriši</string>
      <string name="debug_tool_email_body">Pripeta je zbirka podatkov koledarja z vsemi mojimi sestanki in osebnimi podatki. Z njo ravnajte previdno.</string>
      <string name="debug_tool_email_sender_picker">Izberite program s katerim želite poslati datoteko</string>
-     <string name="debug_tool_email_subject">Zbirka podatkov koledarja priložena</string>
+     <string name="debug_tool_email_subject">Priloženo orodje za odpravljanje napak koledarja</string>
      <string name="debug_tool_message">Na zunanji pomnilnik USB boste kopirali zbirko podatkov koledarja ki jo bo lahko bral vsak program in jo poslali po e-pošti. Ne pozabite je izbrisati takoj ko jo uspešno kopirate iz naprave.</string>
      <string name="debug_tool_start_button">Začetek</string>
      <string name="holiday_data_no_network">"Ne morem se povezati na omrežje. Preverite podatkovno povezavo in poskusite ponovno."</string>
