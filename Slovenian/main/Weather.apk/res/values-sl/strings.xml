@@ -97,9 +97,9 @@
      <string name="aqi_publish_time">Posodobljeno %1$s</string>
      <string name="aqi_quality_co_desc">Ogljikov monoksid</string>
      <string name="aqi_quality_detail_15_days">15-dnevna napoved</string>
-     <string name="aqi_quality_detail_24_hours">24-urna napoved</string>
+     <string name="aqi_quality_detail_24_hours">%d-urna napoved</string>
      <string name="aqi_quality_detail_48_hours">48-urna napoved</string>
-     <string name="aqi_quality_detail_5_days">5-dnevna napoved</string>
+     <string name="aqi_quality_detail_5_days">%d-dnevna napoved</string>
      <string name="aqi_quality_no2_desc">Dušikov dioksid</string>
      <string name="aqi_quality_o3_desc">Ozon</string>
      <string name="aqi_quality_pm10_desc">Grobi delci, ki jih je mogoče vdihniti</string>

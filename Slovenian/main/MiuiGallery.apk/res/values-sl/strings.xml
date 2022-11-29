@@ -2146,6 +2146,73 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="passport_error_dynamic_token_error">Koda za preverjanje ni pravilna</string>
      <string name="passport_error_email">E-poštni naslov, ki ste ga vnesli ni veljaven</string>
      <string name="passport_error_empty_email">Vnesite elektronski naslov</string>
+     <string name="passport_error_empty_password">Vnesite geslo</string>
+     <string name="passport_error_empty_pwd">"Geslo ne sme biti prazno"</string>
+     <string name="passport_error_empty_user_id">Vnesite svoje uporabniško ime</string>
+     <string name="passport_error_length_limit">Besedilo, ki ste ga vnesli je predolgo</string>
+     <string name="passport_error_network">"Ni mogoče vzpostaviti povezave z omrežjem"</string>
+     <string name="passport_error_no_password_user">"Gesla še niste nastavili. Prijavite se s SMS-om."</string>
+     <string name="passport_error_phone">Neveljavna telefonska številka</string>
+     <string name="passport_error_server">Napaka strežnika</string>
+     <string name="passport_error_sms_limit">Na to številko je bilo poslanih preveč kod za preverjanje. Poskusite znova kasneje.</string>
+     <string name="passport_error_ticket_invalid">Ta koda ni pravilna</string>
+     <string name="passport_error_timeout_network_error">Časovna omejitev zahteve je potekla</string>
+     <string name="passport_error_token_expired">Koda je potekla. Poskusite ponovno.</string>
+     <string name="passport_error_unknow_error">Pojavila se je napaka</string>
+     <string name="passport_error_unknow_host_network_error">"Ni bilo mogoče vzpostaviti povezave z omrežjem"</string>
+     <string name="passport_error_unknow_network_error">Prišlo je do napake v omrežju</string>
+     <string name="passport_error_unknown">Neznana napaka</string>
+     <string name="passport_error_user_agreement">Najprej se strinjajte z Pogoji uporabe</string>
+     <string name="passport_error_user_name">Uporabniško ime, ki ste ga vnesli ni veljavno</string>
+     <string name="passport_error_user_password">"Gesli se ne ujemata"</string>
+     <string name="passport_get_login_type_next">Naprej</string>
+     <string name="passport_header_back">Nazaj</string>
+     <string name="passport_identification_expired">Koda za preverjanje je potekla. Začnite znova.</string>
+     <string name="passport_input_captcha_hint">Vnesite kodo</string>
+     <string name="passport_input_password_hint">Vnesite geslo</string>
+     <string name="passport_input_phone_number_hint">Vnesite tel. številko</string>
+     <string name="passport_input_verify_code">Vnesite kodo</string>
+     <string name="passport_input_voice_captcha_hint">Vnesite glasovno kodo za preverjanje</string>
+     <string name="passport_input_voice_hint">Vnesite glasovno kodo</string>
+     <string name="passport_mi_account_first_title">"Če svojo telefonsko številko uporabljate prvič, bomo samodejno ustvarili račun."</string>
+     <string name="passport_mi_account_title">Prijavite se z računom Xiaomi</string>
+     <string name="passport_network_error">Prišlo je do napake v omrežju.</string>
+     <string name="passport_network_error_hint">Preverite URL in poskusite znova ali kopirajte URL in odprite v brskalniku.</string>
+     <string name="passport_next">Naprej</string>
+     <string name="passport_page_load_failed">"Ne morem odpreti strani"</string>
+     <string name="passport_password_login_btn">Prijava</string>
+     <string name="passport_password_not_show">"Ne kaži gesla"</string>
+     <string name="passport_password_req_notice">Geslo mora vsebovati 8-16 znakov in združevati vsaj dve od naslednjega: številke, črke in posebne simbole (npr. 123abc@#, ali 123abc, ali abc@#).</string>
+     <string name="passport_password_show">Pokaži geslo</string>
+     <string name="passport_querying_phone_info">Zahtevanje podatkov o računu…</string>
+     <string name="passport_quick_login_title">Vnesite vaše geslo</string>
+     <string name="passport_reging">Ustvarjanje računa…</string>
+     <string name="passport_register_restricted">S to številko je povezanih preveč računov. Poskusite z drugo.</string>
+     <string name="passport_relogin_notice">Ponovno se morate prijaviti</string>
+     <string name="passport_resend_ticket">Ponovno pošlji kodo</string>
+     <string name="passport_retry">Poskusite ponovno</string>
+     <string name="passport_send_sms_to">Koda poslana na %1$s</string>
+     <string name="passport_send_too_many_code">Na to številko je bilo poslanih preveč kod za preverjanje. Počakajte 24 ur in poskusite znova.</string>
+     <string name="passport_sending_vcode">Pošiljanje kode…</string>
+     <string name="passport_set_password">Nastavite geslo</string>
+     <string name="passport_set_password_no_phone_msg">Dodajte svojo telefonsko številko, da zaščitite svoj račun.</string>
+     <string name="passport_talkback_image_captcha">Slikovna koda</string>
+     <string name="passport_talkback_switch_image_captcha">Preklopi na slikovno kodo za preverjanje</string>
+     <string name="passport_talkback_switch_voice_captcha">Preklopi na zvočno kodo za preverjanje</string>
+     <string name="passport_talkback_voice_captcha">Predvajaj zvočno kodo</string>
+     <string name="passport_ticket_send_by_second">Pošlji v %d</string>
+     <string name="passport_to_forget_password">Pozabljeno geslo?</string>
+     <string name="passport_to_password_login">Prijavite se z geslom</string>
+     <string name="passport_to_verify_code_login">Prijavite se z SMS</string>
+     <string name="passport_unknow_host_network_error">Preverite omrežne nastavitve in poskusite znova</string>
+     <string name="passport_user_id_hint">E-pošta/telefonska številka/ID računa Xiaomi</string>
+     <string name="passport_user_id_intro">Vnesite geslo za %1$s</string>
+     <string name="passport_user_password_hint">Geslo</string>
+     <string name="passport_wechat_not_install">Najprej namestite WeChat</string>
+     <string name="passport_wrong_captcha">Koda, ki ste jo vnesli ni pravilna</string>
+     <string name="passport_wrong_phone_number_format">Oblika zapisa telefonske številke, ki ste jo vnesli ni veljavna</string>
+     <string name="passport_wrong_vcode">Koda, ki ste jo vnesli ni pravilna</string>
+     <string name="passport_wrong_voice">Koda, ki ste jo vnesli ni pravilna</string>
      <string name="pc_device_model_name">Računalnik</string>
      <string name="pc_redmi_device_model_name">Redmi prenosnik</string>
      <string name="pc_xiaomi_device_model_name">Xiaomi prenosnik</string>
@@ -2181,12 +2248,14 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="permission_use_desc">Dovoljenja</string>
      <string name="pet_album_display_name">Fotografije ljubljenčkov</string>
      <string name="petabyteShort">PB</string>
+     <string name="phone_auto_login_register_with_local_number">Ustvari račun</string>
      <string name="phone_number_empty_alert">Dodaj številko telefona</string>
      <string name="photo">Fotografija</string>
+     <string name="photoPickerNotFoundText">Ni fotografij.</string>
      <string name="photo_edit_file_not_exits_tip">Prenesi fotografijo pred popravljanjem</string>
      <string name="photo_editor_adjust">Prilagodi</string>
      <string name="photo_editor_beautify">Polepšaj</string>
-     <string name="photo_editor_beautify_auto">Samod</string>
+     <string name="photo_editor_beautify_auto">Samod.</string>
      <string name="photo_editor_beauty_compare">Original</string>
      <string name="photo_editor_common_download_failed">"Ne morem prenesti. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="photo_editor_common_download_finish">Dodatek uspešno prenešen</string>
@@ -2431,6 +2500,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="problem_feedback">Povratne inf.</string>
      <string name="produce_dialog_text_multi">Več stvari</string>
      <string name="produce_dialog_text_single">Ena stvar</string>
+     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="projection_cancel">Prekliči</string>
      <string name="projection_checkbox_text">Shrani ta zaslon</string>
      <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
@@ -2445,11 +2515,14 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="projection_switch_title">Zamenjaj na</string>
      <string name="projection_video_quit">Pritinite za izhod</string>
      <string name="prompt_not_support_format">"Ne morete uporabiti te slike za izdelavo čarobne vinjete"</string>
+     <string name="protocal_dialog_confirm">Strinjam se</string>
+     <string name="protocal_dialog_title">Pozor</string>
      <string name="public_url_descript">Do albuma lahko dostopa vsak ki ima to povezavo</string>
      <string name="publish_failed">"Ni možno objaviti"</string>
      <string name="publish_succeeded">Objavljen album</string>
      <string name="publishing">Objavljam…</string>
      <string name="purge_or_recovery_processing">Obdelava…</string>
+     <string name="qq_login_btn_content_description">Prijava z QQ</string>
      <string name="qr_invite_scan_hint">Skenirajte kodo QR</string>
      <string name="qr_invite_time_hint">Ta koda QR velja 7 dni</string>
      <string name="qr_invite_title">Vabilo s QR kodo</string>
@@ -2516,6 +2589,8 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="refocus_title">Zameglitev</string>
      <string name="refocus_type_static">Nivo zameglitve</string>
      <string name="refocus_type_video">Svetlobne poti</string>
+     <string name="register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="register_by_local_phone_short_text">Ustvari račun</string>
      <string name="relation_text_empty_alert">Dodaj podrobnosti razmerja</string>
      <string name="relation_text_family">Član družine</string>
      <string name="relation_text_father">Oče</string>
@@ -2557,10 +2632,21 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="rename_fail_msg">"Preimenovanje ni mogoče"</string>
      <string name="rename_from_contact">Ime iz stikov</string>
      <string name="renren_description">Ponuja RenRen</string>
+     <string name="request_agree">Dovoli</string>
+     <string name="request_camera_permission_message">"Vaše osebne podatke bomo varovali v skladu z veljavnimi zakoni in predpisi. Ta aplikacija za normalno delovanje potrebuje naslednja dovoljenja:&lt;br>&lt;br>&lt;b>Uporaba kamere (za nastavitev fotografije profila)&lt;/b>&lt;br>&lt;br>Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati nekaterih storitev te aplikacije; vendar vam bo njegova osnovna funkcionalnost še vedno na voljo. Dovoljenja lahko kadar koli omejite ali prekličete pooblastilo v nastavitvah."</string>
+     <string name="request_cancel">Prekliči</string>
+     <string name="request_error_invalid_token">"Ne morem preveriti"</string>
+     <string name="request_error_network">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
+     <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
+     <string name="request_gallery_permission_message">Dovolite dostop do galerije:&lt;br />Za nastavitev profilnih fotografij</string>
      <string name="request_qr_code_failed">"Ne morem pridobiti QR kode"</string>
      <string name="request_sms_url_failed">"Ne morem pridobiti podrobnosti"</string>
      <string name="request_sms_url_msg">Iskanje informacij…</string>
      <string name="request_sms_url_title">Namig</string>
+     <string name="resend_active_email">Ponovno pošlji</string>
+     <string name="resend_email_reach_limit_message">"Zahtevali ste preveč potrditvenih e-poštnih sporočil. Prepričajte se, da potrditveno e-poštno sporočilo ni v mapi »Vsiljena pošta« v mapi »Prejeto«."</string>
+     <string name="resend_email_reach_limit_title">Preveč poskusov</string>
+     <string name="resend_email_success">Poslano</string>
      <string name="reset">Ponastavi</string>
      <string name="retry_to_create_album">Poskusi ponovno</string>
      <string name="retry_to_request_qr_code">Poskusi ponovno</string>
@@ -2588,6 +2674,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="saf_secret_album">Zasebni album</string>
      <string name="saf_secret_album_guide">Ta aplikacija potrebuje dovoljenja za prikaz stvari iz vašega zasebnega albuma.</string>
      <string name="same_name_album_exist_and_toast">"Album s istim imenom že obstaja. Namesto tega je izdelan '%s."</string>
+     <string name="same_new_and_old_pwd">"Ne more biti enako trenutnemu geslu"</string>
      <string name="samsung">Samsung</string>
      <string name="samsung_phone">Samsung phone</string>
      <string name="saturation">Nasičenost</string>
@@ -2743,8 +2830,10 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="select_item_face">"Na fotog. je %s"</string>
      <string name="select_origin_tip">Originalna datoteka (%s)</string>
      <string name="send">Pošlji</string>
+     <string name="send_diagnosis_log">Pošlji poročila</string>
      <string name="send_dolby_vision_duration_more_than_40s">Videoposnetke Dolby Vision, daljše od 4 minut, je mogoče dati v skupno rabo samo v izvirnem video formatu, ki ga sprejemna naprava morda ne podpira. Vseeno nadaljujem?</string>
-     <string name="send_dolby_vision_video_continue">Continue</string>
+     <string name="send_dolby_vision_video_continue">Nadaljuj</string>
+     <string name="send_email_activate_message">Uspešno poslano potrditveno e-poštno sporočilo</string>
      <string name="send_file_beautify_failed">"Ne morem poslati"</string>
      <string name="send_files_by">Delite datoteke preko</string>
      <string name="send_files_to">Pošlji stvari v</string>
@@ -2757,6 +2846,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="send_secret_file_space_low">Ni dovolj prostora za shranjevanje</string>
      <string name="send_too_many_files_error">"Ne morem poslati toliko stvari (maks. %d)."</string>
      <string name="sepia">Sepia</string>
+     <string name="service_error">Napaka strežnika</string>
      <string name="service_is_provided_by_miui_cloud_service">Ponuja Xiaomi Cloud</string>
      <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
      <string name="set_as_slide_wallpaper_description">Ta slika je miniatura, prenesem original?</string>
@@ -2876,6 +2966,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="size_peta_byte">PB</string>
      <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
+     <string name="skip_query_account">Preskoči</string>
      <string name="sky_dynamic">Dinamično</string>
      <string name="sky_night">Večer</string>
      <string name="sky_nocturne">Noč</string>
@@ -2930,6 +3021,9 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slimming">Optimiziranje…</string>
      <string name="smartisan">Smartisan</string>
      <string name="smartisan_phone">Smartisan</string>
+     <string name="sns_access_token_expired_warning">Seja je potekla. Znova se prijavite, da znova povežete ta račun.</string>
+     <string name="sns_bind_limit">Preveč poskusov. Poskusite se prijaviti na druge načine.</string>
+     <string name="sns_sign_in">Drugi načini prijave</string>
      <string name="solar_children_day_title">"Otroški dan"</string>
      <string name="solar_christmas_title">Božič</string>
      <string name="solar_fathers_day_title">"Očetovski dan"</string>
@@ -3077,6 +3171,10 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="sunday_shortest">N</string>
      <string name="support_single_image">Izberite eno sliko</string>
      <string name="support_single_video">Izberite en videoposnetek</string>
+     <string name="switch_account_continue">Nadaljuj</string>
+     <string name="switch_account_msg_with_email">Prej ste ustavili prenos na %1$s. Ali želite nadaljevati prenos v ta Google Račun ali začeti znova z drugim računom?</string>
+     <string name="switch_account_switch">Začni znova</string>
+     <string name="switch_account_title">Nadaljujem prenos?</string>
      <string name="sync_album_in_proecess">Sinhronizacija albuma…</string>
      <string name="sync_backup_disable_confirm_message_downloading">Če zdaj izklopite sinhronizacijo, bodo trenutni prenosi izvirnih datotek, shranjenih v oblaku, prekinjeni. Visokokakovostne slike, shranjene v tej napravi, tudi ne bodo več na voljo. Vseeno izklopim?</string>
      <string name="sync_backup_disable_confirm_message_wait">Visokokakovostne slike, shranjene v tej napravi, po izklopu sinhronizacije ne bodo več na voljo. Iz oblaka lahko prenesete izvirne datoteke in po tem izklopite sinhronizacijo.</string>
@@ -3097,6 +3195,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="syncing_metadata_title">Sinhronizacija Mi Cloud podatkov</string>
      <string name="syncing_normal_title">Izdelava var. kopije fotografij in videoposnetkov</string>
      <string name="system_album">Sistemski album</string>
+     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="talkback_album_item_content">%1$s, %2$s stvari</string>
      <string name="talkback_delete_search_history">Izbriši zgodovino iskanja</string>
      <string name="talkback_doc_with_time">Dokument, %s</string>
@@ -3117,6 +3216,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="talkback_video_with_time">Video, %s</string>
      <string name="talkback_video_with_time_and_location">Video, %1$s, %2$s</string>
      <string name="temperature">Niansa</string>
+     <string name="temporary_not_available">"Ta storitev še ni na voljo"</string>
      <string name="terabyteShort">TB</string>
      <string name="text_append">Tekst</string>
      <string name="text_append_color">Barva</string>
@@ -3323,6 +3423,25 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="today_of_year_photo_num">Fotografije</string>
      <string name="tomorrow">Jutri</string>
      <string name="too_many_recipients">"Ne morete dodati več kot %2$s prejemnikov (Trenutno ste dodali %1$s)."</string>
+     <string name="tran_notification_complete_title">Prenos končan</string>
+     <string name="tran_notification_paused_msg">Poskusite nadaljevati prenos zdaj</string>
+     <string name="tran_notification_paused_title">Prenos zaustavljen</string>
+     <string name="tran_notification_preparing_msg">Pripravljanje…</string>
+     <string name="tran_notification_preparing_title">Kmalu boste prenesli svoje fotografije in videoposnetke</string>
+     <string name="tran_notification_storage_msg">Za nadaljevanje prenosa nadgradite svoj načrt prostora za shranjevanje</string>
+     <string name="tran_notification_storage_title">Ni dovolj prostora za shranjevanje v oblaku</string>
+     <string name="tran_notification_succeeded_title">Fotografije in videi so bili uspešno preneseni</string>
+     <string name="tran_notification_update_title">Prenos vaših fotografij in videoposnetkov…</string>
+     <string name="transfer_status_banner_msg_complete">Uspešno prenešeno</string>
+     <string name="transfer_status_banner_msg_need_retry">Prenos prekinjen. Poskusite znova ali obiščite i.mi.com za prenos stvari.</string>
+     <string name="transfer_status_banner_msg_no_space">Prenos zaustavljen. Ni dovolj prostora za shranjevanje v Google Računu. Za nadaljevanje nadgradite prostor za shranjevanje.</string>
+     <string name="transfer_status_banner_msg_no_space_inline">Nadgradi</string>
+     <string name="transfer_status_banner_msg_not_started">Sinhronizacija z oblakom ni več na voljo. Prenesite ali prenesite svoje stvari zdaj.</string>
+     <string name="transfer_status_banner_msg_pausing">Prenos prekinjen%1$s</string>
+     <string name="transfer_status_banner_msg_preparing">Priprava prenosa%1$s</string>
+     <string name="transfer_status_banner_msg_processing">"Prenos fotografij in videoposnetkov%1$s
+(%2$d/%3$d)"</string>
+     <string name="transfer_status_banner_msg_unbinding">Odstranjevanje računa. Počakajte minuto ali dve in znova zaženite prenos%1$s</string>
      <string name="trash_bin">Koš za smeti</string>
      <string name="trash_bin_key_word">Izbrisane fotografije</string>
      <string name="trash_bin_summary">Preglejte shranjene fotografije ki so bile nedavno izbrisane</string>
@@ -3343,6 +3462,15 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="trash_vip_button_unlogin">Prijava</string>
      <string name="try_again_later">Poskusite ponovno kasneje.</string>
      <string name="try_to_send">Poslano</string>
+     <string name="tsb_action_backup_apk_err">Nastavi varnostno kopiranje</string>
+     <string name="tsb_action_completed_allow_closed">Vklopi varnostno kopiranje</string>
+     <string name="tsb_action_completed_open">Pokaži stanje varnostnega kopiranja</string>
+     <string name="tsb_action_err">Pojavila se je napaka. Poskusite ponovno.</string>
+     <string name="tsb_action_err_fast">"Prenosa ni bilo mogoče nadaljevati. Poskusite znova jutri."</string>
+     <string name="tsb_action_file_failed">Razumem</string>
+     <string name="tsb_action_need_retry">Poskusi znova</string>
+     <string name="tsb_action_not_started">Prenos stvari</string>
+     <string name="tsb_action_show_details">Pokaži podrobnosti</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
@@ -3351,6 +3479,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="turn_on_sync">Vključi sinhr.</string>
      <string name="unchecked">Prekliči izbrano</string>
      <string name="unchecked_something">Prekliči %s</string>
+     <string name="unknown_error_info">Neznana napaka</string>
      <string name="unpublish_failed">"Ne morem preklicati objave"</string>
      <string name="unpublish_succeeded">Album ni objavljen!</string>
      <string name="unpublishing">Preklic…</string>
@@ -3365,12 +3494,17 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slik ni podprto v tej verziji Androida. Vseeno prenesem?"</string>
      <string name="unsupported_media_scanned_tip">"Najdeno je %1$s slik. Gledanje %2$s slik ni podprto v tej verziji Androida."</string>
      <string name="unsupported_media_view_tip">"Gledanje originalnih %s slik ni podprto v tej verziji Androidaa"</string>
+     <string name="update_GP_app_btn_update">Posodobi</string>
+     <string name="update_GP_app_msg">Če želite vklopiti varnostno kopiranje, morate posodobiti Google Foto. Za nadaljevanje se vrnite na to stran, ko posodobite Google Foto.</string>
+     <string name="update_GP_app_title">Posodobi Google Foto</string>
      <string name="update_apk_size">Velikost posodobitve: %s MB</string>
      <string name="update_btn_exit">Izhod</string>
      <string name="update_btn_negative">Kasneje</string>
      <string name="update_btn_positive">Posodobi</string>
      <string name="update_check">Preveri za posodobitve</string>
      <string name="update_check_title">Trenutna verzija: %s</string>
+     <string name="update_email_address_dialog_message">Preden posodobite obnovitveni e-poštni naslov, morate potrditi svojo identiteto.</string>
+     <string name="update_email_address_dialog_title">Posodobi obnovitveni e-poštni naslov</string>
      <string name="update_ignore">Prezri to različico</string>
      <string name="update_latest_version">Trenutna različica je posodobljena</string>
      <string name="update_network_error">Preverite omrežne nastavitve in poskusite znova</string>
@@ -3379,7 +3513,21 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="user_agree">Strinjam se</string>
      <string name="user_agreement2">Pogoji uporabe</string>
      <string name="user_agreement4">Pravila o zasebnosti</string>
+     <string name="user_agreement_hint_3rd_app"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji in določila storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%5$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_default_1"><Data>Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a></Data></string>
+     <string name="user_agreement_hint_default_extra"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti.&lt;/a> Prva prijava bo samodejno ustvarila račun Xiaomi"</Data></string>
+     <string name="user_agreement_hint_first_login">"Če svojo telefonsko številko uporabljate prvič, bomo samodejno ustvarili račun."</string>
+     <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji in določila storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
+     <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
      <string name="user_alias_self">Sam</string>
+     <string name="user_avatar_update_title">Spremeni fotografijo profila</string>
+     <string name="user_avatar_uploading">Delam…</string>
+     <string name="user_name_phone_number">Telefonska številka</string>
      <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z &amp;lt;a href=\"%1$s\"&amp;gt;\"Pogoji uporabe\"&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o zasebnosti\"</string>
      <string name="user_notice_title">Pozor</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
@@ -3767,6 +3915,8 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="weibo_login_btn_content_description">Prijava z Weibo</string>
+     <string name="weixin_login_btn_content_description">Prijava z WeChat</string>
      <string name="welcome_to_micloud">Dobro došli v Mi Cloud</string>
      <string name="welcome_to_slim">Optimizirajte lokalno shrambo</string>
      <string name="where_is_barcode">"Kje je QR koda?"</string>

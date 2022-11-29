@@ -18,12 +18,12 @@
      <string-array name="settings_search_saturn">
         <item>Saturnovi prstani</item>
         <item>Slika ozadja/Super Slika ozadja/Saturnovi prstani</item>
-        <item>Planet;Saturn;Super Slika ozadja;Slika ozadja</item>
+        <item>Saturn;Saturnovi prstani;Super Slika ozadja;Slika ozadja</item>
      </string-array>
      <string-array name="settings_search_snowmountain">
         <item>Sneženi vrhovi</item>
         <item>Slika ozadja/Super Slika ozadja/Sneženi vrhovi</item>
-        <item>Zemlja;Planine;Super Slika ozadja;Slika ozadja</item>
+        <item>Sneženi vrhovi;Gore;Super Slika ozadja;Slika ozadja</item>
      </string-array>
      <string-array name="settings_search_superwp">
         <item>Super Slika ozadja</item>
