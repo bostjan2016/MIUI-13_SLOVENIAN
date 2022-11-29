@@ -613,6 +613,7 @@ Preverite SIM kartico."</string>
 Sporočilo je nezaželjeno."</string>
      <string name="mms_block_hint_highlight">Blokiraj MMS</string>
      <string name="mms_main_purpose">"Da izkoristite vse zmožnosti sporočil vključite Mi sporočila in Smart sporočila."</string>
+     <string name="mms_main_purpose_new">Ta aplikacija se mora povezati s spletom, da vam zagotovi osnovne storitve. Priporočamo, da vklopite storitve Mi sporočila in Pametna sporočila.</string>
      <string name="mms_mi_message_main_purpose">Dobrodošli v Mi Sporočila! Za aktiviranje Mi Sporočila je potrebno odhodno sporočilo SMS. Vaš operater vam lahko zaračuna to sporočilo.</string>
      <string name="mms_mi_message_request_notice">Želimo, da kar najbolje izkoristite Mi Sporočila.</string>
      <string name="mms_mx_privacy_policy">Mi Sporočila Pravila o zasebnosti</string>
@@ -1392,6 +1393,7 @@ Oglejte si priporočene!"</string>
      <string name="system_permission_declare_agree">Strinjam se</string>
      <string name="system_permission_declare_disagree">Prekliči</string>
      <string name="system_permission_declare_double_link" formatted="false">Preberite in sprejmite naše %1s in %2s pred uporabo.</string>
+     <string name="system_permission_declare_exit">Izhod</string>
      <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! %2s</string>
      <string name="system_permission_declare_mi_message">Dobrodošli v Mi sporočila!</string>
      <string name="system_permission_declare_no_say_no">"Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.
@@ -1557,6 +1559,7 @@ Oglejte si priporočene!"</string>
      <string name="voip_enable">Mi sporočila in Voice</string>
      <string name="voip_enable_popup_msg">"Kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
      <string name="voip_enable_popup_msg2">Pravila o zasebnosti</string>
+     <string name="wait_for_sp_mark_as_read">Delam…</string>
      <string name="wap_push_title">[WAP Push]</string>
      <string name="warning_show">Pošlji za %ds</string>
      <string name="web_content_invalid_hint">Prikazovanje tega predmeta je omejeno z lokalnimi zakoni in predpisi</string>

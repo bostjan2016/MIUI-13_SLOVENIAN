@@ -229,6 +229,8 @@
      <string name="auto_download_in_wifi">Samodejno prenesi priljubljene preko WiFi</string>
      <string name="auto_payment">Samod. obnovi</string>
      <string name="auto_payment_date">Naslednje plačilo: %s</string>
+     <string name="auto_play_switch">Samodejno predvajanje videoposnetkov</string>
+     <string name="auto_play_toast">Samodejno predvajanje je vklopljeno. Izklopite ga lahko v nastavitvah.</string>
      <string name="auto_recommend">Samod. (priporočeno)</string>
      <string name="auto_restart_under_wifi">Datoteka bo samodejno prenešena ko boste povezani na WiFi</string>
      <string name="auto_sound_quality">Samod.</string>

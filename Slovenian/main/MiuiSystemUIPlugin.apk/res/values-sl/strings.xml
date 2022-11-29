@@ -53,6 +53,7 @@
      <string name="accessibility_volume_expand">Razširjanje</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">pop.</string>
+     <string name="airplane">Letalo</string>
      <string name="airplane_mode">Letalski način</string>
      <string name="already_in_small_freeform">Nekatere aplikacije se odpirajo v plavajočih oknih</string>
      <string name="am">dop.</string>
@@ -475,7 +476,10 @@ Dolgotrajno poslušanje visoke glasnosti lahko poškoduje vaš sluh."</string>
      <string name="save">Shrani</string>
      <string name="search_menu_title">Išči</string>
      <string name="send">Pošlji</string>
+     <string name="silent">Tiho</string>
      <string name="slider_view_content_description">Podrsajte gor za izklop ali dol za ponovni zagon</string>
+     <string name="slider_view_content_left_description">Potisnite navzgor za ponovni zagon v način Fastboot ali povlecite navzdol za ponovni zagon v način Recovery</string>
+     <string name="slider_view_content_right_description">Povlecite navzgor, da preklopite v letalski način, ali povlecite navzdol, da preklopite v tihi način</string>
      <string name="smart_home_title">Pametne naprave</string>
      <string name="status_bar_setting_title">Center za kontrolo &amp; vrstica obvestil</string>
      <string name="sunday">Nedelja</string>

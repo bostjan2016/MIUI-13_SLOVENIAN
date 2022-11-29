@@ -5788,6 +5788,7 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="legacy_dhcp_client_summary">Uporaba odjemalca DHCP za Lollipop namesto novega odjemalca DHCP za Android.</string>
      <string name="legacy_navigation_summary">Za pomik nazaj, vrnitev na začetni zaslon in preklop med aplikacijami uporabite gumbe nad dnu zaslona.</string>
      <string name="legacy_navigation_title">Krmarjenje s tremi gumbi</string>
+     <string name="legacy_power_menu">Starejši meni za vklop</string>
      <string name="legal_information">Pravne informacije</string>
      <string name="legal_workday">Delovni dnevi</string>
      <string name="legal_workday_invalidate">Pon-Pet (potekli podatki o praznikih)</string>

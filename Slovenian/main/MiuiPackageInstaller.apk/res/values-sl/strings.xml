@@ -956,6 +956,7 @@ Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
      <string name="screen_overlay_title">Zaznano prekrivanje zaslona</string>
      <string name="search_menu_title">Išči</string>
      <string name="second_recomment_ad_title">Ljudjem, ki so namestili &lt;font color=#0BAE73>%1$s&lt;/font> je všeč tudi</string>
+     <string name="security_auth_msg">Potrdite svojo identiteto</string>
      <string name="security_mode_close_feedback">Hvala za uporabo varnega načina</string>
      <string name="security_mode_feedback_commit">Predloži</string>
      <string name="security_mode_feedback_multiple_choice">" (Izberite vse ustrezno)"</string>

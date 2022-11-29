@@ -80,7 +80,7 @@
      <string name="aqi_data_source">Ponuja Colorful Clouds</string>
      <string name="aqi_desc">Indeks kakovosti zraka</string>
      <string name="aqi_detail_24_hours">%d-urna napoved</string>
-     <string name="aqi_detail_5_days">5-dnevna napoved</string>
+     <string name="aqi_detail_5_days">%d-dnevna napoved</string>
      <string name="aqi_detail_co">CO</string>
      <string name="aqi_detail_co_unit">Enota: mg/m³</string>
      <string name="aqi_detail_no2">NO₂</string>

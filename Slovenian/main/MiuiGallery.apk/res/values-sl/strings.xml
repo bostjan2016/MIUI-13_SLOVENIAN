@@ -53,8 +53,37 @@
      <string name="acc_video_play_btn">Tipka Predvajaj</string>
      <string name="accept">Sprejmi</string>
      <string name="accept_or_deny">%1$s deli album %2$s s teboj.</string>
+     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
+     <string name="account_crop_user_avatar">Obreži fotografijo</string>
+     <string name="account_empty_user_name">Vnesite uporabniško ime za račun Mi</string>
+     <string name="account_error_all_space_user_name">"Uporabniško ime ne sme vsebovati samo presledkov"</string>
+     <string name="account_error_invalid_user_name">"Uporabniško ime ne sme vsebovati &lt;, >, ali /"</string>
+     <string name="account_error_longer_user_name">"Ime ne sme biti daljše od 20 znakov"</string>
+     <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
+     <string name="account_error_user_birthday">Rojstni dan, ki ste ga vnesli ni veljaven</string>
+     <string name="account_error_user_name">Ta vzdevek ni veljaven. Poskusite z drugim.</string>
+     <string name="account_invalid_user_avatar">Ta fotografija ni veljavna. Poskusite z drugo.</string>
+     <string name="account_limit_update_birthday">"Datuma rojstva trenutno ni mogoče posodobiti"</string>
+     <string name="account_no_set">Nič</string>
+     <string name="account_none_bind_info">Nič</string>
+     <string name="account_none_user_name">Nič</string>
+     <string name="account_secure_info_pref_title">Podatki o računu</string>
+     <string name="account_security_info_pref_title">Varnostne informacije</string>
+     <string name="account_user_avatar">Profilna fotografija</string>
+     <string name="account_user_avatar_from_album">Galerija</string>
+     <string name="account_user_avatar_from_camera">Kamera</string>
+     <string name="account_user_base_info">Osnovne informacije</string>
+     <string name="account_user_details">Osebne informacije</string>
+     <string name="account_user_email">E-pošta za obnovitev</string>
+     <string name="account_user_gender">Spol</string>
+     <string name="account_user_id">Mi račun ID</string>
+     <string name="account_user_name">Vzdevek</string>
+     <string name="account_user_name_dialog_title">Vnesite uporabniško ime</string>
+     <string name="account_user_phone">Telefon za obnovitev</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="actionbar_overflow_item_desc">Več opcij</string>
+     <string name="activate_email_notice">Poskrbite, da boste svoj račun aktivirali v 24 urah</string>
+     <string name="activity_not_found_notice">"Ne najdem aplikacije"</string>
      <string name="add_automatically_alert_msg">Dodam fotografije od \"%1$s\" v ta album samodejno?</string>
      <string name="add_automatically_alert_title">Dodaj fotografije samodejno</string>
      <string name="add_nomedia_with_move_to_rubbish">Dodaj \".nomedia\" datoteke v izbrane albume da jih napravite nevidne ostalim aplikacijam</string>
@@ -75,6 +104,7 @@
      <string name="add_to_secret_failed_with_reason">"Ne more biti dodano v skriti album. %1$s."</string>
      <string name="add_to_secret_successful">Dodano v skriti album</string>
      <string name="add_to_share_album_not_delete">"Ne morem izbrisati fotografije v deljenem albumu"</string>
+     <string name="add_to_trust_device">To je zaupanja vredna naprava</string>
      <string name="added_to_favorites">Dodano v priljubljene</string>
      <string name="added_to_favorites_desc">Dodano v priljubljene</string>
      <string name="added_to_favorites_tip">Dodano v album \"Priljubljeno\"</string>
@@ -257,6 +287,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="associate_face_album">Izberi album</string>
      <string name="asus">Asus</string>
      <string name="asus_phone">Asus</string>
+     <string name="auth_fail_warning">Seja je potekla. Ponovno se prijavite.</string>
      <string name="authorize_to_device_failed">"Ne morem avtorizirati"</string>
      <string name="authorize_watch_on_tv_failed">"Ne morem avtorizirati za gledanje na TV"</string>
      <string name="auto_backup_introduce">Samodejno sinhroniziraj fotografije in videoposnetke (potreben je Mi Račun)</string>
@@ -296,6 +327,15 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="baby_sexy">Spol</string>
      <string name="baby_suffix">Otrok</string>
      <string name="back">Nazaj</string>
+     <string name="back_up_gp_btn_no">Ne zdaj</string>
+     <string name="back_up_gp_btn_no_again">"Ne kaži več"</string>
+     <string name="back_up_gp_btn_no_migrating">Ne, hvala</string>
+     <string name="back_up_gp_btn_setup">Vklopi varnostno kopiranje</string>
+     <string name="back_up_gp_btn_setup_migrating">Nastavitve</string>
+     <string name="back_up_gp_msg">"Samodejno shranite svoje fotografije in videoposnetke v Google Račun tako, da vklopite varnostno kopiranje v Google Foto.
+• Prihodnje storitve bodo morda zahtevale dodatna dovoljenja v Galeriji Xiaomi in Google Foto."</string>
+     <string name="back_up_gp_msg_migrating">Stvari iz oblaka se zdaj prenašajo v Google Foto. Nastavite varnostno kopiranje v storitvi Google Foto, da boste lahko nadaljevali s sinhronizacijo novih stvari.</string>
+     <string name="back_up_gp_title">Var. kopiraj z Google Foto</string>
      <string name="background_picture">Ozadje %1$d</string>
      <string name="backup_automatically_summary">Sinhronizirajte fotografije in videoposnetke na vseh napravah na Mi Cloud. Lahko varno pregledujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
      <string name="backup_automatically_title">Samodejno sinhroniziraj</string>
@@ -335,6 +375,12 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="backup_pause_title">Sinhronizacija je pavzirana</string>
      <string name="backup_pending">Samodejno bo var. kopiran</string>
      <string name="backup_settings">Sinhronizacija z oblakom</string>
+     <string name="backup_settings_banner_msg_off">Varnostno kopirajte svoje fotografije in videoposnetke z Google Foto, da bodo vsi vaši spomini varni</string>
+     <string name="backup_settings_banner_msg_on">Oglejte si stanje varnostnega kopiranja v Google Foto</string>
+     <string name="backup_settings_banner_title_not_allow">Google Photos var. kopija</string>
+     <string name="backup_settings_banner_title_off">Varnostno kopiranje izključeno</string>
+     <string name="backup_settings_banner_title_on">Varnostno kopiranje vključeno</string>
+     <string name="backup_settings_jump_err">"Varnostnega kopiranja Google Foto ni bilo mogoče vklopiti"</string>
      <string name="backup_settings_more">Dodatne nastavitve</string>
      <string name="backup_stop">Ustavi izdelavo</string>
      <string name="backup_sync_dialog_confirm">Vključi</string>
@@ -439,10 +485,12 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="cd_btn_back">Tipka Nazaj</string>
      <string name="cd_revoke">Prekliči</string>
      <string name="cd_zidingyianniu">Tipka za prilagoditev velikosti slik</string>
+     <string name="change_activate_email">Spremenite naslov e-pošte</string>
      <string name="change_baby_album_choose_from_photos">Galerija</string>
      <string name="change_baby_album_dialog_title">Spremeni fotografijo profila</string>
      <string name="change_baby_album_name">Spremeni fotografijo profila</string>
      <string name="change_baby_album_take_photos">Kamera</string>
+     <string name="change_password">Spremenite geslo</string>
      <string name="change_to_face_mode">Pokaži samo obraz</string>
      <string name="change_to_photo_mode">Pokaži celoten pregled</string>
      <string name="change_to_visible">Vrnem osebo?</string>
@@ -514,6 +562,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="close_dialog_desc">Zapri dialoški okvir</string>
      <string name="cloud_action_open">Vklopi</string>
      <string name="cloud_action_upgrade">Nadgradi</string>
+     <string name="cloud_action_upgrade_free">Nadgradi zastonj</string>
      <string name="cloud_action_view">Pokaži</string>
      <string name="cloud_authorize_to_share_to_device">Avtorizirajte gledanje stvari na televizorjih povezanih z vašim Mi Računom</string>
      <string name="cloud_authorizing_to_device">Avtorizacija…</string>
@@ -587,6 +636,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="collage_title_poster">Poster</string>
      <string name="collage_title_stitching">Filmska rola</string>
      <string name="collaps_people">Skrij osebe</string>
+     <string name="collect_diagnosis_log">Zberi poročila</string>
      <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
      <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
      <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
@@ -599,6 +649,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
      <string name="comma_separator">,</string>
      <string name="confirm">V redu</string>
+     <string name="confirm_activate_email">Preverjeno</string>
      <string name="confirm_cancel_task_files">Odpovem pošiljanje datotek %1$s?</string>
      <string name="confirm_cancel_task_images">Odpovem pošiljanje slik %1$s?</string>
      <string name="confirm_delete_selected_albums">Izbrišem izbrane albume?</string>
@@ -620,7 +671,13 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="context_menu_add_contact">Dodaj v stike</string>
      <string name="context_menu_copy">Kopiraj</string>
      <string name="context_menu_copy_notice">Kopirano v odložišče</string>
+     <string name="continue_back_up_gp_btn_setup">Odpri</string>
+     <string name="continue_back_up_gp_msg">Če želite dokončati vklop varnostnega kopiranja, odprite Google Foto.</string>
+     <string name="continue_back_up_gp_title">Odprite Google Foto</string>
      <string name="continue_feedback">Dodatne povratne informacije</string>
+     <string name="continue_migration_msg">Nekatere vaše fotografije in videoposnetki so bili preneseni v Google Foto. Nadaljujte prenos zdaj, da ne izgubite ničesar pomembnega, ko sinhronizacija s Xiaomi Cloud ne bo več na voljo.</string>
+     <string name="continue_migration_ok">Nadaljuj</string>
+     <string name="continue_migration_title">Nadaljuj prenos</string>
      <string name="contrast">Kontrast</string>
      <string name="contrast_abbr">K</string>
      <string name="cool">Cool</string>
@@ -711,9 +768,16 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="device_storage_space_low_textline_button">Začni</string>
      <string name="device_storage_space_low_textline_des">"Osvobodite %s prostora. "</string>
      <string name="device_type_pc">Računalnik</string>
+     <string name="diagnosis_log_send_failed">"Poročil ni bilo mogoče poslati. Poskusite ponovno."</string>
+     <string name="diagnosis_log_sent_format">"Poročila poslana.
+ID:%s
+Pošljite to kodo nadzorniku."</string>
      <string name="disable_auto_upload_tip">"Izključim sinhr. z Mi Cloudom za ta album?"</string>
      <string name="disable_auto_upload_title">Izključi sinhr. z Mi Cloud</string>
      <string name="disable_secret_album_upload_message">Nove fotografije ne bodo več sinhronizirane z oblakom, če izklopite to storitev. Vseeno izklopim?</string>
+     <string name="disconnect_migration_btn_disconnect">Ustavi</string>
+     <string name="disconnect_migration_msg">Fotografije in videoposnetki, ki so že bili preneseni, bodo ostali v Google Foto.</string>
+     <string name="disconnect_migration_title">Ustavim prenos?</string>
      <string name="do_not_remind_me">"Ne kaži več"</string>
      <string name="do_not_save">"Ne shranjuj"</string>
      <string name="document_provider_guide_step_1">%d. Tapni tipko \"Več\".</string>
@@ -722,6 +786,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="document_provider_guide_step_4">%d. Tapni \"SD kartica\".</string>
      <string name="document_provider_guide_step_5">%d. Tapni \"Izberi\".</string>
      <string name="documentary">Dokumentarec</string>
+     <string name="doing_query_account">Preverjanje podatkov o računu…</string>
      <string name="dolby_vision_icon">Ikona Dolby Vision</string>
      <string name="doodle">Risba</string>
      <string name="doodle_big_size">Veliko</string>
@@ -831,6 +896,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="error_connect_timeout_tip">Povezava je potekla.</string>
      <string name="error_decode_tip">"Format datoteke ni podprt ali pa so datoteke poškodovane."</string>
      <string name="error_download_tip">"Ne morem prenesti"</string>
+     <string name="error_dup_binded_email">Ta e-poštni naslov je že povezan z drugim računom Mi.</string>
      <string name="error_external_sdcard_write_action">Spremeni shrambo</string>
      <string name="error_external_sdcard_write_msg">Pojdite v Nastavitve &gt; Shramba, zamenjajte shrambo in poskusite ponovno.</string>
      <string name="error_external_sdcard_write_tip">"Ni možno shraniti datoteke na SD kartico."</string>
@@ -839,6 +905,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="error_install_sdcard_not_available">"Ne morem prebrati dodatka zaradi napake SD kartice."</string>
      <string name="error_install_storage_not_enough">Osvobodite nekaj prostora v vaši napravi za branje dodatka.</string>
      <string name="error_internal_sdcard_write_tip">Prišlo je do napake. Ponovno zaženite napravo in poskusite ponovno.</string>
+     <string name="error_invalid_bind_address">E-poštni naslov, ki ste ga vnesli ni veljaven.</string>
      <string name="error_invalid_link">Povezava ni pravilna</string>
      <string name="error_link_has_expired">Povezava je potekla</string>
      <string name="error_network_restrict_action">Pokaži podrobnosti</string>
@@ -883,6 +950,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="error_unknown_msg">Prišlo je do napake. Pošljite nam povratne informacije.</string>
      <string name="error_unknown_tip">Prišlo je do napake.</string>
      <string name="evening">Zvečer</string>
+     <string name="exceed_binded_phone_times_notice">Ta telefonska številka je že povezana z drugim računom Mi.</string>
      <string name="exif_tag_smart_fusion">Pametna fuzija</string>
      <string name="exif_title_smart_fusion">Izboljšanje slike:</string>
      <string name="exit">Izhod</string>
@@ -926,6 +994,7 @@ Napravite več fotografij vaših prijateljev!"</string>
      <string name="face_name_edit">Uredi</string>
      <string name="face_name_input">Vnesite ime</string>
      <string name="face_recommend">Priporočila</string>
+     <string name="facebook_login_btn_content_description">Prijava z Facebook</string>
      <string name="facelift">Ten obraza</string>
      <string name="facetan">Zagorel obraz</string>
      <string name="fail_hint">Opravilo spodletelo</string>
@@ -1248,6 +1317,7 @@ za fotografije"</string>
      <string name="foods_travel_title_one">Okus %1$s</string>
      <string name="foods_travel_title_three">"Hrana %1$s"</string>
      <string name="foods_travel_title_two">%1$s hrana</string>
+     <string name="for_diagnosis_usage_only">Poročila se uporabljajo samo za diagnostiko.</string>
      <string name="frame_black">Črna</string>
      <string name="frame_button">Okvir</string>
      <string name="frame_classic">Klasično</string>
@@ -1269,7 +1339,11 @@ za fotografije"</string>
      <string name="gallery_uninstall_description_title">Odstranim Galerijo?</string>
      <string name="generate_story_summary">"Naredite dovolj fotografij, priključite polnilnik in izklopite zaslon, da se prikažejo spomini. Že ustvarjeni spomini ne bodo izginili, če izklopite to storitev."</string>
      <string name="generate_story_title">Spomini</string>
+     <string name="get_GP_app_btn_install">Namesti</string>
+     <string name="get_GP_app_msg">Če želite vklopiti varnostno kopiranje, morate namestiti Google Foto. Za nadaljevanje se vrnite na to stran, ko namestite Google Foto.</string>
+     <string name="get_GP_app_title">Namesti Google Foto</string>
      <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
+     <string name="get_phone_verifycode_exceed_limit">Na to številko je bilo poslanih preveč kod za preverjanje. Počakajte 24 ur in poskusite znova.</string>
      <string name="get_user_info_btn_text">Išči</string>
      <string name="get_user_info_edit_text_hint">Telefon/E-pošta/Xiaomi račun</string>
      <string name="get_user_info_failed_hint">"Ne najdem te osebe"</string>
@@ -1279,6 +1353,7 @@ za fotografije"</string>
      <string name="global_pad">Moja tablica</string>
      <string name="global_pc">Moj prenosnik</string>
      <string name="global_phone">Moj telefon</string>
+     <string name="google_login_btn_content_description">Prijava z Google</string>
      <string name="grain">Zrnatost filma</string>
      <string name="grant_permission_go_and_set">Nastavi</string>
      <string name="grant_permission_go_and_set_2">Nastavitve</string>
@@ -1353,6 +1428,7 @@ za fotografije"</string>
      <string name="hybrid_pull_to_refresh_release_label">Pusti za osvežitev…</string>
      <string name="hybrid_service_unavailiable">Storitev ni na voljo</string>
      <string name="hybrid_try_again">Poskusi ponovno</string>
+     <string name="i_know">Razumem</string>
      <string name="id_photo_cancel_download">Prekliči</string>
      <string name="id_photo_download">Prenesi</string>
      <string name="id_photo_download_failed_for_notwork">"Ne morem prenesti. Preverite omrežne nastavitve in poskusite znova."</string>
@@ -1384,6 +1460,7 @@ za fotografije"</string>
      <string name="input_a_name">Vnesite ime</string>
      <string name="input_baby_name">Vnesite ime</string>
      <string name="input_baby_nick_name">Vnesite vzdevek</string>
+     <string name="input_email_address_notice">"To e-pošto bomo uporabili za preverjanje vašega računa"</string>
      <string name="input_nickname_toast">"Vnesite ime otroka"</string>
      <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
      <string name="input_relation_name">Vnesi ime skupine</string>
@@ -1473,6 +1550,12 @@ za fotografije"</string>
      <string name="local_secret_tip">Ko je ta storitev vklopljena, se vse zasebne stvari sinhronizirajo z oblakom. Nastavitve lahko spremenite v Nastavitve > Sinhronizacija z oblakom > Urejanje sinhroniziranih albumov > Zasebni album.</string>
      <string name="local_space_full_button_text">Očisti prostor</string>
      <string name="login_and_enable_service">Za uporabo Mi Clouda se prijavite</string>
+     <string name="login_by_local_phone_long_text">Prijavite se</string>
+     <string name="login_by_local_phone_short_text">Prijavite se</string>
+     <string name="login_other">Drug Mi račun</string>
+     <string name="login_register_by_local_phone_long_text">Ustvari račun</string>
+     <string name="login_with_sns">Drugi načini prijave</string>
+     <string name="logout_account">Odjava</string>
      <string name="lomoish">Lomo</string>
      <string name="long_press_to_refocus">Tapni &amp; zadrži za ponovno fokusiranje</string>
      <string name="look_baby_info">Ogled informacij o otroškem albumu</string>
@@ -1663,6 +1746,16 @@ za fotografije"</string>
      <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
      <string name="micloud_introduce">Samodejno sinhroniziraj fotografije in videoposnetke (potreben je Mi Račun)</string>
      <string name="midnight">Polnoč</string>
+     <string name="migrate_gp_bottom_msg_0">Če želite svoje predmete premakniti v Google Foto, morate dodati Google račun in podjetju Xiaomi podeliti dovoljenje:</string>
+     <string name="migrate_gp_bottom_msg_1">Ko premaknete svoje stvari v Google Foto, bodo vse vaše galerijske mape (vključno z zasebnimi stvarmi) izbrisane.</string>
+     <string name="migrate_gp_bottom_msg_li_0">Oglejte si priporočila glede upravičenosti do članstva v storitvi Google One in prostora za shranjevanje</string>
+     <string name="migrate_gp_bottom_msg_li_1">Dodajte v svojo knjižnico Google Foto</string>
+     <string name="migrate_gp_btn_migrate">Premakni v Google Foto</string>
+     <string name="migrate_gp_btn_no">Ne zdaj</string>
+     <string name="migrate_gp_msg">"Vaše fotografije in videoposnetki ne bodo več sinhronizirani z Xiaomi Cloud. Do %1$s lahko premaknete svoje stvari v Google Photos ali obiščete i.mi.com, da jih prenesete. Po tem bodo stvari, ki so še vedno shranjene v oblaku Xiaomi, trajno izbrisane.
+%2$s"</string>
+     <string name="migrate_gp_msg_link">Pokaži podrobnosti</string>
+     <string name="migrate_gp_title">Sinhronizacija z oblakom ni več na voljo</string>
      <string name="migrate_msg">Nekateri albumi zahtevajo dovoljenja za premikanje stvari po posodobitvi sistema.</string>
      <string name="miplay_adjust_volume">Nastavite glasnost na %d</string>
      <string name="miplay_circulate_failed">"Predvajanja ni bilo mogoče prenesti. Počakajte minuto ali dve in poskusite znova."</string>
@@ -1673,6 +1766,7 @@ za fotografije"</string>
      <string name="miplay_stop_video">Ustavi predvajanje videa</string>
      <string name="miplay_volume_btn">Glasnost</string>
      <string name="mishare_all_devices">Vse naprave</string>
+     <string name="mishop_login_other">Drug račun</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Indeksna vrstica</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči izbrano</string>
@@ -1853,7 +1947,9 @@ za fotografije"</string>
      <string name="need_to_turn_on_wlan">Povežite se na WiFi</string>
      <string name="negative">Negativ</string>
      <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
+     <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_message">"Ta storitev se mora za normalno delovanje povezati z omrežjem. Kaže, da ta naprava ni povezana z omrežjem WiFi. Ali želite nadaljevati z mobilnimi podatki? Uporaba mobilnih podatkov lahko povzroči dodatne stroške operaterja."</string>
+     <string name="network_timeout_info">"Ne morem se povezati na omrežje. Poskusite znova."</string>
      <string name="network_title">Poveži se z omrežjem</string>
      <string name="network_unsatisfied_button_text">Poveži se na omrežje</string>
      <string name="new_album_invalid_byte">Ime je predolgo</string>
@@ -1866,6 +1962,7 @@ za fotografije"</string>
      <string name="next">Naprej</string>
      <string name="night">Večer</string>
      <string name="no">Ne</string>
+     <string name="no_account">Niste prijavljeni</string>
      <string name="no_ignore_faces">Ni oseb</string>
      <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo te storitve</string>
      <string name="no_network">"Ne morem se povezati na omrežje"</string>
@@ -1873,6 +1970,9 @@ za fotografije"</string>
      <string name="no_network_connected">Ni dostopnih omrežij</string>
      <string name="noon">Poldne</string>
      <string name="not_ask_any_more">"Ne sprašuj ponovno za \"%s\" odgovore"</string>
+     <string name="not_enough_space_msg_with_email">"Ta Google Račun %1$s nima dovolj prostora za shranjevanje v oblaku za začetek prenosa. Znova začnite prenos in nadgradite svoj načrt prostora za shranjevanje, ko vidite ustrezen poziv."</string>
+     <string name="not_enough_space_ok">Začnite znova</string>
+     <string name="not_enough_space_title">Premalo prostora</string>
      <string name="not_is">Ne</string>
      <string name="not_remind_again">"Ne kaži več"</string>
      <string name="not_remind_any_more">"Ne kaži več"</string>
@@ -1926,6 +2026,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="open">Vključi</string>
      <string name="open_public_message">Ustvari povezavo za deljenje s prijatelji</string>
      <string name="open_public_title">Deli</string>
+     <string name="open_settings">Nastavitve</string>
      <string name="operate_processing_file_error">Počakajte dokler se ne obdelajo vse fotografije.</string>
      <string name="operate_with_metered_network_msg">Vaša naprava je povezana s plačljivim omrežjem. Nadaljujem?</string>
      <string name="operation_add_album">Dodaj v album</string>
@@ -2017,6 +2118,34 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="paint_highlight">Risarija</string>
      <string name="paint_highlight_cancel_context">Shranim narisano sliko?</string>
      <string name="paint_highlight_cancel_title">Zavrzi spremembe</string>
+     <string name="passport_access_denied">Dostop zavrnjen</string>
+     <string name="passport_account_name">"Račun: %1$s "</string>
+     <string name="passport_area_code_title">Področna koda</string>
+     <string name="passport_auth_title" />
+     <string name="passport_bad_authentication">Napačno uporabniško ime ali geslo</string>
+     <string name="passport_can_not_recevie_verify_code">"Niste prejeli kode?"</string>
+     <string name="passport_checking_account">Preverjanje gesla…</string>
+     <string name="passport_clear_input">Počisti vneseno vsebino</string>
+     <string name="passport_copy_link">Kopiraj URL</string>
+     <string name="passport_copy_to_clipboard_successful">Kopirano</string>
+     <string name="passport_country_area_china">CN</string>
+     <string name="passport_country_code_china">+86</string>
+     <string name="passport_dialog_captcha_title">Koda</string>
+     <string name="passport_dialog_doing_login">Prijava…</string>
+     <string name="passport_dialog_doing_register">Ustvarjam račun…</string>
+     <string name="passport_dialog_is_my_account">Da</string>
+     <string name="passport_dialog_is_your_mi_account">Je to vaš račun Xiaomi?</string>
+     <string name="passport_dialog_loading">Delam…</string>
+     <string name="passport_dialog_nick_name_prefix">Vzdevek: %s</string>
+     <string name="passport_dialog_phone_number_prefix">Tel. številka: %s</string>
+     <string name="passport_dialog_register_other">"Ne, ga bom ustvaril."</string>
+     <string name="passport_email">Naslov e-pošte</string>
+     <string name="passport_empty_password">"Geslo ne sme biti prazno"</string>
+     <string name="passport_error_auth_fail">Seja je potekla. Ponovno se prijavite.</string>
+     <string name="passport_error_device_id">"ID-ja naprave ni mogoče dobiti"</string>
+     <string name="passport_error_dynamic_token_error">Koda za preverjanje ni pravilna</string>
+     <string name="passport_error_email">E-poštni naslov, ki ste ga vnesli ni veljaven</string>
+     <string name="passport_error_empty_email">Vnesite elektronski naslov</string>
      <string name="pc_device_model_name">Računalnik</string>
      <string name="pc_redmi_device_model_name">Redmi prenosnik</string>
      <string name="pc_xiaomi_device_model_name">Xiaomi prenosnik</string>
@@ -2895,6 +3024,15 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="sticker_tab_talkback_summer_day">Poletje</string>
      <string name="sticker_tab_talkback_words">Besede</string>
      <string name="sticker_words">Besede</string>
+     <string name="stop_migration_msg">"Prenosa ne boste mogli nadaljevati, če ga ustavite zdaj. Če se odločite ustaviti prenos, lahko obiščete i.mi.com in prenesete stvari, ki so še vedno shranjene v oblaku Xiaomi."</string>
+     <string name="stop_migration_ok">Ustavi</string>
+     <string name="stop_migration_title">Ustavim prenos?</string>
+     <string name="stop_use_secret_cancel">Ne zdaj</string>
+     <string name="stop_use_secret_msg">"Vaše fotografije in videoposnetki niso več sinhronizirani s storitvijo Xiaomi Cloud. Zasebnega albuma ne boste mogli uporabljati, ker se zanaša na šifriranje v oblaku.
+Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da jih prenesete. Po tem bodo stvari, ki so še vedno shranjene v oblaku Xiaomi, trajno izbrisane.
+%2$s"</string>
+     <string name="stop_use_secret_ok">Prenos predmetov</string>
+     <string name="stop_use_secret_title">Zasebni album ni več na voljo</string>
      <string name="storage_description_primary">Notranji pomnilnik</string>
      <string name="storage_description_sdcard">SD kartica</string>
      <string name="storage_description_usb">USB shramba</string>
