@@ -86,6 +86,9 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptivni avdio</item>
+        <item>Qualcomm® aptX™ TWS+ avdio</item>
+        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
         <item>Uporabi sistemsko izbiro (privzeto)</item>
@@ -94,6 +97,9 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptivni avdio</item>
+        <item>Qualcomm® aptX™ TWS+ avdio</item>
+        <item>LC3</item>
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -127,12 +133,16 @@
         <item>Onemogočeno</item>
         <item>Omogočeno filtrirano</item>
         <item>Omogočeno</item>
+        <item>Omogočene glave filtrirane</item>
+        <item>Omogočeni mediji Pkts filtrirani</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
         <item>filtrirano</item>
         <item>polno</item>
-     </string-array>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
      <string-array name="cached_apps_freezer_values">
         <item>privzeto</item>
         <item>omogočeno</item>

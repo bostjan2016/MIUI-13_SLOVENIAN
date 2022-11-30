@@ -246,6 +246,7 @@
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="night">Noč</string>
      <string name="no_sim_card_inserted">Vstavite SIM za zagon Orodja za SIM.</string>
      <string name="noon">Poldne</string>

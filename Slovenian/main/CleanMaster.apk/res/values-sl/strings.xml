@@ -872,8 +872,8 @@
      <string name="powerful_acceleration_notification_summary">Dotaknite se, da sprostite več prostora</string>
      <string name="powerful_acceleration_notification_title">Defragmentacija končana</string>
      <string name="powerful_acceleration_tip">Notranji pomnilnik trpi zaradi razdrobljenosti, ki lahko znatno upočasni delovanje vaše naprave. Defragmentacija vaše datoteke fizično organizira v najmanjše število drobcev, kar izboljša delovanje.</string>
-     <string name="power_acceleration_tip_high"><Data>Vaš pomnilnik je &lt;font color=#ff0000 >močno&lt;/font> razdrobljen. Težavo lahko reši defragmentacija.</Data></string>
-     <string name="powerful_acceleration_tip_middle"><Data>Vaša shramba je &lt;font color=#ff0000 >malce&lt;/font> fragmentirana. Defragmentacija lahko reši težavo.</Data></string>
+     <string name="powerful_acceleration_tip_high"><Data>Vaš pomnilnik je &lt;font color=#ff0000 >močno&lt;/font> razdrobljen. Težavo lahko reši defragmentacija.</Data></string>
+     <string name="powerful_acceleration_tip_middle"><Data>Vaš pomnilnik je &lt;font color=#ff0000 >malce&lt;/font> razdrobljen. Težavo lahko reši defragmentacija.</Data></string>
      <string name="powerful_acceleration_toast">"Defragmentacija bo izvedena, ko naprave ne uporabljate"</string>
      <string name="pref_about_privacy_title">Pravila o Zasebnosti</string>
      <string name="pref_category_title_auto_clean_config_settings">Samodejno čiščenje</string>

@@ -518,11 +518,15 @@
         <item>Onemogočeno</item>
         <item>Filtrirano</item>
         <item>Omogočeno</item>
+        <item>Glave filtrirane</item>
+        <item>Medijski paketi filtrirani</item>
      </string-array>
      <string-array name="bt_hci_snoop_log_values">
         <item>onemogočeno</item>
         <item>filtrirano</item>
         <item>polno</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
      </string-array>
      <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -948,6 +952,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+        <item>ICCID</item>
      </string-array>
      <string-array name="ncc_locales">
         <item>TW</item>
@@ -1757,6 +1762,7 @@
         <item>3</item>
         <item>2</item>
         <item>1</item>
+        <item>4</item>
         <item>0</item>
      </string-array>
      <string-array name="wifi_ttls_phase2_entries">

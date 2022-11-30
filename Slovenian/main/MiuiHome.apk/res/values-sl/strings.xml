@@ -991,6 +991,8 @@ Izboljšana varnost."</string>
      <string name="title_select_shortcut">Izberi bližnjico</string>
      <string name="toast_drag_to_assistant_reject">Inicializacija os. asistenta…</string>
      <string name="toast_screen_icons_misplaced">Obnovljeno iz drugih virov, nekatere ikone se lahko izgubijo</string>
+     <string name="toast_split_app_unsupported">"Ta aplikacija ne podpira razdeljenega zaslona"</string>
+     <string name="toast_split_select_app">Tapnite aplikacijo za uporabo razdeljenega zaslona</string>
      <string name="today">Danes</string>
      <string name="toggle_select_title">Izberi bližnjice</string>
      <string name="toggle_title">Bližnjice</string>

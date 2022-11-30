@@ -1473,6 +1473,7 @@ zgledali večji na fotografijah"</string>
      <string name="module_name_super_moon">Super mesec</string>
      <string name="module_name_video">Video</string>
      <string name="module_name_vlog">VLOG</string>
+     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videoposnetki so lahko dolgi do %2d sekund</string>
      <string name="moiton_detection_tip">xxxmd poteka</string>
      <string name="moiton_detection_video_electric_quantity_tip">Napolnite svojo napravo, da boste lahko uporabljali to storitev</string>
      <string name="moiton_detection_video_temperature_stop_tip">Vaša naprava je pregreta. Snemanje se bo ustavilo čez %d sekund.</string>
